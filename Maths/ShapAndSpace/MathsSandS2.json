@@ -1,0 +1,236 @@
+
+[
+    {
+        "id": 0,
+        "category": "Shape and Space",
+        "description": "Strand units: Spatial awareness, 2-D shapes, 3-D shapes, Symmetry and Angles",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Lesson: Discovering Spheres",
+                            "topicContent": "Introduce spheres as round, ball-like shapes.Compare spheres with other 3-D shapes like cubes and cylinders.Discuss where spheres can be found in the environment. Explore creating prints using the surface of spheres."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Lesson: Unveiling Cones",
+                            "topicContent": "Introduce cones and describe their attributes. Compare cones with other 3-D shapes like cylinders and spheres.Discuss where cones can be found in the environment. Investigate making prints with cone surfaces."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Lesson: Exploring Pyramids",
+                            "topicContent": "Introduce pyramids as 3-D shapes with triangular sides meeting at a point.Discuss the different types of pyramids, like triangular and square-based.Compare pyramids with other 3-D shapes like cubes and cylinders. Identify and create pyramid shapes in the environment."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Lesson: Quartering Shapes",
+                            "topicContent": "Explore dividing shapes into quarters.Discuss the relationship between halves and quarters. Cut shapes into equal quarters and discuss the resulting parts"
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Lesson: Creating Symmetrical Art",
+                            "topicContent": "Introduce line symmetry and its presence in shapes and objects. Fold shapes and paintings to demonstrate symmetry.Create symmetrical pictures using various materials."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Lesson: Investigating Angles",
+                            "topicContent": "Explore angles in the environment, like door handles and wheels. Make full, half, and quarter turns in the yard or hall. Discuss angles as corners, measure right angles, and relate them to turns."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Lesson: Exploring Cuboids",
+                            "topicContent": "Introduce cuboids as rectangular box-like shapes.Describe the attributes of cuboids: length, width, and height.Compare cuboids with other 3-D shapes like cubes and cylinders.Investigate the use of cuboids in the environment, like packaging and buildings."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Lesson: Discovering Cylinders",
+                            "topicContent": "Introduce cylinders as shapes with circular bases and curved sides. Describe the attributes of cylinders: base, height, and curved surface.Compare cylinders with other 3-D shapes like cones and spheres. Discuss where cylinders can be found in the environment, like cans and pipes."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Lesson: Exploring Pyramids in Architecture",
+                            "topicContent": "Focus on triangular-based pyramids and their use in architecture.Explore famous pyramid structures like the Pyramids of Giza. Discuss the significance of pyramids in different cultures and time periods. Allow students to create their own pyramid structures using various materials."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Lesson: Pattern Making with Shapes",
+                            "topicContent": "Combine shapes to form new patterns and arrangements.Express creativity by making pictures and mosaics with shapes."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Lesson: Shapes in Our World Scavenger Hunt",
+                            "topicContent": "Conduct a classroom or school-wide scavenger hunt.Provide students with a list of 2-D and 3-D shapes to find in their surroundings. Students identify and record examples of shapes they discover."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Lesson: Building with Shapes",
+                            "topicContent": "Provide students with shape blocks, connectors, or other building materials.  Encourage them to construct structures using a combination of shapes.Discuss the stability and design of their creations."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Lesson: Shapes in Nature",
+                            "topicContent": "Take a nature walk and identify shapes in the natural environment.Look for rock formations, leaves, and other naturally occurring shapes.Discuss the shapes' attributes and how they contribute to the environment."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Lesson: Shape Collages",
+                            "topicContent": "Provide students with magazines, newspapers, and colored paper. Have them cut out shapes and create collages using the shapes.Discuss the different ways shapes can be combined to create art.."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Lesson: Sorting and Classifying Shapes",
+                            "topicContent": "Provide a variety of 2-D and 3-D shapes to students. In small groups, have students sort and classify the shapes based on attributes.   Discuss the criteria used for sorting and present findings to the class."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Lesson: Patterns with Shapes",
+                            "topicContent": "Create patterns and designs using different 2-D shapes.Explore repetitive arrangements with shapes like squares, triangles, and circles. Discuss the concept of symmetry in patterns.Use shapes to make visually appealing designs."
+                    
+                }
+               
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description":  "Put your Strand of Shape knowledge to the test.",
+               "questions": [
+                   
+                   {
+                      "id": 0,
+                      "content": "What shape is described as round and ball-like?",
+                      "correctIndex": 1,
+                      "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
+                    },
+                    {
+                      "id": 1,
+                      "content": "Which 3-D shape has triangular sides meeting at a point?",
+                      "correctIndex": 2,
+                      "answers": ["Cube", "Cylinder", "Pyramid", "Sphere"]
+                    },
+                    {
+                      "id": 2,
+                      "content": "What term is used to describe dividing shapes into four equal parts?",
+                      "correctIndex": 2,
+                      "answers": ["Halves", "Thirds", "Quarters", "Eighths"]
+                    },
+                    {
+                      "id": 3,
+                      "content": "What type of symmetry is demonstrated when a shape can be folded along a line to match both sides?",
+                      "correctIndex": 0,
+                      "answers": ["Line symmetry", "Radial symmetry", "Asymmetry", "Rotational symmetry"]
+                    },
+                    {
+                      "id": 4,
+                      "content": "Which 3-D shape has one circular base and one curved surface?",
+                      "correctIndex": 0,
+                      "answers": ["Cone", "Cylinder", "Pyramid", "Sphere"]
+                    },
+                    {
+                      "id": 5,
+                      "content": "What term is used to describe the corner where two lines meet?",
+                      "correctIndex": 3,
+                      "answers": ["Side", "Curve", "Angle", "Vertex"]
+                    },
+                    {
+                      "id": 6,
+                      "content": "What shape has three sides and three corners?",
+                      "correctIndex": 0,
+                      "answers": ["Triangle", "Circle", "Rectangle", "Square"]
+                    },
+                    {
+                      "id": 7,
+                      "content": "Which 3-D shape has a rectangular base and four triangular sides meeting at a point?",
+                      "correctIndex": 2,
+                      "answers": ["Cube", "Cone", "Pyramid", "Cylinder"]
+                    },
+                    {
+                      "id": 8,
+                      "content": "What type of angle is equal to 90 degrees?",
+                      "correctIndex": 2,
+                      "answers": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"]
+                    },
+                    {
+                      "id": 9,
+                      "content": "What shape is described as a round, ball-like shape?",
+                      "correctIndex": 1,
+                      "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
+                    },
+                    {
+                      "id": 10,
+                      "content": "What shape has four sides and four corners?",
+                      "correctIndex": 3,
+                      "answers": ["Triangle", "Circle", "Rectangle", "Cylinder"]
+                    },
+                    {
+                      "id": 11,
+                      "content": "What type of symmetry is demonstrated when a shape can be rotated and still match its original form?",
+                      "correctIndex": 3,
+                      "answers": ["Line symmetry", "Radial symmetry", "Asymmetry", "Rotational symmetry"]
+                    },
+                    {
+                      "id": 12,
+                      "content": "Which 3-D shape has a circular bases and curved sides?",
+                      "correctIndex": 1,
+                      "answers": ["Cone", "Cylinder", "Pyramid", "Sphere"]
+                    },
+                    {
+                      "id": 13,
+                      "content": "What term is used to describe dividing a shape into two equal parts?",
+                      "correctIndex": 0,
+                      "answers": ["Halves", "Thirds", "Quarters", "Eighths"]
+                    },
+                    {
+                      "id": 14,
+                      "content": "What shape has three sides and three corners?",
+                      "correctIndex": 0,
+                      "answers": ["Triangle", "Circle", "Rectangle", "Square"]
+                    },
+                    {
+                      "id": 15,
+                      "content": "Which 3-D shape has a square base and four triangular sides meeting at a point?",
+                      "correctIndex": 1,
+                      "answers": ["Cube", "Pyramid", "Cone", "Cylinder"]
+                    },
+                    {
+                      "id": 16,
+                      "content": "What term is used to describe the meeting point of two sides of a shape?",
+                      "correctIndex": 3,
+                      "answers": ["Side", "Curve", "Angle", "Vertex"]
+                    },
+                    {
+                      "id": 17,
+                      "content": "What type of angle is greater than 90 degrees?",
+                      "correctIndex": 1,
+                      "answers": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"]
+                    },
+                    {
+                      "id": 19,
+                      "content": "What shape is described as a three-dimensional shape with triangular sides meeting at a point?",
+                      "correctIndex": 2,
+                      "answers": ["Cube", "Cylinder", "Pyramid", "Sphere"]
+                    },
+                    {
+                      "id": 20,
+                      "content": "What shape has four equal sides and four corners?",
+                      "correctIndex": 3,
+                      "answers": ["Triangle", "Circle", "Rectangle", "Square"]
+                    }
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+               ]
+           }
+    }
+
+]
+

@@ -1,0 +1,575 @@
+
+[
+    {
+        "id": 3,
+        "category": "Measure",
+        "description": "Strand units: Length, Area, Weight,Capacity, Time, Money",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Exploring Length with Instruments: Rulers and Tape Measures",
+                            "topicContent": "Introduce students to various instruments like rulers and tape measures for measuring lengths. Engage them in measuring everyday objects within the classroom and school premises."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Estimating Lengths: Developing a Sense of Measurement",
+                            "topicContent": "Teach students to estimate the lengths of objects before measuring them.Discuss strategies for making accurate estimations and how they compare to actual measurements."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Recording Lengths: Selecting Units and Instruments",
+                            "topicContent": "Guide students in selecting appropriate units (cm, m, km) and instruments for different measuring tasks. Help them accurately record measurements in metric units."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Renaming Units of Length: Decimal and Fraction Forms",
+                            "topicContent": "Explain the concept of renaming units using decimal and fraction forms. Show examples of converting between centimeters, meters, and kilometers."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Perimeter of 2-D Shapes: Measuring and Understanding Perimeter",
+                            "topicContent": "Introduce the concept of perimeter and its relevance to 2-dimensional shapes. Teach students how to measure the perimeter of regular shapes like squares and rectangles."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Calculating Perimeter: Applying Perimeter to Real-World Situations",
+                            "topicContent": "Present scenarios involving fencing or outlining areas and ask students to calculate the perimeter.Encourage them to apply their understanding of perimeter to practical situations."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Length Operations: Adding and Subtracting Lengths",
+                            "topicContent": "Provide practice problems that involve adding and subtracting lengths. Guide students in solving these problems using appropriate units and instruments"
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Length Multiplication: Scaling and Measuring with Multiplication",
+                            "topicContent": "Introduce the concept of using multiplication to scale lengths. Show how multiplication can be used to calculate the length of multiple identical segments."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Length Division: Dividing Lengths into Equal Segments",
+                            "topicContent": "Explain the concept of dividing lengths into equal segments.Engage students in activities where they divide given lengths into specified parts."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Real-Life Length Problems: Applying Measurement Skills",
+                            "topicContent": "Provide a set of real-life scenarios that require students to use their measurement skills. Encourage them to solve practical problems involving addition, subtraction, multiplication, and simple division of units of length."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Estimating Weight: Developing a Sense of Weight Comparison",
+                            "topicContent": "Introduce the concept of estimating weight by comparing objects. Engage students in activities where they estimate whether objects are lighter or heavier than a reference weight."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Measuring Weight with Appropriate Units: Kilograms and Grams:",
+                            "topicContent": "Teach students to use appropriate metric units (kg and g) for measuring weight. Provide objects of different weights for students to measure using scales."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Exploring Weight and Size Relationship: Discovering Variability",
+                            "topicContent": "Present a variety of objects that demonstrate the lack of a constant relationship between weight and size. Encourage students to handle and compare objects to better understand this concept."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Comparing Objects for Weight Estimation: Hands-On Comparison",
+                            "topicContent": "Provide sets of objects for students to compare in terms of weight.  Ask them to arrange objects from lightest to heaviest."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Recording Weight: Accurate Measurements and Metric Units",
+                            "topicContent": "Guide students in accurately recording the weights of objects in kilograms and grams.Emphasize the importance of using appropriate units for different weight ranges."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Weight Operations: Adding and Subtracting Weight",
+                            "topicContent": "Present scenarios that involve adding and subtracting weights. Help students solve problems that require them to calculate total weights using kilograms and grams."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Weight Conversion: Changing Units within the Metric System",
+                            "topicContent": "Introduce the concept of converting between kilograms and grams.Teach students how to perform unit conversions for practical purposes."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Practical Weight Problems: Applying Measurement Skills to Real Life",
+                            "topicContent": "Provide real-life situations where students need to apply their knowledge of weight measurement. Encourage them to solve problems involving addition, subtraction, and conversion of units of weight."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Comparing and Ordering Objects by Weight: Developing Weight Sense",
+                            "topicContent": "Engage students in activities that require them to compare and order objects by weight.Encourage discussions about the factors affecting the perception of weight."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Hands-On Weight Challenges: Exploring Weight and Balance",
+                            "topicContent": "Set up hands-on challenges involving balance and weight distribution. Guide students to experiment and find equilibrium points using different objects."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Introduction to Capacity and Volume: Exploring Common Containers",
+                            "topicContent": "Introduce the concept of capacity and volume by examining common containers. Provide a variety of containers such as cups, jugs, and bottles for students to explore."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Estimating and Comparing Capacities: Developing a Sense of Volume",
+                            "topicContent": "Engage students in activities where they estimate and compare the capacities of different containers. Encourage discussions about which containers might hold more or less."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Measuring Capacity with Metric Units: Liters and Milliliters",
+                            "topicContent": "Teach students to use appropriate metric units (liters and milliliters) for measuring capacity. Provide measuring containers of various sizes and guide students in measuring liquids."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Practical Capacity Measurements: Using Measuring Containers",
+                            "topicContent": "Provide measuring containers with labeled capacities (e.g., 250 ml, 500 ml) for students to use. Guide them in accurately measuring liquids using these containers."
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Exploring Container Shapes and Capacities: Tall, Low, Wide, and Narrow",
+                            "topicContent": "Present containers of different shapes and sizes to demonstrate how shape affects capacity. Help students understand that containers with the same volume may have different shapes."
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Recording Capacity Measurements: Units and Notation",
+                            "topicContent": "Teach students how to accurately record capacity measurements in liters and milliliters. Introduce the appropriate symbols and decimal point notation."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Adding and Subtracting Capacities: Practical Problem Solving",
+                            "topicContent": "Present practical scenarios where students need to add or subtract capacities. Guide them in solving problems involving the addition and subtraction of liters and milliliters."
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Capacity Conversion: Converting Liters to Milliliters",
+                            "topicContent": "Introduce the concept of converting between liters and milliliters. Provide examples for students to practice capacity conversions."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Applying Capacity Skills to Real-Life Situations: Practical Challenges",
+                            "topicContent": "Pose real-life challenges that require students to apply their capacity measurement skills.Encourage them to solve problems related to mixing liquids or distributing quantities."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Hands-On Capacity Investigations: Exploration and Reflection",
+                            "topicContent": "Set up hands-on investigations where students explore different containers and liquids. Guide them to make observations about capacity, shape, and their relationships."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Developing a Sense of Time Passing: Exploring Events and Sequences",
+                            "topicContent": "Engage students in discussions about the passing of time, from seconds to years.Help them sequence events associated with different durations, such as minutes, hours, days, and weeks."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Reading Time in One-Minute Intervals: Precision on Analog and Digital Clocks",
+                            "topicContent": "Introduce reading time on both analog and digital clocks in one-minute intervals. Provide practice opportunities for students to tell time accurately to the minute."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Converting Between Analog and Digital Time: Relating Different Representations",
+                            "topicContent": "Teach students to express digital time as analog time. Engage in activities where students match analog and digital representations."
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Interpreting Simple Timetables: Understanding Scheduled Events",
+                            "topicContent": "Present students with simple timetables that show scheduled events.Guide them in reading and interpreting the time and duration of various activities."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Expressing Time in Hours and Minutes: Renaming Minutes and Hours",
+                            "topicContent": "Teach students to rename minutes as hours and hours as minutes.Provide examples for them to practice conversions between hours and minutes."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Adding and Subtracting Time: Practical Problem Solving",
+                            "topicContent": "Introduce practical problems that involve addition and subtraction of hours and minutes.Guide students to solve time-related scenarios and check their answers."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Solving Time and Date Problems: Applying Time Concepts",
+                            "topicContent": "Pose practical problems that involve both time and dates.Encourage students to apply their time-reading skills to solve real-life scenarios."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "Expressing Weeks as Days and Vice Versa: Understanding Calendar Relationships",
+                            "topicContent": "Teach students how to express weeks as days and vice versa.Provide opportunities for them to work with calendars and explore date relationships."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "Personal and Significant Dates: Recording and Reflecting",
+                            "topicContent": "Guide students to collect and record significant personal and school-related dates.Encourage them to reflect on the importance of various dates in their lives."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Hands-On Time Investigations: Measuring and Applying Time Concepts",
+                            "topicContent": "Set up hands-on investigations where students measure time intervals using clocks.Engage them in activities that require time calculations and practical application."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Understanding Euro and Cent Conversion: Recognizing and Recording",
+                            "topicContent": "Introduce the concept of euros and cents in the currency.Teach students how to rename amounts of money between euros and cents and record them using the € symbol and decimal point."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Adding and Subtracting Money: One-Step Problem Solving",
+                            "topicContent": "Guide students in solving one-step problems involving the addition and subtraction of money.Provide practical scenarios where they need to calculate and perform simple operations with euro amounts."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Money Multiplication: Finding Total Costs",
+                            "topicContent": "Introduce money multiplication by extending the concept of repeated addition.Present scenarios where students need to calculate total costs of multiple items."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Money Division: Sharing Equally and Splitting Costs",
+                            "topicContent": "Teach students how to perform simple division involving money. Provide examples where they need to share money equally or split costs among a group."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Two-Step Money Problems: Sequencing and Problem Solving",
+                            "topicContent": "Present two-step problems that require multiple operations with money. Guide students in breaking down the problem into manageable steps and solving systematically."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Practical Money Applications: Real-Life Problem Solving",
+                            "topicContent": "Engage students in real-life scenarios involving money transactions. Encourage them to calculate expenses, change, and savings in various situations."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Comparing Money Amounts: Identifying Savings and Costs",
+                            "topicContent": "Provide opportunities for students to compare money amounts and determine which option is more cost-effective. Help them analyze different purchasing choices based on budgeting."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Budgeting and Shopping Scenarios: Applying Money Skills",
+                            "topicContent": "Present students with budgeting scenarios for shopping. Guide them in making informed decisions about how to spend their money wisely."
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Solving Word Problems with Money: Critical Thinking and Calculation",
+                            "topicContent": "Pose word problems involving money that require students to think critically and apply their mathematical skills. Encourage them to devise strategies for solving complex scenarios."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Money Challenges and Puzzles: Integrating Money Skills",
+                            "topicContent": "Offer students challenging money-related puzzles and games. These activities will reinforce their understanding of money operations and encourage strategic thinking."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand of Measure knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "You have a rectangular garden with a length of 8 meters and a width of 5 meters. What is the perimeter of the garden?",
+                "correctIndex": 2,
+                "answers": ["13 meters", "40 meters", "26 meters", "35 meters"]
+              },
+              {
+                "id": 1,
+                "content": "If a book weighs 850 grams and a pencil weighs 12 grams, what is the total weight of the book and the pencil?",
+                "correctIndex": 0,
+                "answers": ["862 grams", "8620 grams", "83 grams", "902 grams"]
+              },
+              {
+                "id": 2,
+                "content": "A container holds 1.5 liters of water. How many milliliters is that?",
+                "correctIndex": 2,
+                "answers": ["150 milliliters", "15 milliliters", "1,500 milliliters", "1,5000 milliliters"]
+              },
+              {
+                "id": 3,
+                "content": "If a race starts at 2:15 PM and ends at 5:45 PM, how long does the race last?",
+                "correctIndex": 0,
+                "answers": ["3 hours and 30 minutes", "5 hours and 15 minutes", "3 hours and 45 minutes", "3 hours and 15 minutes"]
+              },
+              {
+                "id": 4,
+                "content": "You have €18.50 and you buy a toy for €7.25. How much money do you have left?",
+                "correctIndex": 2,
+                "answers": ["€25.75", "€25.25", "€11.25", "€13.75"]
+              },
+              {
+                "id": 5,
+                "content": "The length of a rectangle is 12 centimeters and the width is 8 centimeters. What is the area of the rectangle?",
+                "correctIndex": 1,
+                "answers": ["20 square centimeters", "96 square centimeters", "104 square centimeters", "48 square centimeters"]
+              },
+              {
+                "id": 6,
+                "content": "Which object weighs the most: 2.5 kilograms, 250 grams, 0.31 kilograms, or 3000 grams?",
+                "correctIndex": 2,
+                "answers": ["2.5 kilograms", "250 grams", "0.31 kilograms", "3000 grams"]
+              },
+              {
+                "id": 7,
+                "content": "A jug can hold 750 milliliters of juice. How many liters is that?",
+                "correctIndex": 0,
+                "answers": ["0.75 liters", "75 liters", "7.5 liters", "7500 liters"]
+              },
+              {
+                "id": 8,
+                "content": "If a movie starts at 4:30 PM and lasts for 1 hour and 45 minutes, at what time does the movie end?",
+                "correctIndex": 2,
+                "answers": ["5:15 PM", "6:10 PM", "6:15 AM", "5:45 PM"]
+              },
+              {
+                "id": 9,
+                "content": "You have €15 in coins: 5 coins of €2 each and 3 coins of €1 each. How much worth of   50 cents do you have?",
+                "correctIndex": 1,
+                "answers": ["€1", "€2", "€3", "€4"]
+              },
+              
+              {
+                "id": 10,
+                "content": "If you have a ribbon that is 85 centimeters long and you cut it into three equal pieces, how long is each piece?",
+                "correctIndex": 2,
+                "answers": ["28 centimeters", "32 centimeters", "28.3 centimeters", "25 centimeters"]
+              },
+              {
+                "id": 11,
+                "content": "A box weighs 2.75 kilograms. How many grams does it weigh?",
+                "correctIndex": 0,
+                "answers": ["2750 grams", "27.5 grams", "2.75 grams", "275 grams"]
+              },
+              {
+                "id": 12,
+                "content": "Which container can hold the most liquid: a cup with a capacity of 250 milliliters, a jug with a capacity of 1.5 liters, or a bottle with a capacity of 750 milliliters?",
+                "correctIndex": 1,
+                "answers": ["Cup with 250 milliliters", "Jug with 1.5 liters", "Bottle with 750 milliliters", "They can all hold the same amount"]
+              },
+              {
+                "id": 13,
+                "content": "If a football game starts at 3:30 PM and ends at 5:15 PM, how long does the game last?",
+                "correctIndex": 0,
+                "answers": ["1 hour and 45 minutes", "1 hour and 30 minutes", "1 hour and 15 minutes", "1 hour and 20 minutes"]
+              },
+              {
+                "id": 14,
+                "content": "You have €50 and you buy a toy for €18.75 and a book for €12.50. How much money do you have left?",
+                "correctIndex": 3,
+                "answers": ["€18.25", "€44.25", "€41.25", "€18.75"]
+              },
+              {
+                "id": 15,
+                "content": "The length of a rectangular swimming pool is 10 meters and the width is 6 meters. What is the perimeter of the pool?",
+                "correctIndex": 1,
+                "answers": ["60 meters", "32 meters", "26 meters", "50 meters"]
+              },
+              {
+                "id": 16,
+                "content": "Which object weighs the least: 4.2 kilograms, 4000 grams, 4 kilograms, or 0.4 kilograms?",
+                "correctIndex": 3,
+                "answers": ["4.2 kilograms", "4000 grams", "4 kilograms", "0.4 kilograms"]
+              },
+              {
+                "id": 17,
+                "content": "A bottle can hold 500 milliliters of water. How many liters is that?",
+                "correctIndex": 1,
+                "answers": ["5 liters", "0.5 liters", "0.05 liters", "50 liters"]
+              },
+              {
+                "id": 18,
+                "content": "If a movie starts at 6:45 PM and lasts for 2 hours and 20 minutes, at what time does the movie end?",
+                "correctIndex": 1,
+                "answers": ["8:20 PM", "9:05 PM", "9:20 PM", "8:45 PM"]
+              },
+              {
+                "id": 19,
+                "content": "You had €25 in coin: You spent 8 coins of €1 each and 3 coins of €2 each. How much money do you have left?",
+                "correctIndex": 2,
+                "answers": ["€28", "€22", "€11", "€20"]
+              },
+              
+              {
+                 "id": 20,
+                 "content": "If a rectangle has a length of 15 centimeters and a width of 8 centimeters, what is its area?",
+                 "correctIndex": 0,
+                 "answers": ["120 square centimeters", "56 square centimeters", "23 square centimeters", "92 square centimeters"]
+               },
+               {
+                 "id": 21,
+                 "content": "A bag of rice weighs 3.2 kilograms. How many grams is that?",
+                 "correctIndex": 1,
+                 "answers": ["320 grams", "3200 grams", "3.2 grams", "32 grams"]
+               },
+               {
+                 "id": 22,
+                 "content": "Which container can hold the least liquid: a cup with a capacity of 150 milliliters, a jug with a capacity of 2 liters, or a bottle with a capacity of 500 milliliters?",
+                 "correctIndex": 0,
+                 "answers": ["Cup with 150 milliliters", "Jug with 2 liters", "Bottle with 500 milliliters", "They can all hold the same amount"]
+               },
+               {
+                 "id": 23,
+                 "content": "If a TV show starts at 7:00 PM and ends at 9:30 PM, how long does the show last?",
+                 "correctIndex": 2,
+                 "answers": ["1 hour and 30 minutes", "2 hours and 15 minutes", "2 hours and 30 minutes", "2 hours and 45 minutes"]
+               },
+               {
+                 "id": 24,
+                 "content": "You have €35 and you buy a toy for €21.50 and a snack for €3.75. How much money do you have left?",
+                 "correctIndex": 1,
+                 "answers": ["€10.75", "€9.75", "€12.75", "€8.75"]
+               },
+               {
+                 "id": 25,
+                 "content": "The perimeter of a square garden is 24 meters. What is the length of one side of the square?",
+                 "correctIndex": 2,
+                 "answers": ["8 meters", "12 meters", "6 meters", "6.5 meters"]
+               },
+               {
+                 "id": 26,
+                 "content": "Which object weighs the most: 3.5 kilograms, 3500 grams, 3.6 kilograms, or 3610 grams?",
+                 "correctIndex": 3,
+                 "answers": ["3.5 kilograms", "3500 grams", "3.6 kilograms", "3610 grams"]
+               },
+               {
+                 "id": 27,
+                 "content": "A bottle can hold 750 milliliters of juice. How many liters is that?",
+                 "correctIndex": 0,
+                 "answers": ["0.75 liters", "7.5 liters", "75 liters", "7500 liters"]
+               },
+               {
+                 "id": 28,
+                 "content": "If a play starts at 2:15 PM and lasts for 1 hour and 45 minutes, at what time does the play end?",
+                 "correctIndex": 2,
+                 "answers": ["3:15 PM", "4:00 AM", "4:00 PM", "4:15 PM"]
+               },
+               {
+                 "id": 29,
+                 "content": "You have €40 in coins:You spend 15 coins of €1 each and 5 coins of €2 each. How much money do you have now?",
+                 "correctIndex": 3,
+                 "answers": ["€50", "€35", "€45", "€15"]
+               },
+               {
+                  "id": 30,
+                  "content": "You have a pencil that is 18 centimeters long and another pencil that is 14 centimeters long. How much longer is the first pencil?",
+                  "correctIndex": 2,
+                  "answers": ["40 centimeters", "32 centimeters", "400 millimeters", "32 millimeters"]
+                },
+                {
+                  "id": 31,
+                  "content": "A bag of rice weighs 1.5 kilograms and a bag of flour weighs 750 grams. How much heavier is the bag of rice?",
+                  "correctIndex": 0,
+                  "answers": ["750 grams", "750 milligrams", "750 kilograms", "1.5 kilograms"]
+                },
+                {
+                  "id": 32,
+                  "content": "You have a jug that can hold 2.5 liters of water and a bottle that can hold 1.8 liters of water. How much more water can the jug hold?",
+                  "correctIndex": 0,
+                  "answers": ["0.7 liters", "7 liters", "70 milliliters", "1.7 liters"]
+                },
+                {
+                  "id": 33,
+                  "content": "If a movie starts at 6:30 PM and lasts for 2 hours and 15 minutes, at what time does the movie end?",
+                  "correctIndex": 3,
+                  "answers": ["8:15 PM", "8:45 AM", "8:30 PM", "8:45 PM"]
+                },
+                {
+                  "id": 34,
+                  "content": "You buy a toy for €12.50 and a book for €8.75. How much money have you spent in total?",
+                  "correctIndex": 2,
+                  "answers": ["€1.25", "€21.20", "€21.25", "€21.15"]
+                },
+                {
+                  "id": 35,
+                  "content": "A rectangle has a length of 16 centimeters and a width of 7 centimeters. What is its perimeter?",
+                  "correctIndex": 1,
+                  "answers": ["112 centimeters", "46 centimeters", "23 centimeters", "30 centimeters"]
+                },
+                {
+                  "id": 36,
+                  "content": "You want to buy a bicycle that costs €180. You have saved €90 so far. How much more money do you need to save?",
+                  "correctIndex": 3,
+                  "answers": ["€80", "€70", "€45", "€90"]
+                },
+                {
+                  "id": 37,
+                  "content": "A car travels 320 kilometers in 4 hours. What is its average speed in kilometers per hour?",
+                  "correctIndex": 2,
+                  "answers": ["120 kilometers per hour", "70 kilometers per hour", "80 kilometers per hour", "8 kilometers per hour"]
+                },
+                {
+                  "id": 38,
+                  "content": "You have €50 in coins:You spend 20 coins of €1 each and 10 coins of €2 each. How much money do you have now?",
+                  "correctIndex": 2,
+                  "answers": ["€30", "€25", "€10", "€70"]
+                },
+                {
+                  "id": 39,
+                  "content": "A box can hold 4 liters of water and a bucket can hold 2.5 liters of water. How much more water can the box hold?",
+                  "correctIndex": 0,
+                  "answers": ["1.5 liters", "15 liters", "1.550 liters", "15 milliliters"]
+                },
+                {
+                  "id": 40,
+                  "content": "If a race starts at 10:00 AM and lasts for 1 hour and 30 minutes, at what time does the race end?",
+                  "correctIndex": 3,
+                  "answers": ["11:30 PM", "11:00 AM", "11:15 AM", "11:30 AM"]
+                },
+                {
+                  "id": 41,
+                  "content": "You buy a shirt for €24.95 and a pair of shoes for €45.50. How much money have you spent in total?",
+                  "correctIndex": 1,
+                  "answers": ["€70.40", "€70.45", "€71.45", "€72.45"]
+                },
+                {
+                  "id": 42,
+                  "content": "A triangle has a base of 12 centimeters and a height of 8 centimeters. What is its area?",
+                  "correctIndex": 3,
+                  "answers": ["80 square centimeters", "48 square centimeters", "40 square centimeters", "48 square centimeters"]
+                },
+                {
+                  "id": 43,
+                  "content": "You want to buy a toy that costs €15. You have saved €7.50 so far. How much more money do you need to save?",
+                  "correctIndex": 2,
+                  "answers": ["€8.50", "€7.70", "€7.50", "€8.50"]
+                },
+                {
+                  "id": 44,
+                  "content": "A train travels 280 kilometers in 3.5 hours. What is its average speed in kilometers per hour?",
+                  "correctIndex": 0,
+                  "answers": ["80 kilometers per hour", "40 kilometers per hour", "85 kilometers per hour", "40 kilometers per hour"]
+                },
+                {
+                  "id": 45,
+                  "content": "You have €30 in coins:You spend 10 coins of €1 each and 8 coins of €2 each. How much money do you have left?",
+                  "correctIndex": 2,
+                  "answers": ["€5", "€6", "€4", "€3"]
+                },
+          
+                {
+                  "id": 46,
+                  "content": "You buy a puzzle for €9.99 and a board game for €17.95. How much money have you spent in total?",
+                  "correctIndex": 0,
+                  "answers": ["€27.94", "€27.95", "€27.96", "€26.94"]
+                },
+                {
+                  "id": 47,
+                  "content": "An airplane travels 800 kilometers in 2 hours. What is its average speed in kilometers per hour?",
+                  "correctIndex": 3,
+                  "answers": ["401 kilometers per hour", "160 kilometers per hour", "400 kilometers per minute", "400 kilometers per hour"]
+                },
+                {
+                  "id": 48,
+                  "content": "You have €25 in coins:You spend 15 coins of €1 each and 5 coins of €2 each. How much money do you have?",
+                  "correctIndex": 2,
+                  "answers": ["€0.00", "€5", "€4", "€7"]
+                }
+              
+          ]
+      }
+       
+    }
+
+]

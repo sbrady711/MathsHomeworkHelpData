@@ -1,0 +1,708 @@
+[
+    {
+        "id": 2,
+        "category": "Algebra",
+        "description": "Strand units: Extending and using patterns",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Exploring Number Patterns on the Hundred Square",
+                            "topicContent": "Introduce the concept of number patterns.Engage students in counting and grouping on the hundred square in twos, threes, fours, and more."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Discovering Number Bonds through Grouping",
+                            "topicContent": "Teach students to recognize number bonds by grouping numbers.Show examples like 17 + 3, 27 + 3, and 37 + 3 to highlight the concept of number bonds."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Linking Multiplication Tables and Patterns",
+                            "topicContent": "Explore the links within and between multiplication tables. Help students identify patterns between tables, such as those between the 4 and 8 times tables."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Exploring and Describing Sequences of Objects",
+                            "topicContent": "Introduce the concept of sequences and patterns of objects or shapes. Show examples of whole-number sequences like 54, 44, 34 or 1, 3, 9, 27."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Using Patterns for Memorizing Number Facts: Pattern-Based Learning",
+                            "topicContent": "Show students how patterns can aid in memorizing number facts. Engage them in creating and recognizing patterns on the hundred square to reinforce number facts."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Translating Number Sentences into Word Problems: Using Frames",
+                            "topicContent": "Teach students to translate addition or subtraction number sentences with frames into word problems. Show examples like 3 + 7 = ■ and guide them to create word problems based on the frames."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Introduction to Frames for Unknown Numbers: Visualizing Missing Values",
+                            "topicContent": "Introduce the concept of using a frame to represent an unknown number. Illustrate examples like 3 + 5 = ■ and 2 + ■ = 6 to show the presence of the unknown."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Solving One-Step Number Sentences: Missing Numbers in Equations",
+                            "topicContent": "Guide students in solving one-step number sentences involving missing numbers. Provide examples like 400 – ■ = 350 and 810 + 23 = ■."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Applying Patterns to Real-World Situations: Real-Life Applications",
+                            "topicContent": "Help students apply pattern-based strategies to real-world scenarios. Present situations where patterns aid in solving practical problems."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Reviewing Patterns, Sequences, and Number Sentences: Mastery and Application",
+                            "topicContent": "Summarize the concepts of number patterns, sequences, translating sentences, and solving equations. Engage students in a variety of activities that reinforce these concepts and encourage their practical application."
+                            
+                        }                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand of Algebra knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "Complete the pattern: 3, 8, 13, ___, 23. What number should be in the blank?",
+                 "correctIndex": 2,
+                 "answers": ["15", "17", "18", "20"]
+               },
+               {
+                 "id": 1,
+                 "content": "What is the number bond for 45 + 15?",
+                 "correctIndex": 0,
+                 "answers": ["30 + 30", "40 + 15", "45 + 30", "40 + 10"]
+               },
+               {
+                 "id": 2,
+                 "content": "What comes after 24 when counting by fours?",
+                 "correctIndex": 3,
+                 "answers": ["25", "21", "29", "28"]
+               },
+               {
+                 "id": 3,
+                 "content": "How can multiplication tables help you identify patterns?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Multiplication tables have no patterns.",
+                   "Multiplication tables only involve adding numbers.",
+                   "Multiplication tables show repeated addition and patterns in products.",
+                   "Multiplication tables are only for memorization."
+                 ]
+               },
+               {
+                 "id": 4,
+                 "content": "What is the next number in the sequence: 10, 20, 30, 40, ___?",
+                 "correctIndex": 3,
+                 "answers": ["45", "52", "55", "50"]
+               },
+               {
+                 "id": 5,
+                 "content": "Translate the sentence: 18 - 9 = ■ into a word problem.",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Eighteen minus nine equals nine.",
+                   "There are eighteen flowers, and nine are picked. How many flowers are left?",
+                   "Nine subtracted from eight equals a missing number.",
+                   "There are eighteen books, and ten are read. How many books are left?"
+                 ]
+               },
+               {
+                 "id": 6,
+                 "content": "In the equation: 5 + ■ = 12, what number should be in the frame?",
+                 "correctIndex": 1,
+                 "answers": ["6", "7", "8", "10"]
+               },
+               {
+                 "id": 7,
+                 "content": "Solve the equation: 80 - ■ = 35.",
+                 "correctIndex": 0,
+                 "answers": ["45", "40", "50", "55"]
+               },
+               {
+                 "id": 8,
+                 "content": "How can you apply pattern-based strategies to practical situations?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "By recognizing patterns and using them to solve real-world problems.",
+                   "Pattern-based strategies are only for math class.",
+                   "Patterns have no use in practical situations.",
+                   "Pattern-based strategies are only for games."
+                 ]
+               },
+               {
+                 "id": 9,
+                 "content": "What comes next in the sequence: 6, 12, 24, 48, ___?",
+                 "correctIndex": 3,
+                 "answers": ["72", "60", "64", "96"]
+               },
+               {
+                 "id": 10,
+                 "content": "What comes after 67 when counting by threes?",
+                 "correctIndex": 0,
+                 "answers": ["70", "71", "72", "75"]
+               },
+               {
+                 "id": 11,
+                 "content": "What is the number bond for 58 + 12?",
+                 "correctIndex": 2,
+                 "answers": ["60 + 20", "50 + 15", "52 + 18", "60 + 10"]
+               },
+               {
+                 "id": 12,
+                 "content": "What is the pattern in the multiplication tables for the number 7?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Adding 6",
+                   "Doubling",
+                   "Adding 7",
+                   "Halving"
+                 ]
+               },
+               {
+                 "id": 13,
+                 "content": "What comes next in the sequence: 18, 24, 30, 36, ___?",
+                 "correctIndex": 3,
+                 "answers": ["40", "41", "45", "42"]
+               },
+               {
+                 "id": 14,
+                 "content": "How do patterns help you in memorizing number facts?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "By creating and recognizing patterns in multiplication tables.",
+                   "By noticing repeated addition and recognizing patterns.",
+                   "Patterns have no relation to memorization.",
+                   "Patterns are only for counting."
+                 ]
+               },
+               
+               {
+                  "id": 15,
+                  "content": "Complete the pattern: 3, 8, 13, ___, 23. What number should be in the blank?",
+                  "correctIndex": 2,
+                  "answers": ["15", "17", "18", "20"]
+                },
+                {
+                  "id": 16,
+                  "content": "What is the number bond for 45 + 15?",
+                  "correctIndex": 0,
+                  "answers": ["30 + 30", "41 + 15", "45 + 30", "90 + 10"]
+                },
+                {
+                  "id": 17,
+                  "content": "What comes after 24 when counting by fours?",
+                  "correctIndex": 3,
+                  "answers": ["25", "27", "29", "28"]
+                },
+                {
+                  "id": 18,
+                  "content": "How can multiplication tables help you identify patterns?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Multiplication tables have no patterns.",
+                    "Multiplication tables only involve adding numbers.",
+                    "Multiplication tables show repeated addition and patterns in products.",
+                    "Multiplication tables are only for memorization."
+                  ]
+                },
+                {
+                  "id": 19,
+                  "content": "What is the next number in the sequence: 10, 20, 30, 40, ___?",
+                  "correctIndex": 3,
+                  "answers": ["45", "50", "55", "50"]
+                },
+                {
+                  "id": 20,
+                  "content": "Translate the sentence: 18 - 7 = ■ into a word problem.",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Eighteen minus ntene equals nine.",
+                    "There are eighteen flowers, and seven are picked. How many flowers are left?",
+                    "Nine subtracted from eighteen equals a missing number.",
+                    "There are eighteen books, and nine are read. How many books are left?"
+                  ]
+                },
+                {
+                  "id": 21,
+                  "content": "In the equation: 7 + ■ = 11, what number should be in the frame?",
+                  "correctIndex": 2,
+                  "answers": ["6", "7", "4", "10"]
+                },
+                {
+                  "id": 22,
+                  "content": "Solve the equation: 80 - ■ = 30.",
+                  "correctIndex": 2,
+                  "answers": ["45", "40", "50", "55"]
+                },
+                {
+                  "id": 23,
+                  "content": "How can you apply pattern-based strategies to practical situations?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "By recognizing patterns and using them to solve real-world problems.",
+                    "Pattern-based strategies are only for math class.",
+                    "Patterns have no use in practical situations.",
+                    "Pattern-based strategies are only for games."
+                  ]
+                },
+                {
+                  "id": 24,
+                  "content": "What comes next in the sequence: 7, 14, 28, 56, ___?",
+                  "correctIndex": 1,
+                  "answers": ["72", "112", "64", "96"]
+                },
+                {
+                  "id": 25,
+                  "content": "What comes after 67 when counting by threes?",
+                  "correctIndex": 0,
+                  "answers": ["70", "71", "72", "75"]
+                },
+                {
+                  "id": 26,
+                  "content": "What is the number bond for 58 + 12?",
+                  "correctIndex": 2,
+                  "answers": ["60 + 80", "51 + 15", "58 + 12", "90 + 10"]
+                },
+                {
+                  "id": 27,
+                  "content": "What is the pattern in the multiplication tables for the number 11?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Adding 6",
+                    "Doubling",
+                    "Adding 11",
+                    "Halving"
+                  ]
+                },
+                {
+                  "id": 28,
+                  "content": "What comes next in the sequence: 18, 24, 30, 36, ___?",
+                  "correctIndex": 1,
+                  "answers": ["40", "42", "45", "41"]
+                },
+                {
+                  "id": 29,
+                  "content": "How do patterns help you in memorizing number facts?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "By creating and recognizing patterns in multiplication tables.",
+                    "By noticing repeated addition and recognizing patterns.",
+                    "Patterns have no relation to memorization.",
+                    "Patterns are only for counting."
+                  ]
+                },
+                {
+                  "id": 30,
+                  "content": "Count in fives: 5, 10, ___, 20. What is the missing number?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "8",
+                    "15",
+                    "12",
+                    "18"
+                  ]
+                },
+                {
+                  "id": 31,
+                  "content": "What is the number bond for 42 + 8?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "40 + 10",
+                    "42 + 8",
+                    "50 + 2",
+                    "30 + 20"
+                  ]
+                },
+                {
+                  "id": 32,
+                  "content": "What is the pattern in the multiplication tables for the number 4?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Adding 3",
+                    "Doubling",
+                    "Adding 4",
+                    "Multiplying by 5"
+                  ]
+                },
+                {
+                  "id": 33,
+                  "content": "What comes next in the sequence: 27, 36, 45, 54, ___?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "60",
+                    "62",
+                    "50",
+                    "63"
+                  ]
+                },
+                {
+                  "id": 34,
+                  "content": "How can patterns help you memorize subtraction facts?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "By recognizing patterns in addition facts",
+                    "By recognizing patterns in subtraction facts",
+                    "Patterns are unrelated to memorization.",
+                    "By counting in twos"
+                  ]
+                },
+                {
+                  "id": 35,
+                  "content": "Translate the sentence: 30 - 7 = ■ into a word problem.",
+                  "correctIndex": 1,
+                  "answers": [
+                    "There are thirty candies, and nine were eaten. How many candies are left?",
+                    "Thirty minus seven equals a missing number.",
+                    "Nine candies were shared among thirty students. How many candies did each student get?",
+                    "Nine candies were taken from thirty. How many candies are there now?"
+                  ]
+                },
+                {
+                  "id": 36,
+                  "content": "In the equation: ■ - 14 = 28, what number should be in the frame?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "42",
+                    "14",
+                    "28",
+                    "56"
+                  ]
+                },
+                {
+                  "id": 37,
+                  "content": "Solve the equation: 81 ÷ ■ = 9.",
+                  "correctIndex": 2,
+                  "answers": [
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                  ]
+                },
+                {
+                  "id": 38,
+                  "content": "How can patterns be used to solve real-world subtraction problems?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "By recognizing patterns and applying them to solve practical subtraction problems.",
+                    "Patterns are only for math class.",
+                    "Patterns can only be used in art.",
+                    "Patterns have no use in real life."
+                  ]
+                },
+                {
+                  "id": 39,
+                  "content": "What is the next number in the sequence: 6, 12, 18, 24, ___?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "28",
+                    "40",
+                    "36",
+                    "30"
+                  ]
+                },
+                {
+                  "id": 40,
+                  "content": "What comes after 72 when counting by eights?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "73",
+                    "80",
+                    "79",
+                    "88"
+                  ]
+                },
+                {
+                  "id": 41,
+                  "content": "What is the number bond for 58 + 12?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "50 + 10",
+                    "60 + 10",
+                    "58 + 8",
+                    "70 + 2"
+                  ]
+                },
+                {
+                  "id": 42,
+                  "content": "What is the pattern in the multiplication tables for the number 6?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Adding 6",
+                    "Doubling",
+                    "Adding 7",
+                    "Multiplying by 4"
+                  ]
+                },
+                {
+                  "id": 43,
+                  "content": "What comes next in the sequence: 60, 70, 80, 90, ___?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "95",
+                    "110",
+                    "85",
+                    "100"
+                  ]
+                },
+                {
+                  "id": 44,
+                  "content": "How can patterns help you memorize multiplication facts?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "By memorizing random facts",
+                    "By recognizing patterns in multiplication tables",
+                    "Patterns are unrelated to multiplication.",
+                    "By counting in twos"
+                  ]
+                },
+                {
+                  "id": 45,
+                  "content": "Translate the sentence: 8 × 7 = ■ into a word problem.",
+                  "correctIndex": 0,
+                  "answers": [
+                    "There are eight bags, and each bag has seven apples. How many apples are there in total?",
+                    "Eight multiplied by ten equals a missing number.",
+                    "Seven bags each have six apples. How many apples in total?",
+                    "Seven bags have a total of five  apples."
+                  ]
+                },
+                {
+                  "id": 46,
+                  "content": "In the equation: 6 × ■ = 42, what number should be in the frame?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "5",
+                    "7",
+                    "9",
+                    "10"
+                  ]
+                },
+                {
+                  "id": 47,
+                  "content": "Solve the equation: 144 ÷ ■ = 12.",
+                  "correctIndex": 0,
+                  "answers": [
+                    "12",
+                    "8",
+                    "10",
+                    "18"
+                  ]
+                },
+                {
+                  "id": 48,
+                  "content": "How can patterns be used to solve real-world multiplication problems?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "By recognizing patterns and applying them to solve practical multiplication problems.",
+                    "Patterns are only for math class.",
+                    "Patterns can only be used in art.",
+                    "Patterns have no use in real life."
+                  ]
+                },
+                {
+                  "id": 49,
+                  "content": "What is the next number in the sequence: 9, 18, 27, 36, ___?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "40",
+                    "54",
+                    "50",
+                    "45"
+                  ]
+                },
+                {
+                  "id": 50,
+                  "content": "What comes after 96 when counting by sevens?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "98",
+                    "103",
+                    "100",
+                    "110"
+                  ]
+                },
+                
+                {
+                  "id": 51,
+                  "content": "What is the next number in the pattern: 14, 18, 22, ___?",
+                  "correctIndex": 2,
+                  "answers": ["24", "23", "26", "30"]
+                },
+                {
+                  "id": 52,
+                  "content": "In the equation: 7 × ___ = 63, what number should be in the blank?",
+                  "correctIndex": 0,
+                  "answers": ["9", "8", "7", "6"]
+                },
+                {
+                  "id": 53,
+                  "content": "Solve the equation: 48 ÷ ___ = 6.",
+                  "correctIndex": 1,
+                  "answers": ["7", "8", "9", "10"]
+                },
+                {
+                  "id": 54,
+                  "content": "How can recognizing patterns help in learning multiplication tables?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "It cannot help in learning multiplication tables.",
+                    "By identifying and memorizing repeating patterns in multiplication facts.",
+                    "By counting backwards.",
+                    "By ignoring patterns and focusing on individual facts."
+                  ]
+                },
+                {
+                  "id": 55,
+                  "content": "Translate the equation: 25 ÷ 5 = ___ into a word problem.",
+                  "correctIndex": 0,
+                  "answers": [
+                    "There are twenty-five candies, and each bag can hold five candies. How many bags are needed?",
+                    "Five divided by twenty-four equals a missing number.",
+                    "There are twenty-hive books, and each shelf can hold five books. How many shelves are needed?",
+                    "Twenty-five divided by ten equals a missing number."
+                  ]
+                },
+                {
+                  "id": 56,
+                  "content": "What is the missing number in the sequence: 30, 40, ___, 60, 70?",
+                  "correctIndex": 1,
+                  "answers": ["35", "50", "45", "55"]
+                },
+                {
+                  "id": 57,
+                  "content": "If the number bond for 23 + 7 is 30 + ___, what number should be in the blank?",
+                  "correctIndex": 3,
+                  "answers": ["7", "10", "23", "0"]
+                },
+                {
+                  "id": 58,
+                  "content": "What is the common pattern between the 5 and 10 multiplication tables?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Subtracting 1",
+                    "Adding 2",
+                    "Adding 5",
+                    "Multiplying by 2"
+                  ]
+                },
+                {
+                  "id": 59,
+                  "content": "Fill in the missing number in the sequence: 16, 19, ___, 25, 28.",
+                  "correctIndex": 0,
+                  "answers": ["22", "23", "24", "21"]
+                },
+                {
+                  "id": 60,
+                  "content": "How can recognizing patterns help in learning division facts?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "It cannot help in learning division facts.",
+                    "By identifying patterns and applying them to solve division problems.",
+                    "By counting forwards and backwards.",
+                    "By using the same strategy as addition."
+                  ]
+                },
+                {
+                  "id": 61,
+                  "content": "Translate the sentence: 12 ÷ 6 = ___ into a word problem.",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Twelve divided by seven equals a missing number.",
+                    "There are eleven candies, and each friend has six candies. How many friends are there?",
+                    "Twelve pencils were shared equally among six students. How many pencils did each student get?",
+                    "There are twelve baskets, and each basket holds four apples. How many apples in total?"
+                  ]
+                },
+                {
+                  "id": 62,
+                  "content": "In the equation: 8 × ___ = 64, what number should be in the frame?",
+                  "correctIndex": 3,
+                  "answers": ["7", "16", "6", "8"]
+                },
+                {
+                  "id": 63,
+                  "content": "What is the pattern when counting by fives starting from 15: 15, ___, 25, 30, 35?",
+                  "correctIndex": 0,
+                  "answers": ["20", "22", "24", "18"]
+                },
+                {
+                  "id": 64,
+                  "content": "What comes after 42 when counting by fours?",
+                  "correctIndex": 2,
+                  "answers": ["44", "4", "46", "50"]
+                },
+                {
+                  "id": 65,
+                  "content": "What is the number bond for 28 + 12?",
+                  "correctIndex": 1,
+                  "answers": ["40 + 10", "30 + 10", "40 + 8", "25 + 12"]
+                },
+                {
+                  "id": 66,
+                  "content": "What is the pattern in the multiplication tables for the number 4?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Adding 1",
+                    "Adding 4",
+                    "Doubling",
+                    "Multiplying by 2"
+                  ]
+                },
+                {
+                  "id": 67,
+                  "content": "Fill in the missing number in the sequence: 55, 65, ___, 85, 95.",
+                  "correctIndex": 2,
+                  "answers": ["77", "70", "75", "80"]
+                },
+                {
+                  "id": 68,
+                  "content": "Translate the sentence: 18 ÷ 9 = ___ into a word problem.",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Eighteen divided by three equals a missing number.",
+                    "There are eighteen balloons, and each child will get nine balloons. How many children are there?",
+                    "Nine divided by eight equals a missing number.",
+                    "There are eighteen apples, and twenty were given to each friend. How many friends received apples?"
+                  ]
+                },
+                {
+                  "id": 69,
+                  "content": "In the equation: 6 × ___ = 42, what number should be in the frame?",
+                  "correctIndex": 0,
+                  "answers": ["7", "6", "8", "9"]
+                },
+                {
+                  "id": 70,
+                  "content": "Solve the equation: 56 ÷ ___ = 8.",
+                  "correctIndex": 1,
+                  "answers": ["6", "7", "8", "9"]
+                },
+                {
+                  "id": 71,
+                  "content": "How can patterns be useful in solving real-world multiplication problems?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "By recognizing patterns and applying them to solve practical multiplication problems.",
+                    "Patterns have no use in real life.",
+                    "By memorizing random facts.",
+                    "Patterns can only be used in math class."
+                  ]
+                },
+                {
+                  "id": 72,
+                  "content": "What comes next in the sequence: 12, 24, 36, ___?",
+                  "correctIndex": 1,
+                  "answers": ["42", "48", "52", "56"]
+                }
+          ]
+      }
+       
+    }
+
+]

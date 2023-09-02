@@ -1,0 +1,599 @@
+
+[
+    {
+        "id": 4,
+        "category": "Measure",
+        "description": "Strand units: Length, Area, Weight,Capacity, Time, Money",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Choosing the Right Measuring Instruments: Rulers and Metre Sticks",
+                            "topicContent": "Introduce various measuring instruments, such as rulers, metre sticks, and trundle wheels. Explain the appropriate use of each instrument for measuring shorter and longer objects or distances."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Estimating and Measuring Objects Indoors: Using Metric Units",
+                            "topicContent": "Engage students in estimating and measuring a variety of objects indoors.Provide examples of objects like books, desks, and corridors to measure using suitable metric units (mm, cm, m)."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Exploring Outdoor Measurements: Distances and Playing Pitches",
+                            "topicContent": "Extend measurement skills to outdoor scenarios.Encourage students to estimate and measure distances for activities like throwing a ball, jumping, and running in a specified time frame."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Mastering Metric Units: Millimeters, Centimeters, Meters, Kilometers",
+                            "topicContent": "Dive deeper into metric units for measurement. Teach students the appropriate use of millimeters (mm), centimeters (cm), meters (m), and kilometers (km) for different measurement scenarios."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Measuring Irregular Shapes: Perimeter Exploration",
+                            "topicContent": "Introduce the concept of perimeter and its importance in measuring shapes.Challenge students to estimate and measure the perimeter of irregular shapes using suitable metric units."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Perimeter of Regular Shapes: Investigating Patterns",
+                            "topicContent": "Focus on regular shapes like squares, rectangles, and triangles.Guide students in exploring patterns in the perimeters of these shapes as their dimensions change."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Estimating and Measuring Outdoor Distances: Long and Short",
+                            "topicContent": "Encourage students to estimate and measure longer distances outdoors.Use trundle wheels and metre sticks to measure paths, driveways, and playing-pitch sidelines."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Hands-On Perimeter Activities: Building and Measuring",
+                            "topicContent": "Provide students with materials to create their own shapes. Guide them in measuring the perimeters of their creations using metric units."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Mathematical Walks: Outdoor Exploration and Measurement",
+                            "topicContent": "Organize mathematical walks where students measure distances along specific paths.They can calculate total distances and explore differences between indoor and outdoor measurements."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Solving Real-World Perimeter Challenges: Applying Skills",
+                            "topicContent": "Present real-world scenarios that involve calculating perimeters.Challenge students to solve problems related to fences, borders, and enclosing areas."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Choosing the Right Weighing Tools: Balances and Scales",
+                            "topicContent": "Introduce various weighing instruments, such as balance scales, kitchen scales, bathroom scales, and spring balances. Explain how to select the appropriate tool based on the nature of the object being weighed."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Estimating and Weighing Everyday Objects: Measuring in Grams",
+                            "topicContent": "Engage students in estimating and measuring the weight of everyday objects.Provide examples of objects like pencils and copybooks and teach students to measure them in grams."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Exploring Weight Measurement: From Grams to Kilograms",
+                            "topicContent": "Transition from measuring in grams to measuring in kilograms.Guide students in understanding when to use grams (smaller objects) and kilograms (larger objects)."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Measuring Weight of School Bags: Kilograms in Action",
+                            "topicContent": "Apply weight measurement skills to real-life scenarios.Have students measure the weight of their school bags using kilograms as the appropriate metric unit."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Estimating and Measuring Personal Weight: Using Bathroom Scales",
+                            "topicContent": "Discuss the concept of personal weight and its measurement.Introduce bathroom scales and guide students in estimating and measuring their own weight."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Weighing People and Everyday Items: Comparing Kilograms",
+                            "topicContent": "Help students understand the relationship between weight and units of measurement.Provide opportunities to measure both people and common items in kilograms."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Spring Balance Exploration: Measuring Weight with Precision",
+                            "topicContent": "Introduce the concept of a spring balance for weight measurement. Guide students in using spring balances to measure the weight of objects accurately."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Comparing Weight: Lighter and Heavier Objects",
+                            "topicContent": "Engage students in activities that involve comparing the weight of different objects.Encourage discussions about which objects are lighter or heavier."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Mathematical Investigations: Weight and Everyday Scenarios",
+                            "topicContent": "Pose mathematical problems related to weight and measurement.Have students solve problems involving the addition and subtraction of weights."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Solving Practical Weight Challenges: Applying Skills",
+                            "topicContent": "Present real-world scenarios that require students to apply their weight measurement skills. Challenge students to solve problems involving packaging, distribution, and balancing weights."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Exploring Capacity Measurement Tools: Graduated Jugs and Containers",
+                            "topicContent": "Introduce various tools for measuring capacity, such as graduated jugs, litre containers, and fractional litre containers.Discuss the importance of selecting the right tool for different measuring tasks."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Estimating and Measuring Small Volumes: Millilitres in Action",
+                            "topicContent": "Engage students in estimating and measuring small volumes using millilitres.Provide examples of objects like cups and small containers to measure in millilitres."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Transitioning to Larger Volumes: Introducing Litres",
+                            "topicContent": "Transition from measuring in millilitres to measuring in litres.Explain when and how to use litres for measuring larger volumes."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Measuring Watering Can Capacity: Applying Litres to Real-Life",
+                            "topicContent": "Apply capacity measurement skills to practical situations. Have students measure the capacity of a watering can using litres as the metric unit"
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Estimating and Measuring Different Containers: Comparing Volumes",
+                            "topicContent": "Engage students in activities that involve estimating and measuring the capacity of various containers.Encourage discussions about which containers hold more or less liquid"
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Practical Use of Fractional Litre Containers: Precise Measurements",
+                            "topicContent": "Introduce fractional litre containers for more precise capacity measurement.Guide students in measuring liquid volumes with greater accuracy."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Hands-On Exploration: Filling and Pouring with Precision",
+                            "topicContent": "Provide hands-on activities where students practice pouring liquids accurately into containers of different capacities.Emphasize the importance of control and precision in measurement"
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Comparing Volume in Real-Life Contexts: Applying Knowledge",
+                            "topicContent": "Present real-life scenarios where students need to compare volumes.Challenge students to determine which containers would be suitable for specific tasks."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Mathematical Problem Solving: Capacity Challenges",
+                            "topicContent": "Pose mathematical problems related to capacity measurement.Have students solve problems involving addition, subtraction, and comparison of volumes."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Real-World Applications: Capacity in Everyday Life",
+                            "topicContent": "Present scenarios where students apply their capacity measurement skills to practical situations. Encourage critical thinking and decision-making based on capacity measurements."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Unraveling the 24-Hour Clock: Introduction and Basics",
+                            "topicContent": "Introduce the concept of the 24-hour clock and its significance in various contexts.Help students understand how the 24-hour clock works and its advantages over the 12-hour clock."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Understanding Timetables: Navigating Through Scheduled Events",
+                            "topicContent": "Introduce timetables and their importance in scheduling events.Provide students with examples of bus, train, and school timetables to practice reading and interpreting."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Analog vs. Digital: Grasping Both Clock Formats",
+                            "topicContent": "Explore the differences between analog and digital clocks.Have students practice reading and interpreting both analog and digital clocks"
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Converting Between 12-Hour and 24-Hour Formats: The Time Conversion Challenge",
+                            "topicContent": "Present scenarios involving times in both 12-hour and 24-hour formats.Guide students in converting between the two formats and recognizing patterns."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Applying 24-Hour Clock to Different Contexts: Real-Life Examples",
+                            "topicContent": "Provide examples of various contexts where the 24-hour clock is used, such as airline schedules and international communications.Discuss how using the 24-hour clock can avoid confusion."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Timetables and Travel: Planning Journeys Using 24-Hour Time",
+                            "topicContent": "Explore timetables for travel modes like buses, trains, ships, and flights.Have students plan hypothetical journeys using 24-hour time information."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Clock Math: Calculations with 24-Hour Time: Time Differences and Intervals",
+                            "topicContent": "Introduce calculations involving time differences and intervals using the 24-hour clock. Guide students in solving problems related to time zones and travel durations."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "24-Hour Clock in Everyday Life: Relating to Real-World Scenarios",
+                            "topicContent": "Discuss how the 24-hour clock is relevant in daily routines and activities.Encourage students to share instances when they've encountered the 24-hour clock."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "Reading and Analyzing Film and Theatre Timings: Fun with Entertainment Schedules",
+                            "topicContent": "Present film and theatre schedules in both 12-hour and 24-hour formats.Have students practice reading and comparing show timings."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Mastering Time Conversion: From AM/PM to 24-Hour and Back",
+                            "topicContent": "Provide comprehensive practice in converting between 12-hour AM/PM format and the 24-hour clock.Challenge students with various conversion scenarios to reinforce their skills."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Understanding Unitary Method: Finding Value for Money",
+                            "topicContent": "Introduce the concept of the unitary method to compare 'value for money'. Explain how the unitary method helps determine which option offers a better deal."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Comparing Costs: Apples and Beyond",
+                            "topicContent": "Present scenarios involving the purchase of different quantities of items at varying prices. Guide students in comparing costs to identify the better deal using the unitary method."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Hourly vs. Daily Pay: Calculating Earnings",
+                            "topicContent": "Discuss the concepts of hourly and daily pay rates. Provide examples of calculating earnings based on different pay rates and time worked."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Calculating Shop Bills: Practice with Real-World Scenarios",
+                            "topicContent": "Present shopping scenarios with multiple items and prices. Guide students in calculating and comparing the total cost of shop bills."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Making Wise Choices: Unit Pricing and Consumer Decisions",
+                            "topicContent": "Introduce the concept of unit pricing and how it helps consumers make informed choices.Provide examples of unit pricing to illustrate how to find the best value."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Adding Up: Totals of Complex Shop Bills: Advanced Shop Bill Calculations",
+                            "topicContent": "Present more complex shop bills with multiple items and varying quantities.Guide students in calculating the total cost using the unitary method."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Grocery Shopping Adventures: Applying Value for Money Skills",
+                            "topicContent": "Present a virtual grocery shopping activity with different products and prices.Have students practice comparing value for money and making cost-effective choices."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Comparing Services: Rates and Savings: Time for Math Adventures",
+                            "topicContent": "Explore scenarios involving services with hourly or daily rates, such as tutoring or gardening.Guide students in calculating the total cost and comparing value for money"
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Bargain Hunting: Identifying Sale Savings Using Unit Pricing",
+                            "topicContent": "Present scenarios where products are on sale with reduced prices.Teach students to calculate the savings and compare sale prices using the unitary method."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Real-Life Financial Decisions: From Shopping to Earnings",
+                            "topicContent": "Integrate different aspects of money, such as comparing shopping options and calculating earnings.Encourage students to apply unitary method skills to real-life financial scenarios."
+                        }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Strand Measure of knowledge to the test.",
+               "questions": [
+                   {
+                      "id": 0,
+                      "content": "You have a pencil that is 25 centimeters long and another pencil that is 18 centimeters long. How much longer is the first pencil?",
+                      "correctIndex": 0,
+                      "answers": ["7 centimeters", "43 centimeters", "11 millimeters", "43 millimeters"]
+                    },
+                    {
+                      "id": 1,
+                      "content": "A bookshelf is 2 meters long and a table is 1.5 meters long. How much longer is the bookshelf?",
+                      "correctIndex": 0,
+                      "answers": ["0.5 meters", "5 meters", "5 centimeters", "15 centimeters"]
+                    },
+                    {
+                      "id": 2,
+                      "content": "You have a bag of apples that weighs 1.2 kilograms and a bag of oranges that weighs 800 grams. How much heavier is the bag of apples?",
+                      "correctIndex": 1,
+                      "answers": ["400 milligrams", "400 grams", "400 kilograms", "1.2 kilograms"]
+                    },
+                    {
+                      "id": 3,
+                      "content": "A watermelon weighs 6 kilograms and a pineapple weighs 1.5 kilograms. How much heavier is the watermelon?",
+                      "correctIndex": 0,
+                      "answers": ["4.5 kilograms", "45 kilograms", "450 grams", "2.5 kilograms"]
+                    },
+                    {
+                      "id": 4,
+                      "content": "You have a jug that can hold 1.5 liters of water and a bottle that can hold 750 milliliters of water. How much more water can the jug hold?",
+                      "correctIndex": 0,
+                      "answers": ["750 milliliters", "75 milliliters", "75 liters", "1.5 liters"]
+                    },
+                    {
+                      "id": 5,
+                      "content": "A swimming pool can hold 100,000 liters of water and a bathtub can hold 150 liters of water. How much more water can the swimming pool hold?",
+                      "correctIndex": 1,
+                      "answers": ["99,85 liters", "99,850 liters", "15,000 liters", "150,000 liters"]
+                    },
+                    {
+                      "id": 6,
+                      "content": "If a race starts at 9:45 AM and lasts for 1 hour and 30 minutes, at what time does the race end?",
+                      "correctIndex": 3,
+                      "answers": ["11:10 AM", "10:15 AM", "10:30 AM", "11:15 AM"]
+                    },
+                    {
+                      "id": 7,
+                      "content": "You buy a toy for €15.25 and a puzzle for €7.50. How much money have you spent in total?",
+                      "correctIndex": 2,
+                      "answers": ["€22.65", "€8.75", "€22.75", "€7.75"]
+                    },
+                    {
+                      "id": 8,
+                      "content": "A rectangle has a length of 30 centimeters and a width of 12 centimeters. What is its perimeter?",
+                      "correctIndex": 0,
+                      "answers": ["84 centimeters", "42 centimeters", "72 centimeters", "360 centimeters"]
+                    },
+                    {
+                      "id": 9,
+                      "content": "You want to buy a bicycle that costs €220. You have saved €120 so far. How much more money do you need to save?",
+                      "correctIndex": 1,
+                      "answers": ["€10", "€100", "€220", "€120"]
+                    },
+                    {
+                      "id": 10,
+                      "content": "A car travels 480 kilometers in 6 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 3,
+                      "answers": ["180 kilometers per hour", "240 kilometers per hour", "40 kilometers per hour", "80 kilometers per hour"]
+                    },
+                    {
+                      "id": 11,
+                      "content": "You have €60 in coins: You spend 25 coins of €1 each and 15 coins of €2 each. How much money do you have left?",
+                      "correctIndex": 3,
+                      "answers": ["€10", "€6", "€7", "€5"]
+                    },
+                    {
+                      "id": 12,
+                      "content": "A box can hold 5 liters of water and a bucket can hold 3.5 liters of water. How much more water can the box hold?",
+                      "correctIndex": 2,
+                      "answers": ["1 liters", "150 liters", "1.5 milliliters", "35 liters"]
+                    },
+                    {
+                      "id": 13,
+                      "content": "If a movie starts at 7:30 PM and lasts for 2 hours and 45 minutes, at what time does the movie end?",
+                      "correctIndex": 1,
+                      "answers": ["10:10 PM", "10:15 AM", "10:45 PM", "10:00 PM"]
+                    },
+                    {
+                      "id": 14,
+                      "content": "You buy a shirt for €29.99 and a pair of jeans for €45. How much money have you spent in total?",
+                      "correctIndex": 3,
+                      "answers": ["€15.01", "€75.01", "€75.01", "€74.99"]
+                    },
+           
+                    {
+                      "id": 15,
+                      "content": "You want to buy a toy that costs €18. You have saved €9.50 so far. How much more money do you need to save?",
+                      "correctIndex": 2,
+                      "answers": ["€7.50", "€9.50", "€8.50", "€18.50"]
+                    },
+                    {
+                      "id": 16,
+                      "content": "A train travels 560 kilometers in 4 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 0,
+                      "answers": ["140 kilometers per hour", "420 kilometers per hour", "280 kilometers per hour", "112 kilometers per hour"]
+                    },
+                    {
+                      "id": 17,
+                      "content": "You have €40 in coins: You spend 15 coins of €1 each and 10 coins of €2 each. How much money do you have left?",
+                      "correctIndex": 2,
+                      "answers": ["€6", "€10", "€5", "€4"]
+                    },
+                    {
+                      "id": 18,
+                      "content": "A fish tank can hold 25 liters of water and a bowl can hold 10 liters of water. How much more water can the fish tank hold?",
+                      "correctIndex": 1,
+                      "answers": ["150 liters", "15 liters", "150 milliliters", "35 liters"]
+                    },
+                    {
+                      "id": 19,
+                      "content": "If a play starts at 2:15 PM and lasts for 1 hour and 50 minutes, at what time does the play end?",
+                      "correctIndex": 1,
+                      "answers": ["4:07 PM", "4:05 AM", "3:45 PM", "3:30 PM"]
+                    },
+                    {
+                      "id": 20,
+                      "content": "You have a ribbon that is 85 centimeters long and another ribbon that is 62 centimeters long. How much longer is the first ribbon?",
+                      "correctIndex": 0,
+                      "answers": ["23 centimeters", "147 centimeters", "23 millimeters", "147 millimeters"]
+                    },
+                    {
+                      "id": 21,
+                      "content": "A rectangular garden is 5 meters long and 3 meters wide. What is its area?",
+                      "correctIndex": 0,
+                      "answers": ["15 square meters", "8 square meters", "30 square meters", "20 square meters"]
+                    },
+                    {
+                      "id": 22,
+                      "content": "You have a bag of sweets that weighs 750 grams and a bag of chocolates that weighs 450 grams. How much heavier is the bag of sweets?",
+                      "correctIndex": 1,
+                      "answers": ["300 milligrams", "300 grams", "300 kilograms", "750 kilograms"]
+                    },
+                    {
+                      "id": 23,
+                      "content": "A box of books weighs 12 kilograms and a box of toys weighs 7.5 kilograms. How much heavier is the box of books?",
+                      "correctIndex": 0,
+                      "answers": ["4.5 kilograms", "45 kilograms", "4500 grams", "19.5 kilograms"]
+                    },
+                    {
+                      "id": 24,
+                      "content": "You have a jar that can hold 2.5 liters of water and a bottle that can hold 1.8 liters of water. How much more water can the jar hold?",
+                      "correctIndex": 1,
+                      "answers": ["7 liters", "0.7 liters", "7 milliliters", "2.5 liters"]
+                    },
+                    {
+                      "id": 25,
+                      "content": "A swimming pool can hold 250,000 liters of water and a bathtub can hold 300 liters of water. How much more water can the swimming pool hold?",
+                      "correctIndex": 3,
+                      "answers": ["249,600 liters", "24,970 liters", "25,000 liters", "249,700 liters"]
+                    },
+                    {
+                      "id": 26,
+                      "content": "If a meeting starts at 11:30 AM and lasts for 2 hours and 15 minutes, at what time does the meeting end?",
+                      "correctIndex": 1,
+                      "answers": ["1:45 PM", "1:45 AM", "12:45 PM", "12:15 PM"]
+                    },
+                    {
+                      "id": 27,
+                      "content": "You buy a shirt for €34.95 and a pair of shoes for €64.50. How much money have you spent in total?",
+                      "correctIndex": 2,
+                      "answers": ["€99.35", "€29.55", "€99.45", "€99.55"]
+                    },
+                    {
+                      "id": 28,
+                      "content": "A square has a side length of 10 centimeters. What is its perimeter?",
+                      "correctIndex": 0,
+                      "answers": ["40 centimeters", "20 centimeters", "100 centimeters", "400 centimeters"]
+                    },
+                    {
+                      "id": 29,
+                      "content": "You want to buy a video game that costs €49.99. You have saved €25.75 so far. How much more money do you need to save?",
+                      "correctIndex": 0,
+                      "answers": ["€24.24", "€25.75", "€24.75", "€49.99"]
+                    },
+                    {
+                      "id": 30,
+                      "content": "A car travels 360 kilometers in 5 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 2,
+                      "answers": ["70 kilometers per hour", "180 kilometers per hour", "72 kilometers per hour", "120 kilometers per hour"]
+                    },
+                    {
+                      "id": 31,
+                      "content": "You have €80 in coins: You spend 30 coins of €1 each and 20 coins of €2 each. How much money do you have left?",
+                      "correctIndex": 3,
+                      "answers": ["€11", "€100", "€80", "€10"]
+                    },
+               
+                    {
+                      "id": 32,
+                      "content": "You want to buy a skateboard that costs €89. You have saved €55.20 so far. How much more money do you need to save?",
+                      "correctIndex": 2,
+                      "answers": ["€33.20", "€55.20", "€33.80", "€89"]
+                    },
+                    {
+                      "id": 33,
+                      "content": "A train travels 420 kilometers in 3.5 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 0,
+                      "answers": ["120 kilometers per hour", "360 kilometers per hour", "60 kilometers per hour", "140 kilometers per hour"]
+                    },
+                    {
+                      "id": 34,
+                      "content": "You have €50 in coins: You spend 20 coins of €1 each and 15 coins of €2 each. How much money do you have?",
+                      "correctIndex": 1,
+                      "answers": ["€80", "€0", "€7", "€5"]
+                    },
+             
+                    {
+                      "id": 35,
+                      "content": "You want to buy a new bicycle that costs €195. You have saved €110.50 so far. How much more money do you need to save?",
+                      "correctIndex": 2,
+                      "answers": ["€84.20", "€110.50", "€84.50", "€195"]
+                    },
+                    {
+                      "id": 36,
+                      "content": "A plane travels 900 kilometers in 6 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 0,
+                      "answers": ["150 kilometers per hour", "450 kilometers per hour", "300 kilometers per hour", "75 kilometers per hour"]
+                    },
+                    {
+                      "id": 37,
+                      "content": "A rectangular field is 18 meters long and 12 meters wide. What is its perimeter?",
+                      "correctIndex": 1,
+                      "answers": ["61 meters", "60 meters", "216 square meters", "360 square meters"]
+                    },
+                    {
+                      "id": 38,
+                      "content": "You have a backpack that weighs 1.5 kilograms and a lunchbox that weighs 450 grams. How much heavier is the backpack?",
+                      "correctIndex": 1,
+                      "answers": ["1.5 kilograms", "1050 grams", "550 grams", "1.95 kilograms"]
+                    },
+              
+                    {
+                      "id": 39,
+                      "content": "A box of apples weighs 8 kilograms and a box of oranges weighs 5.75 kilograms. How much heavier is the box of apples?",
+                      "correctIndex": 0,
+                      "answers": ["2.25 kilograms", "2250 grams", "8.75 kilograms", "12.75 kilograms"]
+                    },
+                    {
+                      "id": 40,
+                      "content": "You have a jar that can hold 750 milliliters of juice and a bottle that can hold 1.2 liters of juice. How much more juice can the bottle hold?",
+                      "correctIndex": 1,
+                      "answers": ["4500 milliliters", "450 mililiters", "750 milliliters", "1.2 milliliters"]
+                    },
+                    {
+                      "id": 41,
+                      "content": "A rectangular swimming pool is 10 meters long and 6 meters wide. What is its area?",
+                      "correctIndex": 0,
+                      "answers": ["60 square meters", "16 square meters", "56 square meters", "36 square meters"]
+                    },
+                    {
+                      "id": 42,
+                      "content": "You have a bag of marbles that weighs 250 grams and a bag of sweets that weighs 0.3 kilograms. How much heavier is the bag of sweets?",
+                      "correctIndex": 2,
+                      "answers": ["150 grams", "500 grams", "50 grams", "700 grams"]
+                    },
+         
+                    {
+                      "id": 43,
+                      "content": "You want to buy a toy that costs €17.95. You have saved €12.50 so far. How much more money do you need to save?",
+                      "correctIndex": 0,
+                      "answers": ["€5.45", "€12.50", "€5.50", "€17.95"]
+                    },
+                  
+                    {
+                      "id": 44,
+                      "content": "You buy a shirt for €29.99 and a pair of jeans for €45.75. How much money have you spent in total?",
+                      "correctIndex": 2,
+                      "answers": ["€75.75", "€75.75", "€75.74", "€75.55"]
+                    },
+                    {
+                      "id": 45,
+                      "content": "A triangle has a base of 12 centimeters and a height of 8 centimeters. What is its area?",
+                      "correctIndex": 0,
+                      "answers": ["48 square centimeters", "6 square centimeters", "16 square centimeters", "24 square centimeters"]
+                    },
+                    {
+                      "id": 46,
+                      "content": "You have €60 in coins: You spend 25 coins of €1 each and 10 coins of €2 each. How much money do you have?",
+                      "correctIndex": 2,
+                      "answers": ["€25", "€7", "€15", "€10"]
+                    },
+              
+                    {
+                      "id": 47,
+                      "content": "You want to buy a video game that costs €39. You have saved €22.60 so far. How much more money do you need to save?",
+                      "correctIndex": 0,
+                      "answers": ["€16.40", "€22.60", "€16.60", "€39"]
+                    },
+                    {
+                      "id": 48,
+                      "content": "A train travels 500 kilometers in 4 hours. What is its average speed in kilometers per hour?",
+                      "correctIndex": 3,
+                      "answers": ["120 kilometers per hour", "200 kilometers per hour", "400 kilometers per hour", "125 kilometers per hour"]
+                    },
+                    {
+                      "id": 49,
+                      "content": "You want €70 :  You have 30 coins of €1 each and 15 coins of €2 each. How much money do you need?",
+                      "correctIndex": 1,
+                      "answers": ["€12", "€10", "€100", "€5"]
+                    },
+            
+                    {
+                      "id": 50,
+                      "content": "You want to buy a bicycle that costs €279. You have saved €150.75 so far. How much more money do you need to save?",
+                      "correctIndex": 2,
+                      "answers": ["€128.15", "€150.75", "€128.25", "€279"]
+                    },
+                    {
+                      "id": 51,
+                      "content": "A rectangular box is 15 centimeters long, 8 centimeters wide, and 10 centimeters tall. What is its volume?",
+                      "correctIndex": 0,
+                      "answers": ["1200 cubic centimeters", "72 cubic centimeters", "80 cubic centimeters", "150 cubic centimeters"]
+                    }
+                    
+                   
+               ]
+           }
+    }
+
+]

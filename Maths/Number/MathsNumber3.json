@@ -1,0 +1,2423 @@
+[
+    {
+        "id": 2,
+        "category": "Number",
+        "description": "Strand units: Counting and Numeration, Comparing and ordering, Place value and Operation (Addition, Subtraction, Multipliction).",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Place value 1-500",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 500."
+                        },
+          {
+          "id": 1,
+          "topicTitle": "Multiplying using Addition",
+          "topicContent": "Multiplying using addition is a foundational arithmetic concept. It involves using repeated addition to find the result of multiplication. For instance, to multiply 3 by 4, you can add 3 four times: 3 + 3 + 3 + 3 = 12. This approach helps visualize multiplication as the sum of equal groups, making it easier to understand multiplication concepts and build a solid mathematical foundation."
+          },
+          {
+          "id": 2,
+          "topicTitle": "Multiplication Doubles",
+          "topicContent": "Multiplying doubles is a handy multiplication technique. It refers to multiplying a number by itself. For example, 5 doubled is 5 x 5 = 25. Doubling numbers is especially useful for quick mental calculations and can be applied to various scenarios, from basic calculations to more complex mathematical operations."
+          },
+          {
+          "id": 3,
+          "topicTitle": "Multiplication as Repeated Addition",
+          "topicContent": "Viewing multiplication as repeated addition is a helpful learning tool. When multiplying larger numbers, you can break them down into smaller factors and use repeated addition to find the product. For instance, to multiply 6 by 3, you can add 6 three times: 6 + 6 + 6 = 18. This approach simplifies complex multiplication tasks."
+          },
+          {
+          "id": 4,
+          "topicTitle": "Multiplication with Concrete Materials",
+          "topicContent": "Using concrete materials for multiplication introduces a hands-on learning experience. Objects like counters or blocks can represent numbers and groups, making multiplication tangible. For example, arranging 4 groups of 3 counters each helps visualize 4 x 3. This method fosters better understanding and engagement, particularly for visual and tactile learners."
+          },
+          {
+          "id": 5,
+          "topicTitle": "Multiplication 1-5",
+          "topicContent": "Let's start with multiplication within 1 to 5. These foundational multiplication facts are essential building blocks. Memorize these facts, and you'll have a strong base for more complex multiplication. Practice and repetition will help you quickly recall the products of these numbers."
+          },
+          {
+          "id": 6,
+          "topicTitle": "Multiplication 5-12",
+          "topicContent": "Now, let's progress to multiplying numbers from 5 to 12. These multiplication facts expand your mathematical capabilities. Remember, some of these facts might relate to doubling or combining smaller multiplication facts. With consistent practice, you'll become adept at multiplying within this broader range."
+          },
+          {
+          "id": 7,
+          "topicTitle": "Multiplication Facts",
+          "topicContent": "Mastering multiplication facts is crucial for mathematical fluency. These facts are the foundation of more advanced math skills. Practice drills, flashcards, and online tools can help you memorize these facts efficiently. Once you're comfortable with multiplication facts, solving complex problems becomes smoother."
+          },
+          {
+          "id": 8,
+          "topicTitle": "Multiply a One-Digit Number",
+          "topicContent": "Multiplying a one-digit number by larger numbers is a fundamental skill. Start by mastering the multiplication table for that one-digit number. Then apply it to multiplication problems with larger factors. For instance, if you've mastered the 3 times table, multiplying 3 by 7 becomes intuitive."
+          },
+          {
+          "id": 9,
+          "topicTitle": "Multiply a Two-Digit Number",
+          "topicContent": "Multiplying a two-digit number requires a solid understanding of place value and multiplication techniques. Break down the problem into smaller steps, multiplying each digit by the other number and then combining the results. With practice, you'll confidently tackle multiplication involving two-digit numbers."
+          },
+          {
+          "id": 10,
+          "topicTitle": "Multiplication Odd and Even Numbers",
+          "topicContent": "Multiplying odd and even numbers presents interesting patterns. When you multiply two even or two odd numbers, the result is always even. Multiplying an odd and an even number results in an odd product. Understanding these patterns can simplify calculations and provide insights into multiplication properties."
+          },
+                {
+                            "id": 11,
+                            "topicTitle": "Introduction to Counting",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 500."
+                        },
+                {
+                    "id": 12,
+                    "topicTitle": "One-to-One Correspondence",
+                    "topicContent": "One-to-One Correspondence is a fundamental concept in mathematics where each object in one set is paired with exactly one object in another set. This concept is essential for understanding relationships and comparisons between quantities. In early education, it helps children develop counting skills and grasp the concept of numbers as they learn to match objects one-to-one.\n\nIn various mathematical contexts, one-to-one correspondence provides a basis for understanding equality and equivalence. It's a crucial skill that underlies many mathematical operations and lays the foundation for more advanced concepts in mathematics."
+                },
+                        {
+                            "id": 13,
+                            "topicTitle": "Writing Numerals",
+                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 500. We will practice writing the numerals and matching them to the corresponding number of objects."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Counting Objects",
+                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 500 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Counting by 20s, 50s, and 100s",
+                            "topicContent": "We can count by skipping numbers. We will practice counting by 20s, 50s, and 100s. This will help us count larger quantities more quickly and efficiently."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Odd and Even Numbers",
+                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 500."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 500."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 500. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 500 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 500 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 500."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 500."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 500. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 500 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 500 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 500."
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 500."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 500. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 500 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 700 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 700."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in three-digit numbers and how to represent numbers using base-100 blocks and expanded form."
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In three-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different three-digit numbers and learn how to name them."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-100 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different three-digit numbers using base-100 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers in expanded form."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-100 blocks and expanded form."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In three-digit numbers up to 500, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different three-digit numbers up to 500 and learn how to name them."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-100 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different three-digit numbers up to 500 using base-100 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers up to 500 in expanded form."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in two-digit and three-digit numbers up to 500 and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Ones, Tens, and Hundreds Place",
+                            "topicContent": "In three-digit numbers up to 500, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens and sometimes the hundreds place in different three-digit and three-digit numbers up to 500 and learn how to name them."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-100 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 500 using base-100 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit and three-digit numbers up to 500 in expanded form."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in two-digit and three-digit numbers up to 500 and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Ones, Tens, and Hundreds Place",
+                            "topicContent": "In three-digit numbers up to 500, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens, and hundreds place in different two-digit and three-digit numbers up to 500 and learn how to name them."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Representing Numbers with Base-100 Blocks",
+                            "topicContent": "We can use base-100 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 500 using base-100 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers up to 500 in expanded form."
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Introduction to Multipliction",
+                            "topicContent": "Multipliction is the process of repeated adding two or more numbers to find the total. We will learn the symbols and vocabulary associated with addition and practice adding numbers up to 12."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Mulitiplying Single-Digit Numbers",
+                            "topicContent": "We will practice multiplying single-digit numbers up to 12 using pictures, number lines, and mental math. We will also learn how to write multiplication sentences using the plus symbol (x) and the equal symbol (=)."
+                        },
+                        {
+                            "id": 50,
+                            "topicTitle": "Word Problems Multiplication",
+                            "topicContent": "Word Problems in multiplication involve real-life situations, challenging you to apply multiplication to solve practical scenarios. They improve problem-solving skills by translating written information into mathematical equations, showcasing the applicability of multiplication in various contexts."
+                        },
+                        {
+                            "id": 51,
+                            "topicTitle": "Introduction to Long Multiplication",
+                            "topicContent": "Long Multiplication is a method for multiplying multi-digit numbers. It breaks down multiplication into steps, multiplying digits and adding products while considering place values. Mastering long multiplication simplifies complex calculations involving larger numbers and enhances mathematical proficiency."
+                        },
+                        {
+                            "id": 52,
+                            "topicTitle": "Multiplication Two-Digit Numbers",
+                            "topicContent": "We will practice multiplying two-digit numbers up to 20 using pictures, number lines, and mental math. We will then move on to adding double-digit numbers up to 50 using a similar approach."
+                        },
+                        {
+                            "id": 53,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer."
+                        },
+                 {
+                            "id": 54,
+                            "topicTitle": "Introduction to Multiplication of Two-Digit Numbers without Regrouping",
+                            "topicContent": "Multiplication of two-digit numbers without regrouping is the process of repeated adding of two-digit numbers where there is no need to regroup or carry over. We will learn the symbols and vocabulary associated with addition and practice adding two-digit numbers up to 50 and 20 without regrouping."
+                        },
+                        {
+                            "id": 55,
+                            "topicTitle": "Multiplication Two-Digit Numbers without Regrouping",
+                            "topicContent": "We will practice multiplying two-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, add the ones place and the tens place separately, and write the final answer."
+                        },
+                        {
+                            "id": 56,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication of two-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
+                        },
+              {
+                            "id": 57,
+                            "topicTitle": "Introduction to Multiplication with Regrouping",
+                            "topicContent": "Multiplication with regrouping. We will learn the symbols and vocabulary associated with addition with regrouping and practice multiplying two-digit numbers up to 50 with regrouping."
+                        },
+                        {
+                            "id": 58,
+                            "topicTitle": "Multiplication Two-Digit Numbers with Regrouping",
+                            "topicContent": "We will practice multiplying two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, add the ones place and the tens place separately. We will also practice checking our work by adding the numbers vertically and horizontally to make sure they match."
+                        },
+                        {
+                            "id": 59,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer. We will also learn how to check our work by dividing."
+                        },
+                        {
+                            "id": 60,
+                            "topicTitle": "Introduction to Subtraction 500",
+                            "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 500 apples and we eat 200, we are left with 300 apples. We use the minus sign (-) to show subtraction. So 500 - 200 = 300."
+                        },
+                        {
+                            "id": 61,
+                            "topicTitle": "Subtracting Numbers from 1 to 500",
+                            "topicContent": "Let's start with some simple subtraction problems. For example, 400 - 200 = 200. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 300 from 500, we start at 5 and count backwards 300 numbers: 500, 400, 300. So 500 - 300 = 200."
+                        },
+                        {
+                            "id": 62,
+                            "topicTitle": "Subtracting Numbers from 100 to 500",
+                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 340 from 470, we can start at 70 and count backwards 40 numbers: 400, 300, 300, 100. So 470 - 340 = 130."
+                        },
+                        {
+                            "id": 63,
+                            "topicTitle": "Practice Problems",
+                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 67 - 53, 209 - 46, 430 - 286, 477 - 111, 80 - 27."
+                        },
+                        {
+                            "id": 64,
+                            "topicTitle": "Wrap-up",
+                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 500 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
+                        },
+                        {
+                        "id": 65,
+                        "topicTitle": "Subtracting Numbers from 1 to 500",
+                        "topicContent": "Subtracting 1 to 500 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
+                        },
+                        {
+                        "id": 66,
+                        "topicTitle": "Subtracting Numbers from 1 to 500",
+                        "topicContent": "Let's dive into subtracting 1 to 500. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
+                        },
+                        {
+                        "id": 67,
+                        "topicTitle": "Subtracting Numbers from 1 to 700",
+                        "topicContent": "Now explore subtracting within 1 to 700. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
+                        },
+                        {
+                        "id": 68,
+                        "topicTitle": "Subtraction Tips",
+                        "topicContent": "Great progress! Master subtracting 1 to 500 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
+                        },
+                        {
+                        "id": 69,
+                        "topicTitle": "Subtraction Word Problems",
+                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
+                        },
+                        {
+                        "id": 70,
+                        "topicTitle": "Subtraction with Regrouping 1-500",
+                        "topicContent": "Regrouping (borrowing) is vital for 1 to 500 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
+                        }
+                        
+                        
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Number strand knowledge to the test.",
+               "questions": [
+                   {
+                             "id": 0,
+                             "content": "What is the value of the digit 7 in the number 275?",
+                             "correctIndex": 0,
+                             "answers": [
+                                "70",
+                                "7",
+                                "700",
+                                "0"
+                             ]
+                          },
+                          {
+                             "id": 1,
+                             "content": "What is 6 multiplied by 4?",
+                             "correctIndex": 3,
+                             "answers": [
+                                "20",
+                                "10",
+                                "20",
+                                "24"
+                             ]
+                          },
+                          {
+                             "id": 2,
+                             "content": "What is the result of doubling 8?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "6",
+                                "10",
+                                "16",
+                                "18"
+                             ]
+                          },
+                          {
+                             "id": 3,
+                             "content": "If you add 5 three times, what is the total?",
+                             "correctIndex": 0,
+                             "answers": [
+                                "15",
+                                "10",
+                                "8",
+                                "20"
+                             ]
+                          },
+                          {
+                             "id": 4,
+                             "content": "What is 3 multiplied by 5 using repeated addition?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "10",
+                                "8",
+                                "15",
+                                "18"
+                             ]
+                          },
+                          {
+                             "id": 5,
+                             "content": "What is the product of 7 x 6 using repeated addition?",
+                             "correctIndex": 1,
+                             "answers": [
+                                "14",
+                                "42",
+                                "21",
+                                "13"
+                             ]
+                          },
+                          {
+                             "id": 6,
+                             "content": "What is the sum of the first 3 odd numbers?",
+                             "correctIndex": 3,
+                             "answers": [
+                                "8",
+                                "19",
+                                "11",
+                                "9"
+                             ]
+                          },
+                          {
+                             "id": 7,
+                             "content": "What number comes next in the sequence: 5, 10, 15, 20, ____?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "15",
+                                "30",
+                                "25",
+                                "35"
+                             ]
+                          },
+                          {
+                             "id": 8,
+                             "content": "What is 9 multiplied by 8?",
+                             "correctIndex": 1,
+                             "answers": [
+                                "63",
+                                "72",
+                                "81",
+                                "54"
+                             ]
+                          },
+                          {
+                             "id": 9,
+                             "content": "What is the result of subtracting 24 from 50?",
+                             "correctIndex": 0,
+                             "answers": [
+                                "26",
+                                "16",
+                                "25",
+                                "34"
+                             ]
+                          },
+                          {
+                             "id": 10,
+                             "content": "What is the value of the digit 3 in the number 327?",
+                             "correctIndex": 1,
+                             "answers": [
+                                "30",
+                                "300",
+                                "3",
+                                "3000"
+                             ]
+                          },
+                          {
+                             "id": 11,
+                             "content": "Which of the following numbers is odd?",
+                             "correctIndex": 3,
+                             "answers": [
+                                "28",
+                                "36",
+                                "42",
+                                "37"
+                             ]
+                          },
+                          {
+                             "id": 12,
+                             "content": "What number multiplied by 9 equals 63?",
+                             "correctIndex": 0,
+                             "answers": [
+                                "7",
+                                "8",
+                                "6",
+                                "9"
+                             ]
+                          },
+                          {
+                             "id": 13,
+                             "content": "What is the product of 5 by 7 using repeated addition?",
+                             "correctIndex": 1,
+                             "answers": [
+                                "10",
+                                "35",
+                                "12",
+                                "28"
+                             ]
+                          },
+                          {
+                             "id": 14,
+                             "content": "Which of the following numbers is an even number?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "37",
+                                "53",
+                                "48",
+                                "51"
+                             ]
+                          },
+                          {
+                             "id": 15,
+                             "content": "What is the value of the digit 9 in the number 489?",
+                             "correctIndex": 1,
+                             "answers": [
+                                "90",
+                                "9",
+                                "900",
+                                "0"
+                             ]
+                          },
+                          {
+                             "id": 16,
+                             "content": "What is 8 multiplied by 9?",
+                             "correctIndex": 3,
+                             "answers": [
+                                "63",
+                                "54",
+                                "63",
+                                "72"
+                             ]
+                          },
+                          {
+                             "id": 17,
+                             "content": "What is the sum of the first 5 even numbers?",
+                             "correctIndex": 3,
+                             "answers": [
+                                "18",
+                                "22",
+                                "20",
+                                "30"
+                             ]
+                          },
+                          {
+                             "id": 18,
+                             "content": "What number comes after 48 and before 50?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "50",
+                                "45",
+                                "49",
+                                "52"
+                             ]
+                          },
+                          {
+                             "id": 19,
+                             "content": "What is 7 multiplied by 7 using repeated addition?",
+                             "correctIndex": 2,
+                             "answers": [
+                                "36",
+                                "41",
+                                "49",
+                                "45"
+                             ]
+                          },
+                          {
+                             "id": 20,
+                             "content": "What is the product of 8 and 5 using repeated addition?",
+                             "correctIndex": 0,
+                             "answers": [
+                                "40",
+                                "45",
+                                "30",
+                                "35"
+                             ]
+                          },
+                          
+                          
+                          {
+                                    "id": 21,
+                                    "content": "What is the value of the digit 4 in the number 742?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "40",
+                                       "4",
+                                       "400",
+                                       "0"
+                                    ]
+                                 },
+                                 {
+                                    "id": 22,
+                                    "content": "What is the result of doubling 12?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "20",
+                                       "29",
+                                       "22",
+                                       "24"
+                                    ]
+                                 },
+                                 {
+                                    "id": 23,
+                                    "content": "What is 7 multiplied by 8 using repeated addition?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "57",
+                                       "56",
+                                       "49",
+                                       "64"
+                                    ]
+                                 },
+                                 {
+                                    "id": 24,
+                                    "content": "What is the sum of the first 4 odd numbers?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "9",
+                                       "10",
+                                       "16",
+                                       "7"
+                                    ]
+                                 },
+                                 {
+                                    "id": 25,
+                                    "content": "What number comes next in the sequence: 3, 6, 9, 12, ____?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "1",
+                                       "14",
+                                       "13",
+                                       "15"
+                                    ]
+                                 },
+                                 {
+                                    "id": 26,
+                                    "content": "What is 5 multiplied by 9 using repeated addition?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "40",
+                                       "14",
+                                       "45",
+                                       "30"
+                                    ]
+                                 },
+                                 {
+                                    "id": 27,
+                                    "content": "What is the product of 6 and 6 using repeated addition?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "12",
+                                       "36",
+                                       "42",
+                                       "30"
+                                    ]
+                                 },
+                                 {
+                                    "id": 28,
+                                    "content": "Which of the following numbers is odd?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "48",
+                                       "51",
+                                       "54",
+                                       "56"
+                                    ]
+                                 },
+                                 {
+                                    "id": 29,
+                                    "content": "What number multiplied by 8 equals 72?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "9",
+                                       "8",
+                                       "7",
+                                       "6"
+                                    ]
+                                 },
+                                 {
+                                    "id": 30,
+                                    "content": "What is the result of subtracting 37 from 90?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "57",
+                                       "52",
+                                       "53",
+                                       "43"
+                                    ]
+                                 },
+                                 {
+                                    "id": 31,
+                                    "content": "What is the value of the digit 2 in the number 621?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "200",
+                                       "20",
+                                       "2",
+                                       "2000"
+                                    ]
+                                 },
+                                 {
+                                    "id": 32,
+                                    "content": "Which of the following numbers is an even number?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "59",
+                                       "62",
+                                       "67",
+                                       "73"
+                                    ]
+                                 },
+                                 {
+                                    "id": 33,
+                                    "content": "What number multiplied by 7 equals 42?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "5",
+                                       "6",
+                                       "7",
+                                       "8"
+                                    ]
+                                 },
+                                 {
+                                    "id": 34,
+                                    "content": "What is the product of 9 and 4 using repeated addition?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "36",
+                                       "32",
+                                       "45",
+                                       "28"
+                                    ]
+                                 },
+                                 {
+                                    "id": 35,
+                                    "content": "What number comes after 59 and before 61?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "70",
+                                       "58",
+                                       "57",
+                                       "60"
+                                    ]
+                                 },
+                                 {
+                                    "id": 36,
+                                    "content": "What is 8 multiplied by 7 using repeated addition?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "54",
+                                       "57",
+                                       "56",
+                                       "49"
+                                    ]
+                                 },
+                                 {
+                                    "id": 37,
+                                    "content": "What is the sum of the first 6 even numbers?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "22",
+                                       "42",
+                                       "46",
+                                       "20"
+                                    ]
+                                 },
+                                 {
+                                    "id": 38,
+                                    "content": "What number comes next in the sequence: 2, 4, 6, 8, ____?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "9",
+                                       "6",
+                                       "12",
+                                       "10"
+                                    ]
+                                 },
+                                 {
+                                    "id": 39,
+                                    "content": "What is the value of the digit 6 in the number 836?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "600",
+                                       "6",
+                                       "60",
+                                       "6000"
+                                    ]
+                                 },
+                                 {
+                                    "id": 40,
+                                    "content": "What is the result of doubling 18?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "36",
+                                       "34",
+                                       "360",
+                                       "38"
+                                    ]
+                                 },
+                                 {
+                                    "id": 41,
+                                    "content": "What is 2 multiplied by 6 using repeated addition?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "3",
+                                       "22",
+                                       "17",
+                                       "12"
+                                    ]
+                                 },
+                                 {
+                                         "id": 42,
+                                         "content": "What is the product of 2 and 9 using repeated addition?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "45",
+                                            "14",
+                                            "18",
+                                            "19"
+                                         ]
+                                      },
+                                      {
+                                         "id": 43,
+                                         "content": "What is the value of the digit 7 in the number 372?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "70",
+                                            "7",
+                                            "700",
+                                            "0"
+                                         ]
+                                      },
+                                      {
+                                         "id": 44,
+                                         "content": "What number comes next in the sequence: 10, 20, 30, 40, ____?",
+                                         "correctIndex": 3,
+                                         "answers": [
+                                            "45",
+                                            "5",
+                                            "55",
+                                            "50"
+                                         ]
+                                      },
+                                      {
+                                         "id": 45,
+                                         "content": "What is 6 multiplied by 8 using repeated addition?",
+                                         "correctIndex": 1,
+                                         "answers": [
+                                            "42",
+                                            "48",
+                                            "54",
+                                            "36"
+                                         ]
+                                      },
+                                      {
+                                         "id": 46,
+                                         "content": "What is the sum of the first 4 multiples of 3?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "15",
+                                            "20",
+                                            "30",
+                                            "12"
+                                         ]
+                                      },
+                                      {
+                                         "id": 47,
+                                         "content": "What is 8 multiplied by 5 using repeated addition?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "40",
+                                            "35",
+                                            "42",
+                                            "45"
+                                         ]
+                                      },
+                                      {
+                                         "id": 48,
+                                         "content": "What number comes after 82 and before 84?",
+                                         "correctIndex": 3,
+                                         "answers": [
+                                            "80",
+                                            "78",
+                                            "80",
+                                            "83"
+                                         ]
+                                      },
+                                      {
+                                         "id": 49,
+                                         "content": "What is the value of the digit 3 in the number 359?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "30",
+                                            "3",
+                                            "300",
+                                            "3000"
+                                         ]
+                                      },
+                                      {
+                                         "id": 50,
+                                         "content": "What is the result of subtracting 58 from 97?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "39",
+                                            "38",
+                                            "40",
+                                            "35"
+                                         ]
+                                      },
+                                      {
+                                         "id": 51,
+                                         "content": "What is the product of 7 and 4 using repeated addition?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "26",
+                                            "30",
+                                            "28",
+                                            "32"
+                                         ]
+                                      },
+                                      {
+                                         "id": 52,
+                                         "content": "What is the value of the digit 5 in the number 859?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "50",
+                                            "5",
+                                            "500",
+                                            "5000"
+                                         ]
+                                      },
+                                      {
+                                         "id": 53,
+                                         "content": "What number comes next in the sequence: 25, 30, 35, 40, ____?",
+                                         "correctIndex": 3,
+                                         "answers": [
+                                            "42",
+                                            "40",
+                                            "50",
+                                            "45"
+                                         ]
+                                      },
+                                      {
+                                         "id": 54,
+                                         "content": "What is 9 multiplied by 3 using repeated addition?",
+                                         "correctIndex": 1,
+                                         "answers": [
+                                            "24",
+                                            "27",
+                                            "21",
+                                            "30"
+                                         ]
+                                      },
+                                      {
+                                         "id": 55,
+                                         "content": "What is the sum of the first 4 multiples of 4?",
+                                         "correctIndex": 3,
+                                         "answers": [
+                                            "12",
+                                            "36",
+                                            "40",
+                                            "24"
+                                         ]
+                                      },
+                                      {
+                                         "id": 56,
+                                         "content": "What is 6 multiplied by 10 using repeated addition?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "60",
+                                            "56",
+                                            "42",
+                                            "36"
+                                         ]
+                                      },
+                                      {
+                                         "id": 57,
+                                         "content": "What number comes after 71 and before 73?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "70",
+                                            "68",
+                                            "72",
+                                            "77"
+                                         ]
+                                      },
+                                      {
+                                         "id": 58,
+                                         "content": "What is the value of the digit 2 in the number 825?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "20",
+                                            "2",
+                                            "200",
+                                            "2000"
+                                         ]
+                                      },
+                                      {
+                                         "id": 59,
+                                         "content": "What is the result of subtracting 63 from 89?",
+                                         "correctIndex": 2,
+                                         "answers": [
+                                            "25",
+                                            "22",
+                                            "26",
+                                            "27"
+                                         ]
+                                      },
+                                      {
+                                         "id": 60,
+                                         "content": "What is the product of 8 and 6 using repeated addition?",
+                                         "correctIndex": 0,
+                                         "answers": [
+                                            "48",
+                                            "54",
+                                            "42",
+                                            "42"
+                                         ]
+                                      },
+                                      {
+                                         "id": 61,
+                                         "content": "What is the value of the digit 9 in the number 459?",
+                                         "correctIndex": 1,
+                                         "answers": [
+                                            "90",
+                                            "9",
+                                            "900",
+                                            "9000"
+                                         ]
+                                      },
+                                      {
+                                         "id": 62,
+                                         "content": "What number comes next in the sequence: 60, 70, 80, 90, ____?",
+                                         "correctIndex": 3,
+                                         "answers": [
+                                            "95",
+                                            "110",
+                                            "105",
+                                            "100"
+                                         ]
+                                      },
+                                      {
+                                              "id": 63,
+                                              "content": "What is the product of 4 and 7 using repeated addition?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "27",
+                                                 "28",
+                                                 "24",
+                                                 "30"
+                                              ]
+                                           },
+                                           {
+                                              "id": 64,
+                                              "content": "What is the value of the digit 6 in the number 648?",
+                                              "correctIndex": 2,
+                                              "answers": [
+                                                 "60",
+                                                 "6",
+                                                 "600",
+                                                 "6000"
+                                              ]
+                                           },
+                                           {
+                                              "id": 65,
+                                              "content": "What number comes next in the sequence: 55, 65, 75, 85, ____?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "90",
+                                                 "95",
+                                                 "100",
+                                                 "90"
+                                              ]
+                                           },
+                                           {
+                                              "id": 66,
+                                              "content": "What is 5 multiplied by 10 using repeated addition?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "50",
+                                                 "45",
+                                                 "35",
+                                                 "42"
+                                              ]
+                                           },
+                                           {
+                                              "id": 67,
+                                              "content": "6 x 2 = ?",
+                                              "correctIndex": 3,
+                                              "answers": [
+                                                 "12",
+                                                 "14",
+                                                 "16",
+                                                 "18"
+                                              ]
+                                           },
+                                           {
+                                              "id": 68,
+                                              "content": "What is 7 multiplied by 6 using repeated addition?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "40",
+                                                 "42",
+                                                 "48",
+                                                 "36"
+                                              ]
+                                           },
+                                           {
+                                              "id": 69,
+                                              "content": "What number comes after 93 and before 95?",
+                                              "correctIndex": 2,
+                                              "answers": [
+                                                 "90",
+                                                 "88",
+                                                 "94",
+                                                 "96"
+                                              ]
+                                           },
+                                           {
+                                              "id": 70,
+                                              "content": "What is the value of the digit 8 in the number 582?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "80",
+                                                 "8",
+                                                 "800",
+                                                 "8000"
+                                              ]
+                                           },
+                                           {
+                                              "id": 71,
+                                              "content": "What is the result of subtracting 49 from 76?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "29",
+                                                 "27",
+                                                 "28",
+                                                 "23"
+                                              ]
+                                           },
+                                           {
+                                              "id": 72,
+                                              "content": "What is the product of 6 and 5 using repeated addition?",
+                                              "correctIndex": 2,
+                                              "answers": [
+                                                 "37",
+                                                 "35",
+                                                 "30",
+                                                 "25"
+                                              ]
+                                           },
+                                           {
+                                              "id": 73,
+                                              "content": "What is the value of the digit 4 in the number 724?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "40",
+                                                 "4",
+                                                 "400",
+                                                 "4000"
+                                              ]
+                                           },
+                                           {
+                                              "id": 74,
+                                              "content": "What number comes next in the sequence: 125, 130, 135, 140, ____?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "145",
+                                                 "150",
+                                                 "155",
+                                                 "1450"
+                                              ]
+                                           },
+                                           {
+                                              "id": 75,
+                                              "content": "What is 9 multiplied by 4 using repeated addition?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "32",
+                                                 "36",
+                                                 "32",
+                                                 "40"
+                                              ]
+                                           },
+                                           {
+                                              "id": 76,
+                                              "content": "What is the sum of the first 5 even numbers?",
+                                              "correctIndex": 2,
+                                              "answers": [
+                                                 "22",
+                                                 "14",
+                                                 "30",
+                                                 "18"
+                                              ]
+                                           },
+                                           {
+                                              "id": 77,
+                                              "content": "What is 9 multiplied by 9 using repeated addition?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "81",
+                                                 "75",
+                                                 "32",
+                                                 "98"
+                                              ]
+                                           },
+                                           {
+                                              "id": 78,
+                                              "content": "What number comes after 55 and before 57?",
+                                              "correctIndex": 2,
+                                              "answers": [
+                                                 "54",
+                                                 "52",
+                                                 "56",
+                                                 "50"
+                                              ]
+                                           },
+                                           {
+                                              "id": 79,
+                                              "content": "What is the value of the digit 3 in the number 639?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "30",
+                                                 "3",
+                                                 "300",
+                                                 "3000"
+                                              ]
+                                           },
+                                           {
+                                              "id": 80,
+                                              "content": "What is the result of subtracting 87 from 124?",
+                                              "correctIndex": 0,
+                                              "answers": [
+                                                 "37",
+                                                 "39",
+                                                 "36",
+                                                 "35"
+                                              ]
+                                           },
+                                           {
+                                              "id": 81,
+                                              "content": "What is the product of 7 and 8 using repeated addition?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "50",
+                                                 "56",
+                                                 "49",
+                                                 "64"
+                                              ]
+                                           },
+                                           {
+                                              "id": 82,
+                                              "content": "What is the value of the digit 7 in the number 857?",
+                                              "correctIndex": 1,
+                                              "answers": [
+                                                 "70",
+                                                 "7",
+                                                 "700",
+                                                 "7000"
+                                              ]
+                                           },
+                                           {
+                                              "id": 83,
+                                              "content": "What number comes next in the sequence: 240, 230, 220, 210, ____?",
+                                              "correctIndex": 3,
+                                              "answers": [
+                                                 "205",
+                                                 "210",
+                                                 "195",
+                                                 "200"
+                                              ]
+                                           },
+                                      
+                                      {
+                                                "id": 84,
+                                                "content": "What is the value of the digit 9 in the number 927?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "90",
+                                                   "9",
+                                                   "900",
+                                                   "9000"
+                                                ]
+                                             },
+                                             {
+                                                "id": 85,
+                                                "content": "What is the sum  7 and 23?",
+                                                "correctIndex": 3,
+                                                "answers": [
+                                                   "21",
+                                                   "25",
+                                                   "19",
+                                                   "30"
+                                                ]
+                                             },
+                                             {
+                                                "id": 86,
+                                                "content": "What is 5 multiplied by 5 using repeated addition?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "42",
+                                                   "22",
+                                                   "25",
+                                                   "35"
+                                                ]
+                                             },
+                                             {
+                                                "id": 87,
+                                                "content": "What number comes after 382 and before 384?",
+                                                "correctIndex": 3,
+                                                "answers": [
+                                                   "380",
+                                                   "378",
+                                                   "384",
+                                                   "383"
+                                                ]
+                                             },
+                                             {
+                                                "id": 88,
+                                                "content": "What is the result of subtracting 58 from 93?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "33",
+                                                   "39",
+                                                   "35",
+                                                   "31"
+                                                ]
+                                             },
+                                             {
+                                                "id": 89,
+                                                "content": "What is the product of 5 and 9 using repeated addition?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "40",
+                                                   "45",
+                                                   "35",
+                                                   "50"
+                                                ]
+                                             },
+                                             {
+                                                "id": 90,
+                                                "content": "What is the value of the digit 5 in the number 725?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "50",
+                                                   "5",
+                                                   "500",
+                                                   "5000"
+                                                ]
+                                             },
+                                             {
+                                                "id": 91,
+                                                "content": "What number comes next in the sequence: 320, 310, 300, 290, ____?",
+                                                "correctIndex": 3,
+                                                "answers": [
+                                                   "270",
+                                                   "290",
+                                                   "285",
+                                                   "280"
+                                                ]
+                                             },
+                                             {
+                                                "id": 92,
+                                                "content": "What is 8 multiplied by 6 using repeated addition?",
+                                                "correctIndex": 0,
+                                                "answers": [
+                                                   "48",
+                                                   "49",
+                                                   "54",
+                                                   "42"
+                                                ]
+                                             },
+                                             {
+                                                "id": 93,
+                                                "content": "What is the sum of  8 by 3?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "20",
+                                                   "24",
+                                                   "32",
+                                                   "30"
+                                                ]
+                                             },
+                                             {
+                                                "id": 94,
+                                                "content": "What is 4 multiplied by 7 using repeated addition?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "26",
+                                                   "22",
+                                                   "28",
+                                                   "30"
+                                                ]
+                                             },
+                                             {
+                                                "id": 95,
+                                                "content": "What number comes after 68 and before 70?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "65",
+                                                   "69",
+                                                   "67",
+                                                   "70"
+                                                ]
+                                             },
+                                             {
+                                                "id": 96,
+                                                "content": "What is the value of the digit 2 in the number 872?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "20",
+                                                   "2",
+                                                   "200",
+                                                   "200"
+                                                ]
+                                             },
+                                             {
+                                                "id": 97,
+                                                "content": "What is the result of subtracting 57 from 84?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "25",
+                                                   "29",
+                                                   "27",
+                                                   "22"
+                                                ]
+                                             },
+                                             {
+                                                "id": 98,
+                                                "content": "What is the product of 3 and 8 using repeated addition?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "21",
+                                                   "24",
+                                                   "26",
+                                                   "20"
+                                                ]
+                                             },
+                                             {
+                                                "id": 99,
+                                                "content": "What number comes after 39 and before 41?",
+                                                "correctIndex": 3,
+                                                "answers": [
+                                                   "41",
+                                                   "38",
+                                                   "37",
+                                                   "40"
+                                                ]
+                                             },
+                                             {
+                                                "id": 100,
+                                                "content": "What is the sum of 9 by of 4?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "30",
+                                                   "38",
+                                                   "36",
+                                                   "42"
+                                                ]
+                                             },
+                                             {
+                                                "id": 101,
+                                                "content": "What is 5 multiplied by 5 using repeated addition?",
+                                                "correctIndex": 3,
+                                                "answers": [
+                                                   "20",
+                                                   "22",
+                                                   "20",
+                                                   "25"
+                                                ]
+                                             },
+                                             {
+                                                "id": 102,
+                                                "content": "What is the value of the digit 8 in the number 678?",
+                                                "correctIndex": 1,
+                                                "answers": [
+                                                   "80",
+                                                   "8",
+                                                   "800",
+                                                   "8000"
+                                                ]
+                                             },
+                                             {
+                                                "id": 103,
+                                                "content": "What number comes next in the sequence: 420, 410, 400, 390, ____?",
+                                                "correctIndex": 2,
+                                                "answers": [
+                                                   "360",
+                                                   "385",
+                                                   "380",
+                                                   "385"
+                                                ]
+                                             },
+                                             {
+                                                     "id": 104,
+                                                     "content": "What is the sum of  30 and 40?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "68",
+                                                        "60",
+                                                        "72",
+                                                        "70"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 105,
+                                                     "content": "What is the sum of 50 and 60?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "125",
+                                                        "110",
+                                                        "510",
+                                                        "160"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 106,
+                                                     "content": "What is the value of 2 x 4?",
+                                                     "correctIndex": 2,
+                                                     "answers": [
+                                                        "89",
+                                                        "12",
+                                                        "8",
+                                                        "32"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 107,
+                                                     "content": "What is the sum of the first 10 numbers ?",
+                                                     "correctIndex": 0,
+                                                     "answers": [
+                                                        "55",
+                                                        "40",
+                                                        "41",
+                                                        "36"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 108,
+                                                     "content": "What is the smallest common multiple of 6 and 9?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "15",
+                                                        "18",
+                                                        "21",
+                                                        "24"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 109,
+                                                     "content": "What is the largest prime factor of 48?",
+                                                     "correctIndex": 2,
+                                                     "answers": [
+                                                        "2",
+                                                        "3",
+                                                        "7",
+                                                        "5"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 110,
+                                                     "content": "What is the value of the digit 7 in the number 759?",
+                                                     "correctIndex": 0,
+                                                     "answers": [
+                                                        "700",
+                                                        "7",
+                                                        "70",
+                                                        "7000"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 111,
+                                                     "content": "What number comes next in the sequence: 102, 108, 114, 120, ____?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "122",
+                                                        "122",
+                                                        "130",
+                                                        "126"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 112,
+                                                     "content": "What is 9 multiplied by 8 using the distributive property?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "64",
+                                                        "72",
+                                                        "76",
+                                                        "80"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 113,
+                                                     "content": "What is the sum of the first 4 even numbers?",
+                                                     "correctIndex": 2,
+                                                     "answers": [
+                                                        "18",
+                                                        "24",
+                                                        "22",
+                                                        "21"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 114,
+                                                     "content": "What is the product of 7 and 11 using the distributive property?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "72",
+                                                        "77",
+                                                        "78",
+                                                        "66"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 115,
+                                                     "content": "What number comes after 95 and before 97?",
+                                                     "correctIndex": 2,
+                                                     "answers": [
+                                                        "93",
+                                                        "99",
+                                                        "96",
+                                                        "94"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 116,
+                                                     "content": "What is the value of the digit 6 in the number 856?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "600",
+                                                        "6",
+                                                        "60",
+                                                        "6000"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 117,
+                                                     "content": "What is the result of subtracting 87 from 169?",
+                                                     "correctIndex": 0,
+                                                     "answers": [
+                                                        "82",
+                                                        "72",
+                                                        "92",
+                                                        "77"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 118,
+                                                     "content": "What is the product of the first four odd numbers?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "11",
+                                                        "10",
+                                                        "15",
+                                                        "16"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 119,
+                                                     "content": "What number comes next in the sequence: 220, 209, 198, 187, ____?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "177",
+                                                        "176",
+                                                        "165",
+                                                        "154"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 120,
+                                                     "content": "What is the sum of the 7 x 14?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "49",
+                                                        "102",
+                                                        "90",
+                                                        "98"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 121,
+                                                     "content": "What is the value of 3 x 5?",
+                                                     "correctIndex": 1,
+                                                     "answers": [
+                                                        "9",
+                                                        "15",
+                                                        "243",
+                                                        "81"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 122,
+                                                     "content": "What is the smallest common multiple of 7 and 12?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "21",
+                                                        "24",
+                                                        "28",
+                                                        "1"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 123,
+                                                     "content": "What is the largest prime factor of 72?",
+                                                     "correctIndex": 3,
+                                                     "answers": [
+                                                        "2",
+                                                        "3",
+                                                        "7",
+                                                        "3"
+                                                     ]
+                                                  },
+                                                  {
+                                                     "id": 124,
+                                                     "content": "What is the product of the first 3 odd numbers multiplied ?",
+                                                     "correctIndex": 0,
+                                                     "answers": [
+                                                        "15",
+                                                        "35",
+                                                        "45",
+                                                        "50"
+                                                     ]
+                                                  },
+                                                  {
+                                                            "id": 125,
+                                                            "content": "If a number is divisible by both 4 and 6, what is the smallest positive value it can have?",
+                                                            "correctIndex": 3,
+                                                            "answers": [
+                                                               "10",
+                                                               "12",
+                                                               "20",
+                                                               "24"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 126,
+                                                            "content": "What is the sum of  15 x 10?",
+                                                            "correctIndex": 0,
+                                                            "answers": [
+                                                               "150",
+                                                               "100",
+                                                               "105",
+                                                               "130"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 127,
+                                                            "content": "What is the product of the first 8 Fibonacci numbers?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "40",
+                                                               "55",
+                                                               "105",
+                                                               "89"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 128,
+                                                            "content": "What is the result of adding the first 10 prime numbers?",
+                                                            "correctIndex": 1,
+                                                            "answers": [
+                                                               "75",
+                                                               "129",
+                                                               "98",
+                                                               "82"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 129,
+                                                            "content": "What is the sum of all odd numbers between 4 and 8?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "3",
+                                                               "0",
+                                                               "12",
+                                                               "34"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 130,
+                                                            "content": "What is the value of the digit 9 in the number 972?",
+                                                            "correctIndex": 0,
+                                                            "answers": [
+                                                               "900",
+                                                               "9",
+                                                               "90",
+                                                               "9000"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 131,
+                                                            "content": "What number comes next in the sequence: 312, 320, 328, 336, ____?",
+                                                            "correctIndex": 1,
+                                                            "answers": [
+                                                               "340",
+                                                               "344",
+                                                               "352",
+                                                               "360"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 132,
+                                                            "content": "What is the product of the first 6 triangular numbers?",
+                                                            "correctIndex": 3,
+                                                            "answers": [
+                                                               "27",
+                                                               "28",
+                                                               "30",
+                                                               "35"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 133,
+                                                            "content": "What is the value of (5  minus 4 ) x 200?",
+                                                            "correctIndex": 0,
+                                                            "answers": [
+                                                               "200",
+                                                               "700",
+                                                               "800",
+                                                               "900"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 134,
+                                                            "content": "What is the sum  of the first 5 even numbers?",
+                                                            "correctIndex": 3,
+                                                            "answers": [
+                                                               "90",
+                                                               "70",
+                                                               "30",
+                                                               "110"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 135,
+                                                            "content": "What is the product of the first 3 prime numbers as an added sum?",
+                                                            "correctIndex": 1,
+                                                            "answers": [
+                                                               "13",
+                                                               "10",
+                                                               "15",
+                                                               "55"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 136,
+                                                            "content": "What is the value of the digit 2 in the number 625?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "200",
+                                                               "2",
+                                                               "20",
+                                                               "2000"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 137,
+                                                            "content": "What number comes after 106 and before 108?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "104",
+                                                               "109",
+                                                               "107",
+                                                               "105"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 138,
+                                                            "content": "What is the sum of 70 x 8?",
+                                                            "correctIndex": 0,
+                                                            "answers": [
+                                                               "560",
+                                                               "5600",
+                                                               "56",
+                                                               "155"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 139,
+                                                            "content": "What number comes next in the sequence: 520, 490, 460, 430, ____?",
+                                                            "correctIndex": 3,
+                                                            "answers": [
+                                                               "396",
+                                                               "396",
+                                                               "363",
+                                                               "400"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 140,
+                                                            "content": "What is the smallest prime number?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "3",
+                                                               "1",
+                                                               "2",
+                                                               "7"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 141,
+                                                            "content": "What is the value of 8 divided by 2 ?",
+                                                            "correctIndex": 1,
+                                                            "answers": [
+                                                               "2",
+                                                               "4",
+                                                               "1",
+                                                               "16"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 142,
+                                                            "content": "What is the sum of 9 ÷ 3 = ?",
+                                                            "correctIndex": 2,
+                                                            "answers": [
+                                                               "6",
+                                                               "7",
+                                                               "3",
+                                                               "4"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 143,
+                                                            "content": "What is the largest prime number between 50 and 60?",
+                                                            "correctIndex": 0,
+                                                            "answers": [
+                                                               "59",
+                                                               "53",
+                                                               "57",
+                                                               "61"
+                                                            ]
+                                                         },
+                                                         {
+                                                            "id": 144,
+                                                            "content": "What is the result of multiplying 4 by 100?",
+                                                            "correctIndex": 3,
+                                                            "answers": [
+                                                               "230",
+                                                               "300",
+                                                               "210",
+                                                               "400"
+                                                            ]
+                                                         },
+                                                         {
+                                                                 "id": 145,
+                                                                 "content": "Which number is the sum of the first 3 even numbers?",
+                                                                 "correctIndex": 3,
+                                                                 "answers": [
+                                                                    "27",
+                                                                    "18",
+                                                                    "11",
+                                                                    "12"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 146,
+                                                                 "content": "What is the product of 6 multiplied by 8?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "63",
+                                                                    "64",
+                                                                    "72",
+                                                                    "81"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 147,
+                                                                 "content": "If you add 1 to the number 789, what is the result?",
+                                                                 "correctIndex": 2,
+                                                                 "answers": [
+                                                                    "778",
+                                                                    "789",
+                                                                    "790",
+                                                                    "800"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 148,
+                                                                 "content": "What is the next number in the pattern: 6, 9, 12, 15, ____?",
+                                                                 "correctIndex": 0,
+                                                                 "answers": [
+                                                                    "18",
+                                                                    "20",
+                                                                    "21",
+                                                                    "24"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 149,
+                                                                 "content": "What is the value of the digit 4 in the number 487?",
+                                                                 "correctIndex": 0,
+                                                                 "answers": [
+                                                                    "400",
+                                                                    "4",
+                                                                    "40",
+                                                                    "7"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 150,
+                                                                 "content": "What is  30 x 5?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "160",
+                                                                    "150",
+                                                                    "170",
+                                                                    "175"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 151,
+                                                                 "content": "What is the result of subtracting 37 from 200?",
+                                                                 "correctIndex": 2,
+                                                                 "answers": [
+                                                                    "165",
+                                                                    "164",
+                                                                    "163",
+                                                                    "167"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 152,
+                                                                 "content": "What is the product of 6 multiplied by 9?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "45",
+                                                                    "54",
+                                                                    "63",
+                                                                    "72"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 153,
+                                                                 "content": "What is the value of 15 divided by 3?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "3",
+                                                                    "5",
+                                                                    "15",
+                                                                    "18"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 154,
+                                                                 "content": "What number comes next in the sequence: 24, 32, 40, 48, ____?",
+                                                                 "correctIndex": 3,
+                                                                 "answers": [
+                                                                    "52",
+                                                                    "54",
+                                                                    "60",
+                                                                    "56"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 155,
+                                                                 "content": "What is the sum of the digits in the number 682?",
+                                                                 "correctIndex": 0,
+                                                                 "answers": [
+                                                                    "16",
+                                                                    "15",
+                                                                    "18",
+                                                                    "17"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 156,
+                                                                 "content": "What is the result of multiplying 7 by 7 and then subtracting 20?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "23",
+                                                                    "49",
+                                                                    "63",
+                                                                    "69"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 157,
+                                                                 "content": "Which of the following numbers is a prime number?",
+                                                                 "correctIndex": 2,
+                                                                 "answers": [
+                                                                    "18",
+                                                                    "22",
+                                                                    "23",
+                                                                    "27"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 158,
+                                                                 "content": "What is the sum  50 and  70?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "275",
+                                                                    "120",
+                                                                    "320",
+                                                                    "340"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 159,
+                                                                 "content": "What is the result of dividing 12 by 3?",
+                                                                 "correctIndex": 0,
+                                                                 "answers": [
+                                                                    "4",
+                                                                    "8",
+                                                                    "52",
+                                                                    "56"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 160,
+                                                                 "content": "What is the value of 7 multiplied by 12?",
+                                                                 "correctIndex": 2,
+                                                                 "answers": [
+                                                                    "35",
+                                                                    "49",
+                                                                    "84",
+                                                                    "64"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 161,
+                                                                 "content": "What is the next number in the sequence: 18, 27, 36, 45, ____?",
+                                                                 "correctIndex": 3,
+                                                                 "answers": [
+                                                                    "52",
+                                                                    "60",
+                                                                    "52",
+                                                                    "54"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 162,
+                                                                 "content": "What is the product of 5 x 6 ?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "25",
+                                                                    "30",
+                                                                    "36",
+                                                                    "42"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 163,
+                                                                 "content": "What is the result of subtracting 18 from 90?",
+                                                                 "correctIndex": 2,
+                                                                 "answers": [
+                                                                    "71",
+                                                                    "80",
+                                                                    "72",
+                                                                    "78"
+                                                                 ]
+                                                              },
+                                                              {
+                                                                 "id": 164,
+                                                                 "content": "What is the value of the digit 9 in the number 829?",
+                                                                 "correctIndex": 1,
+                                                                 "answers": [
+                                                                    "900",
+                                                                    "9",
+                                                                    "90",
+                                                                    "800"
+                                                                 ]
+                                                              },
+                          
+                          {
+                                  "id": 165,
+                                  "content": "If a rectangle has a length of 12 units and a width of 8 units, what is its perimeter?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "16 units",
+                                     "30 units",
+                                     "40 units",
+                                     "40 units"
+                                  ]
+                               },
+                               {
+                                  "id": 166,
+                                  "content": "What is the sum of the first 10 numbers?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "70",
+                                     "80",
+                                     "55",
+                                     "150"
+                                  ]
+                               },
+                               {
+                                  "id": 167,
+                                  "content": "If a number is divisible by both 3 and 4, which of the following numbers is it also divisible by?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "6",
+                                     "7",
+                                     "8",
+                                     "9"
+                                  ]
+                               },
+                               {
+                                  "id": 168,
+                                  "content": "What is the sum of the first 5 odd numbers?",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "75",
+                                     "105",
+                                     "120",
+                                     "135"
+                                  ]
+                               },
+                               {
+                                  "id": 169,
+                                  "content": "Which number is a multiple of both 6 and 9?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "27",
+                                     "36",
+                                     "54",
+                                     "63"
+                                  ]
+                               },
+                               {
+                                  "id": 170,
+                                  "content": "What is the result of subtracting 3 from first (70 + 12)?",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "25",
+                                     "79",
+                                     "40",
+                                     "49"
+                                  ]
+                               },
+                               {
+                                  "id": 171,
+                                  "content": "If you multiply 8 by 7 and then subtract 12, what is the result?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "40",
+                                     "52",
+                                     "44",
+                                     "56"
+                                  ]
+                               },
+                               {
+                                  "id": 172,
+                                  "content": "What is the value of 4 by 3 then take away 7?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "16",
+                                     "32",
+                                     "4",
+                                     "5"
+                                  ]
+                               },
+                               {
+                                  "id": 173,
+                                  "content": "What is the next prime number after 37?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "41",
+                                     "43",
+                                     "45",
+                                     "47"
+                                  ]
+                               },
+                               {
+                                  "id": 174,
+                                  "content": "If you add 25 to a number and then multiply the result by 4, the final result is 180. What is the original number?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "35",
+                                     "40",
+                                     "45",
+                                     "50"
+                                  ]
+                               },
+                               {
+                                  "id": 175,
+                                  "content": "Which of the following numbers is a multiple of both 5 and 7?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "21",
+                                     "30",
+                                     "35",
+                                     "42"
+                                  ]
+                               },
+                               {
+                                  "id": 176,
+                                  "content": "What is the product of the first 4 triangular numbers?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "15",
+                                     "18",
+                                     "20",
+                                     "36"
+                                  ]
+                               },
+                               {
+                                  "id": 177,
+                                  "content": "What is the sum of the digits in the number 1234?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "7",
+                                     "11",
+                                     "12",
+                                     "10"
+                                  ]
+                               },
+                               {
+                                  "id": 178,
+                                  "content": "What is the value of 2 x 6?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "4",
+                                     "8",
+                                     "12",
+                                     "16"
+                                  ]
+                               },
+                               {
+                                  "id": 179,
+                                  "content": "What is the result of dividing 77 by 7?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "5",
+                                     "10",
+                                     "11",
+                                     "7"
+                                  ]
+                               },
+                               {
+                                  "id": 180,
+                                  "content": "If you add the first 5 to 67, what is the result?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "25",
+                                     "35",
+                                     "45",
+                                     "52"
+                                  ]
+                               },
+                               {
+                                  "id": 181,
+                                  "content": "What is 22 divided by 2?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "23",
+                                     "15",
+                                     "11",
+                                     "2"
+                                  ]
+                               },
+                               {
+                                  "id": 182,
+                                  "content": "If you multiply 9 by 6 and then divide the result by 3, what is the final result?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "18",
+                                     "21",
+                                     "24",
+                                     "27"
+                                  ]
+                               },
+                               {
+                                  "id": 183,
+                                  "content": "Which number is a multiple of both 24 and 36?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "12",
+                                     "18",
+                                     "30",
+                                     "42"
+                                  ]
+                               },
+                               {
+                                  "id": 184,
+                                  "content": "What is the value of 7 x 7 minus 3 ?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "40",
+                                     "44",
+                                     "46",
+                                     "48"
+                                  ]
+                               }
+                          
+                          
+                          
+               ]
+           }
+    }
+
+]

@@ -1,0 +1,1222 @@
+
+[
+    {
+        "id": 2,
+        "category": "Number",
+        "description": "Strand units: Fractions",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Review and Extend Equal Sharing",
+                            "topicContent": "Share objects in more complex situations among friends."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Exploring Fractions Beyond Thirds",
+                            "topicContent": "Continue exploring fractions beyond thirds."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Comparing Fractions with Unlike Denominators",
+                            "topicContent": "Deepen understanding of comparing fractions.Learn strategies to compare fractions with different denominators."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Fraction Word Problems",
+                            "topicContent": "Solve word problems involving fractions.Apply fraction skills to real-life situations."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Mixed Fraction Operations",
+                            "topicContent": "Operations with Mixed Fractions. Learn how to perform addition and subtraction with mixed fractions."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Equivalent Fractions Mastery",
+                            "topicContent": "Become proficient in identifying and working with equivalent fractions."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Adding Mixed Fractions",
+                            "topicContent": "Adding Mixed Fractions. Understand how to add mixed fractions."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Equivalent Fractions Exploration",
+                            "topicContent": "Deepening Equivalent Fractions Understanding. Explore equivalent fractions in more detail."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Fraction Estimation",
+                            "topicContent": "Learn how to estimate fractions in practical situations.Use estimation skills to make sense of fraction quantities."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Advanced Fraction Addition",
+                            "topicContent": "Adding Fractions with Unlike Denominators. Learn how to add fractions with different denominators."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Subtracting Mixed Fractions",
+                            "topicContent": "Subtracting Mixed Fractions,Learn how to subtract mixed fractions."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Fraction Division Challenges",
+                            "topicContent": "Solve division problems involving fractions.Understand how fractions relate to division."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Fraction Multiplication",
+                            "topicContent": "Explore how to multiply fractions.Practice multiplying fractions by whole numbers."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Fraction Measures",
+                            "topicContent": "Understand how fractions can be used in measurements. Learn how fractions represent parts of a whole measurement."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Fraction Quotients",
+                            "topicContent": "Dividing Whole Numbers by Fractions. Learn how to divide whole numbers by fractions."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Fraction Challenges",
+                            "topicContent": "Tackle more complex fraction challenges. Apply multiple fraction concepts to solve intricate problems."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Fraction Equations",
+                            "topicContent": "Writing Fraction Equations. Express fraction relationships as equations."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Fraction Subtraction",
+                            "topicContent": "Learn how to subtract fractions with the same denominators."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Fraction as Decimal Equivalents",
+                            "topicContent": "Converting Fractions to Decimals. Learn how to convert fractions to decimals."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Fraction Percentages",
+                            "topicContent": "Explore how fractions relate to percentages.Learn to convert fractions to percentages."
+                        }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Fractions knowledge to the test.",
+               "questions": [
+                   {
+                       "id": 0,
+                       "content": "If you have a pizza divided into 8 slices and you eat 3 slices, what fraction of the pizza did you eat?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "4/8",
+                         "3/8",
+                         "3/6",
+                         "3/4"
+                       ]
+                     },
+                     {
+                       "id": 1,
+                       "content": "Which of the following fractions is greater: 5/12 or 4/9?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "5/12",
+                         "4/9",
+                         "1/3",
+                         "2/5"
+                       ]
+                     },
+                     {
+                       "id": 2,
+                       "content": "If you have a group of 24 marbles and 1/3 of them are blue, how many marbles are blue?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "6",
+                         "8",
+                         "1/3",
+                         "12"
+                       ]
+                     },
+                     {
+                       "id": 3,
+                       "content": "Simplify the fraction 20/60 to its simplest form.",
+                       "correctIndex": 0,
+                       "answers": [
+                         "1/3",
+                         "2/5",
+                         "3/10",
+                         "1/4"
+                       ]
+                     },
+                     {
+                       "id": 4,
+                       "content": "If you have a rectangle divided into 15 equal parts and 4 parts are shaded, what fraction of the rectangle is shaded?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "6/15",
+                         "4/15",
+                         "1/3",
+                         "2/5"
+                       ]
+                     },
+                     {
+                       "id": 5,
+                       "content": "Which of the following fractions is equivalent to 16/32?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "0/2",
+                         "1/2",
+                         "2/5",
+                         "3/6"
+                       ]
+                     },
+                     {
+                       "id": 6,
+                       "content": "If you have a collection of 36 stamps and 3/4 of them are vintage stamps, how many stamps are vintage?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "9",
+                         "12",
+                         "27",
+                         "15"
+                       ]
+                     },
+                     {
+                       "id": 7,
+                       "content": "Which of the following fractions is in its simplest form: 10/25, 3/9, 5/15, 7/21?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "10/25",
+                         "3/9",
+                         "5/15",
+                         "7/21"
+                       ]
+                     },
+                     {
+                       "id": 8,
+                       "content": "If you have a rectangle divided into 20 equal parts and 3 parts are shaded, what fraction of the rectangle is shaded?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "3/2",
+                         "3/20",
+                         "1/4",
+                         "2/10"
+                       ]
+                     },
+                     {
+                       "id": 9,
+                       "content": "Which fraction is smaller: 7/15 or 6/14?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "7/15",
+                         "6/14",
+                         "1/3",
+                         "5/12"
+                       ]
+                     },
+                     {
+                       "id": 10,
+                       "content": "If you have a group of 48 pencils and 5/8 of them are red, how many pencils are red?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "6",
+                         "15",
+                         "30",
+                         "24"
+                       ]
+                     },
+                     {
+                       "id": 11,
+                       "content": "What is the product of 2/5 and 3/4?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "5/12",
+                         "6/20",
+                         "1/10",
+                         "3/9"
+                       ]
+                     },
+                     {
+                       "id": 12,
+                       "content": "If you have a collection of 80 stickers and 5/8 of them are animal stickers, how many stickers are animal stickers?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "20",
+                         "30",
+                         "50",
+                         "40"
+                       ]
+                     },
+                     {
+                       "id": 13,
+                       "content": "What fraction of a rectangle is shaded if 9 out of 36 equal parts are shaded?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "3/4",
+                         "1/4",
+                         "1/8",
+                         "1/9"
+                       ]
+                     },
+                     {
+                       "id": 14,
+                       "content": "If you have a group of 56 toys and 2/7 of them are action figures, how many toys are action figures?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "8",
+                         "14",
+                         "16",
+                         "20"
+                       ]
+                     },
+                     {
+                       "id": 15,
+                       "content": "Which of the following fractions is equivalent to 36/72?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "1/2",
+                         "3/2",
+                         "3/6",
+                         "6/12"
+                       ]
+                     },
+                     {
+                       "id": 16,
+                       "content": "If you have a rectangle divided into 25 equal parts and 5 parts are shaded, what fraction of the rectangle is shaded?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "2/25",
+                         "10/25",
+                         "1/5",
+                         "2/10"
+                       ]
+                     },
+                     {
+                       "id": 17,
+                       "content": "What is the sum of 3/8 and 5/12 in its simplest form?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "4/15",
+                         "19/24",
+                         "8/20",
+                         "2/6"
+                       ]
+                     },
+                     {
+                       "id": 18,
+                       "content": "If you have a collection of 64 buttons and 3/4 of them are shiny, how many buttons are shiny?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "12",
+                         "16",
+                         "48",
+                         "24"
+                       ]
+                     },
+                     {
+                       "id": 19,
+                       "content": "Which of the following fractions is in its simplest form: 20/40, 7/14, 3/9, 8/24?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "20/40",
+                         "7/14",
+                         "7/9",
+                         "8/24"
+                       ]
+                     },
+                     {
+                         "id": 20,
+                         "content": "If you have a cake divided into 10 equal slices and you eat 3 slices, what fraction of the cake did you eat?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "5/10",
+                           "3/10",
+                           "3/5",
+                           "1/3"
+                         ]
+                       },
+                       {
+                         "id": 21,
+                         "content": "Which of the following fractions is equivalent to 15/30?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "1/2",
+                           "1/3",
+                           "2/5",
+                           "4/6"
+                         ]
+                       },
+                       {
+                         "id": 22,
+                         "content": "If you have a group of 45 sweetsand 2/9 of them are chocolate, how many candies are chocolate?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "5",
+                           "8",
+                           "10",
+                           "12"
+                         ]
+                       },
+                       {
+                         "id": 23,
+                         "content": "What is the difference between 7/12 and 3/12?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "5/12",
+                           "1/3",
+                           "2/6",
+                           "5/12"
+                         ]
+                       },
+                       {
+                         "id": 24,
+                         "content": "If you have a rectangle divided into 16 equal parts and 6 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "5/16",
+                           "3/16",
+                           "3/8",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 25,
+                         "content": "Which of the following fractions is greater: 9/20 or 10/18?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "9/20",
+                           "10/18",
+                           "2/5",
+                           "3/8"
+                         ]
+                       },
+                       {
+                         "id": 26,
+                         "content": "If you have a collection of 72 beads and 5/6 of them are colorful, how many beads are colorful?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "10",
+                           "20",
+                           "60",
+                           "30"
+                         ]
+                       },
+                       {
+                         "id": 27,
+                         "content": "Which of the following fractions is in its simplest form: 24/48, 3/9, 5/15, 1/12?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "24/48",
+                           "3/9",
+                           "5/15",
+                           "1/12"
+                         ]
+                       },
+                       {
+                         "id": 28,
+                         "content": "If you have a rectangle divided into 30 equal parts and 4 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "5/30",
+                           "2/15",
+                           "2/10",
+                           "1/3"
+                         ]
+                       },
+                       {
+                         "id": 29,
+                         "content": "Which fraction is smaller: 3/7 or 5/9?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "3/7",
+                           "5/9",
+                           "1/3",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 30,
+                         "content": "If you have a group of 56 pencils and 3/7 of them are mechanical pencils, how many pencils are mechanical?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "8",
+                           "12",
+                           "24",
+                           "18"
+                         ]
+                       },
+                       {
+                         "id": 31,
+                         "content": "What is the product of 2/3 and 4/5?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "7/15",
+                           "8/15",
+                           "6/10",
+                           "1/6"
+                         ]
+                       },
+                       {
+                         "id": 32,
+                         "content": "If you have a collection of 90 stickers and 2/3 of them are animal stickers, how many stickers are animal stickers?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "30",
+                           "45",
+                           "40",
+                           "60"
+                         ]
+                       },
+                       {
+                         "id": 33,
+                         "content": "What fraction of a rectangle is shaded if 12 out of 48 equal parts are shaded?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "2/4",
+                           "1/4",
+                           "1/6",
+                           "1/8"
+                         ]
+                       },
+                       {
+                         "id": 34,
+                         "content": "If you have a group of 84 toys and 1/6 of them are action figures, how many toys are action figures?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "7",
+                           "12",
+                           "14",
+                           "16"
+                         ]
+                       },
+                       {
+                         "id": 35,
+                         "content": "Which of the following fractions is equivalent to 28/56?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "2/2",
+                           "5/2",
+                           "3/7",
+                           "4/8"
+                         ]
+                       },
+                       {
+                         "id": 36,
+                         "content": "If you have a rectangle divided into 40 equal parts and 8 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "5/40",
+                           "8/4",
+                           "2/10",
+                           "4/20"
+                         ]
+                       },
+                       {
+                         "id": 37,
+                         "content": "What is the sum of 5/9 and 2/6 in its simplest form?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "8/9",
+                           "7/15",
+                           "2/6",
+                           "3/8"
+                         ]
+                       },
+                    
+                       {
+                         "id": 38,
+                         "content": "Which of the following fractions is in its simplest form: 18/36, 5/10, 2/6, 8/24?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "18/36",
+                           "1/10",
+                           "2/6",
+                           "8/24"
+                         ]
+                       },
+                       {
+                         "id": 39,
+                         "content": "If you have a pizza divided into 8 equal slices and you eat 3 slices, what fraction of the pizza did you eat?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "3/8",
+                           "5/8",
+                           "3/4",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 40,
+                         "content": "Which fraction is equivalent to both 4/6 and 2/3?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "1/2",
+                           "0/3",
+                           "9/6",
+                           "5/7"
+                         ]
+                       },
+                       {
+                         "id": 41,
+                         "content": "If you have a group of 72 marbles and 3/8 of them are blue, how many marbles are blue?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "12",
+                           "18",
+                           "27",
+                           "30"
+                         ]
+                       },
+                       {
+                         "id": 42,
+                         "content": "Simplify the fraction 15/45 to its lowest terms.",
+                         "correctIndex": 1,
+                         "answers": [
+                           "2/3",
+                           "1/3",
+                           "3/9",
+                           "4/12"
+                         ]
+                       },
+                       {
+                         "id": 43,
+                         "content": "If you have a rectangle divided into 20 equal parts and 5 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "3/4",
+                           "2/4",
+                           "1/4",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 44,
+                         "content": "Which fraction is greater: 7/10 or 6/9?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "7/10",
+                           "6/9",
+                           "3/5",
+                           "2/4"
+                         ]
+                       },
+                       {
+                         "id": 45,
+                         "content": "If you have a collection of 80 stickers and 4/5 of them are animal stickers, how many stickers are animal stickers?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "24",
+                           "36",
+                           "64",
+                           "40"
+                         ]
+                       },
+                       {
+                         "id": 46,
+                         "content": "Which of the following fractions is in its simplest form: 20/40, 3/6, 1/16, 5/10?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "20/40",
+                           "3/6",
+                           "1/16",
+                           "5/10"
+                         ]
+                       },
+                       {
+                         "id": 47,
+                         "content": "If you have a rectangle divided into 25 equal parts and 10 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "10/5",
+                           "1/25",
+                           "6/10",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 48,
+                         "content": "What fraction is smaller: 9/13 or 7/12?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "9/13",
+                           "7/12",
+                           "1/2",
+                           "4/7"
+                         ]
+                       },
+                       {
+                         "id": 49,
+                         "content": "If you have a group of 63 pencils and 1/7 of them are colored pencils, how many pencils are colored?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "7",
+                           "9",
+                           "3",
+                           "12"
+                         ]
+                       },
+                       {
+                         "id": 50,
+                         "content": "What is the result of subtracting 3/4 from 5/8?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "1/8",
+                           "2/8",
+                           "3/12",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 51,
+                         "content": "If you have a collection of 100 buttons and 3/10 of them are shiny, how many buttons are shiny?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "20",
+                           "30",
+                           "40",
+                           "10"
+                         ]
+                       },
+                       {
+                         "id": 52,
+                         "content": "What fraction of a rectangle is shaded if 15 out of 75 equal parts are shaded?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "2/5",
+                           "1/5",
+                           "1/4",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 53,
+                         "content": "If you have a group of 56 toys and 1/4 of them are action figures, how many toys are action figures?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "8",
+                           "14",
+                           "10",
+                           "16"
+                         ]
+                       },
+                       {
+                         "id": 54,
+                         "content": "Which of the following fractions is equivalent to 40/80?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "0/2",
+                           "1/2",
+                           "2/5",
+                           "3/6"
+                         ]
+                       },
+                       {
+                         "id": 55,
+                         "content": "If you have a rectangle divided into 35 equal parts and 7 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "1/35",
+                           "7/35",
+                           "5/10",
+                           "3/7"
+                         ]
+                       },
+                       {
+                         "id": 56,
+                         "content": "What is the result of adding 4/9 and 3/6 in its simplest form?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "1/18",
+                           "7/15",
+                           "2/6",
+                           "17/18"
+                         ]
+                       },
+                       {
+                         "id": 57,
+                         "content": "If you have a collection of 120 coins and 1/8 of them are silver, how many coins are silver?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "10",
+                           "20",
+                           "15",
+                           "25"
+                         ]
+                       },
+                       {
+                         "id": 58,
+                         "content": "Which of the following fractions is in its simplest form: 14/28, 4/8, 3/9, 7/14?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "1/28",
+                           "4/8",
+                           "3/9",
+                           "7/14"
+                         ]
+                       },
+                       {
+                         "id": 59,
+                         "content": "If you have a pizza divided into 10 equal slices and you eat 2 slices, what fraction of the pizza did you eat?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "1/10",
+                           "3/10",
+                           "1/5",
+                           "3/6"
+                         ]
+                       },
+                       {
+                         "id": 60,
+                         "content": "Which fraction is equivalent to both 6/9 and 2/3?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "2/5",
+                           "8/12",
+                           "4/7",
+                           "5/8"
+                         ]
+                       },
+                       {
+                         "id": 61,
+                         "content": "If you have a collection of 75 sweets and 1/3 of them are chocolate, how many candies are chocolate?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "20",
+                           "35",
+                           "25",
+                           "10"
+                         ]
+                       },
+                       {
+                         "id": 62,
+                         "content": "Simplify the fraction 24/36 to its lowest terms.",
+                         "correctIndex": 0,
+                         "answers": [
+                           "2/3",
+                           "3/3",
+                           "4/6",
+                           "6/9"
+                         ]
+                       },
+                       {
+                         "id": 63,
+                         "content": "If you have a rectangle divided into 16 equal parts and 8 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "1/4",
+                           "1/3",
+                           "7/16",
+                           "4/8"
+                         ]
+                       },
+                       {
+                         "id": 64,
+                         "content": "Which fraction is smaller: 5/7 or 3/5?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "3/5",
+                           "5/7",
+                           "1/2",
+                           "4/6"
+                         ]
+                       },
+                       {
+                         "id": 65,
+                         "content": "If you have a group of 90 balloons and 1/6 of them are red, how many balloons are red?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "12",
+                           "18",
+                           "11",
+                           "15"
+                         ]
+                       },
+                       {
+                         "id": 66,
+                         "content": "What fraction of a rectangle is shaded if 20 out of 40 equal parts are shaded?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "2/2",
+                           "1/2",
+                           "2/5",
+                           "3/8"
+                         ]
+                       },
+                       {
+                         "id": 67,
+                         "content": "If you have a group of 96 markers and 2/8 of them are permanent markers, how many markers are permanent?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "24",
+                           "32",
+                           "48",
+                           "20"
+                         ]
+                       },
+                       {
+                         "id": 68,
+                         "content": "What fraction is greater: 9/10 or 7/8?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "9/10",
+                           "7/8",
+                           "8/9",
+                           "6/7"
+                         ]
+                       },
+                       {
+                         "id": 69,
+                         "content": "If you have a collection of 120 beads and 1/5 of them are shiny, how many beads are shiny?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "20",
+                           "24",
+                           "30",
+                           "15"
+                         ]
+                       },
+                       {
+                         "id": 70,
+                         "content": "What is the result of subtracting 1/4 from 2/3?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "5/12",
+                           "1/2",
+                           "3/7",
+                           "7/15"
+                         ]
+                       },
+                       {
+                         "id": 71,
+                         "content": "If you have a rectangle divided into 50 equal parts and 15 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "1/50",
+                           "18/50",
+                           "3/10",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 72,
+                         "content": "Which of the following fractions is equivalent to 24/48?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "1/4",
+                           "1/2",
+                           "3/4",
+                           "8/6"
+                         ]
+                       },
+                       {
+                         "id": 73,
+                         "content": "If you have a collection of 144 buttons and 1/12 of them are shiny, how many buttons are shiny?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "11",
+                           "16",
+                           "12",
+                           "18"
+                         ]
+                       },
+                       {
+                         "id": 74,
+                         "content": "Which fraction is smaller: 11/16 or 9/13?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "9/13",
+                           "11/16",
+                           "5/8",
+                           "7/11"
+                         ]
+                       },
+                       {
+                         "id": 75,
+                         "content": "If you have a pizza divided into 12 equal slices and you eat 3 slices, what fraction of the pizza did you eat?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "2/12",
+                           "1/12",
+                           "1/4",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 76,
+                         "content": "What is the result of adding 2/5 and 3/7 in its simplest form?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "29/35",
+                           "29/35",
+                           "5/12",
+                           "7/15"
+                         ]
+                       },
+                       {
+                         "id": 77,
+                         "content": "If you have a rectangle divided into 60 equal parts and 18 parts are shaded, what fraction of the rectangle is shaded?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "18/60",
+                           "18/60",
+                           "3/10",
+                           "2/5"
+                         ]
+                       },
+                       {
+                         "id": 78,
+                         "content": "Which of the following fractions is in its simplest form: 8/16, 6/12, 2/4, 1/10?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "8/16",
+                           "6/12",
+                           "2/4",
+                           "1/10"
+                         ]
+                       },
+                       
+                       {
+                          "id": 79,
+                          "content": "If you have a rectangle divided into 24 equal parts and 18 parts are shaded, what fraction of the rectangle is shaded?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "12/24",
+                            "19/24",
+                            "3/4",
+                            "2/5"
+                          ]
+                        },
+                        {
+                          "id": 80,
+                          "content": "Which fraction is equivalent to both 9/15 and 3/5?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "1/2",
+                            "6/10",
+                            "4/7",
+                            "5/9"
+                          ]
+                        },
+                        {
+                          "id": 81,
+                          "content": "If you have a group of 120 marbles and 1/8 of them are blue, how many marbles are blue?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "15",
+                            "12",
+                            "10",
+                            "20"
+                          ]
+                        },
+                        {
+                          "id": 82,
+                          "content": "Simplify the fraction 36/48 to its lowest terms.",
+                          "correctIndex": 1,
+                          "answers": [
+                            "5/4",
+                            "3/4",
+                            "6/8",
+                            "4/6"
+                          ]
+                        },
+                        {
+                          "id": 83,
+                          "content": "Which fraction is greater: 7/9 or 5/7?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "6/9",
+                            "5/7",
+                            "4/6",
+                            "7/9"
+                          ]
+                        },
+                        {
+                          "id": 84,
+                          "content": "If you have a collection of 150 stickers and 1/10 of them are shiny, how many stickers are shiny?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "10",
+                            "11",
+                            "15",
+                            "20"
+                          ]
+                        },
+                        {
+                          "id": 85,
+                          "content": "What fraction of a rectangle is shaded if 25 out of 40 equal parts are shaded?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "6/8",
+                            "5/8",
+                            "2/5",
+                            "3/7"
+                          ]
+                        },
+                        {
+                          "id": 86,
+                          "content": "If you have a group of 180 candies and 1/9 of them are sour, how many candies are sour?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "30",
+                            "18",
+                            "20",
+                            "15"
+                          ]
+                        },
+                        {
+                          "id": 87,
+                          "content": "What fraction is smaller: 10/11 or 8/9?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "8/9",
+                            "10/11",
+                            "5/6",
+                            "7/8"
+                          ]
+                        },
+                        {
+                          "id": 88,
+                          "content": "If you have a collection of 200 buttons and 1/20 of them are shiny, how many buttons are shiny?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "10",
+                            "20",
+                            "40",
+                            "15"
+                          ]
+                        },
+                        {
+                          "id": 89,
+                          "content": "What is the result of adding 3/5 and 4/7 in its simplest form?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "40/35",
+                            "41/35",
+                            "7/12",
+                            "5/8"
+                          ]
+                        },
+                        {
+                          "id": 90,
+                          "content": "If you have a pizza divided into 8 equal slices and you eat 2 slices, what fraction of the pizza did you eat?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "2/8",
+                            "2/8",
+                            "1/4",
+                            "3/6"
+                          ]
+                        },
+                        {
+                          "id": 91,
+                          "content": "Which of the following fractions is in its simplest form: 1/15, 7/14, 3/6, 2/4?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "1/15",
+                            "7/14",
+                            "3/6",
+                            "2/4"
+                          ]
+                        },
+                        {
+                          "id": 92,
+                          "content": "If you have a collection of 240 pencils and 1/24 of them are mechanical pencils, how many pencils are mechanical?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "0",
+                            "15",
+                            "20",
+                            "10"
+                          ]
+                        },
+                        {
+                          "id": 93,
+                          "content": "Which fraction is smaller: 13/18 or 11/15?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "11/15",
+                            "13/18",
+                            "7/10",
+                            "9/13"
+                          ]
+                        },
+                        {
+                          "id": 94,
+                          "content": "If you have a rectangle divided into 30 equal parts and 24 parts are shaded, what fraction of the rectangle is shaded?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "24/30",
+                            "24/30",
+                            "4/5",
+                            "2/6"
+                          ]
+                        },
+                        {
+                          "id": 95,
+                          "content": "What is the result of subtracting 2/5 from 3/4?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "7/20",
+                            "1/6",
+                            "5/9",
+                            "9/16"
+                          ]
+                        },
+                        {
+                          "id": 96,
+                          "content": "If you have a rectangle divided into 36 equal parts and 30 parts are shaded, what fraction of the rectangle is shaded?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "30/36",
+                            "30/36",
+                            "5/6",
+                            "3/5"
+                          ]
+                        },
+                        {
+                          "id": 97,
+                          "content": "Which fraction is equivalent to both 16/24 and 4/6?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "2/3",
+                            "4/6",
+                            "4/8",
+                            "8/12"
+                          ]
+                        },
+                        {
+                          "id": 98,
+                          "content": "If you have a group of 270 crayons and 2/27 of them are glittery, how many crayons are glittery?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "10",
+                            "15",
+                            "10",
+                            "20"
+                          ]
+                        }
+                       
+                       
+                       
+                   
+                   
+               ]
+           }
+    }
+
+]

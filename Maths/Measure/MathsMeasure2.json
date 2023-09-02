@@ -1,0 +1,431 @@
+
+
+[
+    {
+        "id": 1,
+        "category": "Measure",
+        "description": "Strand units: Length, Area, Weight,Capacity, Time, Money",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Non-Standard Units: Exploring Length with Everyday Objects",
+                            "topicContent": "Introduce the concept of measuring length using non-standard units.Explore different objects like pencils, erasers, and paperclips to estimate and compare lengths."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Selecting Non-Standard Measuring Units: Matching Instruments to Objects",
+                            "topicContent": "Learn to select appropriate non-standard measuring units for different objects.Discuss which instrument is suitable for measuring short objects and which works best for longer objects."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Measuring with Centimetres: Using 10 cm Rods for Length Comparison",
+                            "topicContent": "Explore measuring lengths using centimetres. Use 10 cm rods to measure and compare the lengths of various objects in the classroom."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Half-Metre and Full-Metre Measurement: Using Half-Metre and Metre Sticks",
+                            "topicContent": "Learn to measure lengths using half-metre and metre sticks. Understand the relationship between half-metre and metre measurements."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Exploring the Trundle Wheel: Measuring Longer Distances",
+                            "topicContent": "Introduce the trundle wheel as a tool to measure longer distances. Practice measuring paths and distances in the schoolyard."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Comparing Heights: Measuring and Graphing Heights of Classmates",
+                            "topicContent": "Measure the heights of classmates using standard units. Compare the heights and graph the results to visualize the differences."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Measuring Irregular Objects: Measuring Around Tree Trunks and More",
+                            "topicContent": "Apply measuring skills to irregular objects like tree trunks.Discuss strategies for measuring around objects that don't have straight edges"
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Home Measurement Challenge: Comparing Objects at Home",
+                            "topicContent": "Assign a home measurement challenge to compare objects.Encourage students to measure objects at home and share their findings."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Exploring Metre and Centimetre Relationship: Counting and Recording",
+                            "topicContent": "Investigate the relationship between metres and centimetres.Count and record measurements to understand the connection between the two units."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Practical Length Tasks: Applying Measurement Skills in Various Scenarios",
+                            "topicContent": "Solve practical tasks and problems involving length measurement.Practice measuring, comparing, and recording lengths in different contexts, promoting hands-on application of measurement skills."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Introduction to Non-Standard Weight Units: Comparing with Everyday Objects",
+                            "topicContent": "Introduce the concept of measuring weight using non-standard units. Explore different objects like blocks, fruits, and toys to estimate and compare weights."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Selecting Non-Standard Measuring Instruments: Using Pan Balance and More",
+                            "topicContent": "Learn to select appropriate non-standard measuring instruments for different objects. Discuss which instrument is suitable for comparing weights and balancing objects."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Measuring with Kitchen Scales: Using Half Kilogram and Quarter Kilogram",
+                            "topicContent": "Explore measuring weight using half kilogram and quarter kilogram units. Use kitchen scales to measure and compare the weights of different objects."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Exploring the Bathroom Scales: Measuring Our Own Weight",
+                            "topicContent": "Introduce bathroom scales to measure personal weight.Discuss and graph the weights of classmates to understand variations."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Graphing Weight Variations: Exploring Differences in Objects Weighing 1 kg",
+                            "topicContent": "Discuss instances when objects weighing 1 kg vary in size and material.Fill bags or containers with various substances weighing 1 kg and discuss the differences."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Estimating and Measuring Weight Using Kilograms: Connecting to Standard Units",
+                            "topicContent": "Learn to estimate and measure weight using kilograms. Use standard weighing scales to measure everyday objects and record their weights."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Comparing Heavy and Light: Practicing Measurement with Pan Balance",
+                            "topicContent": "Explore the concept of heavy and light by using a pan balance. Practice comparing the weights of different objects using the balance."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Weight and Size Relationship: Discovering the Diversity of 1 kg Objects",
+                            "topicContent": "Investigate how objects with the same weight can vary greatly in size. Fill containers with different materials to explore the concept."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Solving Weight Problems: Applying Measurement in Real-World Scenarios",
+                          "topicContent": "Solve simple problems involving weight measurement.Apply measurement skills to practical situations, such as measuring ingredients for recipes."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Weight Measurement Challenge: Graphing and Comparing Class's Weight Data",
+                            "topicContent": "Conduct a weight measurement challenge in the classroom. Collect and graph the weights of classmates to analyze and compare the data."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Exploring Non-Standard Capacity Units: Comparing Container Sizes",
+                            "topicContent": "Introduce the concept of measuring capacity using non-standard units.Explore different containers like cups, jars, and bottles to estimate and compare capacities."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Selecting Non-Standard Measuring Instruments: Using Cups and More",
+                            "topicContent": "Learn to select appropriate non-standard measuring instruments for different containers.Discuss which instrument is suitable for comparing capacities of various objects."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Comparing Container Capacities: Estimating and Measuring with Non-Standard Units",
+                            "topicContent": "Estimate and compare the capacities of two containers by sight.Check estimations by actually measuring and discuss the results as a class."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Ordering Containers by Capacity: Arranging Non-Standard Measured Containers",
+                            "topicContent": "Fill several containers using the same non-standard unit of measurement.Arrange the containers in order of capacity and engage in a class discussion."
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Equal Capacity in Different Shapes: Creating Collections of Identical Capacity",
+                            "topicContent": "Make a collection of containers with different shapes but equal capacity.Discuss the concept of equal capacity even when containers have varying shapes.."
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Estimating and Measuring with Standard Units: Introducing Litre, Half-Litre, and Quarter-Litre",
+                            "topicContent": "Explore the standard units of capacity: litre, half-litre, and quarter-litre.Use bottles of different sizes but similar capacities to estimate, measure, and compare."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Comparing Different-Sized Containers: Understanding Volume and Shape",
+                            "topicContent": "Compare capacities of containers with varying sizes and shapes.Engage in discussions about why liquids are sold in different-sized or shaped cartons."
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Capacity Measurement Challenges: Applying Measurement in Real-Life Contexts",
+                            "topicContent": "Solve simple problems involving capacity measurement. Apply measurement skills to scenarios like filling containers with liquids."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Predicting Container Capacities: Exploring Volume and Shape Relationships",
+                            "topicContent": "Predict the capacities of containers based on their shapes. Discuss how volume and shape affect the amount a container can hold."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Creating Capacity Collections: Designing and Comparing Various Containers",
+                            "topicContent": "Design containers of different shapes and sizes with similar capacities.Compare the newly designed containers' capacities and discuss the creative process."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Sequencing Daily Events: Using Time Vocabulary to Tell Stories",
+                            "topicContent": "Introduce time-related vocabulary (morning, afternoon, evening).Sequence events from a typical day using the appropriate time-related terms."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Introduction to Time Devices: Exploring Simple Time-Measuring Tools",
+                            "topicContent": "Present simple time-measuring devices like sand timers or egg timers.Engage in activities where students measure short intervals of time using these devices."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Reading Hours and Half-Hours: Analog Clock Basics",
+                            "topicContent": "Introduce the concept of hours, half-hours, and quarter-hours on an analog clock.Practice reading and recording time using these intervals on a clock face."
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Telling Time on a Digital Clock: Reading Hours and Half-Hours",
+                            "topicContent": "Transition to reading time on a digital clock.Focus on hours and half-hours, comparing digital and analog representations."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Exploring Quarter-Hours: Analog Clock Mastery",
+                            "topicContent": "Deepen understanding of time by introducing quarter-hours on an analog clock. Read and record time at quarter-hour intervals, relating to everyday activities."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Comparing Analog and Digital Time: Matching Clocks and Digits",
+                            "topicContent": "Engage in activities to match analog clock faces with digital time displays.Reinforce the connection between the two methods of time representation."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Using a Calendar to Read Dates: Identifying Days, Dates, and Months",
+                            "topicContent": "Explore the calendar to read the day, date, and month.Understand the sequential nature of months and days, and identify seasons."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "Understanding Weeks and Months: Exploring 7 Days and 12 Months",
+                            "topicContent": "Discuss the concept of a week having 7 days and a year having 12 months.Create visual aids to represent the passage of weeks and months."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "The Passing of Time: Investigating 24 Hours and 365 Days",
+                            "topicContent": "Explore the concept of a full day consisting of 24 hours and a year having 365 days.Discuss the significance of time measurement in daily life."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Time and Seasons: Relating Calendar to Changing Seasons",
+                            "topicContent": "Connect the reading of day, date, and month on the calendar to the changing seasons.Discuss how different months are associated with specific seasons."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Introduction to Euro Coins: Recognizing and Naming Coins",
+                            "topicContent": "Present various euro coins and their denominations (1 cent to €2).Teach students to recognize and name the different coins."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Coin Exchange Game: Counting and Exchanging Euro Coins",
+                            "topicContent": "Engage in a hands-on activity where students exchange coins to reach specific values.Reinforce the understanding of coin values and combinations."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Writing Coin Values: Recording Money Amounts in Cents",
+                            "topicContent": "Teach students to write the value of a group of coins in cents. Practice adding and recording coin values using the cent notation."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Counting and Recording Money: Using Cents for Simple Transactions",
+                            "topicContent": "Create scenarios for students to count and record the total value of coins. Practice transactions involving smaller amounts in cents."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Introduction to Euros: Learning About Euro and Cent Symbols",
+                            "topicContent": "Introduce the symbols for euros (€) and cents (c). Teach students to write money amounts with the appropriate symbols."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Converting Cents to Euros: Recording Money Amounts in Euro Format",
+                            "topicContent": "Teach students to convert cents to euros for larger amounts.Practice recording money amounts using both euros and cents."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Adding Euro Coins: Combining Coins to Reach Euro Amounts",
+                            "topicContent": "Present examples where students need to combine coins to reach euro amounts.Reinforce the connection between cent and euro values."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Recognizing Coin Equivalents: Comparing Coins to Reach €1",
+                            "topicContent": "Explore different combinations of coins that equal €1. Emphasize that various coin combinations can represent the same value."
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Creating Money Amounts: Problem-Solving with Euro Coins",
+                            "topicContent": "Provide students with scenarios to create specific money amounts using different coins.Enhance problem-solving skills related to money calculations."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Solving Real-Life Money Situations: Applying Euros in Practical Scenarios",
+                            "topicContent": "Present real-life situations involving shopping, calculating change, and budgeting.Guide students in solving problems and making decisions using euros."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand Measure of knowledge to the test.",
+          "questions": [
+              
+              {
+                 "id": 0,
+                 "content": "If you have a pencil that measures 8 centimeters and an eraser that measures 5 centimeters, how much longer is the pencil?",
+                 "correctIndex": 0,
+                 "answers": ["3 centimeters", "13 centimeters", "2 centimeters", "10 centimeters"]
+               },
+               {
+                 "id": 1,
+                 "content": "Which measuring tool is best to measure the length of a small book?",
+                 "correctIndex": 2,
+                 "answers": ["Meter stick", "Trundle wheel", "Centimeter ruler", "Kilogram scale"]
+               },
+               {
+                 "id": 2,
+                 "content": "A rope measures 2.5 meters. If you cut it in half, how long is each piece?",
+                 "correctIndex": 1,
+                 "answers": ["1 meter", "1.25 meters", "2 meters", "2.5 meters"]
+               },
+               {
+                 "id": 3,
+                 "content": "If a container can hold 750 milliliters of water and another container can hold 300 milliliters of water, how much more can the first container hold?",
+                 "correctIndex": 3,
+                 "answers": ["250 milliliters", "450 liters", "600 milliliters", "450 milliliters"]
+               },
+               {
+                 "id": 4,
+                 "content": "How many centimeters are in half a meter?",
+                 "correctIndex": 1,
+                 "answers": ["100 cm", "50 cm", "200 cm", "75 cm"]
+               },
+               {
+                 "id": 5,
+                 "content": "What is the capacity of a container that can hold 3.5 liters of water?",
+                 "correctIndex": 0,
+                 "answers": ["3500 ml", "300 ml", "35 ml", "3000 ml"]
+               },
+               {
+                 "id": 6,
+                 "content": "If a classroom trundle wheel measures a distance of 15 meters from one end of the room to the other, how far will it measure if you go back and forth three times?",
+                 "correctIndex": 0,
+                 "answers": ["45 meters", "90 meters", "30 meters", "60 meters"]
+               },
+               {
+                 "id": 7,
+                 "content": "If a clock shows 9:30 AM, how much time is left until noon?",
+                 "correctIndex": 0,
+                 "answers": ["2.5 hours", "3 hours", "2 hours", "1.5 hours"]
+               },
+               {
+                 "id": 8,
+                 "content": "Which of the following is equivalent to 1 kilogram?",
+                 "correctIndex": 3,
+                 "answers": ["500 grams", "1000 milligrams", "2 kilograms", "1000 grams"]
+               },
+               {
+                 "id": 9,
+                 "content": "If you have 5 fifty-cent coins and 2 one-euro coins, how much money do you have?",
+                 "correctIndex": 2,
+                 "answers": ["3 euros", "3.50 euros", "4.50 euros", "2.50 euros"]
+               },
+               {
+                 "id": 10,
+                 "content": "Which measuring tool would you use to find out how heavy a bag of apples is?",
+                 "correctIndex": 1,
+                 "answers": ["Clock", "Kitchen scale", "Ruler", "Thermometer"]
+               },
+               {
+                 "id": 11,
+                 "content": "If a container holds 2 liters of water and another container holds 1500 milliliters of water, which container can hold more water?",
+                 "correctIndex": 0,
+                 "answers": ["2-liter container", "1500 ml container", "They hold the same amount", "Need more information"]
+               },
+               {
+                 "id": 12,
+                 "content": "How many half-liters are in 3 liters?",
+                 "correctIndex": 1,
+                 "answers": ["2 half-liters", "6 half-liters", "3 half-liters", "4 half-liters"]
+               },
+               {
+                 "id": 13,
+                 "content": "If a clock shows 2:15 PM and you have to leave at 3:30 PM, how much time do you have left?",
+                 "correctIndex": 3,
+                 "answers": ["15 minutes", "1 hour", "1 hour and 15 seconds", "1 hour and 15 minutes"]
+               },
+               {
+                 "id": 14,
+                 "content": "Which of the following coin combinations is equivalent to 50 cents?",
+                 "correctIndex": 0,
+                 "answers": ["Two 20-cent coins and one 10-cent coin", "One 50-cent coin and two 5-cent coins", "One 1-euro coin", "Five 10-cent coins"]
+               },
+               {
+                 "id": 15,
+                 "content": "A box of chocolates costs 2.50 euros. If you give the cashier a 2-euro coin and three 20-cent coins, how much change will you get back?",
+                 "correctIndex": 2,
+                 "answers": ["50 cents", "2 euros", " 10 cents", "1 euro and 30 cents"]
+               },
+               {
+                 "id": 16,
+                 "content": "If a race starts at 10:45 AM and lasts for 2 hours and 30 minutes, when does it end?",
+                 "correctIndex": 3,
+                 "answers": ["1:45 PM", "12:45 PM", "1:30 PM", "1:15 PM"]
+               },
+               {
+                 "id": 17,
+                 "content": "Which container can hold the most water: one with a capacity of 750 milliliters or one with a capacity of 0.75 liters?",
+                 "correctIndex": 2,
+                 "answers": ["The 750 ml container", "The 0.75 liter container", "Both can hold the same amount", "Need more information"]
+               },
+               {
+                 "id": 18,
+                 "content": "If you have 4 one-euro coins and 3 fifty-cent coins, how much money do you have?",
+                 "correctIndex": 1,
+                 "answers": ["2.50 euros", "5.50 euros", "3 euros", "4 euros"]
+               },
+               {
+                 "id": 19,
+                 "content": "Which of the following activities would take the least amount of time: Reading a short story, Watching a 2-hour movie, Taking a 30-minute nap, Playing a 1-hour game?",
+                 "correctIndex": 2,
+                 "answers": ["Reading a short story", "Watching a 2-hour movie", "Taking a 30-minute nap", "Playing a 1-hour game"]
+               },
+              
+              {
+                 "id": 20,
+                 "content": "If you have a pencil that measures 8 centimeters and an eraser that measures 5 centimeters, how much longer is the pencil?",
+                 "correctIndex": 0,
+                 "answers": ["3 centimeters", "13 centimeters", "2 centimeters", "10 centimeters"]
+               },
+               {
+                 "id": 21,
+                 "content": "Which unit of measurement is most suitable for weighing a bag of flour: grams or millimeters?",
+                 "correctIndex": 0,
+                 "answers": ["grams", "millimeters", "liters", "meters"]
+               },
+               {
+                 "id": 22,
+                 "content": "If you have a jar that holds 500 milliliters of water and another jar that holds 0.5 liters of water, which jar can hold more water?",
+                 "correctIndex": 0,
+                 "answers": ["they both hold the same amount", "jar that holds 0.5 liters", "jar that holds 1000 milliliters", "jar that holds 0.8 liters"]
+               },
+               {
+                 "id": 23,
+                 "content": "If a race starts at 9:15 AM and lasts for 1 hour and 30 minutes, what time does it end?",
+                 "correctIndex": 1,
+                 "answers": ["10:15 AM", "10:45 AM", "10:30 AM", "11:15 AM"]
+               },
+               {
+                 "id": 24,
+                 "content": "You have 3 one-euro coins, 4 fifty-cent coins, and 6 10-cent coins. How much money do you have in total?",
+                 "correctIndex": 2,
+                 "answers": ["€3.64", "€3.50", "€5.60", "€3.54"]
+               }
+              
+          ]
+      }
+       
+    }
+
+]

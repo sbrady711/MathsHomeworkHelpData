@@ -1,0 +1,2100 @@
+
+[
+    {
+        "id": 4,
+        "category": "Number",
+        "description": "Strand units: Counting and Numeration, Comparing and ordering, Place value and Operation (Addition, Subtraction, Multipliction).",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Place value 1-10,000",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 10,000."
+                        },
+          {
+          "id": 1,
+          "topicTitle": "Applying Operations (+, -, x, ÷)",
+          "topicContent": "Applying math operations (+, -, x, ÷) involves solving problems and calculations. Mastering these fundamentals is essential for various mathematical tasks. Add, subtract, multiply, and divide numbers with accuracy to enhance your problem-solving skills."
+          },
+          {
+          "id": 2,
+          "topicTitle": "Front-End Estimation",
+          "topicContent": "Front-End Estimation quickly approximates addition and subtraction results. Focus on leftmost digits to gauge magnitudes. This technique aids mental calculations and ensures reasonable answers."
+          },
+          {
+          "id": 3,
+          "topicTitle": "Rounding",
+          "topicContent": "Rounding approximates numbers to specific place values. Simplify numbers while retaining their value. This technique aids mental math, estimation, and working with large numbers effectively."
+          },
+          {
+          "id": 4,
+          "topicTitle": "Clustering",
+          "topicContent": "Clustering groups numbers for streamlined calculations. Add or subtract in manageable chunks. This method improves mental math accuracy and efficiency."
+          },
+          {
+          "id": 5,
+          "topicTitle": "Applying Make 10 to All Operations (+, -, x, ÷)",
+          "topicContent": "'Make 10' is a versatile strategy for all four operations (+, -, x, ÷). Manipulate numbers to create 10-based pairs. Simplify calculations and enhance mental math across addition, subtraction, multiplication, and division."
+          },
+          {
+          "id": 6,
+          "topicTitle": "Multiplication 1- 500",
+          "topicContent": "Now, let's progress to multiplying numbers from 1 to 500. These multiplication facts expand your mathematical capabilities. Remember, some of these facts might relate to doubling or combining smaller multiplication facts. With consistent practice, you'll become adept at multiplying within this broader range."
+          },
+          {
+          "id": 7,
+          "topicTitle": "Multiplication Facts ",
+          "topicContent": "Mastering multiplication facts is crucial for mathematical fluency. These facts are the foundation of more advanced math skills. Practice drills, flashcards, and online tools can help you memorize these facts efficiently. Once you're comfortable with multiplication facts, solving complex problems becomes smoother."
+          },
+          {
+          "id": 8,
+          "topicTitle": "Multiply a Two-Digit Number",
+          "topicContent": "Multiplying a two-digit number by larger numbers is a fundamental skill. Start by mastering the multiplication table for that one-digit number. Then apply it to multiplication problems with larger factors. For instance, if you've mastered the 10 times table, multiplying any number by 9 becomes intuitive."
+          },
+          {
+          "id": 9,
+          "topicTitle": "Multiply a Three-Digit Number",
+          "topicContent": "Multiplying a three-digit number requires a solid understanding of place value and multiplication techniques. Break down the problem into smaller steps, multiplying each digit by the other number and then combining the results. With practice, you'll confidently tackle multiplication involving three-digit numbers."
+          },
+          {
+          "id": 10,
+          "topicTitle": "Multiplying a Decimal",
+          "topicContent": "Multiplying decimals involves aligning numbers, multiplying as if whole, and placing the decimal correctly. It's crucial for accurate measurements and precise calculations."
+          },
+          {
+          "id": 11,
+          "topicTitle": "Multiply a Three-Digit Number by a Two-Digit Number",
+          "topicContent": "Multiply digits step by step, then sum partial products when multiplying three-digit by two-digit numbers. This skill prepares you for working with larger numbers and advanced calculations."
+          },
+          {
+          "id": 12,
+          "topicTitle": "Multiply a Decimal by a Decimal",
+          "topicContent": "Multiply decimals like whole numbers, then adjust decimal points based on decimal places. Use a calculator for convenience and accuracy when multiplying decimals."
+          },
+          {
+          "id": 13,
+          "topicTitle": "Learn Multiplication Algorithms",
+          "topicContent": "Master multiplication algorithms like standard long multiplication. Multiply digits, write partial products, and add them for solutions. Algorithms streamline various multiplication scenarios, enhancing your calculation skills."
+          },
+                        {
+                            "id": 14,
+                            "topicTitle": "Counting Objects",
+                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 10,000 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Counting by 1000s, 2000s, and 5000s",
+                            "topicContent": "We can count by skipping numbers. We will practice counting by 1000, 2000s, and 5000s. This will help us count larger quantities more quickly and efficiently."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Odd and Even Numbers",
+                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 10000."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10000."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10000. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 10,000 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 10,000."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10,000."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10,000. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 10,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 10,000."
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10,000."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10,000. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 15,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 15,000."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in three-digit numbers and how to represent numbers using base-1000 blocks and expanded form."
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In four-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different four-digit numbers and learn how to name them."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
+                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different four and three-digit numbers using base-1000 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers in expanded form."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10,000 blocks and expanded form."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In four-digit numbers up to 10,000, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different four-digit numbers up to 10,000 and learn how to name them."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10,000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different four-digit numbers up to 10,000 using base-10,000 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing four-digit numbers up to 10,000 in expanded form."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in three-digit and four-digit numbers up to 500 and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Hundreds, Thousands, and Ten thousands Place",
+                            "topicContent": "In three-digit numbers up to 10,000, the ones place represents the value of the tens, hundreds place represents the value of the groups of thousands, and the ten thousands place represents the value of the groups of thousands. We will practice identifying the hundreds, thousands and sometimes the ten thousands place in different four-digit and three-digit numbers up to 10,000 and learn how to name them."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10,000 blocks to represent numbers. Each block represents tens, hundreds place represents the value of the groups of thousands. We will practice representing different two-digit and three-digit numbers up to 500 using base-100 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit and four-digit numbers up to 10,000 in expanded form."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in three-digit and four-digit numbers up to 10,000 and how to represent numbers using base-1000 blocks and expanded form."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Hundreds, Thousand and Ten Thousands Place",
+                            "topicContent": "In three and four-digit numbers up to 10,000, the ones place represents the value of the units, the tens place represents the value of the groups of ten,the hundreds place represents the value of the groups of hundred etc. We will practice identifying these values in different three-digit and four-digit numbers up to 10,000 and learn how to name them."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
+                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred etc. We will practice representing different three-digit and four-digit numbers up to 10,000 using base-1000 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three and four-digit numbers up to 10,000 in expanded form."
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Add and subtract whole numbers and decimals (to three decimal places) without and with a calculator",
+                            "topicContent": ".."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Multiply a decimal (up to three places) by a whole number, without and with a calculator",
+                            "topicContent": "We will practice multiplying single-digit numbers up to 12 using pictures, number lines, and mental math. We will also learn how to write multiplication sentences using the plus symbol (x) and the equal symbol (=)."
+                        },
+                        {
+                            "id": 50,
+                            "topicTitle": "Word Problems Multiplication(decimals)",
+                            "topicContent": "Word Problems in multiplication involve real-life situations, challenging you to apply multiplication to solve practical scenarios. They improve problem-solving skills by translating written information into mathematical equations, showcasing the applicability of multiplication in various contexts."
+                        },
+                        {
+                            "id": 51,
+                            "topicTitle": "Long Multiplication",
+                            "topicContent": "Long Multiplication is a method for multiplying multi-digit numbers. It breaks down multiplication into steps, multiplying digits and adding products while considering place values. Mastering long multiplication simplifies complex calculations involving larger numbers and enhances mathematical proficiency."
+                        },
+                        {
+                            "id": 52,
+                            "topicTitle": "Multiplication Three-Digit Numbers",
+                            "topicContent": "We will practice multiplying two-digit numbers up to 200 using pictures, number lines, and mental math. We will then move on to adding double-digit numbers up to 500 using a similar approach."
+                        },
+                        {
+                            "id": 53,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer."
+                        },
+                 {
+                            "id": 54,
+                            "topicTitle": "Introduction to Multiplication of Three-Digit Numbers without Regrouping",
+                            "topicContent": "Multiplication of three-digit numbers without regrouping is the process of repeated adding of two-digit numbers where there is no need to regroup or carry over. We will learn the symbols and vocabulary associated with addition and practice adding three-digit numbers up to 500 and 200 without regrouping."
+                        },
+                        {
+                            "id": 55,
+                            "topicTitle": "Multiplication Three-Digit Numbers without Regrouping",
+                            "topicContent": "We will practice multiplying three-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, add the ones place and the tens place separately, and write the final answer."
+                        },
+                        {
+                            "id": 56,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication of three-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
+                        },
+              {
+                            "id": 57,
+                            "topicTitle": "Introduction to Multiplication with Regrouping",
+                            "topicContent": "Multiplication with regrouping. We will learn the symbols and vocabulary associated with addition with regrouping and practice multiplying three-digit numbers up to 500 with regrouping."
+                        },
+                        {
+                            "id": 58,
+                            "topicTitle": "Multiplication Three-Digit Numbers with Regrouping",
+                            "topicContent": "We will practice multiplying two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, add the ones place and the tens place separately. We will also practice checking our work by adding the numbers vertically and horizontally to make sure they match."
+                        },
+                        {
+                            "id": 59,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving multiplication of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer. We will also learn how to check our work by dividing."
+                        },
+                        {
+                            "id": 60,
+                            "topicTitle": "Introduction to Subtraction 10,000",
+                            "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 10,000 apples and we eat 200, we are left with 300 apples. We use the minus sign (-) to show subtraction. So 10,400 - 2000 = 8400."
+                        },
+                        {
+                            "id": 61,
+                            "topicTitle": "Subtracting Numbers from 1 to 10,000",
+                            "topicContent": "Let's start with some simple subtraction problems. For example, 9721 - 1200 = 8521. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 3000 from 5000, we start at 5 and count backwards 3000 numbers: 5000, 4000, 3000. So 5000 - 3000 = 2000."
+                        },
+                        {
+                            "id": 62,
+                            "topicTitle": "Subtracting Numbers from 1000 to 10,000",
+                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 8600 from 11,340, we can start at 600 and subtract 340 numbers: 11,000, 10,000,... So 11,340 - 8600 = 2740."
+                        },
+                        {
+                            "id": 63,
+                            "topicTitle": "Practice Problems",
+                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 6700 - 53, 10,014 - 4600, 5742 - 2960, 47,700 - 111, 8000 - 68."
+                        },
+                        {
+                            "id": 64,
+                            "topicTitle": "Wrap-up",
+                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 500 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
+                        },
+                        {
+                        "id": 65,
+                        "topicTitle": "Subtracting Numbers from 1 to 10,000",
+                        "topicContent": "Subtracting 1 to 10,000 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
+                        },
+                        {
+                        "id": 66,
+                        "topicTitle": "Subtracting Numbers from 1 to 10,000",
+                        "topicContent": "Let's dive into subtracting 1 to 500. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
+                        },
+                        {
+                        "id": 67,
+                        "topicTitle": "Subtracting Numbers from 1 to 15,000",
+                        "topicContent": "Now explore subtracting within 1 to 15,000. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
+                        },
+                        {
+                        "id": 68,
+                        "topicTitle": "Subtraction Tips",
+                        "topicContent": "Great progress! Master subtracting 1 to 15,000 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
+                        },
+                        {
+                        "id": 69,
+                        "topicTitle": "Subtraction Word Problems",
+                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
+                        },
+                        {
+                        "id": 70,
+                        "topicTitle": "Subtraction with Regrouping 1 - 15,000",
+                        "topicContent": "Regrouping (borrowing) is vital for 1 to 15,000 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
+                        }
+                        
+                        
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Number strand knowledge to the test.",
+               "questions": [
+                   {
+                        "id": 0,
+                        "content": "What is the value of the digit in the tens place in the number 7,489?",
+                        "correctIndex": 2,
+                        "answers": [
+                           "8",
+                           "7",
+                           "80",
+                           "9"
+                        ]
+                     },
+                     {
+                        "id": 1,
+                        "content": "Which operation involves solving problems and calculations?",
+                        "correctIndex": 1,
+                        "answers": [
+                           "Counting",
+                           "Applying Operations",
+                           "Rounding",
+                           "Clustering"
+                        ]
+                     },
+                     {
+                        "id": 2,
+                        "content": "What technique aids mental calculations by quickly approximating addition and subtraction results?",
+                        "correctIndex": 2,
+                        "answers": [
+                           "Clustering",
+                           "Rounding",
+                           "Front-End Estimation",
+                           "Make 10"
+                        ]
+                     },
+                     {
+                        "id": 3,
+                        "content": "What is the process of approximating numbers to specific place values?",
+                        "correctIndex": 1,
+                        "answers": [
+                           "Adding",
+                           "Rounding",
+                           "Subtracting",
+                           "Multiplying"
+                        ]
+                     },
+              
+                     {
+                        "id": 4,
+                        "content": "What is the method for multiplying multi-digit numbers that breaks down multiplication into steps?",
+                        "correctIndex": 3,
+                        "answers": [
+                           "Long Division",
+                           "Addition",
+                           "Subtraction",
+                           "Long Multiplication"
+                        ]
+                     },
+                     
+                     {
+                        "id": 5,
+                        "content": "What is the process of taking away a smaller number from a bigger number?",
+                        "correctIndex": 3,
+                        "answers": [
+                           "Adding",
+                           "Multiplying",
+                           "Dividing",
+                           "Subtracting"
+                        ]
+                     },
+                     
+                     {
+                        "id": 6,
+                        "content": "What is the purpose of regrouping (borrowing) in subtraction?",
+                        "correctIndex": 0,
+                        "answers": [
+                           "To handle larger numbers in calculations",
+                           "To make calculations simpler",
+                           "To avoid subtraction",
+                           "To multiply numbers"
+                        ]
+                     },
+                     {
+                        "id": 7,
+                        "content": "What method simplifies complex calculations involving larger numbers in multiplication?",
+                        "correctIndex": 3,
+                        "answers": [
+                           "Front-End Estimation",
+                           "Counting Backwards",
+                           "Rounding",
+                           "Long Multiplication"
+                        ]
+                     },
+             
+                     {
+                        "id": 8,
+                        "content": "What is the value of the digit in the hundreds place in the number 6,725?",
+                        "correctIndex": 3,
+                        "answers": [
+                           "7",
+                           "2",
+                           "5",
+                           "6"
+                        ]
+                     },
+                    
+                       {
+                          "id": 9,
+                          "content": "If you multiply a number by 1, what will be the result?",
+                          "correctIndex": 0,
+                          "answers": [
+                             "The same number",
+                             "Double the number",
+                             "Half the number",
+                             "Zero"
+                          ]
+                       },
+                       {
+                          "id": 10,
+                          "content": "What is the product of 8 and 7?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "15",
+                             "56",
+                             "56",
+                             "64"
+                          ]
+                       },
+                       {
+                          "id": 11,
+                          "content": "Which of the following numbers is a multiple of both 4 and 6?",
+                          "correctIndex": 1,
+                          "answers": [
+                             "12",
+                             "24",
+                             "18",
+                             "30"
+                          ]
+                       },
+                       {
+                          "id": 12,
+                          "content": "If you divide 72 by 9, what will be the quotient?",
+                          "correctIndex": 0,
+                          "answers": [
+                             "8",
+                             "6",
+                             "7",
+                             "9"
+                          ]
+                       },
+                       {
+                          "id": 13,
+                          "content": "What is the sum of the first 10 even numbers?",
+                          "correctIndex": 3,
+                          "answers": [
+                             "35",
+                             "45",
+                             "50",
+                             "30"
+                          ]
+                       },
+                       {
+                          "id": 14,
+                          "content": "Which of the following fractions is equivalent to 0.75?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "1/3",
+                             "2/5",
+                             "3/4",
+                             "4/7"
+                          ]
+                       },
+                       {
+                          "id": 15,
+                          "content": "If you add 25 to a number and then subtract 15, what is the net effect on the number?",
+                          "correctIndex": 0,
+                          "answers": [
+                             "You increase the number by 10",
+                             "You decrease the number by 10",
+                             "The number remains unchanged",
+                             "You double the number"
+                          ]
+                       },
+                       {
+                          "id": 16,
+                          "content": "What is the value of the digit 7 in the number 6,879?",
+                          "correctIndex": 1,
+                          "answers": [
+                             "700",
+                             "70",
+                             "7",
+                             "7000"
+                          ]
+                       },
+                       {
+                          "id": 17,
+                          "content": "Which of the following numbers is not a prime number?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "13",
+                             "17",
+                             "20",
+                             "23"
+                          ]
+                       },
+                       {
+                          "id": 18,
+                          "content": "If you round the number 746 to the nearest ten, what will be the result?",
+                          "correctIndex": 1,
+                          "answers": [
+                             "740",
+                             "750",
+                             "700",
+                             "760"
+                          ]
+                       },
+                       {
+                          "id": 19,
+                          "content": "What is the difference between 543 and 219?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "326",
+                             "325",
+                             "324",
+                             "327"
+                          ]
+                       },
+                       {
+                          "id": 20,
+                          "content": "If you multiply a number by 0, what will be the result?",
+                          "correctIndex": 3,
+                          "answers": [
+                             "The same number",
+                             "5",
+                             "Double the number",
+                             "Zero"
+                          ]
+                       },
+                       {
+                          "id": 21,
+                          "content": "What is the next prime number after 29?",
+                          "correctIndex": 0,
+                          "answers": [
+                             "31",
+                             "33",
+                             "30",
+                             "29"
+                          ]
+                       },
+                       {
+                          "id": 22,
+                          "content": "If you have 3 equal groups of 5 apples each, how many apples are there in total?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "10",
+                             "8",
+                             "15",
+                             "10"
+                          ]
+                       },
+                       {
+                          "id": 23,
+                          "content": "Which of the following numbers is a factor of 48?",
+                          "correctIndex": 1,
+                          "answers": [
+                             "25",
+                             "12",
+                             "18",
+                             "36"
+                          ]
+                       },
+                       {
+                          "id": 24,
+                          "content": "What is the value of the digit 9 in the number 3,952?",
+                          "correctIndex": 0,
+                          "answers": [
+                             "900",
+                             "90",
+                             "9",
+                             "9000"
+                          ]
+                       },
+                       {
+                          "id": 25,
+                          "content": "What is the result of dividing 64 by 8?",
+                          "correctIndex": 2,
+                          "answers": [
+                             "16",
+                             "80",
+                             "8",
+                             "14"
+                          ]
+                       },
+                       {
+                          "id": 26,
+                          "content": "What is the sum of the first 5 prime numbers?",
+                          "correctIndex": 1,
+                          "answers": [
+                             "10",
+                             "28",
+                             "18",
+                             "15"
+                          ]
+                       },
+                       {
+                          "id": 27,
+                          "content": "If you add 3 to a number three times, what operation can represent this situation?",
+                          "correctIndex": 3,
+                          "answers": [
+                             "Subtraction",
+                             "Division",
+                             "Multiplication",
+                             "Addition"
+                          ]
+                       },
+                       {
+                           "id": 28,
+                           "content": "What is the product of 7 and 9?",
+                           "correctIndex": 1,
+                           "answers": [
+                              "56",
+                              "63",
+                              "64",
+                              "60"
+                           ]
+                        },
+                        {
+                           "id": 29,
+                           "content": "Which of the following numbers is a multiple of both 3 and 5?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "15",
+                              "24",
+                              "18",
+                              "30"
+                           ]
+                        },
+                        {
+                           "id": 30,
+                           "content": "If you divide 81 by 9, what will be the quotient?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "4",
+                              "8",
+                              "9",
+                              "10"
+                           ]
+                        },
+                        {
+                           "id": 31,
+                           "content": "What is the sum of the first 10?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "50",
+                              "45",
+                              "55",
+                              "60"
+                           ]
+                        },
+                        {
+                           "id": 32,
+                           "content": "Which of the following fractions is equivalent to 0.5?",
+                           "correctIndex": 1,
+                           "answers": [
+                              "1/3",
+                              "1/2",
+                              "3/4",
+                              "2/5"
+                           ]
+                        },
+                        {
+                           "id": 33,
+                           "content": "If you add 20 to a number and then multiply by 4, what is the net effect on the number?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "You increase the number by 20",
+                              "You double the number",
+                              "You quadruple the number",
+                              "The number remains unchanged"
+                           ]
+                        },
+                        {
+                           "id": 34,
+                           "content": "What is the value of the digit 6 in the number 4,689?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "600",
+                              "60",
+                              "6",
+                              "6000"
+                           ]
+                        },
+                        {
+                           "id": 35,
+                           "content": "What is the difference between 798 and 425?",
+                           "correctIndex": 1,
+                           "answers": [
+                              "363",
+                              "373",
+                              "353",
+                              "343"
+                           ]
+                        },
+                        {
+                           "id": 36,
+                           "content": "If you multiply a number by 10, what will be the result?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "Ten times the number",
+                              "The same number",
+                              "Half the number",
+                              "Zero"
+                           ]
+                        },
+                        {
+                           "id": 37,
+                           "content": "What is the next prime number after 40?",
+                           "correctIndex": 3,
+                           "answers": [
+                              "43",
+                              "47",
+                              "45",
+                              "41"
+                           ]
+                        },
+                        {
+                           "id": 38,
+                           "content": "If you round the number 3,892 to the nearest hundred, what will be the result?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "3910",
+                              "3800",
+                              "3900",
+                              "4000"
+                           ]
+                        },
+                        {
+                           "id": 39,
+                           "content": "What is the result of dividing 125 by 5?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "25",
+                              "20",
+                              "15",
+                              "30"
+                           ]
+                        },
+                        {
+                           "id": 40,
+                           "content": "Which of the following numbers is not a factor of 72?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "12",
+                              "18",
+                              "20",
+                              "36"
+                           ]
+                        },
+                  
+                        {
+                           "id": 41,
+                           "content": "Which of the following fractions is equivalent to 0.25?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "1/4",
+                              "2/5",
+                              "3/4",
+                              "1/3"
+                           ]
+                        },
+                        {
+                           "id": 42,
+                           "content": "What is the result of adding 85 and 67?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "151",
+                              "142",
+                              "152",
+                              "162"
+                           ]
+                        },
+                        {
+                           "id": 43,
+                           "content": "What is the value of the digit 3 in the number 9,327?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "300",
+                              "30",
+                              "3",
+                              "3000"
+                           ]
+                        },
+                        {
+                           "id": 44,
+                           "content": "What is the product of 6 and 5?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "25",
+                              "35",
+                              "30",
+                              "40"
+                           ]
+                        },
+                        {
+                           "id": 45,
+                           "content": "What is the smallest prime number?",
+                           "correctIndex": 3,
+                           "answers": [
+                              "3",
+                              "3",
+                              "1",
+                              "2"
+                           ]
+                        },
+                        {
+                           "id": 46,
+                           "content": "If you subtract 5 from a number four times, what operation can represent this situation?",
+                           "correctIndex": 0,
+                           "answers": [
+                              "Subtraction",
+                              "Addition",
+                              "Division",
+                              "Multiplication"
+                           ]
+                        },
+                        {
+                           "id": 47,
+                           "content": "What is the result of dividing 144 by 12?",
+                           "correctIndex": 2,
+                           "answers": [
+                              "18",
+                              "24",
+                              "12",
+                              "14"
+                           ]
+                        },
+                        {
+                              "id": 48,
+                              "content": "If a bookshelf has 5 shelves, and each shelf can hold 8 books, how many books can the bookshelf hold in total?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "35",
+                                 "40",
+                                 "45",
+                                 "50"
+                              ]
+                           },
+                           {
+                              "id": 49,
+                              "content": "What is the next number in the sequence: 12, 24, 36, 48, ...?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "52",
+                                 "60",
+                                 "56",
+                                 "64"
+                              ]
+                           },
+                           {
+                              "id": 50,
+                              "content": "If a bag contains 72 marbles and 1/2 of them are blue, how many marbles are blue?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "21",
+                                 "24",
+                                 "27",
+                                 "36"
+                              ]
+                           },
+                           {
+                              "id": 51,
+                              "content": "What is the product of 9 and 5, and then divided by 3?",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "15",
+                                 "9",
+                                 "14",
+                                 "12"
+                              ]
+                           },
+                           {
+                              "id": 52,
+                              "content": "Which of the following fractions is equivalent to one-quarter?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "2/5",
+                                 "1/3",
+                                 "3/12",
+                                 "4/7"
+                              ]
+                           },
+                           {
+                              "id": 53,
+                              "content": "If you multiply a number by 7 and then add 16, the result is 65. What is the number?",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "7",
+                                 "9",
+                                 "8",
+                                 "6"
+                              ]
+                           },
+                           {
+                              "id": 54,
+                              "content": "What is the largest prime number less than 30?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "23",
+                                 "29",
+                                 "31",
+                                 "27"
+                              ]
+                           },
+                           {
+                              "id": 55,
+                              "content": "If the perimeter of a square is 32 units, what is the length of one side of the square if the width is 6?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "6 units",
+                                 "8 units",
+                                 "4 units",
+                                 "10 units"
+                              ]
+                           },
+                           {
+                              "id": 56,
+                              "content": "A bakery sold 48 muffins in the morning and 37 muffins in the afternoon. How many muffins were sold in total?",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "85 muffins",
+                                 "75 muffins",
+                                 "90 muffins",
+                                 "100 muffins"
+                              ]
+                           },
+                           {
+                              "id": 57,
+                              "content": "If you round the number 6,874 to the nearest hundred, what will be the result?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "6800",
+                                 "6900",
+                                 "7000",
+                                 "68000"
+                              ]
+                           },
+                           {
+                              "id": 58,
+                              "content": "Samantha has 3 times as many stickers as Max. If Max has 18 stickers, how many stickers does Samantha have?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "45 stickers",
+                                 "36 stickers",
+                                 "27 stickers",
+                                 "54 stickers"
+                              ]
+                           },
+                           {
+                              "id": 59,
+                              "content": "What is the result of subtracting 3.75 from 9.6?",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "5.85",
+                                 "6.35",
+                                 "5.15",
+                                 "4.95"
+                              ]
+                           },
+                           {
+                              "id": 60,
+                              "content": "Which of the following numbers is a prime number?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "15",
+                                 "20",
+                                 "17",
+                                 "22"
+                              ]
+                           },
+                           {
+                              "id": 61,
+                              "content": "If you divide 135 by 9 and then add 7, what is the result?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "23",
+                                 "22",
+                                 "24",
+                                 "25"
+                              ]
+                           },
+                           {
+                              "id": 62,
+                              "content": "Which of the following numbers is a multiple of both 4 and 6?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "28",
+                                 "32",
+                                 "36",
+                                 "40"
+                              ]
+                           },
+                           {
+                              "id": 63,
+                              "content": "If you multiply a number by 5 and then subtract 15, the result is 60. What is the number?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "5",
+                                 "11",
+                                 "9",
+                                 "12"
+                              ]
+                           },
+                           {
+                              "id": 64,
+                              "content": "What is the value of the digit 7 in the number 7,892?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "700",
+                                 "70",
+                                 "7",
+                                 "7000"
+                              ]
+                           },
+                           {
+                              "id": 65,
+                              "content": "A school has 240 students. If 3/4 of them walk to school, how many students walk to school?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "144 students",
+                                 "120 students",
+                                 "160 students",
+                                 "180 students"
+                              ]
+                           },
+                           {
+                              "id": 66,
+                              "content": "If you add 25% of 80 to the number 60, what is the result?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "65",
+                                 "70",
+                                 "75",
+                                 "80"
+                              ]
+                           },
+                           {
+                              "id": 67,
+                              "content": "What is the sum of the first 7 prime numbers?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "24",
+                                 "58",
+                                 "32",
+                                 "42"
+                              ]
+                           },
+                           {
+                                 "id": 68,
+                                 "content": "Write the number 8,267 in expanded form.",
+                                 "correctIndex": 3,
+                                 "answers": [
+                                     "8000 + 200 + 600 + 7",
+                                     "8000 + 600 + 70 + 2",
+                                     "8000 + 2000 + 600 + 70",
+                                     "8000 + 200 + 60 + 7"
+                                 ]
+                             },
+                             {
+                                 "id": 69,
+                                 "content": "What is the value of the digit 7 in the number 9,748?",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "7",
+                                     "70",
+                                     "700",
+                                     "7000"
+                                 ]
+                             },
+                             {
+                                 "id": 70,
+                                 "content": "Count by 2,000s starting from 3,000 up to 15,000.",
+                                 "correctIndex": 1,
+                                 "answers": [
+                                     "3000, 5000, 6000, 9000, 11000, 13000, 15000",
+                                     "3000, 5000, 7000, 9000, 11000, 13000, 15000",
+                                     "4000, 6000, 8000, 10000, 12000, 14000, 16000",
+                                     "2000, 4000, 6000, 8000, 10000, 12000, 14000, 16000"
+                                 ]
+                             },
+                             {
+                                 "id": 71,
+                                 "content": "If you add 4,732 and 2,869, what will be the sum?",
+                                 "correctIndex": 0,
+                                 "answers": [
+                                     "7601",
+                                     "721",
+                                     "9361",
+                                     "8901"
+                                 ]
+                             },
+                             {
+                                 "id": 72,
+                                 "content": "Multiply 234 by 6.",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "124",
+                                     "1403",
+                                     "1404",
+                                     "146"
+                                 ]
+                             },
+                             {
+                                 "id": 73,
+                                 "content": "What is the product of 17 and 53?",
+                                 "correctIndex": 3,
+                                 "answers": [
+                                     "910",
+                                     "902",
+                                     "940",
+                                     "901"
+                                 ]
+                             },
+                             {
+                                 "id": 74,
+                                 "content": "Solve the word problem: If each box contains 25 pencils and there are 15 boxes, how many pencils are there in total?",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "370",
+                                     "300",
+                                     "375",
+                                     "250"
+                                 ]
+                             },
+                             {
+                                 "id": 75,
+                                 "content": "Calculate 412 multiplied by 3.",
+                                 "correctIndex": 1,
+                                 "answers": [
+                                     "1246",
+                                     "1236",
+                                     "1214",
+                                     "1239"
+                                 ]
+                             },
+                             {
+                                 "id":76,
+                                 "content": "Round 6,873 to the nearest hundred.",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "6800",
+                                     "700",
+                                     "6900",
+                                     "6700"
+                                 ]
+                             },
+                             {
+                                 "id": 77,
+                                 "content": "Estimate the sum of 3,285 and 1,469 by rounding both numbers to the nearest thousand and then adding them.",
+                                 "correctIndex": 0,
+                                 "answers": [
+                                     "5000",
+                                     "6000",
+                                     "5000",
+                                     "4000"
+                                 ]
+                             },
+                             {
+                                 "id": 78,
+                                 "content": "Compare 5,632 and 4,789 using the symbols <, >, or =.",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "5632 < 4789",
+                                     "5632 > 4789",
+                                     "5632 > 4789",
+                                     "5632 = 4789"
+                                 ]
+                             },
+                             {
+                                 "id": 79,
+                                 "content": "Order the following numbers from least to greatest: 6,215; 8,943; 5,732; 7,100.",
+                                 "correctIndex": 0,
+                                 "answers": [
+                                     "5,732; 6,215; 7,100; 8,943",
+                                     "5,732; 7,100; 6,215; 8,943",
+                                     "5,732; 7,100; 8,943; 6,215",
+                                     "8,943; 7,100; 6,215; 5,732"
+                                 ]
+                             },
+                             {
+                                 "id": 80,
+                                 "content": "Solve the word problem: John has 7,682 marbles, and Jane has 6,415 marbles. Who has more marbles, and by how much?",
+                                 "correctIndex": 1,
+                                 "answers": [
+                                     "John has more by 1,268 marbles.",
+                                     "Jane has more by 1,267 marbles.",
+                                     "John has more by 1,266 marbles.",
+                                     "They have the same number of marbles."
+                                 ]
+                             },
+                             {
+                                 "id": 81,
+                                 "content": "Subtract 2,149 from 5,789.",
+                                 "correctIndex": 3,
+                                 "answers": [
+                                     "3,647",
+                                     "3,240",
+                                     "2,640",
+                                     "3,640"
+                                 ]
+                             },
+                             {
+                                 "id": 82,
+                                 "content": "A bookshelf has 784 books. If 368 books are removed, how many books remain?",
+                                 "correctIndex": 1,
+                                 "answers": [
+                                     "417",
+                                     "416",
+                                     "296",
+                                     "368"
+                                 ]
+                             },
+                             {
+                                 "id": 83,
+                                 "content": "Find the difference between 9,812 and 3,497.",
+                                 "correctIndex": 0,
+                                 "answers": [
+                                     "6,315",
+                                     "5,314",
+                                     "5,313",
+                                     "5,316"
+                                 ]
+                             },
+                             {
+                                 "id": 84,
+                                 "content": "Multiply 243 by 7.",
+                                 "correctIndex": 2,
+                                 "answers": [
+                                     "1691",
+                                     "1491",
+                                     "1701",
+                                     "1601"
+                                 ]
+                             },
+                             {
+                                 "id": 85,
+                                 "content": "What is the product of 512 and 6?",
+                                 "correctIndex": 0,
+                                 "answers": [
+                                     "3072",
+                                     "3012",
+                                     "3202",
+                                     "3022"
+                                 ]
+                             },
+                             {
+                                 "id": 86,
+                                 "content": "Jane saved €45 each month for 9 months. How much money did she save in total?",
+                                 "correctIndex": 3,
+                                 "answers": [
+                                     "€406",
+                                     "€407",
+                                     "€315",
+                                     "€405"
+                                 ]
+                             },
+                             {
+                                 "id": 87,
+                                 "content": "A garden has 8 rows of tomato plants, with each row having 24 plants. How many tomato plants are there in total?",
+                                 "correctIndex": 1,
+                                 "answers": [
+                                     "193",
+                                     "192",
+                                     "216",
+                                     "168"
+                                 ]
+                             },
+                             {
+                                    "id": 88,
+                                    "content": "Add 789 and 465.",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "1256",
+                                        "1255",
+                                        "1254",
+                                        "1256"
+                                    ]
+                                },
+                                {
+                                    "id": 89,
+                                    "content": "Subtract 657 from 984.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "320",
+                                        "327",
+                                        "324",
+                                        "329"
+                                    ]
+                                },
+                                {
+                                    "id": 90,
+                                    "content": "Round 8,724 to the nearest thousand.",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "8000",
+                                        "10000",
+                                        "9000",
+                                        "8000"
+                                    ]
+                                },
+                                {
+                                    "id": 91,
+                                    "content": "Calculate 648 multiplied by 4.",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "2496",
+                                        "2456",
+                                        "2592",
+                                        "2508"
+                                    ]
+                                },
+                                {
+                                    "id": 92,
+                                    "content": "What is the product of 73 and 28?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                        "2004",
+                                        "2034",
+                                        "1984",
+                                        "2044"
+                                    ]
+                                },
+                                {
+                                    "id": 93,
+                                    "content": "If each box contains 36 crayons and there are 9 boxes, how many crayons are there in total?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                        "324",
+                                        "216",
+                                        "325",
+                                        "144"
+                                    ]
+                                },
+                                {
+                                    "id": 94,
+                                    "content": "Write the number three thousand, eight hundred sixty-two in standard form.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "3861",
+                                        "3862",
+                                        "368",
+                                        "38620"
+                                    ]
+                                },
+                                {
+                                    "id": 95,
+                                    "content": "Find the sum of 5,827 and 6,913.",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                        "14,740",
+                                        "14,570",
+                                        "13,740",
+                                        "12,740"
+                                    ]
+                                },
+                                {
+                                    "id": 96,
+                                    "content": "Which of the following numbers is a multiple of both 3 and 5?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                        "15",
+                                        "25",
+                                        "20",
+                                        "3"
+                                    ]
+                                },
+                                {
+                                    "id": 97,
+                                    "content": "Divide 648 by 9.",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "71",
+                                        "76",
+                                        "73",
+                                        "72"
+                                    ]
+                                },
+                                {
+                                    "id": 98,
+                                    "content": "Estimate the sum of 87 and 52 by rounding both numbers to the nearest ten and then multiplying them.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "40",
+                                        "140",
+                                        "480",
+                                        "142"
+                                    ]
+                                },
+                                {
+                                    "id": 99,
+                                    "content": "Compare 6,517 and 6,185 using the symbols <, >, or =.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "6517 > 6187",
+                                        "6517 > 6185",
+                                        "6517 < 6185",
+                                        "6517 = 6185"
+                                    ]
+                                },
+                                {
+                                    "id": 100,
+                                    "content": "Arrange the numbers from least to greatest: 4,721; 5,607; 4,815; 5,900.",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                        "4,721; 4,815; 5,607; 5,900",
+                                        "4,815; 4,721; 5,607; 5,900",
+                                        "5,607; 4,721; 4,815; 5,900",
+                                        "5,900; 5,607; 4,721; 4,815"
+                                    ]
+                                },
+                                {
+                                    "id": 101,
+                                    "content": "Solve the word problem: Lisa baked 3 dozen cookies. How many cookies did she bake in total?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "35",
+                                        "24",
+                                        "36",
+                                        "48"
+                                    ]
+                                },
+                                {
+                                    "id": 102,
+                                    "content": "If a book is 248 pages long and Timmy has read 87 pages, how many more pages does he need to read to finish the book?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                        "135",
+                                        "139",
+                                        "160",
+                                        "161"
+                                    ]
+                                },
+                                {
+                                    "id": 103,
+                                    "content": "Find the difference between 8,462 and 3,297.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "5168",
+                                        "5165",
+                                        "5163",
+                                        "5164"
+                                    ]
+                                },
+                                {
+                                    "id": 104,
+                                    "content": "Multiply 184 by 9.",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "1616",
+                                        "1634",
+                                        "1656",
+                                        "1726"
+                                    ]
+                                },
+                                {
+                                    "id": 105,
+                                    "content": "What is the product of 73 and 9?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                        "657",
+                                        "656",
+                                        "655",
+                                        "659"
+                                    ]
+                                },
+                                {
+                                    "id": 106,
+                                    "content": "The school bus can carry 48 students. If there are 3 busloads of students, how many students can be transported?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                        "126",
+                                        "138",
+                                        "144",
+                                        "136"
+                                    ]
+                                },
+                                {
+                                    "id": 107,
+                                    "content": "A rectangle has a length of 35 units and a width of 24 units. What is its perimeter?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                        "58 units",
+                                        "118 units",
+                                        "58 units",
+                                        "70 units"
+                                    ]
+                                },
+                                {
+                                       "id": 108,
+                                       "content": "If a bag contains 24 marbles and 18 of them are red, what fraction represents the red marbles?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "18/24",
+                                           "3/4",
+                                           "18/24",
+                                           "3/5"
+                                       ]
+                                   },
+                                   {
+                                       "id": 109,
+                                       "content": "Simplify the fraction 16/20 to its lowest terms.",
+                                       "correctIndex": 2,
+                                       "answers": [
+                                           "4/7",
+                                           "8/10",
+                                           "4/5",
+                                           "2/5"
+                                       ]
+                                   },
+                                   {
+                                       "id": 110,
+                                       "content": "What is the value of 7 x 11 = ?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "14",
+                                           "77",
+                                           "56",
+                                           "42"
+                                       ]
+                                   },
+                                   {
+                                       "id": 111,
+                                       "content": "Round 6.837 to the nearest tenth.",
+                                       "correctIndex": 2,
+                                       "answers": [
+                                           "6.1",
+                                           "6.7",
+                                           "6.8",
+                                           "7.0"
+                                       ]
+                                   },
+                                   {
+                                       "id": 112,
+                                       "content": "Find the least common multiple (LCM) of 6 and 9.",
+                                       "correctIndex": 0,
+                                       "answers": [
+                                           "18",
+                                           "22",
+                                           "19",
+                                           "37"
+                                       ]
+                                   },
+                                   {
+                                       "id": 113,
+                                       "content": "What is the next prime number after 17?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "18",
+                                           "19",
+                                           "20",
+                                           "21"
+                                       ]
+                                   },
+                                   {
+                                       "id": 114,
+                                       "content": "A rectangle has a length of 12 units and a width of 8 units. What is its area?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "95 square units",
+                                           "96 square units",
+                                           "104 square units",
+                                           "64 square units"
+                                       ]
+                                   },
+                                   {
+                                       "id": 115,
+                                       "content": "If a dozen pencils cost £4 GBP, how much do 8 pencils cost?",
+                                       "correctIndex": 0,
+                                       "answers": [
+                                           "£2.67",
+                                           "£2.66",
+                                           "£2.00",
+                                           "£3.00"
+                                       ]
+                                   },
+                                   {
+                                       "id": 116,
+                                       "content": "Solve for x: 5x - 7 = 23.",
+                                       "correctIndex": 2,
+                                       "answers": [
+                                           "5",
+                                           "9",
+                                           "6",
+                                           "8"
+                                       ]
+                                   },
+                                   {
+                                       "id": 117,
+                                       "content": "If the perimeter of a square is 36 units, what is the length of one side if the width is 3 ?",
+                                       "correctIndex": 3,
+                                       "answers": [
+                                           "6 units",
+                                           "9 units",
+                                           "2 units",
+                                           "15 units"
+                                       ]
+                                   },
+                                   {
+                                       "id": 118,
+                                       "content": "Calculate the average of 85, 92, and 78.",
+                                       "correctIndex": 0,
+                                       "answers": [
+                                           "85",
+                                           "85.67",
+                                           "85",
+                                           "91"
+                                       ]
+                                   },
+                                   {
+                                       "id": 119,
+                                       "content": "If the temperature decreased from 18°C to 10°C, by how many degrees did it change?",
+                                       "correctIndex": 3,
+                                       "answers": [
+                                           "7°C",
+                                           "10°C",
+                                           "6°C",
+                                           "8°C"
+                                       ]
+                                   },
+                                   {
+                                       "id": 120,
+                                       "content": "Multiply 5/8 by 3/4.",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "15/20",
+                                           "15/32",
+                                           "15/20",
+                                           "5/12"
+                                       ]
+                                   },
+                                   {
+                                       "id": 121,
+                                       "content": "What is the value of 3 parts of 4?",
+                                       "correctIndex": 2,
+                                       "answers": [
+                                           "0.81",
+                                           "0.64",
+                                           "0.75",
+                                           "1"
+                                       ]
+                                   },
+                                   {
+                                       "id": 122,
+                                       "content": "Find the quotient and remainder of 47 divided by 6.",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "Quotient: 7, Remainder: 4",
+                                           "Quotient: 7, Remainder: 5",
+                                           "Quotient: 8, Remainder: 4",
+                                           "Quotient: 8, Remainder: 5"
+                                       ]
+                                   },
+                                   {
+                                       "id": 123,
+                                       "content": "If the length of a rectangle is 15 units and its area is 75 square units, what is its width?",
+                                       "correctIndex": 2,
+                                       "answers": [
+                                           "53 units",
+                                           "10 units",
+                                           "5 units",
+                                           "7 units"
+                                       ]
+                                   },
+                                   {
+                                       "id": 124,
+                                       "content": "Which fraction is equivalent to 3/5?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "4/6",
+                                           "6/10",
+                                           "4/6",
+                                           "2/4"
+                                       ]
+                                   },
+                                   {
+                                       "id": 125,
+                                       "content": "If the sum of two consecutive even numbers is 42, what are the numbers?",
+                                       "correctIndex": 0,
+                                       "answers": [
+                                           "20 and 22",
+                                           "18 and 20",
+                                           "20 and 21",
+                                           "22 and 24"
+                                       ]
+                                   },
+                                   {
+                                       "id": 126,
+                                       "content": "Divide 15 by 0.5.",
+                                       "correctIndex": 3,
+                                       "answers": [
+                                           "3",
+                                           "7.5",
+                                           "30.5",
+                                           "30"
+                                       ]
+                                   },
+                                   {
+                                       "id": 127,
+                                       "content": "If a pizza is divided into 8 equal slices and 3 slices are eaten, what fraction of the pizza remains?",
+                                       "correctIndex": 1,
+                                       "answers": [
+                                           "3/8",
+                                           "5/8",
+                                           "3/8",
+                                           "2/8"
+                                       ]
+                                   },
+                                   
+                                   {
+                                          "id": 128,
+                                          "content": "Which decimal is equivalent to the fraction 3/4?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "0.25",
+                                              "0.75",
+                                              "0.5",
+                                              "0.15"
+                                          ]
+                                      },
+                                      {
+                                          "id": 129,
+                                          "content": "If a box contains 36 chocolates and 9 of them are milk chocolate, what fraction represents the milk chocolates?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "1/2",
+                                              "1/3",
+                                              "2/3",
+                                              "1/4"
+                                          ]
+                                      },
+                                      {
+                                          "id": 130,
+                                          "content": "What is the result of 25 multiplied by 4?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "10",
+                                              "29",
+                                              "100",
+                                              "21"
+                                          ]
+                                      },
+                                      {
+                                          "id": 131,
+                                          "content": "Round 8.764 to the nearest hundredth.",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "8.76",
+                                              "8.77",
+                                              "8.74",
+                                              "8.8"
+                                          ]
+                                      },
+                                      {
+                                          "id": 132,
+                                          "content": "What is the greatest common factor (GCF) of 24 and 36?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "11",
+                                              "6",
+                                              "12",
+                                              "18"
+                                          ]
+                                      },
+                                      {
+                                          "id": 133,
+                                          "content": "What is the next prime number after 31?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "32",
+                                              "37",
+                                              "35",
+                                              "39"
+                                          ]
+                                      },
+                                
+                                      {
+                                          "id": 134,
+                                          "content": "If a dozen oranges cost €6, how much do 4 oranges cost?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "€1.33",
+                                              "€1.50",
+                                              "€1.33",
+                                              "€2.00"
+                                          ]
+                                      },
+                                      {
+                                          "id": 135,
+                                          "content": "Solve for y: 2y + 5 = 17.",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "0",
+                                              "6",
+                                              "8",
+                                              "12"
+                                          ]
+                                      },
+                                      {
+                                          "id": 136,
+                                          "content": "If the area of a square is 49 square units, what is the length of one side?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "5 units",
+                                              "3 units",
+                                              "8 units",
+                                              "7 units"
+                                          ]
+                                      },
+                                      {
+                                          "id": 137,
+                                          "content": "Calculate the average of 62, 74, and 58.",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "62",
+                                              "64.67",
+                                              "62",
+                                              "68"
+                                          ]
+                                      },
+                                      {
+                                          "id": 138,
+                                          "content": "If the temperature increased from 20°C to 28°C, by how many degrees did it change?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "7°C",
+                                              "10°C",
+                                              "8°C",
+                                              "6°C"
+                                          ]
+                                      },
+                              
+                                      {
+                                          "id": 139,
+                                          "content": "What is the value of 4 divided by 10?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                              "2/5",
+                                              "3/6",
+                                              "9/10",
+                                              "1"
+                                          ]
+                                      },
+                                      {
+                                          "id": 140,
+                                          "content": "Find the quotient and remainder of 58 divided by 7.",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                              "Quotient: 8, Remainder: 2",
+                                              "Quotient: 7, Remainder: 4",
+                                              "Quotient: 8, Remainder: 3",
+                                              "Quotient: 9, Remainder: 1"
+                                          ]
+                                      },
+                                      {
+                                          "id": 141,
+                                          "content": "If the length of a rectangle is 18 units and its area is 90 square units, what is its width?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "4 units",
+                                              "7 units",
+                                              "6 units",
+                                              "5 units"
+                                          ]
+                                      },
+                                      {
+                                          "id": 142,
+                                          "content": "Which fraction is equivalent to 2/6?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "3/6",
+                                              "4/6",
+                                              "1/3",
+                                              "5/6"
+                                          ]
+                                      },
+                                      {
+                                          "id": 143,
+                                          "content": "If the sum of three consecutive odd numbers is 45, what are the numbers?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "13, 10, 17",
+                                              "11, 12, 15",
+                                              "13, 15, 17",
+                                              "17, 21, 21"
+                                          ]
+                                      },
+                                      {
+                                          "id": 144,
+                                          "content": "Multiply 2.5 by 0.8.",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "2.3",
+                                              "2.05",
+                                              "2.0",
+                                              "2.5"
+                                          ]
+                                      },
+                                      {
+                                          "id": 145,
+                                          "content": "If a cake is divided into 12 equal slices and 7 slices are eaten, what fraction of the cake remains?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                              "5/12",
+                                              "4/12",
+                                              "5/6",
+                                              "7/12"
+                                          ]
+                                      },
+                                      {
+                                          "id": 146,
+                                          "content": "Simplify the fraction 48/64 to its lowest terms.",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "2/3",
+                                              "4/6",
+                                              "3/4",
+                                              "6/8"
+                                          ]
+                                      },
+                                      {
+                                          "id": 147,
+                                          "content": "What is the smallest common multiple of 6 and 9?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "12",
+                                              "18",
+                                              "16",
+                                              "15"
+                                          ]
+                                      },
+                                      {
+                                          "id": 148,
+                                          "content": "If a bookshelf has 5 shelves and each shelf can hold 7 books, how many books can the bookshelf hold in total?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "13",
+                                              "30",
+                                              "40",
+                                              "35"
+                                          ]
+                                      },
+                                      {
+                                          "id": 149,
+                                          "content": "Calculate the perimeter of a rectangle with a length of 12 units and a width of 5 units.",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "17 units",
+                                              "33 units",
+                                              "34 units",
+                                              "60 units"
+                                          ]
+                                      },
+                                      {
+                                          "id": 150,
+                                          "content": "If the sum of two consecutive even numbers is 74, what are the numbers?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                              "36, 38",
+                                              "32, 34",
+                                              "40, 42",
+                                              "44, 46"
+                                          ]
+                                      },
+                                      {
+                                          "id": 151,
+                                          "content": "Calculate the product of 1.5 wehn multiplied by the sum of 2.4 and 3.6.",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                              "7.5",
+                                              "9.6",
+                                              "6.8",
+                                              "9"
+                                          ]
+                                      },
+                                      {
+                                          "id": 152,
+                                          "content": "Which fraction is equal to the repeating decimal 0.333...?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "1/2",
+                                              "1/3",
+                                              "2/3",
+                                              "3/4"
+                                          ]
+                                      },
+                                     
+                                      {
+                                          "id": 153,
+                                          "content": "If the ratio of boys to girls in a class is 3:5 and there are 24 students in total, how many girls are there?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                              "6 girls",
+                                              "15 girls",
+                                              "9 girls",
+                                              "12 girls"
+                                          ]
+                                      },
+                                      {
+                                          "id": 154,
+                                          "content": "What is the prime factorization of 48?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                              "2 × 3 × 4",
+                                              "2 × 24",
+                                              "2 × 2 × 2 × 2 × 3",
+                                              "2 × 2 × 12"
+                                          ]
+                                      }
+                                           
+                                         
+                                         
+               ]
+           }
+    }
+
+]

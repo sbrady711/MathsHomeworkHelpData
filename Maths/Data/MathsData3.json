@@ -1,0 +1,306 @@
+
+
+[
+    {
+        "id": 2,
+        "category": "Data",
+        "description": "Strand units: Representing and interpreting data",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Collecting and Recording Data",
+                            "topicContent": "Teach students how to collect data from their environment.Show them how to organize data in a tabular format. Discuss the importance of accurately recording data to ensure meaningful representation."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Representing Data with Pictograms",
+                            "topicContent": "Introduce pictograms as a way to represent collected data.Provide students with a data set (e.g., favorite colors) and guide them in creating a pictogram.Discuss the importance of choosing appropriate symbols and scales."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Creating Block Graphs and Bar Charts", "topicContent": "Introduce block graphs and bar charts as visual representations of data.Teach students how to use simple scales to represent data on these graphs.Guide them in creating block graphs and bar charts for different data sets."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Strengths and Limitations of Different Formats",
+                            "topicContent": "Discuss the strengths and limitations of using pictograms, block graphs, and bar charts.Engage students in a critical thinking discussion about when each format is most suitable. Encourage them to choose the best format based on the data they want to represent."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Using Computer Applications for Data",
+                            "topicContent": "Introduce the use of computer applications for organizing and representing data.If available, provide students with basic tools to input data and create graphs on a computer. Highlight the benefits of using technology for data handling."
+
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Reading and Interpreting Various Graphs",
+                            "topicContent": "Present tables, pictograms, block graphs, and bar charts to the students.Teach them how to read and interpret each type of representation. Provide various data sets and have students analyze and draw conclusions from the graphs."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Ordering Events by Likelihood",
+                            "topicContent": "Introduce the concepts of likelihood and uncertainty.Present students with simple events (e.g., school closure, sun shining) and have them order these events from least likely to most likely.Encourage discussions about why they ranked the events as they did."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Understanding Random Processes",
+                            "topicContent": "Introduce the concept of random processes.Have students perform coin tosses and record the outcomes. Guide them in drawing cubes from a bag with different colors and discussing the results."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Exploring Vocabulary of Uncertainty",
+                            "topicContent": "Teach students vocabulary related to uncertainty and chance (possible, impossible, might, certain, not sure). Present scenarios and have students use the vocabulary to describe the likelihood of each event."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Solving Problems with Data Sets",
+                            "topicContent": "Present practical problems that involve data sets.Challenge students to use the data they've collected and represented to solve these problems.Encourage critical thinking and application of data interpretation skills."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Data knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "You conducted a survey to find out students' favorite subjects. You recorded the data in a table. Which type of graph would be most suitable to represent this data?",
+                 "correctIndex": 2,
+                 "answers": ["Pictogram", "Block Graph", "Bar Chart", "Line Graph"]
+               },
+               {
+                 "id": 1,
+                 "content": "In a class, students were asked about their favorite season. You want to create a visual representation using squares. What would you create?",
+                 "correctIndex": 1,
+                 "answers": ["Line Graph", "Block Graph", "Pictogram", "Bar Chart"]
+               },
+               {
+                 "id": 2,
+                 "content": "If you want to show the number of books read by each student in a month, which graph format is most suitable?",
+                 "correctIndex": 2,
+                 "answers": ["Line Graph", "Pictogram", "Bar Chart", "Block Graph"]
+               },
+               {
+                 "id": 3,
+                 "content": "You want to compare the number of goals scored by two soccer teams in a tournament to show children. Which graph type should you use?",
+                 "correctIndex": 1,
+                 "answers": ["Line Graph", "Pictogram", "Bar Chart", "Block Graph"]
+               },
+          
+               {
+                 "id": 4,
+                 "content": "You have data about the number of students in each class level. Which type of graph should you use to represent this data?",
+                 "correctIndex": 3,
+                 "answers": ["Line Graph", "Pictogram", "Bar Chart", "Block Graph"]
+               },
+               {
+                 "id": 5,
+                 "content": "What is the likelihood of rolling an odd number on a fair six-sided number cube?",
+                 "correctIndex": 1,
+                 "answers": ["1/6", "1/2", "1/4", "1/3"]
+               },
+               {
+                 "id": 6,
+                 "content": "You have a spinner divided into 8 equal colour sections. What is the probability of it landing on a green section?",
+                 "correctIndex": 3,
+                 "answers": ["1/9", "1/4", "1/2", "1/8"]
+               },
+               {
+                 "id": 7,
+                 "content": "If you have a bag with 4 red marbles and 6 blue marbles, what is the probability of picking a red marble?",
+                 "correctIndex": 1,
+                 "answers": ["1/6", "2/5", "1/2", "3/10"]
+               },
+               {
+                 "id": 8,
+                 "content": "You flipped a coin three times and got heads each time. What is the likelihood of getting tails on the next flip?",
+                 "correctIndex": 1,
+                 "answers": ["1/2", "1/2", "1/4", "1/3"]
+               },
+             
+               {
+                 "id": 9,
+                 "content": "In a class, 15 students like soccer, 10 like basketball, and 5 like both. How many students were surveyed in total?",
+                 "correctIndex": 0,
+                 "answers": ["30", "25", "20", "35"]
+               },
+               {
+                 "id": 10,
+                 "content": "You roll two number cubes. What is the total number of possible outcomes?",
+                 "correctIndex": 2,
+                 "answers": ["12", "6", "36", "24"]
+               },
+               {
+                 "id": 11,
+                 "content": "You have a bag with 5 red marbles, 3 blue marbles, and 2 green marbles. What is the probability of picking a blue or a green marble?",
+                 "correctIndex": 1,
+                 "answers": ["2/10", "5/10", "3/10", "7/10"]
+               },
+               {
+                 "id": 12,
+                 "content": "In a game, you spin a spinner with 4 equal sections. What is the probability of it landing on a section with a star symbol?",
+                 "correctIndex": 3,
+                 "answers": ["1/2", "1/8", "1/8", "1/4"]
+               },
+               {
+                 "id": 13,
+                 "content": "If you have a bag with 10 red marbles and 7 blue marbles, what is the probability of not picking a red marble?",
+                 "correctIndex": 0,
+                 "answers": ["7/17", "3/17", "10/17", "10/7"]
+               },
+               {
+                 "id": 14,
+                 "content": "You flip a coin and roll a number cube. How many possible outcomes are there?",
+                 "correctIndex": 1,
+                 "answers": ["6", "12", "2", "36"]
+               },
+               {
+                 "id": 15,
+                 "content": "You toss a fair coin three times. How many possible outcomes have at least two heads?",
+                 "correctIndex": 2,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 16,
+                 "content": "If you have a spinner divided into 5 equal sections and 2 sections are red, what is the probability of landing on red?",
+                 "correctIndex": 0,
+                 "answers": ["2/5", "1/5", "3/5", "1/2"]
+               },
+               {
+                 "id": 17,
+                 "content": "You have a bag with 8 blue marbles, 4 green marbles, and 3 yellow marbles. What is the probability of picking a marble that is not green?",
+                 "correctIndex": 3,
+                 "answers": ["4/15", "7/15", "11/15", "11/15"]
+               },
+               {
+                 "id": 18,
+                 "content": "You surveyed your classmates about their favorite ice cream flavors. 15 students like chocolate, 12 like vanilla, and 8 like strawberry. What is the total number of students surveyed?",
+                 "correctIndex": 0,
+                 "answers": ["35", "27", "45", "22"]
+               },
+               {
+                 "id": 19,
+                 "content": "You rolled a number cube and tossed a coin. How many different outcomes are possible?",
+                 "correctIndex": 3,
+                 "answers": ["7", "11", "6", "12"]
+               },
+               {
+                 "id": 20,
+                 "content": "If you have a spinner divided into 6 equal sections and each section is a different color, what is the probability of landing on blue?",
+                 "correctIndex": 0,
+                 "answers": ["1/6", "1/3", "1/2", "1/4"]
+               },
+               {
+                 "id": 21,
+                 "content": "You flipped a fair coin and rolled a fair number cube. What is the total number of equally likely outcomes?",
+                 "correctIndex": 2,
+                 "answers": ["6", "7", "12", "36"]
+               },
+               {
+                 "id": 22,
+                 "content": "You have a bag with 10 red marbles and 5 blue marbles. What is the probability of picking a marble that is not red?",
+                 "correctIndex": 0,
+                 "answers": ["1/3", "1/2", "2/3", "3/5"]
+               },
+               {
+                 "id": 23,
+                 "content": "In a board game, you roll a number cube with the numbers 1 to 6. What is the probability of rolling an even number?",
+                 "correctIndex": 2,
+                 "answers": ["1/6", "1/3", "1/2", "2/3"]
+               },
+               {
+                 "id": 24,
+                 "content": "You surveyed  50 students about their favorite outdoor activity. 25 students like playing sports, 15 like riding bikes, and the rest like like hiking. What is the total number who like hiking?",
+                 "correctIndex": 3,
+                 "answers": ["40", "50", "30", "10"]
+               },
+               {
+                 "id": 25,
+                 "content": "If you toss a coin and roll a number cube, how many possible outcomes have the coin showing heads and the number cube showing an odd number?",
+                 "correctIndex": 2,
+                 "answers": ["3", "4", "6", "5"]
+               },
+               {
+                 "id": 26,
+                 "content": "You have a spinner divided into 8 equal sections. Three sections have smiley faces, and the rest have frowny faces. What is the probability of landing on a smiley face?",
+                 "correctIndex": 1,
+                 "answers": ["2/8", "3/8", "1/4", "1/2"]
+               },
+               {
+                 "id": 27,
+                 "content": "You rolled a number cube twice. What is the total number of possible outcomes?",
+                 "correctIndex": 3,
+                 "answers": ["12", "6", "2", "36"]
+               },
+               {
+                 "id": 28,
+                 "content": "If you have a spinner with 4 equal sections, 2 sections are blue, and 2 sections are green, what is the probability of landing on blue?",
+                 "correctIndex": 0,
+                 "answers": ["1/2", "1/4", "1/8", "2/5"]
+               },
+               {
+                 "id": 29,
+                 "content": "You flipped a coin four times and got tails each time. What is the probability of getting heads on the next flip?",
+                 "correctIndex": 0,
+                 "answers": ["1/2", "1/3", "1/4", "1/5"]
+               },
+               {
+                 "id": 30,
+                 "content": "You have a bag with 8 red marbles, 5 blue marbles, and 3 yellow marbles. What is the probability of picking a marble that is not blue?",
+                 "correctIndex": 1,
+                 "answers": ["5/16", "11/16", "8/16", "8/16"]
+               },
+               {
+                 "id": 31,
+                 "content": "In a class of 32, 18 students have a cat, 10 have a dog, and the rest dont have pets. How many students dont have pets?",
+                 "correctIndex": 2,
+                 "answers": ["2", "3", "4", "8"]
+               },
+               {
+                 "id": 32,
+                 "content": "You have a spinner divided into 5 equal sections, and one section is labeled 'Surprise.' What is the probability of landing on 'Surprise'?",
+                 "correctIndex": 3,
+                 "answers": ["1/4", "1/7", "1/6", "1/5"]
+               },
+               {
+                 "id": 33,
+                 "content": "You have a bag with 12 red marbles and 8 blue marbles. What is the probability of picking a marble that is blue?",
+                 "correctIndex": 2,
+                 "answers": ["1/4", "1/3", "2/5", "1/2"]
+               },
+               {
+                 "id": 34,
+                 "content": "If you roll two number cubes, each with the numbers 1 to 6, what is the total number of possible outcomes?",
+                 "correctIndex": 1,
+                 "answers": ["12", "36", "6", "72"]
+               },
+               {
+                 "id": 35,
+                 "content": "You toss a coin three times. How many possible outcomes have at least two heads?",
+                 "correctIndex": 0,
+                 "answers": ["4", "3", "2", "5"]
+               },
+               {
+                 "id": 36,
+                 "content": "If you have a spinner divided into 4 equal sections and 1 section is red, what is the probability of landing on red?",
+                 "correctIndex": 2,
+                 "answers": ["1/2", "1/4", "1/8", "1/3"]
+               },
+               {
+                 "id": 37,
+                 "content": "You have a bag with 6 blue marbles, 4 green marbles, and 2 yellow marbles. What is the probability of picking a marble that is not green?",
+                 "correctIndex": 3,
+                 "answers": ["5/12", "7/12", "9/12", "8/12"]
+               }
+              
+          ]
+      }
+       
+    }
+
+]

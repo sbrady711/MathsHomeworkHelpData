@@ -1,0 +1,207 @@
+
+[
+    {
+        "id": 0,
+        "category": "Shape and Space",
+        "description": "Strand units: Spatial awareness, 2-D shapes, 3-D shapes, Symmetry and Angles",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Lesson: Exploring Hexagons",
+                            "topicContent": "Introduce hexagons as shapes with six sides and angles. Describe the attributes of hexagons and how they differ from triangles and rectangles."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Lesson: Unraveling Irregular Shapes",
+                            "topicContent": "Introduce irregular shapes that don't have equal sides or angles.Discuss how irregular shapes can vary in their attributes. Identify and compare irregular shapes in the environment, like clouds and leaves.."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Lesson: Discovering Pentagons",
+                            "topicContent": "Introduce pentagons as shapes with five sides and five angles.Discuss real-world examples of pentagons, such as home plate in baseball. Explore the symmetry and attributes of pentagons."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Lesson: Investigating Octagons",
+                            "topicContent": "Introduce octagons as shapes with eight sides and angles.Discuss where octagons are commonly found, like stop signs.Compare octagons with other polygons in terms of sides and angles."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Lesson: Marveling at Circles and Semicircles",
+                            "topicContent": "Explore circles as round shapes with curved edges and no corners.Discuss how a semicircle is half of a circle and its unique attributes.Identify examples of circles and semicircles in everyday objects."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "sson: Exploring Ovals and Ellipses",
+                            "topicContent": "Introduce ovals as elongated round shapes with curved edges.Discuss the difference between ovals and circles. Explore how ellipses are stretched circles and their use in design."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Lesson: Creating Shape Collages",
+                            "topicContent": "Provide students with various 2-D shapes, including those not mentioned earlier. Have them create shape collages using a variety of shapes and sizes.Encourage creative arrangement and discussion of shapes' attributes."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Lesson: Tessellating Tiles Design",
+                            "topicContent": "Introduce tessellations, where shapes fit together without gaps or overlaps. Provide students with shape templates and have them design tessellating patterns. Discuss the use of tessellations in art and architecture."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Lesson: Shape Art Walk",
+                            "topicContent": "Take students on an art walk around the school or community.Identify and discuss different 2-D   Encourage students to observe how shapes contribute to the overall design."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Lesson: Shape Quiz",
+                            "topicContent": "Create bingo cards with various 2-D shapes.Call out attributes of shapes, and students mark the corresponding shape on their cards.Reinforce shape recognition and properties through a fun game."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Lesson: Exploring Lines of Symmetry",
+                            "topicContent": "Discuss lines of symmetry in shapes, including those mentioned earlier.Engage students in hands-on activities to fold shapes and identify lines of symmetry. Have students draw and label lines of symmetry in various shapes."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Lesson: Shape Comparison and Analysis",
+                            "topicContent": "Provide students with a set of shapes, including those mentioned earlier. Have them compare and analyze the properties of different shapes. Encourage discussions on which shapes have more sides, angles, or symmetry."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand of Shape knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "How many sides does a hexagon have?",
+                 "correctIndex": 2,
+                 "answers": ["Four", "Five", "Six", "Eight"]
+               },
+               {
+                 "id": 1,
+                 "content": "What term is used to describe shapes that don't have equal sides or angles?",
+                 "correctIndex": 2,
+                 "answers": ["Regular shapes", "Symmetrical shapes", "Irregular shapes", "Geometric shapes"]
+               },
+               {
+                 "id": 2,
+                 "content": "How many sides does a pentagon have?",
+                 "correctIndex": 1,
+                 "answers": ["Four", "Five", "Six", "Eight"]
+               },
+               {
+                 "id": 3,
+                 "content": "How many sides does an octagon have?",
+                 "correctIndex": 3,
+                 "answers": ["Four", "Five", "Six", "Eight"]
+               },
+               {
+                 "id": 4,
+                 "content": "What shape is described as round with curved edges and no corners?",
+                 "correctIndex": 0,
+                 "answers": ["Circle", "Rectangle", "Triangle", "Hexagon"]
+               },
+               {
+                 "id": 5,
+                 "content": "What term is used to describe elongated round shapes with curved edges?",
+                 "correctIndex": 0,
+                 "answers": ["Ovals", "Circles", "Ellipses", "Rectangles"]
+               },
+               {
+                 "id": 6,
+                 "content": "In a tessellation, how do shapes fit together?",
+                 "correctIndex": 1,
+                 "answers": ["With gaps", "Without gaps or overlaps", "With overlaps", "Randomly"]
+               },
+               {
+                 "id": 7,
+                 "content": "What type of shape has exactly one line of symmetry?",
+                 "correctIndex": 2,
+                 "answers": ["Rectangle", "Hexagon", "Triangle", "Circle"]
+               },
+               {
+                 "id": 8,
+                 "content": "What term is used for shapes that have the same shape and size?",
+                 "correctIndex": 0,
+                 "answers": ["Congruent", "Similar", "Symmetrical", "Regular"]
+               },
+               {
+                 "id": 9,
+                 "content": "What is the name of a shape with eight sides and angles?",
+                 "correctIndex": 3,
+                 "answers": ["Triangle", "Hexagon", "Pentagon", "Octagon"]
+               },
+               {
+                 "id": 10,
+                 "content": "What term is used to describe a stretched circle?",
+                 "correctIndex": 1,
+                 "answers": ["Oval", "Ellipse", "Triangle", "Hexagon"]
+               },
+               {
+                 "id": 11,
+                 "content": "What is the primary characteristic of irregular shapes?",
+                 "correctIndex": 2,
+                 "answers": ["Equal sides and angles", "Symmetrical properties", "Unequal sides and angles", "Perfect symmetry"]
+               },
+               {
+                 "id": 12,
+                 "content": "How many sides does a hexagon have?",
+                 "correctIndex": 2,
+                 "answers": ["Four", "Five", "Six", "Eight"]
+               },
+               {
+                 "id": 13,
+                 "content": "What type of shape has exactly one line of symmetry?",
+                 "correctIndex": 2,
+                 "answers": ["Rectangle", "Hexagon", "Triangle", "Circle"]
+               },
+               {
+                 "id": 14,
+                 "content": "What shape is described as round with curved edges and no corners?",
+                 "correctIndex": 0,
+                 "answers": ["Circle", "Rectangle", "Triangle", "Hexagon"]
+               },
+               {
+                 "id": 15,
+                 "content": "In a tessellation, how do shapes fit together?",
+                 "correctIndex": 1,
+                 "answers": ["With gaps", "Without gaps or overlaps", "With overlaps", "Randomly"]
+               },
+               {
+                 "id": 16,
+                 "content": "What term is used for shapes that have the same shape and size?",
+                 "correctIndex": 0,
+                 "answers": ["Congruent", "Similar", "Symmetrical", "Regular"]
+               },
+               {
+                 "id": 17,
+                 "content": "What is the name of a shape with five sides and angles?",
+                 "correctIndex": 1,
+                 "answers": ["Triangle", "Pentagon", "Hexagon", "Octagon"]
+               },
+               {
+                 "id": 18,
+                 "content": "What term is used to describe a stretched circle?",
+                 "correctIndex": 1,
+                 "answers": ["Oval", "Ellipse", "Triangle", "Hexagon"]
+               },
+               {
+                 "id": 19,
+                 "content": "What is the primary characteristic of irregular shapes?",
+                 "correctIndex": 2,
+                 "answers": ["Equal sides and angles", "Symmetrical properties", "Unequal sides and angles", "Perfect symmetry"]
+               }
+              
+              
+          ]
+      }
+       
+    }
+
+]

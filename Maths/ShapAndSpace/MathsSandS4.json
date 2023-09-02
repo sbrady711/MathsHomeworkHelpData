@@ -1,0 +1,184 @@
+
+[
+    {
+        "id": 0,
+        "category": "Shape and Space",
+        "description": "Strand units: Spatial awareness, 2-D shapes, 3-D shapes, Symmetry and Angles",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Lesson: Discovering Triangular Prisms",
+                            "topicContent": "Introduce triangular prisms as 3-D shapes with triangular bases and rectangular sides. Discuss the properties of triangular prisms, such as faces, edges, and vertices. Explore the relationship between triangular prisms and their constituent 2-D shapes."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Lesson: Investigating Pyramids",
+                            "topicContent": "Introduce pyramids as 3-D shapes with polygonal base and triangular sides meeting at a vertex. Discuss the different types of pyramids, such as square pyramids and triangular pyramids.  Explore the symmetry, properties, and practical applications of pyramids."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Lesson: Exploring Spheres",
+                            "topicContent": "Introduce spheres as perfectly round 3-D shapes with no corners or edges. Discuss the unique properties of spheres, such as surface area and volume.Identify real-world examples of spheres, such as balls and fruits."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Lesson: Cylinder Study",
+                            "topicContent": "Introduce cylinders as 3-D shapes with circular bases and curved sides.  Compare cylinders to other 3-D shapes in terms of their attributes.  Explore the use of cylinders in everyday objects, such as cans and cups.."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Lesson: Connecting Cubes and Cuboids",
+                            "topicContent": "Reinforce the properties of cubes and cuboids, which were mentioned earlier.  Discuss how a cube is a special type of cuboid with all sides equal. Explore patterns and designs using cubes and cuboids."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Lesson: Exploring the World of 3-D Shapes",
+                            "topicContent": "Present various 3-D shapes not covered earlier, such as octahedron and dodecahedron.  Discuss their properties, including faces, edges, and vertices.    Encourage students to recognize these shapes in everyday objects.."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Lesson: Constructing 3-D Shape Models",
+                            "topicContent": "Provide students with nets of different 3-D shapes, including those mentioned earlier.  Have them construct the shapes using paper folding and assembly techniques.  Discuss how 2-D shapes form the basis of 3-D shapes."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Lesson: Building 3-D Structures",
+                            "topicContent": "Provide building materials like toothpicks and marshmallows or playdough. Challenge students to build 3-D structures using various shapes.Explore stability, symmetry, and creativity in their constructions."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Lesson: Sorting 3-D Shapes",
+                            "topicContent": "Present a collection of 3-D shapes, including those mentioned earlier. Have students sort the shapes based on shared attributes like the number of faces or vertices. Encourage discussions about similarities and differences."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Lesson: Practical Problem Solving with 3-D Shapes",
+                            "topicContent": "Pose real-world problems involving 3-D shapes and their applications. Students work individually or in groups to solve problems related to volume, surface area, and design.  Discuss different strategies for approaching these problems."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description":  "Put your Strand of Shape knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "What type of 3-D shape has triangular bases and rectangular sides?",
+                "correctIndex": 0,
+                "answers": ["Triangular prism", "Cylinder", "Pyramid", "Cube"]
+              },
+              {
+                "id": 1,
+                "content": "What is the name for 3-D shapes with polygonal base and triangular sides meeting at a vertex?",
+                "correctIndex": 2,
+                "answers": ["Cuboids", "Spheres", "Pyramids", "Cylinders"]
+              },
+              {
+                "id": 2,
+                "content": "What term describes 3-D shapes with perfectly round surfaces and no corners or edges?",
+                "correctIndex": 2,
+                "answers": ["Cylinders", "Prisms", "Spheres", "Pyramids"]
+              },
+              {
+                "id": 3,
+                "content": "What type of 3-D shape has circular bases and curved sides?",
+                "correctIndex": 0,
+                "answers": ["Cylinder", "Cuboid", "Sphere", "Pyramid"]
+              },
+              {
+                "id": 4,
+                "content": "What is the relationship between a cube and a cuboid?",
+                "correctIndex": 1,
+                "answers": ["They are the same shape", "A cube is a special type of cuboid", "A cuboid is a special type of cube", "They have no relationship"]
+              },
+              {
+                "id": 5,
+                "content": "What term is used to describe 3-D shapes with eight faces, edges, and vertices?",
+                "correctIndex": 3,
+                "answers": ["Cube", "Cuboid", "Pyramid", "Octahedron"]
+              },
+              {
+                "id": 6,
+                "content": "What are nets used for in the context of 3-D shapes?",
+                "correctIndex": 1,
+                "answers": ["Playing games", "Constructing 3-D shapes", "Creating symmetry", "Sorting shapes"]
+              },
+      
+              {
+                "id": 7,
+                "content": "How can 3-D shapes be sorted?",
+                "correctIndex": 0,
+                "answers": ["Based on shared attributes like faces and vertices", "By color and size", "Randomly", "By weight and texture"]
+              },
+              {
+                "id": 8,
+                "content": "What type of problems can involve volume and surface area of 3-D shapes?",
+                "correctIndex": 1,
+                "answers": ["Language problems", "Practical problems", "Historical problems", "Artistic problems"]
+              },
+              {
+                "id": 9,
+                "content": "What type of 3-D shape has triangular bases and rectangular sides?",
+                "correctIndex": 0,
+                "answers": ["Triangular prism", "Cylinder", "Pyramid", "Cube"]
+              },
+              {
+                "id": 10,
+                "content": "What is the name for 3-D shapes with polygonal base and triangular sides meeting at a vertex?",
+                "correctIndex": 2,
+                "answers": ["Cuboids", "Spheres", "Pyramids", "Cylinders"]
+              },
+              {
+                "id": 11,
+                "content": "What term describes 3-D shapes with perfectly round surfaces and no corners or edges?",
+                "correctIndex": 2,
+                "answers": ["Cylinders", "Prisms", "Spheres", "Pyramids"]
+              },
+              {
+                "id": 12,
+                "content": "What type of 3-D shape has circular bases and curved sides?",
+                "correctIndex": 0,
+                "answers": ["Cylinder", "Cuboid", "Sphere", "Pyramid"]
+              },
+              {
+                "id": 13,
+                "content": "What is the relationship between a cube and a cuboid?",
+                "correctIndex": 1,
+                "answers": ["They are the same shape", "A cube is a special type of cuboid with equal lines", "A cuboid is a special type of cube", "They have no relationship"]
+              },
+              {
+                "id": 14,
+                "content": "What term is used to describe 3-D shapes with eight faces, edges, and vertices?",
+                "correctIndex": 3,
+                "answers": ["Cube", "Cuboid", "Pyramid", "Octahedron"]
+              },
+              {
+                "id": 15,
+                "content": "What are nets used for in the context of 3-D shapes?",
+                "correctIndex": 1,
+                "answers": ["Playing games", "Constructing 3-D shapes", "Creating symmetry", "Sorting shapes"]
+              },
+   
+              {
+                "id": 16,
+                "content": "How can 3-D shapes be sorted?",
+                "correctIndex": 0,
+                "answers": ["Based on shared attributes like faces and vertices", "By color and size", "Randomly", "By weight and texture"]
+              },
+              {
+                "id": 17,
+                "content": "What type of problems can involve volume and surface area of 3-D shapes?",
+                "correctIndex": 1,
+                "answers": ["Language problems", "Practical problems", "Historical problems", "Artistic problems"]
+              }
+          ]
+      }
+       
+    }
+
+]

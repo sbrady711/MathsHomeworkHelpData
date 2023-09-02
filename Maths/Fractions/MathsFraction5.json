@@ -1,0 +1,2120 @@
+
+[
+    {
+        "id": 4,
+        "category": "Number",
+        "description": "Strand units: Fractions",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Discovering Equivalent Fractions (Denominators 2, 4, 8, 10)",
+                            "topicContent": "Identify and explore equivalent fractions with denominators 2, 4, 8, and 10.Understand how fractions can represent the same value with different denominators."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Creating and Cutting Simple Fractions",
+                            "topicContent": "Construct and cut out simple fractions using regular shapes.Use paper folding and cutting to visually represent fractions."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Recording Fractions with Diagrams",
+                            "topicContent": "Record fractions using diagrams and fraction charts.Practice representing fractions visually to reinforce understanding."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Comparing and Ordering Fractions",
+                            "topicContent": "Compare and order fractions with appropriate denominators.Learn to position fractions on the number line."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Calculating Fraction of a Set",
+                            "topicContent": "Use concrete materials to calculate fractions of a set.Apply practical understanding of fractions through manipulatives."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Exploring Fractions and Division",
+                            "topicContent": "Develop an understanding of the relationship between fractions and division. Connect division concepts to fractional values (e.g., 1/3 of 12 = 4)."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Unit Fractions and Calculation",
+                            "topicContent": "Calculate a unit fraction of a number. Apply unit fractions to calculate parts of quantities."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Exploring Equivalence (Denominators 2–12)",
+                            "topicContent": "Explore, compare, and record equivalence of fractions with denominators 2–12.Use concrete materials, folding, and charts to demonstrate equivalency."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Expressing Improper Fractions and Mixed Numbers",
+                            "topicContent": "Convert improper fractions to mixed numbers. Position them on the number line and establish equivalence."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Comparing Equivalence with Concrete Materials",
+                            "topicContent": "Compare and establish equivalence using concrete materials. Deepen understanding of equivalent fractions through hands-on exploration."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Simplifying Calculations with Equivalent Fractions",
+                            "topicContent": "Use equivalent fractions to simplify addition and subtraction. Apply equivalent fractions to streamline calculations."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Calculating with Multiple Fractions",
+                            "topicContent": "Calculate a number gien a multiple fraction of the number.Solve problems like 'What is 3/4 of 12?' and find the number."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Expressing Ratios as Fractions",
+                            "topicContent": "Express one number as a fraction of another. Learn to relate ratios to fractional representations."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Ordering Equivalence on the Number Line",
+                            "topicContent": "Order equivalent fractions on the number line. Use fraction charts to visually represent order."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Applying Equivalence to Improper Fractions and Mixed Numbers",
+                            "topicContent": "Apply equivalency concepts to improper fractions and mixed numbers. Use diagrams, numerals, and the number line to explore and record."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Fraction Addition and Subtraction",
+                            "topicContent": "Add and subtract simple fractions and mixed numbers.Utilize equivalent fractions to simplify calculations."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Calculating Fraction of a Number",
+                            "topicContent": "Calculate a fraction of a number.Solve problems like 'What is 2/5 of 45?'."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Problem-Solving with Multiple Fractions",
+                            "topicContent": "Use fraction operations to solve real-life problems.Apply fractional knowledge to practical scenarios."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Exploring Complex Fraction Comparisons",
+                            "topicContent": "Compare and order fractions with various denominators. Deepen understanding of comparing fractions using diverse denominators."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Expressing Fractions as Ratios",
+                            "topicContent": "Relate fractions to ratios. Express ratios as fractions, e.g., 3:6 = 1/2."
+                        }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Fractions knowledge to the test.",
+               "questions": [
+                   
+                   {
+                     "id": 0,
+                     "content": "Which of the following fractions is equivalent to 3/5?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "2/4",
+                       "6/10",
+                       "4/9",
+                       "9/15"
+                     ]
+                   },
+                   {
+                     "id": 1,
+                     "content": "If you cut a rectangular pizza into 8 equal slices and eat 4 slices, what fraction of the pizza remains?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "3/8",
+                       "1/8",
+                       "4/8",
+                       "1/8"
+                     ]
+                   },
+                 
+                   {
+                     "id": 2,
+                     "content": "Arrange the following fractions in ascending order: 3/4, 5/8, 1/2, 2/3.",
+                     "correctIndex": 2,
+                     "answers": [
+                       "1/2, 5/8, 2/3, 3/4",
+                       "3/4, 2/3, 1/2, 5/8",
+                       "5/8, 3/4, 1/2, 2/3",
+                       "2/3, 3/4, 1/2, 5/8"
+                     ]
+                   },
+                   {
+                     "id": 3,
+                     "content": "If you have 2/5 of a pie and each pie is divided into 10 equal parts, how many parts of the whole pie do you have?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "4 parts",
+                       "2 parts",
+                       "4 parts",
+                       "5 parts"
+                     ]
+                   },
+                   {
+                     "id": 4,
+                     "content": "What is the relationship between fractions and division?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "Fractions are always smaller than division results.",
+                       "Fractions have no relationship with division.",
+                       "Fractions represent parts of a whole, and division helps find those parts.",
+                       "Division is the same as multiplication when working with fractions."
+                     ]
+                   },
+                   {
+                     "id": 5,
+                     "content": "Calculate 1/4 of 32.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "8",
+                       "12",
+                       "16",
+                       "8"
+                     ]
+                   },
+                   {
+                     "id": 6,
+                     "content": "Which of the following fractions are equivalent to 7/10?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "21/30",
+                       "11/20",
+                       "23/40",
+                       "9/15"
+                     ]
+                   },
+                   {
+                     "id": 7,
+                     "content": "Convert 5/2 to a mixed number.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "5/2",
+                       "2 1/2",
+                       "2 2/5",
+                       "5/4"
+                     ]
+                   },
+                   {
+                     "id": 8,
+                     "content": "If you cut a strip of paper into 6 equal parts and color 4 parts, what fraction of the strip is colored?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "1/3",
+                       "2/6",
+                       "3/5",
+                       "2/3"
+                     ]
+                   },
+                   {
+                     "id": 9,
+                     "content": "Calculate 3/8 of 48.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "15",
+                       "18",
+                       "24",
+                       "36"
+                     ]
+                   },
+                   {
+                     "id": 10,
+                     "content": "If a recipe calls for 1/3 cup of sugar and you want to make three times the amount, how much sugar do you need?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "2 cup",
+                       "1 cup",
+                       "1/9 cup",
+                       "3/9 cup"
+                     ]
+                   },
+                   {
+                     "id": 11,
+                     "content": "What is the relationship between fractions and ratios?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "Fractions and ratios are the same concepts.",
+                       "Fractions and ratios have no relationship.",
+                       "Fractions are a way to express ratios in fraction form.",
+                       "Ratios are fractions expressed as whole numbers."
+                     ]
+                   },
+                   {
+                     "id": 12,
+                     "content": "Order the following fractions from least to greatest: 5/6, 2/3, 3/4, 7/8.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "2/3, 3/4, 5/6, 7/8",
+                       "3/4, 2/3, 5/6, 7/8",
+                       "7/8, 5/6, 3/4, 2/3",
+                       "5/6, 2/3, 7/8, 3/4"
+                     ]
+                   },
+                   {
+                     "id": 13,
+                     "content": "If you have 2/9 of a collection of stamps and there are 63 stamps in total, how many stamps do you have?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "16 stamps",
+                       "14 stamps",
+                       "18 stamps",
+                       "12 stamps"
+                     ]
+                   },
+                   {
+                     "id": 14,
+                     "content": "Which fraction is equivalent to 5/8?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "10/16",
+                       "9/12",
+                       "3/5",
+                       "4/7"
+                     ]
+                   },
+                   {
+                     "id": 15,
+                     "content": "If you have a rectangle divided into 15 equal parts and 8 parts are shaded, what fraction represents the shaded region?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "8/15",
+                       "7/15",
+                       "2/3",
+                       "5/8"
+                     ]
+                   },
+                   {
+                     "id": 16,
+                     "content": "Express the ratio 5:12 as a fraction in simplest form.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "5/12",
+                       "5/6",
+                       "10/24",
+                       "5/12"
+                     ]
+                   },
+                   {
+                     "id": 17,
+                     "content": "You have a circular pizza divided into 8 equal slices. If you eat 2 slices, what fraction of the whole pizza have you eaten?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "1/8",
+                       "3/8",
+                       "1/4",
+                       "3/8"
+                     ]
+                   },
+                   {
+                     "id": 18,
+                     "content": "Express the ratio 4:10 as a fraction in simplest form.",
+                     "correctIndex": 2,
+                     "answers": [
+                       "4/6",
+                       "4/10",
+                       "2/5",
+                       "4/8"
+                     ]
+                   },
+                   {
+                     "id": 19,
+                     "content": "Which fractions are between 1/2 and 3/4 on the number line? Select all that apply.",
+                     "correctIndices": [1, 2],
+                     "answers": [
+                       "1/4",
+                       "5/7",
+                       "2/3",
+                       "7/10"
+                     ]
+                   },
+                   {
+                     "id": 20,
+                     "content": "Simplify the fraction 12/18 to its simplest form.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "6/8",
+                       "2/3",
+                       "4/6",
+                       "3/4"
+                     ]
+                   },
+                   {
+                     "id": 21,
+                     "content": "If you have a rectangular garden divided into 20 equal sections and 15 sections are planted with flowers, what fraction of the garden is planted?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "3/4",
+                       "4/5",
+                       "2/3",
+                       "3/5"
+                     ]
+                   },
+                   {
+              
+                       
+                       
+                     "id": 22,
+                     "content": "Arrange the fractions from least to greatest: 3/7, 4/9, 5/12, 2/5.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "2/5, 3/7, 5/12, 4/9",
+                       "3/7, 4/9, 5/12, 2/5",
+                       "5/12, 4/9, 2/5, 3/7",
+                       "3/7, 5/12, 2/5, 4/9"
+                     ]
+                   },
+                   {
+                     "id": 23,
+                     "content": "Convert the mixed number 3/1 + 2/5 to an improper fraction.",
+                     "correctIndex": 3,
+                     "answers": [
+                       "5/3",
+                       "17/5",
+                       "3 5/2",
+                       "17/5"
+                     ]
+                   },
+                   {
+                     "id": 24,
+                     "content": "If you have 3/4 of a container filled with water, what fraction of the container is empty?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "1/4",
+                       "1/3",
+                       "2/4",
+                       "3/4"
+                     ]
+                   },
+                   {
+                     "id": 25,
+                     "content": "Calculate 2/3 of 36.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "12",
+                       "24",
+                       "18",
+                       "8"
+                     ]
+                   },
+                   {
+                     "id": 26,
+                     "content": "Which fraction is equivalent to 9/15?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "6/12",
+                       "2/5",
+                       "7/14",
+                       "3/5"
+                     ]
+                   },
+                   {
+                     "id": 27,
+                     "content": "Express the fraction 7/9 as a decimal.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "0.777...",
+                       "0.8777",
+                       "0.877",
+                       "0.97777"
+                     ]
+                   },
+                   {
+                     "id": 28,
+                     "content": "You have a circular pie divided into 12 equal slices. If you eat 5 slices, what fraction of the pie remains?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "2/12",
+                       "7/12",
+                       "1/2",
+                       "5/12"
+                     ]
+                   },
+                   {
+                     "id": 29,
+                     "content": "If you have a strip of paper divided into 8 equal parts and you shade 3 parts, what fraction of the strip is shaded?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "1/8",
+                       "5/8",
+                       "3/8",
+                       "1/3"
+                     ]
+                   },
+                   {
+                     "id": 30,
+                     "content": "Calculate 5/6 of 48.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "40",
+                       "36",
+                       "42",
+                       "45"
+                     ]
+                   },
+                   {
+                     "id": 31,
+                     "content": "Which fraction is greater: 7/8 or 5/6?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "7/8",
+                       "5/6",
+                       "They are equal.",
+                       "7/8"
+                     ]
+                   },
+                   {
+                     "id": 32,
+                     "content": "If you have a rectangular box divided into 24 equal parts and 20 parts are used, what fraction of the box is used?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "4/24",
+                       "5/6",
+                       "15/24",
+                       "20/24"
+                     ]
+                   },
+                   {
+                     "id": 33,
+                     "content": "Express the ratio 8:15 as a fraction in simplest form.",
+                     "correctIndex": 2,
+                     "answers": [
+                       "8/11",
+                       "4/7",
+                       "8/15",
+                       "16/30"
+                     ]
+                   },
+                   {
+                     "id": 34,
+                     "content": "What fraction of the clock's face does each hour represent?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "1/11",
+                       "1/12",
+                       "1/6",
+                       "1/4"
+                     ]
+                   },
+                   {
+                     "id": 35,
+                     "content": "Convert the fraction 5/6 to a decimal.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "0.833...",
+                       "0.8233",
+                       "0.893",
+                       "0.87333"
+                     ]
+                   },
+                   {
+                     "id": 36,
+                     "content": "Arrange the fractions from least to greatest: 7/10, 2/5, 4/7, 5/8.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "2/5, 4/7, 5/8, 7/10",
+                       "4/7, 2/5, 5/8, 7/10",
+                       "7/10, 4/7, 2/5, 5/8",
+                       "5/8, 4/7, 2/5, 7/10"
+                     ]
+                   },
+                   {
+                     "id": 37,
+                     "content": "If you have 2/3 of a pizza left and each slice is 1/6 of the pizza, how many slices do you have left?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "1",
+                       "2",
+                       "4",
+                       "6"
+                     ]
+                   },
+                   {
+                     "id": 38,
+                     "content": "You have a rectangular playground divided into 16 equal sections. If 9 sections are used for games, what fraction of the playground is used?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "9/16",
+                       "7/16",
+                       "10/16",
+                       "8/16"
+                     ]
+                   },
+                   {
+                     "id": 39,
+                     "content": "If you have a strip of paper divided into 5 equal parts and you shade 2 parts, what fraction of the strip is shaded?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "1/5",
+                       "1/2",
+                       "2/5",
+                       "2/4"
+                     ]
+                   },
+                   
+                   {
+                      "id": 40,
+                      "content": "Simplify the fraction 16/24 to its simplest form.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "8/12",
+                        "4/6",
+                        "2/3",
+                        "3/4"
+                      ]
+                    },
+                    {
+                      "id": 41,
+                      "content": "If you have a rectangular field divided into 25 equal sections and 18 sections are planted with crops, what fraction of the field is planted?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "18/25",
+                        "7/25",
+                        "18/20",
+                        "25/18"
+                      ]
+                    },
+                    {
+                      "id": 42,
+                      "content": "Arrange the fractions from least to greatest: 5/9, 7/12, 3/5, 4/7.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "4/7, 3/5, 5/9, 7/12",
+                        "3/5, 4/7, 5/9, 7/12",
+                        "7/12, 5/9, 4/7, 3/5",
+                        "5/9, 7/12, 3/5, 4/7"
+                      ]
+                    },
+                    {
+                      "id": 43,
+                      "content": "Convert the mixed number 4 1/8 to an improper fraction.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "33/8",
+                        "5/4",
+                        "4 1/8",
+                        "8/33"
+                      ]
+                    },
+                    {
+                      "id": 44,
+                      "content": "If you have 5/6 of a container filled with juice, what fraction of the container is empty?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "2/6",
+                        "1/6",
+                        "1/3",
+                        "5/6"
+                      ]
+                    },
+                    {
+                      "id": 45,
+                      "content": "Calculate 3/4 of 48.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "32",
+                        "18",
+                        "36",
+                        "24"
+                      ]
+                    },
+                    {
+                      "id": 46,
+                      "content": "Which fraction is equivalent to 12/20?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "6/11",
+                        "3/5",
+                        "9/15",
+                        "4/7"
+                      ]
+                    },
+                    {
+                      "id": 47,
+                      "content": "Express the fraction 5/8 as a decimal.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "0.635",
+                        "0.75",
+                        "0.625",
+                        "0.85"
+                      ]
+                    },
+                    {
+                      "id": 48,
+                      "content": "You have a circular cake divided into 10 equal slices. If you eat 3 slices, what fraction of the cake remains?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "7/10",
+                        "3/10",
+                        "2/5",
+                        "1/3"
+                      ]
+                    },
+                    {
+                      "id": 49,
+                      "content": "If you have a strip of paper divided into 7 equal parts and you shade 4 parts, what fraction of the strip is shaded?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "4/7",
+                        "4/7",
+                        "2/7",
+                        "3/7"
+                      ]
+                    },
+                    {
+                      "id": 50,
+                      "content": "Calculate 2/5 of 50.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "20",
+                        "15",
+                        "25",
+                        "30"
+                      ]
+                    },
+                    {
+                      "id": 51,
+                      "content": "Which fraction is greater: 9/11 or 7/8?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "9/12",
+                        "7/8",
+                        "They are equal.",
+                        "9/11"
+                      ]
+                    },
+                    {
+                      "id": 52,
+                      "content": "If you have a rectangular box divided into 30 equal parts and 24 parts are used, what fraction of the box is used?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "6/30",
+                        "24/30",
+                        "4/5",
+                        "8/15"
+                      ]
+                    },
+                    {
+                      "id": 53,
+                      "content": "Express the ratio 5:9 as a fraction in simplest form.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "9/5",
+                        "5/9",
+                        "4/7",
+                        "10/8"
+                      ]
+                    },
+                    {
+                      "id": 54,
+                      "content": "What fraction of the clock's face does each minute represent?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "1/60",
+                        "1/12",
+                        "1/30",
+                        "1/15"
+                      ]
+                    },
+                    {
+                      "id": 55,
+                      "content": "Convert the fraction 7/10 to a decimal.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.71",
+                        "0.76",
+                        "0.75",
+                        "0.7"
+                      ]
+                    },
+                    {
+                      "id": 56,
+                      "content": "Arrange the fractions from least to greatest: 6/11, 3/7, 4/9, 5/8.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "3/7, 4/9, 6/11, 5/8",
+                        "4/9, 3/7, 5/8, 6/11",
+                        "6/11, 5/8, 4/9, 3/7",
+                        "5/8, 4/9, 3/7, 6/11"
+                      ]
+                    },
+                    {
+                      "id": 57,
+                      "content": "What fraction of the week is Saturday and Sunday combined?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/7",
+                        "2/5",
+                        "2/7",
+                        "3/7"
+                      ]
+                    },
+                    {
+                      "id": 58,
+                      "content": "Calculate 3/4 of 80.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "30",
+                        "70",
+                        "40",
+                        "60"
+                      ]
+                    },
+                    {
+                      "id": 59,
+                      "content": "Express the fraction 2/3 as a percentage.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "0.64%",
+                        "65%",
+                        "67%",
+                        "50%"
+                      ]
+                    },
+                    {
+                      "id": 60,
+                      "content": "If a recipe calls for 2/3 cup of flour and you want to make 3 batches, how much flour will you need in total?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/3 cup",
+                        "2 cups",
+                        "1 1/2 cups",
+                        "3/4 cup"
+                      ]
+                    },
+                    {
+                      "id": 61,
+                      "content": "Which fraction is equivalent to 25/100?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "1/4",
+                        "2/5",
+                        "1/2",
+                        "1/10"
+                      ]
+                    },
+                    {
+                      "id": 62,
+                      "content": "If you have a rectangular garden divided into 15 equal sections and 12 sections are planted, what fraction of the garden is planted?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "3/15",
+                        "11/15",
+                        "4/5",
+                        "9/15"
+                      ]
+                    },
+                    {
+                      "id": 63,
+                      "content": "Express the fraction 7/8 as a percentage.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "87.2%",
+                        "87.5%",
+                        "75%",
+                        "62.5%"
+                      ]
+                    },
+                    {
+                      "id": 64,
+                      "content": "What is the sum of 3/5 and 1/10?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "4/5",
+                        "2/5",
+                        "7/10",
+                        "1/15"
+                      ]
+                    },
+                    {
+                      "id": 65,
+                      "content": "If a pizza is divided into 8 equal slices and you eat 3 slices, what fraction of the pizza remains?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "5/8",
+                        "3/8",
+                        "2/8",
+                        "1/8"
+                      ]
+                    },
+                    {
+                      "id": 66,
+                      "content": "Which fraction is greater: 3/4 or 5/6?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "3/4",
+                        "5/6",
+                        "They are equal.",
+                        "5/6"
+                      ]
+                    },
+                    {
+                      "id": 67,
+                      "content": "Convert the fraction 2/9 to a decimal.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "0.242",
+                        "0.25",
+                        "0.222",
+                        "0.18"
+                      ]
+                    },
+                    {
+                      "id": 68,
+                      "content": "If you have 3/5 of a bag of marbles and the bag contains 25 marbles in total, how many marbles do you have?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "10 marbles",
+                        "7 marbles",
+                        "15 marbles",
+                        "18 marbles"
+                      ]
+                    },
+                    {
+                      "id": 69,
+                      "content": "Arrange the fractions from least to greatest: 3/4, 5/6, 2/3, 7/8.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "2/3, 3/4, 6/6, 7/8",
+                        "2/3, 2/3, 5/6, 7/8",
+                        "5/6, 2/3, 3/4, 7/8",
+                        "7/8, 5/6, 3/4, 2/3"
+                      ]
+                    },
+                    {
+                      "id": 70,
+                      "content": "If you have a strip of paper divided into 12 equal parts and you shade 8 parts, what fraction of the strip is shaded?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "3/12",
+                        "8/12",
+                        "2/5",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 71,
+                      "content": "Calculate 5/6 of 72.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "35",
+                        "60",
+                        "48",
+                        "45"
+                      ]
+                    },
+                    {
+                      "id": 72,
+                      "content": "Which fraction is equivalent to 3/10?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/5",
+                        "1/4",
+                        "6/20",
+                        "4/5"
+                      ]
+                    },
+                    {
+                      "id": 73,
+                      "content": "If you have a circular playground divided into 16 equal sections and 5 sections have swings, what fraction of the playground has swings?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "5/16",
+                        "5/8",
+                        "11/16",
+                        "3/4"
+                      ]
+                    },
+                    {
+                      "id": 74,
+                      "content": "What fraction of the day is morning if the day and night is divided into 4 equal parts?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/4",
+                        "1/2",
+                        "2/4",
+                        "3/4"
+                      ]
+                    },
+                    {
+                      "id": 75,
+                      "content": "Convert the fraction 3/5 to a percentage.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.6%",
+                        "61%",
+                        "65%",
+                        "60%"
+                      ]
+                    },
+                    {
+                      "id": 76,
+                      "content": "Which fraction is equivalent to 18/24?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "7/8",
+                        "3/4",
+                        "11/12",
+                        "17/20"
+                      ]
+                    },
+                    {
+                      "id": 77,
+                      "content": "You have a rectangular box divided into 20 equal sections. If 16 sections are colored, what fraction of the box is colored?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "17/20",
+                        "4/5",
+                        "16/20",
+                        "3/4"
+                      ]
+                    },
+                    {
+                      "id": 78,
+                      "content": "What is the difference between 7/8 and 5/6?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "2/24",
+                        "1/24",
+                        "1/3",
+                        "1/12"
+                      ]
+                    },
+                    {
+                      "id": 79,
+                      "content": "If a rectangle is divided into 6 equal sections and 3 sections are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/6",
+                        "2/6",
+                        "1/2",
+                        "4/6"
+                      ]
+                    },
+                    {
+                      "id": 80,
+                      "content": "Calculate 4/7 of 63.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "18",
+                        "28",
+                        "39",
+                        "36"
+                      ]
+                    },
+                    {
+                      "id": 81,
+                      "content": "If a recipe calls for 3/4 cup of sugar and you want to make 2 batches, how much sugar will you need in total?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "1/4 cup",
+                        "1 1/3 cups",
+                        "1 1/4 cups",
+                        "1 1/2 cups"
+                      ]
+                    },
+                    {
+                      "id": 82,
+                      "content": "Which fraction is equivalent to 9/15?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "3/5",
+                        "6/10",
+                        "3/5",
+                        "1/2"
+                      ]
+                    },
+                    {
+                      "id": 83,
+                      "content": "If a rectangular garden is divided into 20 equal sections and 15 sections are planted, what fraction of the garden is planted?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "3/4",
+                        "5/8",
+                        "3/5",
+                        "4/5"
+                      ]
+                    },
+                    {
+                      "id": 84,
+                      "content": "Express the fraction 5/6 as a percentage.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "83.33",
+                        "0.83%",
+                        "83.33%",
+                        "16.67%"
+                      ]
+                    },
+                    {
+                      "id": 85,
+                      "content": "What is the sum of 2/3 and 3/4?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "5/7",
+                        "17/12",
+                        "7/12",
+                        "7/5"
+                      ]
+                    },
+                    {
+                      "id": 86,
+                      "content": "If a pizza is divided into 10 equal slices and you eat 4 slices, what fraction of the pizza remains?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/10",
+                        "7/10",
+                        "6/10",
+                        "4/10"
+                      ]
+                    },
+                    {
+                      "id": 87,
+                      "content": "Which fraction is greater: 7/8 or 5/6?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "7/8",
+                        "5/6",
+                        "They are equal.",
+                        "5/6"
+                      ]
+                    },
+                    {
+                      "id": 88,
+                      "content": "Convert the fraction 4/5 to a decimal.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "0.9",
+                        "0.8",
+                        "0.6",
+                        "0.4"
+                      ]
+                    },
+                    {
+                      "id": 89,
+                      "content": "If you have 2/7 of a bag of marbles and the bag contains 35 marbles in total, how many marbles do you have?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "10 marbles",
+                        "12 marbles",
+                        "15 marbles",
+                        "7 marbles"
+                      ]
+                    },
+                    {
+                      "id": 90,
+                      "content": "Arrange the fractions from least to greatest: 5/6, 3/4, 4/5, 7/8.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "3/4, 4/5, 5/6, 8/8",
+                        "3/4, 4/5, 5/6, 7/8",
+                        "5/6, 4/5, 3/4, 7/8",
+                        "7/8, 5/6, 4/5, 3/4"
+                      ]
+                    },
+                    {
+                      "id": 91,
+                      "content": "If you have a strip of paper divided into 8 equal parts and you shade 5 parts, what fraction of the strip is shaded?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "2/8",
+                        "3/8",
+                        "6/8",
+                        "5/8"
+                      ]
+                    },
+                    {
+                      "id": 92,
+                      "content": "Calculate 3/5 of 60.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "18",
+                        "36",
+                        "30",
+                        "24"
+                      ]
+                    },
+                    {
+                      "id": 93,
+                      "content": "Which fraction is equivalent to 7/9?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "3/4",
+                        "4/7",
+                        "5/8",
+                        "14/18"
+                      ]
+                    },
+                    {
+                      "id": 94,
+                      "content": "If you have a circular playground divided into 12 equal sections and 8 sections have swings, what fraction of the playground has swings?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "1/3",
+                        "8/12",
+                        "4/6",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 95,
+                      "content": "What fraction of the day is afternoon if the day is divided into 8 equal parts?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "1/8",
+                        "1/4",
+                        "2/8",
+                        "3/8"
+                      ]
+                    },
+                    {
+                      "id": 96,
+                      "content": "If a recipe calls for 2/3 cup of flour and you want to make 3 batches, how much flour will you need in total?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "1/3 cup",
+                        "1 1/3 cups",
+                        "1 1/2 cups",
+                        "2 cups"
+                      ]
+                    },
+                    {
+                      "id": 97,
+                      "content": "Which fraction is equivalent to 10/20?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "4/10",
+                        "3/5",
+                        "5/10",
+                        "4/5"
+                      ]
+                    },
+                    {
+                      "id": 98,
+                      "content": "If a rectangle is divided into 5 equal sections and 2 sections are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/5",
+                        "2/5",
+                        "2/4",
+                        "3/5"
+                      ]
+                    },
+                    {
+                      "id": 99,
+                      "content": "Express the fraction 3/10 as a percentage.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.3%",
+                        "3.1%",
+                        "31%",
+                        "30%"
+                      ]
+                    },
+                    {
+                      "id": 100,
+                      "content": "What is the difference between 9/12 and 3/4?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/12",
+                        "0",
+                        "1/6",
+                        "1/8"
+                      ]
+                    },
+                    {
+                    "id": 101,
+                     "content": "If a rectangle is divided into 16 equal parts and 10 parts are shaded, what fraction of the rectangle is shaded?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "5/16",
+                       "10/17",
+                       "10/16",
+                       "6/16"
+                     ]
+                   },
+                   {
+                     "id": 102,
+                     "content": "What is the product of 3/4 and 5/6?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "15/23",
+                       "15/24",
+                       "8/20",
+                       "2/3"
+                     ]
+                   },
+                   {
+                     "id": 103,
+                     "content": "Which fraction is between 1/3 and 1/2?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "1/5",
+                       "1/4",
+                       "1/2",
+                       "3/8"
+                     ]
+                   },
+                   {
+                     "id": 104,
+                     "content": "Simplify the fraction 16/24 to its lowest terms.",
+                     "correctIndex": 2,
+                     "answers": [
+                       "2/5",
+                       "4/6",
+                       "2/3",
+                       "3/4"
+                     ]
+                   },
+                   {
+                     "id": 105,
+                     "content": "If a cake is divided into 10 equal slices and you eat 3 slices, what fraction of the cake remains?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "3/10",
+                       "11/10",
+                       "7/10",
+                       "4/10"
+                     ]
+                   },
+                   {
+                     "id": 106,
+                     "content": "Which fraction is equivalent to 12/18?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "6/11",
+                       "2/3",
+                       "6/8",
+                       "3/4"
+                     ]
+                   },
+                   {
+                     "id": 107,
+                     "content": "If you have 3/8 of a box of pencils and the box contains 32 pencils in total, how many pencils do you have?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "12 pencils",
+                       "15 pencils",
+                       "24 pencils",
+                       "9 pencils"
+                     ]
+                   },
+                   {
+                     "id": 108,
+                     "content": "Which fraction is greater: 9/10 or 7/8?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "9/10",
+                       "7/8",
+                       "They are equal.",
+                       "5/6"
+                     ]
+                   },
+                   {
+                     "id": 109,
+                     "content": "Convert the decimal 0.625 to a fraction.",
+                     "correctIndex": 3,
+                     "answers": [
+                       "5/9",
+                       "5/6",
+                       "3/5",
+                       "5/8"
+                     ]
+                   },
+                   {
+                     "id": 110,
+                     "content": "Calculate 2/3 of 54.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "32",
+                       "36",
+                       "27",
+                       "18"
+                     ]
+                   },
+                   {
+                     "id": 111,
+                     "content": "Which fraction is equivalent to 14/28?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "7/14",
+                       "4/8",
+                       "1/2",
+                       "1/2"
+                     ]
+                   },
+                   {
+                     "id": 112,
+                     "content": "If a rectangle is divided into 25 equal parts and 18 parts are shaded, what fraction of the rectangle is shaded?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "18/25",
+                       "20/25",
+                       "3/5",
+                       "15/25"
+                     ]
+                   },
+                   {
+                     "id": 113,
+                     "content": "What is the difference between 2/3 and 5/6?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "2/6",
+                       "1/3",
+                       "1/6",
+                       "1/2"
+                     ]
+                   },
+                   {
+                     "id": 114,
+                     "content": "Express the fraction 7/20 as a decimal.",
+                     "correctIndex": 1,
+                     "answers": [
+                       "0.34",
+                       "0.35",
+                       "0.3",
+                       "0.4"
+                     ]
+                   },
+                   {
+                     "id": 115,
+                     "content": "If you have 4/9 of a bag of sweets and the bag contains 45 sweets in total, how many sweets do you have?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "8 candies",
+                       "21 candies",
+                       "18 candies",
+                       "20 candies"
+                     ]
+                   },
+                   {
+                     "id": 116,
+                     "content": "Arrange the fractions from least to greatest: 7/8, 5/6, 4/5, 11/12.",
+                     "correctIndex": 0,
+                     "answers": [
+                       "4/5, 5/6, 7/8, 11/12",
+                       "5/6, 4/5, 11/12, 7/8",
+                       "4/5, 11/12, 7/8, 5/6",
+                       "11/12, 7/8, 5/6, 4/5"
+                     ]
+                   },
+                   {
+                     "id": 117,
+                     "content": "If a recipe calls for 1/2 cup of sugar and you want to make 4 batches, how much sugar will you need in total?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "1/4 cup",
+                       "1 1/4 cups",
+                       "3 cups",
+                       "2 cups"
+                     ]
+                   },
+                   {
+                     "id": 118,
+                     "content": "Which fraction is equivalent to 3/9?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "1/3",
+                       "3/6",
+                       "2/3",
+                       "4/12"
+                     ]
+                   },
+                   {
+                     "id": 119,
+                     "content": "If a rectangle is divided into 20 equal parts and 16 parts are shaded, what fraction of the rectangle is shaded?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "16/20",
+                       "4/5",
+                       "5/6",
+                       "12/20"
+                     ]
+                   },
+                   {
+                     "id": 120,
+                     "content": "What is the sum of 3/8 and 1/4?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "4/12",
+                       "7/12",
+                       "5/8",
+                       "7/8"
+                     ]
+                   },
+                   {
+                      "id": 121,
+                      "content": "Which fraction is equivalent to 25/50?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "1/5",
+                        "2/3",
+                        "3/4",
+                        "1/2"
+                      ]
+                    },
+                    {
+                      "id": 122,
+                      "content": "What is the reciprocal of 3/7?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "8/3",
+                        "7/3",
+                        "4/9",
+                        "3/7"
+                      ]
+                    },
+                    {
+                      "id": 123,
+                      "content": "If you have 2/5 of a pizza and the pizza has 10 slices, how many slices do you have?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1 slices",
+                        "5 slices",
+                        "4 slices",
+                        "2 slices"
+                      ]
+                    },
+                    {
+                      "id": 124,
+                      "content": "Calculate 3/4 of 48.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "36",
+                        "24",
+                        "18",
+                        "42"
+                      ]
+                    },
+                    {
+                      "id": 125,
+                      "content": "Express the fraction 5/9 as a percentage.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "50%",
+                        "54%",
+                        "55.56%",
+                        "45%"
+                      ]
+                    },
+                    {
+                      "id": 126,
+                      "content": "If a rectangle is divided into 15 equal parts and 9 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "4/5",
+                        "3/5",
+                        "2/3",
+                        "5/8"
+                      ]
+                    },
+                    {
+                      "id": 127,
+                      "content": "Which fraction is between 2/7 and 3/8?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "5/16",
+                        "4/9",
+                        "1/4",
+                        "5/16"
+                      ]
+                    },
+                    {
+                      "id": 128,
+                      "content": "If a rectangle is divided into 24 equal parts and 16 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "2/5",
+                        "3/4",
+                        "4/5",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 129,
+                      "content": "What is the sum of 7/12 and 3/8?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "10/20",
+                        "2/3",
+                        "23/24",
+                        "5/8"
+                      ]
+                    },
+                    {
+                      "id": 130,
+                      "content": "Convert the fraction 9/25 to a decimal.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.37",
+                        "0.45",
+                        "0.375",
+                        "0.36"
+                      ]
+                    },
+                    {
+                      "id": 131,
+                      "content": "Which fraction is equivalent to 20/40?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "1/2",
+                        "2/5",
+                        "3/4",
+                        "5/8"
+                      ]
+                    },
+                    {
+                      "id": 132,
+                      "content": "If a rectangle is divided into 30 equal parts and 12 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "4/15",
+                        "2/5",
+                        "3/10",
+                        "4/15"
+                      ]
+                    },
+                    {
+                      "id": 133,
+                      "content": "What is the difference between 4/9 and 1/3?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/18",
+                        "1/9",
+                        "2/9",
+                        "1/6"
+                      ]
+                    },
+                    {
+                      "id": 134,
+                      "content": "Simplify the fraction 48/64 to its lowest terms.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "4/8",
+                        "7/8",
+                        "3/4",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 135,
+                      "content": "If you have 3/5 of a bag of marbles and the bag contains 25 marbles in total, how many marbles do you have?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "15 marbles",
+                        "20 marbles",
+                        "18 marbles",
+                        "10 marbles"
+                      ]
+                    },
+                    {
+                      "id": 136,
+                      "content": "Which fraction is greater: 5/9 or 4/7?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "5/9",
+                        "4/7",
+                        "They are equal.",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 137,
+                      "content": "If you have 1/3 of a chocolate bar and the bar has 12 squares, how many squares do you have?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "6 squares",
+                        "4 squares",
+                        "3 squares",
+                        "8 squares"
+                      ]
+                    },
+                    {
+                      "id": 138,
+                      "content": "Calculate 2/5 of 75.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "60",
+                        "20",
+                        "30",
+                        "35"
+                      ]
+                    },
+                    {
+                      "id": 139,
+                      "content": "Express the fraction 7/10 as a decimal.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.71",
+                        "0.75",
+                        "0.70",
+                        "0.74"
+                      ]
+                    },
+                    {
+                      "id": 140,
+                      "content": "Which fraction is equivalent to 12/15?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "3/5",
+                        "4/5",
+                        "2/3",
+                        "3/4"
+                      ]
+                    },
+                    {
+                      "id": 141,
+                      "content": "If you have 3/8 of a pizza and the pizza has 32 slices, how many slices do you have?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "10 slices",
+                        "8 slices",
+                        "12 slices",
+                        "6 slices"
+                      ]
+                    },
+                    {
+                      "id": 142,
+                      "content": "What is the product of 4/5 and 2/3?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "8/5",
+                        "6/8",
+                        "8/15",
+                        "2/5"
+                      ]
+                    },
+                    {
+                      "id": 143,
+                      "content": "If a rectangle is divided into 40 equal parts and 24 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "3/10",
+                        "3/5",
+                        "2/5",
+                        "3/8"
+                      ]
+                    },
+                    {
+                      "id": 144,
+                      "content": "Convert the fraction 3/20 to a percentage.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "15%",
+                        "12%",
+                        "10%",
+                        "18%"
+                      ]
+                    },
+                    {
+                      "id": 145,
+                      "content": "Which fraction is equivalent to 16/24?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/5",
+                        "3/4",
+                        "2/3",
+                        "1/2"
+                      ]
+                    },
+                    {
+                      "id": 146,
+                      "content": "If a rectangle is divided into 50 equal parts and 15 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "3/10",
+                        "1/4",
+                        "3/8",
+                        "1/3"
+                      ]
+                    },
+           
+                    {
+                      "id": 147,
+                      "content": "Calculate 7/8 of 64.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "49",
+                        "56",
+                        "42",
+                        "36"
+                      ]
+                    },
+                    {
+                      "id": 148,
+                      "content": "What is the sum of 2/3 and 5/6?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/2",
+                        "1/3",
+                        "3/2",
+                        "7/9"
+                      ]
+                    },
+                    {
+                      "id": 149,
+                      "content": "Express the fraction 4/25 as a decimal.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.14",
+                        "0.19",
+                        "0.20",
+                        "0.16"
+                      ]
+                    },
+                    {
+                      "id": 150,
+                      "content": "Which fraction is equivalent to 30/40?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "0/4",
+                        "3/4",
+                        "2/3",
+                        "4/5"
+                      ]
+                    },
+                    {
+                      "id": 151,
+                      "content": "If a rectangle is divided into 36 equal parts and 27 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/3",
+                        "3/8",
+                        "3/4",
+                        "5/6"
+                      ]
+                    },
+                    {
+                      "id": 152,
+                      "content": "What is the difference between 7/8 and 3/4?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/10",
+                        "1/8",
+                        "1/4",
+                        "3/8"
+                      ]
+                    },
+                    {
+                      "id": 153,
+                      "content": "Simplify the fraction 36/48 to its lowest terms.",
+                      "correctIndex": 2,
+                      "answers": [
+                        "4/6",
+                        "5/6",
+                        "3/4",
+                        "2/3"
+                      ]
+                    },
+                    {
+                      "id": 154,
+                      "content": "If you have 4/7 of a bag of marbles and the bag contains 35 marbles in total, how many marbles do you have?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "16 marbles",
+                        "20 marbles",
+                        "25 marbles",
+                        "14 marbles"
+                      ]
+                    },
+                    {
+                      "id": 155,
+                      "content": "Which fraction is greater: 5/8 or 3/5?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "5/8",
+                        "3/5",
+                        "They are equal.",
+                        "4/7"
+                      ]
+                    },
+                    {
+                      "id": 156,
+                      "content": "If you have 2/9 of a chocolate bar and the bar has 18 squares, how many squares do you have?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "4 squares",
+                        "3 squares",
+                        "2 squares",
+                        "5 squares"
+                      ]
+                    },
+                    {
+                      "id": 157,
+                      "content": "Calculate 3/4 of 48.",
+                      "correctIndex": 1,
+                      "answers": [
+                        "36",
+                        "36",
+                        "24",
+                        "30"
+                      ]
+                    },
+                    {
+                      "id": 158,
+                      "content": "Express the fraction 9/20 as a percentage.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "45%",
+                        "40%",
+                        "50%",
+                        "55%"
+                      ]
+                    },
+                    {
+                      "id": 159,
+                      "content": "Which fraction is equivalent to 5/15?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/9",
+                        "1/4",
+                        "1/3",
+                        "2/5"
+                      ]
+                    },
+                    {
+                      "id": 160,
+                      "content": "If a pizza is divided into 16 equal slices and you eat 3/8 of the pizza, how many slices do you have left?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "6 slices",
+                        "4 slices",
+                        "8 slices",
+                        "10 slices"
+                      ]
+                    },
+                    {
+                      "id": 161,
+                      "content": "A recipe calls for 2/3 cup of flour and 1/4 cup of sugar. How much flour is needed if you double the recipe?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "4/3 cups",
+                        "2/3 cups",
+                        "3/2 cups",
+                        "1 1/12 cups"
+                      ]
+                    },
+                    {
+                      "id": 162,
+                      "content": "If you add 5/6 and 3/4, what is the sum?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "8/10",
+                        "19/12",
+                        "13/12",
+                        "11/10"
+                      ]
+                    },
+                    {
+                      "id": 163,
+                      "content": "A ribbon is 7/8 yard long. If you cut off 1/4 of the ribbon, how long is the remaining piece?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "3/8 yard",
+                        "5/8 yard",
+                        "21/32 yard",
+                        "1/2 yard"
+                      ]
+                    },
+                    {
+                      "id": 164,
+                      "content": "If you multiply 2/5 by 3/7, what is the product?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "6/35",
+                        "5/14",
+                        "1/12",
+                        "12/35"
+                      ]
+                    },
+                    {
+                      "id": 165,
+                      "content": "A cake is divided into 16 pieces. If you eat 5/8 of the cake, how many pieces are left?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "5 pieces",
+                        "4 pieces",
+                        "8 pieces",
+                        "6 pieces"
+                      ]
+                    },
+                    {
+                      "id": 166,
+                      "content": "Which fraction is equivalent to 7/15?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/5",
+                        "3/5",
+                        "14/30",
+                        "8/15"
+                      ]
+                    },
+                    {
+                      "id": 167,
+                      "content": "Convert the fraction 11/25 to a decimal.",
+                      "correctIndex": 3,
+                      "answers": [
+                        "0.42",
+                        "0.48",
+                        "0.41",
+                        "0.44"
+                      ]
+                    },
+                    {
+                      "id": 168,
+                      "content": "If you have 2/3 of a bag of marbles and the bag contains 30 marbles in total, how many marbles do you have?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "20 marbles",
+                        "22 marbles",
+                        "18 marbles",
+                        "25 marbles"
+                      ]
+                    },
+                    {
+                      "id": 169,
+                      "content": "What is the difference between 3/4 and 2/5?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "1/10",
+                        "7/20",
+                        "1/5",
+                        "5/20"
+                      ]
+                    },
+                    {
+                      "id": 170,
+                      "content": "If a rectangle is divided into 72 equal parts and 54 parts are shaded, what fraction of the rectangle is shaded?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/3",
+                        "3/9",
+                        "3/4",
+                        "5/6"
+                      ]
+                    },
+                    {
+                      "id": 171,
+                      "content": "Express the fraction 9/16 as a percentage.",
+                      "correctIndex": 0,
+                      "answers": [
+                        "56.25%",
+                        "50%",
+                        "62.5%",
+                        "75%"
+                      ]
+                    },
+                    {
+                      "id": 172,
+                      "content": "Simplify the expression (1/2) ÷ (3/4).",
+                      "correctIndex": 1,
+                      "answers": [
+                        "7/3",
+                        "2/3",
+                        "3/2",
+                        "4/7"
+                      ]
+                    },
+                    {
+                      "id": 173,
+                      "content": "If a rectangular field is divided into 48 equal sections and 36 sections are planted with crops, what fraction of the field is planted?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "2/5",
+                        "3/5",
+                        "3/4",
+                        "4/5"
+                      ]
+                    },
+                    {
+                      "id": 174,
+                      "content": "What is the mixed number representation of the improper fraction 17/4?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "4 2/4",
+                        "4 1/4",
+                        "4 3/4",
+                        "3 1/4"
+                      ]
+                    },
+                    {
+                      "id": 175,
+                      "content": "If a recipe calls for 3/8 teaspoon of salt and you want to make half the recipe, how much salt do you need?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "1/4 teaspoon",
+                        "1/8 teaspoon",
+                        "3/16 teaspoon",
+                        "3/6 teaspoon"
+                      ]
+                    },
+                    {
+                      "id": 176,
+                      "content": "Which fraction is equivalent to 6/10?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "3/5",
+                        "4/5",
+                        "2/3",
+                        "5/8"
+                      ]
+                    },
+                    {
+                      "id": 177,
+                      "content": "What is the sum of 3/5 and 1/4?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "4/10",
+                        "7/20",
+                        "7/20",
+                        "17/20"
+                      ]
+                    },
+                    {
+                      "id": 178,
+                      "content": "If a jar contains 72 candies and 5/8 of them are red, how many candies are red?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "36 candies",
+                        "32 candies",
+                        "45 candies",
+                        "40 candies"
+                      ]
+                    },
+                    {
+                      "id": 179,
+                      "content": "If you divide 4/9 by 2/3, what is the quotient?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "8/27",
+                        "2/3",
+                        "6/9",
+                        "11/27"
+                      ]
+                    }
+                    
+
+                   
+                   
+                   
+                   
+                   
+               ]
+           }
+    }
+
+]

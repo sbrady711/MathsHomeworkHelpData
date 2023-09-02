@@ -1,0 +1,946 @@
+[
+    {
+        "id": 1,
+        "category": "Algebra",
+        "description": "Strand units: Extending and using patterns",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Discovering Patterns on the Hundred Square",
+                            "topicContent": "Introduce the concept of patterns to students.Explore counting on the hundred square, starting from different numbers and adding the same value."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Counting and Predicting Numbers: Adding by Fives",
+                            "topicContent": "Teach students to count on the hundred square by fives.Demonstrate patterns such as starting on 2 and counting by 5 to predict the next numbers."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Exploring Odd and Even Number Patterns",
+                            "topicContent": "Extend pattern exploration to odd and even numbers on the hundred square.Engage students in discussing and identifying these patterns visually."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Group Counting in Threes, Fours, and Sixes: Discovering Multiples",
+                            "topicContent": "Introduce group counting in multiples of threes, fours, and sixes.Encourage students to identify the results and discuss the patterns."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Patterns in Addition Facts: Making Tens",
+                            "topicContent": "Guide students to recognize patterns in addition facts.Show examples like 7 + 3 = 10, 12 + 8 = 20, emphasizing the pattern of making tens."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Using Frames to Represent Unknown Numbers: Introducing the Unknown",
+                            "topicContent": "Introduce the concept of using a frame to represent an unknown number in equations.Provide examples like 24 + 6 = ■ and 14 + ■ = 20 to demonstrate the presence of an unknown."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Solving Equations with Unknowns: Determining the Missing Value",
+                            "topicContent": "Engage students in solving equations with frames representing unknown values."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Adding to Find Unknowns: Using Equations with Frames",
+                            "topicContent": "Present equations with missing values and encourage students to solve for the unknown.Show equations like 2 + 4 + ■ = 12 and guide students to determine the value of the unknown."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Creating Pattern-Based Equations: Student-Generated Equations",
+                            "topicContent": "Have students create their own equations based on patterns and unknowns. Use manipulatives or drawings to represent the equations they create."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Algebraic Patterns and Equations Review: Summing It Up",
+                            "topicContent": "Review the concepts of patterns, predicting numbers, odd and even numbers, and using frames for unknowns.Engage students in various activities that reinforce these concepts and their connections to algebraic thinking."
+                            
+                        }                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description":  "Put your Strand of Algebra knowledge to the test.",
+               "questions": [
+                   {
+                       "id": 0,
+                       "content": "Look at the pattern: 5, 10, 15, 20, ___. What number comes next?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "22",
+                         "23",
+                         "25",
+                         "30"
+                       ]
+                     },
+                     {
+                       "id": 1,
+                       "content": "Count in fours: 4, 8, 12, ___. What number comes after 12?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "16",
+                         "20",
+                         "24",
+                         "28"
+                       ]
+                     },
+                     {
+                       "id": 2,
+                       "content": "If we start counting from 3 and add 6 each time, which number will be fifth?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "33",
+                         "39",
+                         "42",
+                         "48"
+                       ]
+                     },
+                     {
+                       "id": 3,
+                       "content": "On the hundred square, circle all the multiples of 3. How many circles are there?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "25",
+                         "33",
+                         "20",
+                         "18"
+                       ]
+                     },
+                     {
+                       "id": 4,
+                       "content": "What is the rule for the pattern: 9, 12, 15, 18, ...?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "Adding 2 each time",
+                         "Adding 3 each time",
+                         "Adding 3 each time",
+                         "Adding 4 each time"
+                       ]
+                     },
+                     {
+                       "id": 5,
+                       "content": "Solve the equation: ■ + 8 = 24. What number should replace the frame?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "10",
+                         "14",
+                         "16",
+                         "18"
+                       ]
+                     },
+                     {
+                       "id": 6,
+                       "content": "Create an equation using a frame for an unknown value: 17 + ■ = 30.",
+                       "correctIndex": 0,
+                       "answers": [
+                         "13",
+                         "14",
+                         "15",
+                         "20"
+                       ]
+                     },
+                     {
+                       "id": 7,
+                       "content": "What do you notice about the numbers when you count in twos?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "The numbers increase by 2 each time.",
+                         "The numbers increase by 3 each time.",
+                         "The numbers increase by 5 each time.",
+                         "The numbers increase by 10 each time."
+                       ]
+                     },
+                     {
+                       "id": 8,
+                       "content": "Why do we use frames with unknown values when solving equations?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "Frames are pretty to look at.",
+                         "Frames help us understand where the unknown value is and solve the equation.",
+                         "Frames make the equation longer.",
+                         "Frames are not useful."
+                       ]
+                     },
+                     {
+                       "id": 9,
+                       "content": "Can you explain to a friend how to solve an equation with a missing value?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "I don't know how to solve those equations.",
+                         "I don't want to explain.",
+                         "We can find the value of the missing number by thinking of a number that, when added to the known numbers, makes the total.",
+                         "It's easy, just guess the number."
+                       ]
+                     },
+                     {
+                        "id": 10,
+                        "content": "Look at the pattern: 2, 4, 6, 8, ___. Which number comes next?",
+                        "correctIndex": 0,
+                        "answers": [
+                          "10",
+                          "12",
+                          "14",
+                          "16"
+                        ]
+                      },
+                      {
+                        "id": 11,
+                        "content": "What do you get when you count in threes on the hundred square?",
+                        "correctIndex": 2,
+                        "answers": [
+                          "Even numbers",
+                          "Multiples of 4",
+                          "Multiples of 3",
+                          "Odd numbers"
+                        ]
+                      },
+                      {
+                        "id": 12,
+                        "content": "In the equation: ■ + 7 = 15, what number should be in the frame?",
+                        "correctIndex": 0,
+                        "answers": [
+                          "8",
+                          "10",
+                          "12",
+                          "15"
+                        ]
+                      },
+                      {
+                        "id": 13,
+                        "content": "Can you create an equation with a frame for 14 using addition?",
+                        "correctIndex": 1,
+                        "answers": [
+                          "No, equations can only have known values.",
+                          " 6 + ■ = 14.",
+                          " 5 + 10 = ■.",
+                          " ■ + 3 = 9."
+                        ]
+                      },
+                      {
+                        "id": 14,
+                        "content": "If we add 5 to a number and get 18, what is the unknown number?",
+                        "correctIndex": 2,
+                        "answers": [
+                          "23",
+                          "11",
+                          "13",
+                          "15"
+                        ]
+                      },
+                      {
+                        "id": 15,
+                        "content": "What is the next number in the sequence: 8, 10, 12, 14, ...?",
+                        "correctIndex": 0,
+                        "answers": [
+                          "16",
+                          "18",
+                          "20",
+                          "22"
+                        ]
+                      },
+                      {
+                        "id": 16,
+                        "content": "How is the concept of patterns related to algebra?",
+                        "correctIndex": 1,
+                        "answers": [
+                          "Patterns have nothing to do with algebra.",
+                          "Patterns help us see how numbers and equations are connected.",
+                          "Patterns are only important for art.",
+                          "Patterns are only important for music."
+                        ]
+                      },
+                      {
+                        "id": 17,
+                        "content": "In the equation: 5 + ■ = 13, what number should be in the frame?",
+                        "correctIndex": 1,
+                        "answers": [
+                          "7",
+                          "8",
+                          "10",
+                          "15"
+                        ]
+                      },
+                      {
+                        "id": 18,
+                        "content": "How can you use a frame to represent an unknown value in an equation?",
+                        "correctIndex": 2,
+                        "answers": [
+                          "You can't use a frame in an equation.",
+                          "By drawing a picture of the unknown value.",
+                          "By leaving a blank space where the unknown value should be.",
+                          "By using a different color for the unknown value."
+                        ]
+                      },
+                      {
+                        "id": 19,
+                        "content": "What do you think is the trickiest part of solving equations with unknown values?",
+                        "correctIndex": 3,
+                        "answers": [
+                          "There is no tricky part.",
+                          "Drawing a frame is the trickiest part.",
+                          "Finding the known values is the trickiest part.",
+                          "Figuring out the value of the unknown number."
+                        ]
+                      },
+                      {
+                         "id": 20,
+                         "content": "Count in twos and find the last missing number: 4, ___, 8, 10, ___.",
+                         "correctIndex": 1,
+                         "answers": [
+                           "7",
+                           "12",
+                           "14",
+                           "16"
+                         ]
+                       },
+                       {
+                         "id": 21,
+                         "content": "Complete the pattern: 3, 6, 9, ___, 15.",
+                         "correctIndex": 2,
+                         "answers": [
+                           "11",
+                           "14",
+                           "12",
+                           "21"
+                         ]
+                       },
+                       {
+                         "id": 22,
+                         "content": "What is the sum of the first three even numbers?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "6",
+                           "8",
+                           "11",
+                           "12"
+                         ]
+                       },
+                       {
+                         "id": 23,
+                         "content": "In the equation: 9 + ■ = 15, what number should be in the frame?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "6",
+                           "10",
+                           "12",
+                           "15"
+                         ]
+                       },
+                       {
+                         "id": 24,
+                         "content": "Look at the pattern: 20, 30, 40, 50, ___. What is the missing number?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "60",
+                           "70",
+                           "80",
+                           "90"
+                         ]
+                       },
+                       {
+                         "id": 25,
+                         "content": "Can you create an equation with a frame for an unknown value using subtraction?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "No, equations can only have known values.",
+                           "8 + 2 = ■.",
+                           "4 + 7 = ■.",
+                           " 15 - ■ = 10."
+                         ]
+                       },
+                       {
+                         "id": 26,
+                         "content": "What is the next number in the sequence: 25, 30, 35, 40, ...?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "42",
+                           "45",
+                           "50",
+                           "55"
+                         ]
+                       },
+                       {
+                         "id": 27,
+                         "content": "If we start at 5 and count by threes, what is the second number?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "8",
+                           "9",
+                           "11",
+                           "12"
+                         ]
+                       },
+                       {
+                         "id": 28,
+                         "content": "In the equation: ■ + 9 = 18, what number should be in the frame?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "5",
+                           "6",
+                           "8",
+                           "9"
+                         ]
+                       },
+                       {
+                         "id": 29,
+                         "content": "What is the difference between 18 and the next even number?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "2",
+                           "4",
+                           "6",
+                           "8"
+                         ]
+                       },
+                       {
+                         "id": 30,
+                         "content": "What do you notice about the sum of an odd and an odd number?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "It's always an odd number.",
+                           "It's always an even number.",
+                           "It's always a multiple of 3.",
+                           "It's always a multiple of 5."
+                         ]
+                       },
+                       {
+                         "id": 31,
+                         "content": "Solve the equation: ■ + 5 = 12.",
+                         "correctIndex": 0,
+                         "answers": [
+                           "7",
+                           "8",
+                           "10",
+                           "15"
+                         ]
+                       },
+                       {
+                         "id": 32,
+                         "content": "How can you use patterns to help you solve equations?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "Patterns have no connection to equations.",
+                           "Patterns make equations more confusing.",
+                           "Patterns can help you predict what numbers are missing.",
+                           "Patterns can only be used in art."
+                         ]
+                       },
+                       {
+                         "id": 33,
+                         "content": "What is the result of adding two even numbers?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "An odd number",
+                           "A multiple of 2",
+                           "A prime number",
+                           "Another even number"
+                         ]
+                       },
+                       {
+                         "id": 34,
+                         "content": "If you start at 2 and count in fours, what is the fifth number?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "8",
+                           "10",
+                           "22",
+                           "16"
+                         ]
+                       },
+                       {
+                         "id": 35,
+                         "content": "What do you think is the most interesting thing about algebraic patterns?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "Discovering how numbers are connected in equations.",
+                           "Algebraic patterns are not interesting.",
+                           "Drawing pictures to represent patterns.",
+                           "Counting patterns are more interesting."
+                         ]
+                       },
+                       {
+                         "id": 36,
+                         "content": "If you subtract 9 from 25, what is the difference?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "16",
+                           "9",
+                           "18",
+                           "34"
+                         ]
+                       },
+                       {
+                         "id": 37,
+                         "content": "What is the sum of the first four odd numbers?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "5",
+                           "16",
+                           "18",
+                           "21"
+                         ]
+                       },
+                       {
+                         "id": 38,
+                         "content": "In the equation: 12 + ■ = 24, what number should be in the frame?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "6",
+                           "10",
+                           "12",
+                           "18"
+                         ]
+                       },
+                       {
+                         "id": 39,
+                         "content": "How are counting patterns related to multiplication?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "Counting patterns have no connection to multiplication.",
+                           "Counting patterns can only be used in addition.",
+                           "Counting patterns can only be used in subtraction.",
+                           "Counting patterns help us find multiples and products."
+                         ]
+                       },
+                       {
+                         "id": 40,
+                         "content": "What is the next number in the sequence: 8, 12, 16, 20, ___?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "22",
+                           "24",
+                           "28",
+                           "32"
+                         ]
+                       },
+                       {
+                         "id": 41,
+                         "content": "Complete the pattern: 2, 4, ___, 8, 10.",
+                         "correctIndex": 0,
+                         "answers": [
+                           "6",
+                           "8",
+                           "12",
+                           "14"
+                         ]
+                       },
+                       {
+                         "id": 42,
+                         "content": "What is the sum of the first three multiples of 5?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "10",
+                           "15",
+                           "30",
+                           "35"
+                         ]
+                       },
+                       {
+                         "id": 43,
+                         "content": "In the equation: 7 + ■ = 15, what number should be in the frame?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "8",
+                           "10",
+                           "12",
+                           "15"
+                         ]
+                       },
+                       {
+                         "id": 44,
+                         "content": "Look at the pattern: 3, 6, 9, 12, ___. What is the missing number?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "14",
+                           "15",
+                           "18",
+                           "21"
+                         ]
+                       },
+                       {
+                         "id": 45,
+                         "content": "Can you create an equation with a frame for an unknown value using addition?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "No, equations can only have known values.",
+                           "5 + 3 = ■.",
+                           " 9 - 2 = ■.",
+                           " 12 - 7 = ■."
+                         ]
+                       },
+                       {
+                         "id": 46,
+                         "content": "What is the next even number after 22?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "24",
+                           "26",
+                           "28",
+                           "30"
+                         ]
+                       },
+                       {
+                         "id": 47,
+                         "content": "If we start at 3 and count in fives, what is the fifth number?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "10",
+                           "15",
+                           "28",
+                           "25"
+                         ]
+                       },
+                       {
+                         "id": 48,
+                         "content": "In the equation: ■ + 6 = 18, what number should be in the frame?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "12",
+                           "15",
+                           "16",
+                           "20"
+                         ]
+                       },
+                       {
+                         "id": 49,
+                         "content": "What is the product of 5 and the next odd number?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "8",
+                           "12",
+                           "35",
+                           "20"
+                         ]
+                       },
+                       {
+                         "id": 50,
+                         "content": "What do you notice about the difference between any two consecutive multiples of 3?",
+                         "correctIndex": 2,
+                         "answers": [
+                           "It's always 1.",
+                           "It's always 2.",
+                           "It equals another multiple of 3.",
+                           "It's always 5."
+                         ]
+                       },
+                       {
+                         "id": 51,
+                         "content": "Solve the equation: ■ + 4 = 10.",
+                         "correctIndex": 0,
+                         "answers": [
+                           "6",
+                           "7",
+                           "9",
+                           "14"
+                         ]
+                       },
+                       {
+                         "id": 52,
+                         "content": "How can counting patterns help you make predictions?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "Counting patterns have no connection to predictions.",
+                           "Patterns help you figure out what comes next.",
+                           "Patterns can only be used in art.",
+                           "Predictions are never accurate."
+                         ]
+                       },
+                       {
+                         "id": 53,
+                         "content": "What is the result of adding an odd and an even number?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "An odd number",
+                           "An even number",
+                           "A multiple of 2",
+                           "Another even or odd number"
+                         ]
+                       },
+                       {
+                         "id": 54,
+                         "content": "If you start at 10 and count in threes, what is the fourth number?",
+                         "correctIndex": 3,
+                         "answers": [
+                           "13",
+                           "15",
+                           "16",
+                           "22"
+                         ]
+                       },
+                 
+                       {
+                         "id": 55,
+                         "content": "If you subtract 5 from 18, what is the difference?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "13",
+                           "14",
+                           "15",
+                           "20"
+                         ]
+                       },
+                       {
+                         "id": 56,
+                         "content": "What is the sum of the first three multiples of 4?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "8",
+                           "24",
+                           "16",
+                           "20"
+                         ]
+                       },
+                       {
+                         "id": 57,
+                         "content": "In the equation: 6 + ■ = 18, what number should be in the frame?",
+                         "correctIndex": 1,
+                         "answers": [
+                           "9",
+                           "12",
+                           "14",
+                           "16"
+                         ]
+                       },
+                       {
+                         "id": 58,
+                         "content": "How do counting patterns relate to everyday situations?",
+                         "correctIndex": 0,
+                         "answers": [
+                           "Counting patterns help us predict outcomes and solve problems.",
+                           "Counting patterns are only useful in math class.",
+                           "Counting patterns have no connection to everyday life.",
+                           "Counting patterns are only useful in games."
+                         ]
+                       },
+                       {
+                          "id": 59,
+                          "content": "What comes after 34 when counting by fours?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "35",
+                            "38",
+                            "39",
+                            "40"
+                          ]
+                        },
+                        {
+                          "id": 60,
+                          "content": "Look at the pattern: 2, 4, 6, 8, ___. What is the missing number?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "9",
+                            "11",
+                            "12",
+                            "10"
+                          ]
+                        },
+                        {
+                          "id": 61,
+                          "content": "How can you use patterns to help you add?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "Patterns are not related to addition.",
+                            "By noticing how numbers increase in a regular way.",
+                            "Patterns only help with multiplication.",
+                            "Patterns can only be used in art."
+                          ]
+                        },
+                        {
+                          "id": 62,
+                          "content": "Complete the equation: 5 + ___ = 13.",
+                          "correctIndex": 0,
+                          "answers": [
+                            "8",
+                            "10",
+                            "12",
+                            "15"
+                          ]
+                        },
+                        {
+                          "id": 63,
+                          "content": "What comes after 17 when counting by threes?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "18",
+                            "20",
+                            "21",
+                            "23"
+                          ]
+                        },
+                        {
+                          "id": 64,
+                          "content": "If you start at 25 and count in fives, what is the fourth number?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "30",
+                            "35",
+                            "40",
+                            "45"
+                          ]
+                        },
+                        {
+                          "id": 65,
+                          "content": "What is the sum of the first four multiples of 6?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "12",
+                            "60",
+                            "24",
+                            "30"
+                          ]
+                        },
+                        {
+                          "id": 66,
+                          "content": "If you subtract 8 from 22, what is the difference?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "12",
+                            "14",
+                            "16",
+                            "18"
+                          ]
+                        },
+                        {
+                          "id": 67,
+                          "content": "What number can be added to 9 to make 17?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "7",
+                            "10",
+                            "8",
+                            "15"
+                          ]
+                        },
+                        {
+                          "id": 68,
+                          "content": "What do you notice about the difference between any two consecutive multiples of 4?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "It always equals another multiple of 4.",
+                            "It's always 6.",
+                            "It's always 8.",
+                            "It's always 10."
+                          ]
+                        },
+                        {
+                          "id": 69,
+                          "content": "What comes after 27 when counting by sixes?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "28",
+                            "30",
+                            "32",
+                            "33"
+                          ]
+                        },
+                        {
+                          "id": 70,
+                          "content": "Solve the equation: ■ + 7 = 16.",
+                          "correctIndex": 1,
+                          "answers": [
+                            "7",
+                            "9",
+                            "10",
+                            "12"
+                          ]
+                        },
+                        {
+                          "id": 71,
+                          "content": "What is the result of adding two even numbers?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "An odd number",
+                            "Another even number",
+                            "An odd or even number",
+                            "A prime number"
+                          ]
+                        },
+                        {
+                          "id": 72,
+                          "content": "What is the next odd number after 31?",
+                          "correctIndex": 2,
+                          "answers": [
+                            "32",
+                            "34",
+                            "33",
+                            "36"
+                          ]
+                        },
+                        {
+                          "id": 73,
+                          "content": "If you start at 12 and count in fours, what is the fourth number?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "16",
+                            "20",
+                            "24",
+                            "28"
+                          ]
+                        },
+                        {
+                          "id": 74,
+                          "content": "What is the sum of the first five multiples of 3?",
+                          "correctIndex": 1,
+                          "answers": [
+                            "9",
+                            "45",
+                            "18",
+                            "25"
+                          ]
+                        },
+                        {
+                          "id": 75,
+                          "content": "In the equation: 8 + ■ = 20, what number should be in the frame?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "12",
+                            "15",
+                            "16",
+                            "18"
+                          ]
+                        },
+                        {
+                          "id": 76,
+                          "content": "How can algebraic patterns help you solve real-world problems?",
+                          "correctIndex": 0,
+                          "answers": [
+                            "By using patterns to make predictions and decisions.",
+                            "Algebraic patterns have no use in real life.",
+                            "Algebraic patterns are only for advanced math.",
+                            "Algebraic patterns are only useful for teachers."
+                          ]
+                        },
+                        {
+                          "id": 77,
+                          "content": "What number can you subtract from 19 to get 11?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "5",
+                            "6",
+                            "7",
+                            "8"
+                          ]
+                        },
+                        {
+                          "id": 78,
+                          "content": "If you start at 30 and count in fives, what is the sixth number?",
+                          "correctIndex": 3,
+                          "answers": [
+                            "32",
+                            "35",
+                            "40",
+                            "60"
+                          ]
+                        }
+                   
+                   
+                   
+               ]
+           }
+    }
+
+]

@@ -1,0 +1,321 @@
+
+
+[
+    {
+        "id": 1,
+        "category": "Data",
+        "description": "Strand units: Representing and interpreting data",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Sorting Objects by Multiple Criteria",
+                            "topicContent": "Introduce the concept of sorting objects using multiple criteria.Engage students in sorting objects based on two or three attributes, such as color, size, and shape. Foster discussions on how different attributes can be used to group objects."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Creating a Two-Criteria Classification",
+                            "topicContent": "Extend sorting activities to involve two criteria.Encourage students to classify objects based on attributes like shape and color. Guide them in creating categories and placing objects in the appropriate groups."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Representing Data with Simple Tables",
+                            "topicContent": "Introduce the idea of representing data using tables. Show examples of simple tables, like a chart of cars passing by the school during a specific time.Help students read and interpret the information presented in the table."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Reading and Interpreting Pictograms",
+                            "topicContent": "Introduce pictograms as a way to display data visually.  Present a weather chart that records different weather conditions over a period.Guide students in reading and interpreting the pictogram, identifying the most and least common weather conditions."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Creating Pictograms",
+                            "topicContent": "Transition to creating pictograms. Provide students with data related to a specific topic, such as favorite fruits. Instruct them to create their own pictograms using symbols or images to represent the data."
+
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Introduction to Block Graphs",
+                            "topicContent": "Introduce the concept of block graphs as another visual representation of data. Show examples of simple block graphs with colored squares. Explain that each square represents a certain quantity or value."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Creating a Simple Block Graph",
+                            "topicContent": "Guide students in creating a simple block graph.Provide them with data, such as the favorite colors of the class.Instruct them to fix colored squares to a large sheet of paper to represent the data."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Advancing to Grid Paper for Block Graphs",
+                            "topicContent": "Progress to drawing block graphs on grid paper.Provide grid paper to students. Instruct them to draw the block graph using squares on the grid to represent the data."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Lesson 9: Comparing Pictograms and Block Graphs",
+                            "topicContent": "Engage students in a comparison between pictograms and block graphs. Discuss the advantages and limitations of each type of representation.Have them analyze different data sets and decide which representation works better."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Applying Data Representation Skills",
+                            "topicContent": "Review key concepts of data sorting and representation.Present students with scenarios involving real-world data.Challenge them to choose the appropriate representation (pictogram or block graph) and create it accurately.Encourage critical thinking in selecting the best way to display data."
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Data knowledge to the test.",
+          "questions": [
+              
+              {
+                  "id": 0,
+                  "content": "If you have 5 red blocks and 3 blue blocks, how many blocks do you have in total?",
+                  "correctIndex": 3,
+                  "answers": ["3", "5", "8", "6"]
+                },
+                {
+                  "id": 1,
+                  "content": "You have 4 small balls and 2 big balls. How many balls do you have altogether?",
+                  "correctIndex": 0,
+                  "answers": ["6", "2", "4", "8"]
+                },
+                {
+                  "id": 2,
+                  "content": "In a class, there are 7 boys and 5 girls. How many students are there in total?",
+                  "correctIndex": 1,
+                  "answers": ["7", "12", "5", "10"]
+                },
+                {
+                  "id": 3,
+                  "content": "If 2 children have blue eyes and 3 children have brown eyes, how many children are there in total?",
+                  "correctIndex": 3,
+                  "answers": ["6", "2", "3", "5"]
+                },
+                {
+                  "id": 4,
+                  "content": "You have 3 red apples and 4 green apples. How many apples do you have?",
+                  "correctIndex": 2,
+                  "answers": ["4", "3", "7", "6"]
+                },
+                {
+                  "id": 5,
+                  "content": "There are 8 ducks and 6 chickens on a farm. How many ducks are there?",
+                  "correctIndex": 1,
+                  "answers": ["14", "8", "6", "12"]
+                },
+                {
+                  "id": 6,
+                  "content": "In a jar, there are 5 blue marbles and 3 red marbles if there are 11 marbles, How many white marbles are there? ",
+                  "correctIndex": 3,
+                  "answers": ["8", "5", "3", "4"]
+                },
+                {
+                  "id": 7,
+                  "content": "If there are 4 boys and 4 girls playing in a park, how many children are playing?",
+                  "correctIndex": 0,
+                  "answers": ["8", "4", "3", "7"]
+                },
+                {
+                  "id": 8,
+                  "content": "You have 2 triangles and 3 squares. How many cirlces do you have in total if there are 10 shapes?",
+                  "correctIndex": 3,
+                  "answers": ["1", "2", "3", "5"]
+                },
+                {
+                  "id": 9,
+                  "content": "If there are 6 sunny days and 2 rainy days this week, how many days are there in total?",
+                  "correctIndex": 2,
+                  "answers": ["1", "6", "8", "7"]
+                },
+                {
+                  "id": 10,
+                  "content": "You have 6 red crayons and 4 blue crayons. How many green crayons if green is half the amount of both red and blue ?",
+                  "correctIndex": 1,
+                  "answers": ["9", "5", "4", "8"]
+                },
+                {
+                  "id": 11,
+                  "content": "In a basket of 14, there are 6 apples and 3 bananas. How many oranges are there?",
+                  "correctIndex": 3,
+                  "answers": ["9", "6", "3", "5"]
+                },
+                {
+                  "id": 12,
+                  "content": "There are 7 students in a line and 4 students in another line. How many students are there in total?",
+                  "correctIndex": 1,
+                  "answers": ["7", "11", "4", "8"]
+                },
+                {
+                  "id": 13,
+                  "content": "In a box of 11 there are 2 green blocks and 3 yellow blocks, how many blue blocks do you have?",
+                  "correctIndex": 3,
+                  "answers": ["5", "2", "3", "6"]
+                },
+                {
+                  "id": 14,
+                  "content": "In a pond, there are 6 ducks and 5 frogs. How many animals are there?",
+                  "correctIndex": 0,
+                  "answers": ["11", "6", "5", "10"]
+                },
+                {
+                  "id": 15,
+                  "content": "If you have 4 round balls and 3 square balls, how many balls do you have in total?",
+                  "correctIndex": 3,
+                  "answers": ["6", "4", "3", "7"]
+                },
+                {
+                  "id": 16,
+                  "content": "In a pack of 20 there are 5 blue markers and 4 red markers. How many yellow markers do you have?",
+                  "correctIndex": 2,
+                  "answers": ["9", "5", "11", "8"]
+                },
+                {
+                  "id": 17,
+                  "content": "In a box, there are 6 cars and 2 trucks. How many vehicles are there in two boxes?",
+                  "correctIndex": 3,
+                  "answers": ["6", "8", "2", "16"]
+                },
+                {
+                  "id": 18,
+                  "content": "If there are 3 circles and 4 squares in a shop, how many shapes are their in two shops?",
+                  "correctIndex": 2,
+                  "answers": ["7", "3", "14", "16"]
+                },
+                {
+                  "id": 19,
+                  "content": "There are 5 sunny days and 3 cloudy days this week. How many days are there in total?",
+                  "correctIndex": 0,
+                  "answers": ["8", "5", "3", "6"]
+                },
+                {
+                  "id": 20,
+                  "content": "If you roll a dice, what is the maximum number you can get?",
+                  "correctIndex": 0,
+                  "answers": ["4", "6", "3", "5"]
+                },
+                {
+                  "id": 21,
+                  "content": "You have a spinner with 8 equal section colours. What is the probability of it landing on a blue section?",
+                  "correctIndex": 1,
+                  "answers": ["1/2", "1/8", "1/4", "1/6"]
+                },
+                {
+                  "id": 22,
+                  "content": "If you flip a coin, what is the probability of it landing on heads?",
+                  "correctIndex": 2,
+                  "answers": ["3/2", "1/4", "1/2", "1/6"]
+                },
+                {
+                  "id": 23,
+                  "content": "There are 3 red marbles and 7 blue marbles in a bag. What is the probability of picking a red marble?",
+                  "correctIndex": 0,
+                  "answers": ["3/10", "1/2", "7/10", "2/5"]
+                },
+                {
+                  "id": 24,
+                  "content": "If you have 5 green cards and 5 yellow cards, what is the probability of picking a green card?",
+                  "correctIndex": 1,
+                  "answers": ["1/10", "1/2", "5/10", "2/5"]
+                },
+                {
+                  "id": 25,
+                  "content": "You have a bag with 4 red blocks, 3 blue blocks, and 5 yellow blocks. What is the probability of picking a blue block?",
+                  "correctIndex": 2,
+                  "answers": ["4/12", "1/2", "1/4", "2/5"]
+                },
+                {
+                  "id": 26,
+                  "content": "There are 2 star stickers, 3 heart stickers, and 5 circle stickers. What is the probability of picking a heart sticker?",
+                  "correctIndex": 0,
+                  "answers": ["3/10", "1/2", "5/10", "2/5"]
+                },
+                {
+                  "id": 27,
+                  "content": "You have a bag with 6 apples and 4 oranges. What is the probability of picking an orange?",
+                  "correctIndex": 1,
+                  "answers": ["9/10", "2/5", "6/10", "1/4"]
+                },
+                {
+                  "id": 28,
+                  "content": "If you roll a number cube with the numbers 1 to 6, what is the probability of rolling an even number?",
+                  "correctIndex": 2,
+                  "answers": ["1/6", "1/3", "1/2", "2/3"]
+                },
+                {
+                  "id": 29,
+                  "content": "You have a spinner with 6 sections: 3 red, 2 blue, and 1 green. What is the probability of it landing on blue?",
+                  "correctIndex": 1,
+                  "answers": ["1/6", "1/3", "1/2", "2/3"]
+                },
+                {
+                  "id": 30,
+                  "content": "If you flip two coins, what is the probability of getting heads on both coins?",
+                  "correctIndex": 3,
+                  "answers": ["1/2", "3/4", "1/3", "1/4"]
+                },
+                {
+                  "id": 31,
+                  "content": "You have a bag with 5 red marbles and 5 blue marbles. What is the probability of picking a red marble?",
+                  "correctIndex": 1,
+                  "answers": ["1/10", "1/2", "1/5", "2/5"]
+                },
+                {
+                  "id": 32,
+                  "content": "There are 3 star stickers, 4 heart stickers, and 3 circle stickers. What is the probability of picking a heart sticker?",
+                  "correctIndex": 1,
+                  "answers": ["3/10", "4/10", "1/3", "2/6"]
+                },
+                {
+                  "id": 33,
+                  "content": "If you have 4 green blocks, 3 blue blocks, and 3 yellow blocks, what is the probability of picking a blue block?",
+                  "correctIndex": 2,
+                  "answers": ["3/11", "1/2", "3/10", "2/5"]
+                },
+                {
+                  "id": 34,
+                  "content": "You have a bag with 7 apples and 3 oranges. What is the probability of picking an orange?",
+                  "correctIndex": 2,
+                  "answers": ["4/10", "1/3", "3/10", "1/4"]
+                },
+                {
+                  "id": 35,
+                  "content": "If you roll a number cube with the numbers 1 to 6, what is the probability of rolling a prime number?",
+                  "correctIndex": 2,
+                  "answers": ["1/6", "1/3", "1/2", "2/3"]
+                },
+                {
+                  "id": 36,
+                  "content": "You have a spinner with 4 sections: 2 red, 1 blue, and 1 green. What is the probability of it not landing on green?",
+                  "correctIndex": 0,
+                  "answers": ["1/4", "1/2", "3/4", "1/3"]
+                },
+                {
+                  "id": 37,
+                  "content": "If you flip three coins, what is the probability of getting heads on at least two coins?",
+                  "correctIndex": 1,
+                  "answers": ["1/8", "3/8", "1/4", "1/6"]
+                },
+                {
+                  "id": 38,
+                  "content": "You have a bag with 6 red marbles and 4 blue marbles. What is the probability of picking a red marble?",
+                  "correctIndex": 2,
+                  "answers": ["9/10", "1/2", "3/5", "2/5"]
+                },
+                {
+                  "id": 39,
+                  "content": "There are 4 star stickers, 3 heart stickers, and 5 circle stickers. What is the probability of picking a heart sticker?",
+                  "correctIndex": 3,
+                  "answers": ["3/12", "1/3", "3/12", "1/4"]
+                }
+                
+              
+              
+              
+          ]
+      }
+       
+    }
+
+]
