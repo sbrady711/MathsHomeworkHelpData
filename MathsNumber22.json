@@ -1,0 +1,2003 @@
+[
+    {
+        "id": 1,
+        "category": "Number",
+        "description": "Strand units: Counting and Numeration, Comparing and ordering, Place value, and Operation (Addition, Subtraction).",
+      "content": {
+          "id": 0,
+      "teaching": [
+          
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Counting 1-20",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 20."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "One-to-One Correspondence",
+                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'Thirty-one' for the first group of apple, 'Twenty-two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Writing Numerals",
+                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 50. We will practice writing the numerals and matching them to the corresponding number of objects."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Counting Objects",
+                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 50 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Quantity and Number Sense",
+                            "topicContent": "Numbers represent quantities. We will learn to recognize the quantity represented by each numeral from 1 to 70. We will practice matching groups of objects to the corresponding numeral and comparing the quantity of objects in different groups."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Introduction to Counting",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 100."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "One-to-One Correspondence",
+                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'one' for the first apple, 'two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Writing Numerals",
+                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 100. We will practice writing the numerals and matching them to the corresponding number of objects."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Counting Objects",
+                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 100 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Counting by 2s,5s and 10s",
+                            "topicContent": "We can count by skipping numbers. We will practice counting by 2s, 5s and 10s. This will help us count larger quantities more quickly and efficiently."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Odd and Even Numbers",
+                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 200."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Introduction to Counting",
+                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 200."
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "One-to-One Correspondence",
+                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'one' for the first apple, 'two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Writing Numerals",
+                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 200. We will practice writing the numerals and matching them to the corresponding number of objects."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Counting Objects",
+                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 200 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Counting by 2s, 5s, and 10s",
+                            "topicContent": "We can count by skipping numbers. We will practice counting by 2s, 5s, and 10s. This will help us count larger quantities more quickly and efficiently."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Odd and Even Numbers",
+                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 200."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 200."
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 50 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 50 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 50."
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 100."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 100. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 200 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 200 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 100."
+                     
+                },
+                {
+                            "id": 27,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 200."
+                        },
+                        {
+                            "id": 28,
+                            "topicTitle": "Comparing Numbers with Symbols",
+                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 200. We will also practice using the symbols to compare sets of objects."
+                        },
+                        {
+                            "id": 29,
+                            "topicTitle": "Ordering Numbers from Least to Greatest",
+                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 200 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 30,
+                            "topicTitle": "Ordering Numbers from Greatest to Least",
+                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 200 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
+                        },
+                        {
+                            "id": 31,
+                            "topicTitle": "Comparing and Ordering Numbers with Objects",
+                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 200."
+                        },
+               {
+                            "id": 32,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 33,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In two-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different two-digit numbers and learn how to name them."
+                        },
+                        {
+                            "id": 34,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different two-digit numbers using base-10 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 35,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit numbers in expanded form."
+                },
+                  {
+                            "id": 36,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 37,
+                            "topicTitle": "Ones and Tens Place",
+                            "topicContent": "In two-digit numbers up to 50, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different two-digit numbers up to 50 and learn how to name them."
+                        },
+                        {
+                            "id": 38,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different two-digit numbers up to 20 using base-10 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 39,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers up to 200 in expanded form."
+                },
+              {
+                            "id": 40,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in two-digit and three-digit numbers up to 200 and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 41,
+                            "topicTitle": "Ones, Tens, and Hundreds Place",
+                            "topicContent": "In two-digit numbers up to 50, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens and sometimes the hundreds place in different two-digit and three-digit numbers up to 200 and learn how to name them."
+                        },
+                        {
+                            "id": 42,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 200 using base-10 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 43,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit and three-digit numbers up to 50 in expanded form."
+                        },
+               {
+                            "id": 44,
+                            "topicTitle": "Introduction to Place Value",
+                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in two-digit and three-digit numbers up to 100 and how to represent numbers using base-10 blocks and expanded form."
+                        },
+                        {
+                            "id": 45,
+                            "topicTitle": "Ones, Tens, and Hundreds Place",
+                            "topicContent": "In two-digit numbers up to 200, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens, and hundreds place in different two-digit and three-digit numbers up to 200 and learn how to name them."
+                        },
+                        {
+                            "id": 46,
+                            "topicTitle": "Representing Numbers with Base-10 Blocks",
+                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 200 using base-10 blocks and learn how to count them."
+                        },
+                        {
+                            "id": 47,
+                            "topicTitle": "Expanded Form",
+                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit and three-digit numbers up to 200 in expanded form."
+                  },
+                {
+                            "id": 48,
+                            "topicTitle": "Introduction to Addition",
+                            "topicContent": "Addition is the process of combining two or more numbers to find the total. We will learn the symbols and vocabulary associated with addition and practice adding numbers up to 200."
+                        },
+                        {
+                            "id": 49,
+                            "topicTitle": "Adding Single-Digit Numbers",
+                            "topicContent": "We will practice adding Two-digit adn Three-digit numbers up to 200 using pictures, number lines, and mental math. We will also learn how to write addition sentences using the plus symbol (+) and the equal symbol (=)."
+                        },
+                        {
+                            "id": 50,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving addition. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
+                },
+              {
+                            "id": 51,
+                            "topicTitle": "Introduction to Addition",
+                            "topicContent": "Addition is the process of combining two or more numbers to find the total. We will learn the symbols and vocabulary associated with addition and practice adding numbers up to 200."
+                        },
+                        {
+                            "id": 52,
+                            "topicTitle": "Adding Single-Digit Numbers",
+                            "topicContent": "We will practice adding single-digit numbers up to 100 using pictures, number lines, and mental math. We will then move on to adding double-digit numbers up to 200 using a similar approach."
+                        },
+                        {
+                            "id": 53,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving addition. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
+                        },
+                 {
+                            "id": 54,
+                            "topicTitle": "Introduction to Addition of Two-Digit Numbers without Regrouping",
+                            "topicContent": "Addition of two-digit numbers without regrouping is the process of adding two-digit numbers where there is no need to regroup or carry over. We will learn the symbols and vocabulary associated with addition and practice adding two-digit numbers up to 200 without regrouping."
+                        },
+                        {
+                            "id": 55,
+                            "topicTitle": "Adding Two-Digit Numbers without Regrouping",
+                            "topicContent": "We will practice adding two-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, add the ones place and the tens place separately, and write the final answer."
+                        },
+                        {
+                            "id": 56,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving addition of two-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
+                        },
+              {
+                            "id": 57,
+                            "topicTitle": "Introduction to Addition with Regrouping",
+                            "topicContent": "Addition with regrouping, also known as carrying over, is the process of adding two-digit numbers where the sum of the ones place digits is greater than 100. We will learn the symbols and vocabulary associated with addition with regrouping and practice adding two-digit numbers up to 50 with regrouping."
+                        },
+                        {
+                            "id": 58,
+                            "topicTitle": "Adding Two-Digit Numbers with Regrouping",
+                            "topicContent": "We will practice adding two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, add the ones place and the tens place separately, and regroup the tens place if necessary. We will also practice checking our work by adding the numbers vertically and horizontally to make sure they match."
+                        },
+                        {
+                            "id": 59,
+                            "topicTitle": "Word Problems",
+                            "topicContent": "We will solve simple word problems involving addition of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer. We will also learn how to check our work by adding the numbers vertically and horizontally to make sure they match."
+                        },
+                        {
+                            "id": 60,
+                            "topicTitle": "Introduction to Subtraction",
+                            "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 50 apples and we eat 23, we are left with 27 apples. We use the minus sign (-) to show subtraction. So 50 - 23 = 27."
+                        },
+                        {
+                            "id": 61,
+                            "topicTitle": "Subtracting Numbers from 1 to 100",
+                            "topicContent": "Let's start with some simple subtraction problems. For example, 99 - 79 = 20. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 79 from 99, we start at 9 and count backwards 9 then we look at the tens: 90, 80, 70. So 99 - 79 = 20."
+                        },
+                        {
+                            "id": 62,
+                            "topicTitle": "Subtracting Numbers from 50 to 200",
+                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 80 from 112, we can start at 12 and count backwards from 80 - 2 first."
+                        },
+                        {
+                            "id": 63,
+                            "topicTitle": "Practice Problems",
+                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 74 - 23, 91 - 65, 107 - 46, 53 - 16, 201 - 2."
+                        },
+                        {
+                            "id": 64,
+                            "topicTitle": "Wrap-up",
+                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 200 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
+                        },
+                        {
+                        "id": 65,
+                        "topicTitle": "Subtracting Numbers from 1 to 200",
+                        "topicContent": "Subtracting 1 to 200 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
+                        },
+                        {
+                        "id": 66,
+                        "topicTitle": "Subtracting Numbers from 1 to 150",
+                        "topicContent": "Let's dive into subtracting 1 to 150. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
+                        },
+                        {
+                        "id": 67,
+                        "topicTitle": "Subtracting Numbers from 1 to 200",
+                        "topicContent": "Now explore subtracting within 1 to 200. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
+                        },
+                        {
+                        "id": 68,
+                        "topicTitle": "Subtraction Tips",
+                        "topicContent": "Great progress! Master subtracting 1 to 200 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
+                        },
+                        {
+                        "id": 69,
+                        "topicTitle": "Subtraction Word Problems",
+                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
+                        },
+                        {
+                        "id": 70,
+                        "topicTitle": "Subtraction with Regrouping 1-200",
+                        "topicContent": "Regrouping (borrowing) is vital for 1 to 200 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
+                        }
+                        
+                        
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Number strand knowledge to the test.",
+               "questions": [
+                   {
+                              "id": 0,
+                              "content": "What is the next number in the sequence: 15, 16, 17, ...?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "14",
+                                 "18",
+                                 "19",
+                                 "20"
+                              ]
+                           },
+                           {
+                              "id": 1,
+                              "content": "What is one-to-one correspondence?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "Matching numbers to objects",
+                                 "Adding numbers together",
+                                 "Matching objects to counting words",
+                                 "Writing numerals"
+                              ]
+                           },
+                           {
+                              "id": 2,
+                              "content": "Write the numeral for the number of crayons: Thirty- One, two, three.",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "12",
+                                 "33",
+                                 "32",
+                                 "31"
+                              ]
+                           },
+                           {
+                              "id": 3,
+                              "content": "Count the objects: \n\n ⬤ ⬤ ⬤ ⬤ ⬤ ⬤",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "4",
+                                 "5",
+                                 "6",
+                                 "7"
+                              ]
+                           },
+                           {
+                              "id": 4,
+                              "content": "What is the value of the digit '7' in the number '73'?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "7",
+                                 "3",
+                                 "70",
+                                 "700"
+                              ]
+                           },
+                           {
+                              "id": 5,
+                              "content": "What comes after '58'?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "57",
+                                 "59",
+                                 "60",
+                                 "56"
+                              ]
+                           },
+                           {
+                              "id": 6,
+                              "content": "Fix the pattern 10s: 10, ____, 30, ____, 50, ____, ...",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "20, 40",
+                                 "20, 30, 40",
+                                 "30, 50",
+                                 "20, 40, 60"
+                              ]
+                           },
+                           {
+                              "id": 7,
+                              "content": "Which of these numbers is even?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "21",
+                                 "34",
+                                 "45",
+                                 "51"
+                              ]
+                           },
+                           {
+                              "id": 8,
+                              "content": "What is the sum of 25 and 37?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "52",
+                                 "60",
+                                 "72",
+                                 "62"
+                              ]
+                           },
+                           {
+                              "id": 9,
+                              "content": "Subtract 15 from 48.",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "33",
+                                 "32",
+                                 "34",
+                                 "35"
+                              ]
+                           },
+                           {
+                              "id": 10,
+                              "content": "What is the result of 76 - 29?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "46",
+                                 "47",
+                                 "67",
+                                 "57"
+                              ]
+                           },
+                           {
+                              "id": 11,
+                              "content": "What is the value of the '2' in the number '126'?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "2",
+                                 "20",
+                                 "200",
+                                 "12"
+                              ]
+                           },
+                           {
+                              "id": 12,
+                              "content": "What number is missing: 100, ____, 120, 130?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "100",
+                                 "115",
+                                 "110",
+                                 "105"
+                              ]
+                           },
+                           {
+                              "id": 13,
+                              "content": "Order these numbers from least to greatest: 75, 60, 90, 45.",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "90, 75, 60, 45",
+                                 "45, 60, 75, 90",
+                                 "60, 45, 75, 90",
+                                 "45, 75, 60, 90"
+                              ]
+                           },
+                           {
+                              "id": 14,
+                              "content": "What is 10 more than 145?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "145",
+                                 "155",
+                                 "135",
+                                 "165"
+                              ]
+                           },
+                           {
+                              "id": 15,
+                              "content": "What is the result of 85 + 29?",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "111",
+                                 "104",
+                                 "124",
+                                 "114"
+                              ]
+                           },
+                           {
+                              "id": 16,
+                              "content": "What is 50 less than 128?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "77",
+                                 "88",
+                                 "78",
+                                 "68"
+                              ]
+                           },
+                           {
+                              "id": 17,
+                              "content": "What is the value of the digit '4' in the number '427'?",
+                              "correctIndex": 2,
+                              "answers": [
+                                 "4",
+                                 "40",
+                                 "400",
+                                 "2"
+                              ]
+                           },
+                           {
+                              "id": 18,
+                              "content": "Which of these numbers is odd?",
+                              "correctIndex": 0,
+                              "answers": [
+                                 "31",
+                                 "44",
+                                 "52",
+                                 "62"
+                              ]
+                           },
+                           {
+                              "id": 19,
+                              "content": "What is the difference between 89 and 47?",
+                              "correctIndex": 1,
+                              "answers": [
+                                 "49",
+                                 "42",
+                                 "52",
+                                 "32"
+                              ]
+                           },
+                           
+                           
+                           
+                           
+                           
+                           {
+                              "id": 20,
+                              "content": "Subtract 38 from 59.",
+                              "correctIndex": 3,
+                              "answers": [
+                                 "23",
+                                 "2",
+                                 "29",
+                                 "21"
+                              ]
+                           },
+                           {
+                                      "id": 21,
+                                      "content": "What is the number word for the numeral '77'?",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "Twenty-seven",
+                                         "Thirty-seven",
+                                         "Seventy-seven",
+                                         "Three-sevenths"
+                                      ]
+                                   },
+                                   {
+                                      "id": 22,
+                                      "content": "Which number comes after '49'?",
+                                      "correctIndex": 3,
+                                      "answers": [
+                                         "44",
+                                         "45",
+                                         "48",
+                                         "50"
+                                      ]
+                                   },
+                                   {
+                                      "id": 23,
+                                      "content": "What is the value of the digit '5' in the number '258'?",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "5",
+                                         "50",
+                                         "500",
+                                         "0.5"
+                                      ]
+                                   },
+                                   {
+                                      "id": 24,
+                                      "content": "How many objects are there if you count 'one, two, thirty and point to each object group?",
+                                      "correctIndex": 0,
+                                      "answers": [
+                                         "30",
+                                         "40",
+                                         "20",
+                                         "50"
+                                      ]
+                                   },
+                                   {
+                                      "id": 25,
+                                      "content": "What is the quantity represented by the numeral '63'?",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "36",
+                                         "63",
+                                         "30",
+                                         "6"
+                                      ]
+                                   },
+                                   {
+                                      "id": 26,
+                                      "content": "Count by 2s: 2, ____, 6, 8.",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "3",
+                                         "4",
+                                         "5",
+                                         "7"
+                                      ]
+                                   },
+                                   {
+                                      "id": 27,
+                                      "content": "What is the sum of '47 + 25'?",
+                                      "correctIndex": 3,
+                                      "answers": [
+                                         "71",
+                                         "52",
+                                         "62",
+                                         "72"
+                                      ]
+                                   },
+                                   {
+                                      "id": 28,
+                                      "content": "Subtract: 87 - 26.",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "71",
+                                         "61",
+                                         "62",
+                                         "63"
+                                      ]
+                                   },
+                                   {
+                                      "id": 29,
+                                      "content": "Which of the following numbers is greater: '150' or '200'?",
+                                      "correctIndex": 3,
+                                      "answers": [
+                                         "100",
+                                         "120",
+                                         "150",
+                                         "200"
+                                      ]
+                                   },
+                                   {
+                                      "id": 30,
+                                      "content": "What is the missing number in the sequence: 105, ____, 99, 96?",
+                                      "correctIndex": 0,
+                                      "answers": [
+                                         "102",
+                                         "112",
+                                         "100",
+                                         "115"
+                                      ]
+                                   },
+                                   {
+                                      "id": 31,
+                                      "content": "What is '47' written in expanded form?",
+                                      "correctIndex": 2,
+                                      "answers": [
+                                         "400 + 70 + 7",
+                                         "40 + 70 + 7",
+                                         "40 + 7",
+                                         "4 + 7"
+                                      ]
+                                   },
+                                   {
+                                      "id": 32,
+                                      "content": "Count by 5s: 5, ____, 15, 20.",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "6",
+                                         "10",
+                                         "8",
+                                         "12"
+                                      ]
+                                   },
+                                   {
+                                      "id": 33,
+                                      "content": "What is the difference between '79' and '35'?",
+                                      "correctIndex": 2,
+                                      "answers": [
+                                         "40",
+                                         "42",
+                                         "44",
+                                         "41"
+                                      ]
+                                   },
+                                   {
+                                      "id": 34,
+                                      "content": "Which number is even: '103' or '110'?",
+                                      "correctIndex": 3,
+                                      "answers": [
+                                         "103",
+                                         "100",
+                                         "11",
+                                         "110"
+                                      ]
+                                   },
+                                   {
+                                      "id": 35,
+                                      "content": "What is the result of '54 + 18'?",
+                                      "correctIndex": 0,
+                                      "answers": [
+                                         "72",
+                                         "62",
+                                         "71",
+                                         "82"
+                                      ]
+                                   },
+                                   {
+                                      "id": 36,
+                                      "content": "Subtract: 124 - 60.",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "67",
+                                         "64",
+                                         "57",
+                                         "47"
+                                      ]
+                                   },
+                                   {
+                                      "id": 37,
+                                      "content": "Order these numbers from least to greatest: 85, 42, 106, 63.",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "85, 106, 42, 63",
+                                         "42, 63, 85, 106",
+                                         "63, 42, 85, 106",
+                                         "106, 63, 85, 42"
+                                      ]
+                                   },
+                                   {
+                                      "id": 38,
+                                      "content": "What is '195' written in words?",
+                                      "correctIndex": 0,
+                                      "answers": [
+                                         "One hundred ninety-five",
+                                         "One hundred fifty-nine",
+                                         "One hundred five",
+                                         "Nineteen five"
+                                      ]
+                                   },
+                                   {
+                                      "id": 39,
+                                      "content": "Which of the following numbers is odd: '82', '95', '110', '126'?",
+                                      "correctIndex": 1,
+                                      "answers": [
+                                         "82",
+                                         "95",
+                                         "110",
+                                         "126"
+                                      ]
+                                   },
+                                   {
+                                      "id": 40,
+                                      "content": "Subtract: 198 - 117.",
+                                      "correctIndex": 0,
+                                      "answers": [
+                                         "81",
+                                         "79",
+                                         "80",
+                                         "73"
+                                      ]
+                                   },
+                           
+                           
+                           
+                           
+                           
+                           {
+                                    "id": 41,
+                                    "content": "6 + 11 = ?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "19",
+                                       "20",
+                                       "17",
+                                       "18"
+                                    ]
+                                 },
+                                 {
+                                    "id": 42,
+                                    "content": "When counting objects, what is one-to-one correspondence?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "Using tally marks to represent numbers.",
+                                       "Matching each object to a counting word.",
+                                       "Counting by skip counting.",
+                                       "Adding the objects together."
+                                    ]
+                                 },
+                                 {
+                                    "id": 43,
+                                    "content": "Write the numeral for the number word: 'thirty-eight'.",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "39",
+                                       "83",
+                                       "30",
+                                       "38"
+                                    ]
+                                 },
+                                 {
+                                    "id": 44,
+                                    "content": "75 - 70 = ?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "5",
+                                       "4",
+                                       "6",
+                                       "7"
+                                    ]
+                                 },
+                                 {
+                                    "id": 45,
+                                    "content": "What does the numeral '60' represent?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "Six",
+                                       "Sixty",
+                                       "Six units",
+                                       "Six hundred"
+                                    ]
+                                 },
+                                 {
+                                    "id": 46,
+                                    "content": " What number comes after 18?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "16",
+                                       "20",
+                                       "19",
+                                       "22"
+                                    ]
+                                 },
+                                 {
+                                    "id": 47,
+                                    "content": "Which of the following numbers is an odd number?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "37",
+                                       "40",
+                                       "44",
+                                       "48"
+                                    ]
+                                 },
+                                 {
+                                    "id": 48,
+                                    "content": "What is the sum of 23 and 47?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "700",
+                                       "69",
+                                       "76",
+                                       "70"
+                                    ]
+                                 },
+                                 {
+                                    "id": 49,
+                                    "content": "Compare the numbers: 85 ___ 95.",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "<",
+                                       ">",
+                                       "=",
+                                       "≤"
+                                    ]
+                                 },
+                                 {
+                                    "id": 50,
+                                    "content": "Arrange the following numbers in ascending order: 63, 42, 79, 58.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "79, 42, 58, 63",
+                                       "42, 58, 63, 79",
+                                       "63, 42, 79, 58",
+                                       "58, 63, 79, 42"
+                                    ]
+                                 },
+                                 {
+                                    "id": 51,
+                                    "content": "What is the place value of the digit '5' in the number '578'?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "5",
+                                       "50",
+                                       "500",
+                                       "5,000"
+                                    ]
+                                 },
+                                 {
+                                    "id": 52,
+                                    "content": "Subtract: 132 - 56.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "86",
+                                       "76",
+                                       "72",
+                                       "66"
+                                    ]
+                                 },
+                                 {
+                                    "id": 53,
+                                    "content": "What is the result of counting backwards by 10s from 100?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "60, 70, 80, 90, 100",
+                                       "10, 20, 30, 40, 50",
+                                       "90, 80, 70, 60, 50",
+                                       "90, 80, 70, 60, 50, 40, 30, 20, 10"
+                                    ]
+                                 },
+                                 {
+                                    "id": 54,
+                                    "content": "What is the missing number in the sequence: 12, 22, ____, 42, 52?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "32",
+                                       "38",
+                                       "42",
+                                       "48"
+                                    ]
+                                 },
+                                 {
+                                    "id": 55,
+                                    "content": "24 + ? = 40",
+                                    "answers": [
+                                       "24 + 19 = 40",
+                                       "24 + 16 = 40",
+                                       "24 - 16 = 40",
+                                       "16 + 24 = 39"
+                                    ]
+                                 },
+                                 {
+                                    "id": 56,
+                                    "content": "Solve the word problem: Lucy has 38 sweets. She gives 15  to her friend. How many csweets does Lucy have left?",
+                                    "correctIndex": 3,
+                                    "answers": [
+                                       "43 candies",
+                                       "13 candies",
+                                       "53 candies",
+                                       "23 candies"
+                                    ]
+                                 },
+                                 {
+                                    "id": 57,
+                                    "content": "What is the sum of 56 and 78?",
+                                    "correctIndex": 0,
+                                    "answers": [
+                                       "134",
+                                       "130",
+                                       "124",
+                                       "120"
+                                    ]
+                                 },
+                                 {
+                                    "id": 58,
+                                    "content": "Subtract: 147 - 63.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "82",
+                                       "84",
+                                       "88",
+                                       "76"
+                                    ]
+                                 },
+                                 {
+                                    "id": 59,
+                                    "content": "Compare the numbers: 197 ___ 176.",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "<",
+                                       ">",
+                                       "=",
+                                       "≤"
+                                    ]
+                                 },
+                                 {
+                                    "id": 60,
+                                    "content": "Which number represents the ones place in the numeral '324'?",
+                                    "correctIndex": 2,
+                                    "answers": [
+                                       "3",
+                                       "2",
+                                       "4",
+                                       "1"
+                                    ]
+                                 },
+                                 {
+                                    "id": 61,
+                                    "content": "What is the value of the digit '7' in the number '679'?",
+                                    "correctIndex": 1,
+                                    "answers": [
+                                       "7",
+                                       "70",
+                                       "700",
+                                       "7,000"
+                                    ]
+                                 },
+                                 {
+                                          "id": 62,
+                                          "content": "4 x 3 = ?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "10",
+                                             "12",
+                                             "14",
+                                             "8"
+                                          ]
+                                       },
+                                       {
+                                          "id": 63,
+                                          "content": "What comes after the number '29' when counting by 3s?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "32",
+                                             "33",
+                                             "30",
+                                             "31"
+                                          ]
+                                       },
+                                       {
+                                          "id": 64,
+                                          "content": "Write the numeral for the number word: 'fifty-five'.",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "55",
+                                             "50",
+                                             "5",
+                                             "500"
+                                          ]
+                                       },
+                                       {
+                                          "id": 65,
+                                          "content": "Add: 27 + 39.",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                             "56",
+                                             "69",
+                                             "66",
+                                             "76"
+                                          ]
+                                       },
+                                       {
+                                          "id": 66,
+                                          "content": "Which of the following numbers is an even number?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "33",
+                                             "42",
+                                             "37",
+                                             "51"
+                                          ]
+                                       },
+                                       {
+                                          "id": 67,
+                                          "content": "What is the result of counting backwards by 5s from 50?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "50, 45, 40, 35, 30, 25, 20, 15, 10, 5",
+                                             "45, 40, 35, 30, 25, 20, 15, 10, 5",
+                                             "55, 50, 45, 40, 35, 30, 25, 20, 15, 10",
+                                             "40, 35, 30, 25, 20, 15, 10, 5"
+                                          ]
+                                       },
+                                       {
+                                          "id": 68,
+                                          "content": "What is the missing number in the pattern: 5, 10, ____, 20, 25?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "12",
+                                             "15",
+                                             "14",
+                                             "18"
+                                          ]
+                                       },
+                                       {
+                                          "id": 69,
+                                          "content": "Solve the word problem: There are 28 students in the classroom. If 10 students are absent, how many students are present?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                             "19 students",
+                                             "28 students",
+                                             "18 students",
+                                             "38 students"
+                                          ]
+                                       },
+                                       {
+                                          "id": 70,
+                                          "content": "What is the sum of 63 and 45?",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                             "98",
+                                             "107",
+                                             "109",
+                                             "108"
+                                          ]
+                                       },
+                                       {
+                                          "id": 71,
+                                          "content": "Subtract: 87 - 39.",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "48",
+                                             "49",
+                                             "58",
+                                             "68"
+                                          ]
+                                       },
+                                       {
+                                          "id": 72,
+                                          "content": "Compare the numbers: 123 ___ 132.",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "<",
+                                             ">",
+                                             "=",
+                                             "≤"
+                                          ]
+                                       },
+                                       {
+                                          "id": 73,
+                                          "content": "Which digit is in the tens place of the number '825'?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "9",
+                                             "2",
+                                             "5",
+                                             "8"
+                                          ]
+                                       },
+                                       {
+                                          "id": 74,
+                                          "content": "What is the value of the digit '9' in the number '679'?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "9",
+                                             "90",
+                                             "900",
+                                             "9,000"
+                                          ]
+                                       },
+                                       {
+                                          "id": 75,
+                                          "content": "32 ? 18 = 50",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                             "32 - 18 = 14",
+                                             "32 + 18 = 50",
+                                             "18 - 32 = -14",
+                                             "14 - 18 = -4"
+                                          ]
+                                       },
+                                       {
+                                          "id": 76,
+                                          "content": "If Jenny has 24 marbles and she gives 7 to her friend, how many marbles does Jenny have left?",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "31 marbles",
+                                             "17 marbles",
+                                             "31 marbles",
+                                             "10 marbles"
+                                          ]
+                                       },
+                                       {
+                                          "id": 77,
+                                          "content": "What number is halfway between 40 and 60?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                             "54",
+                                             "45",
+                                             "50",
+                                             "55"
+                                          ]
+                                       },
+                                       {
+                                          "id": 78,
+                                          "content": "Add: 58 + 47.",
+                                          "correctIndex": 3,
+                                          "answers": [
+                                             "95",
+                                             "104",
+                                             "109",
+                                             "105"
+                                          ]
+                                       },
+                                       {
+                                          "id": 79,
+                                          "content": "Subtract: 164 - 89.",
+                                          "correctIndex": 1,
+                                          "answers": [
+                                             "85",
+                                             "75",
+                                             "95",
+                                             "105"
+                                          ]
+                                       },
+                                       {
+                                          "id": 80,
+                                          "content": "What is the difference between 10 and the 200?",
+                                          "correctIndex": 0,
+                                          "answers": [
+                                             "89",
+                                             "99",
+                                             "190",
+                                             "190"
+                                          ]
+                                       },
+                                       {
+                                          "id": 81,
+                                          "content": "Count by 5s up to 50. What number comes before 50?",
+                                          "correctIndex": 2,
+                                          "answers": [
+                                             "45",
+                                             "55",
+                                             "45",
+                                             "40"
+                                          ]
+                                       },
+                                       {
+                                                 "id": 82,
+                                                 "content": "Which number comes after 48?",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "47",
+                                                    "50",
+                                                    "47",
+                                                    "49"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 83,
+                                                 "content": "If you have 25 candies and you eat 7 of them, how many candies do you have left?",
+                                                 "correctIndex": 2,
+                                                 "answers": [
+                                                    "16 candies",
+                                                    "32 candies",
+                                                    "18 candies",
+                                                    "10 candies"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 84,
+                                                 "content": "What is the sum of 35 and 24?",
+                                                 "correctIndex": 0,
+                                                 "answers": [
+                                                    "59",
+                                                    "58",
+                                                    "49",
+                                                    "69"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 85,
+                                                 "content": "Count by 2s starting from 10. What is the 5th number in the sequence?",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "16",
+                                                    "18",
+                                                    "15",
+                                                    "20"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 86,
+                                                 "content": "If you have 3 euro and 4 euro, how much money do you have?",
+                                                 "correctIndex": 0,
+                                                 "answers": [
+                                                    "34",
+                                                    "7",
+                                                    "3",
+                                                    "43"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 87,
+                                                 "content": "Write the numeral for the number word: 'eighty-one'.",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "18",
+                                                    "80",
+                                                    "8",
+                                                    "81"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 88,
+                                                 "content": "What is the missing number in the pattern: 20, 30, ____, 50, 60?",
+                                                 "correctIndex": 2,
+                                                 "answers": [
+                                                    "20",
+                                                    "45",
+                                                    "40",
+                                                    "35"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 89,
+                                                 "content": "Subtract: 56 - 38.",
+                                                 "correctIndex": 1,
+                                                 "answers": [
+                                                    "1",
+                                                    "18",
+                                                    "28",
+                                                    "38"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 90,
+                                                 "content": "Which of these numbers is an odd number?",
+                                                 "correctIndex": 2,
+                                                 "answers": [
+                                                    "26",
+                                                    "32",
+                                                    "21",
+                                                    "18"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 91,
+                                                 "content": "What is the result of counting by 4s starting from 8?",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "16, 20, 24, 28, 32, 36, 40",
+                                                    "16, 20, 24, 28, 32, 36",
+                                                    "12, 16, 20, 24, 28, 32, 36",
+                                                    "12, 16, 20, 24, 28, 32, 36, 40"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 92,
+                                                 "content": "Add: 42 + 29.",
+                                                 "correctIndex": 2,
+                                                 "answers": [
+                                                    "7",
+                                                    "70",
+                                                    "71",
+                                                    "81"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 93,
+                                                 "content": "What is the value of the digit '7' in the number '574'?",
+                                                 "correctIndex": 1,
+                                                 "answers": [
+                                                    "7",
+                                                    "70",
+                                                    "700",
+                                                    "7,000"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 94,
+                                                 "content": "Which symbol should replace the question mark? 28 ? 34",
+                                                 "correctIndex": 1,
+                                                 "answers": [
+                                                    "<",
+                                                    ">",
+                                                    "=",
+                                                    "≤"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 95,
+                                                 "content": "Arrange these numbers from smallest to largest: 17, 26, 20, 35.",
+                                                 "correctIndex": 0,
+                                                 "answers": [
+                                                    "17, 20, 26, 35",
+                                                    "35, 26, 20, 17",
+                                                    "26, 35, 20, 17",
+                                                    "20, 17, 26, 35"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 96,
+                                                 "content": "How many sides does a hexagon have?",
+                                                 "correctIndex": 1,
+                                                 "answers": [
+                                                    "4",
+                                                    "6",
+                                                    "8",
+                                                    "10"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 97,
+                                                 "content": "Count by 10s up to 100. What number comes before 100?",
+                                                 "correctIndex": 0,
+                                                 "answers": [
+                                                    "90",
+                                                    "100",
+                                                    "9",
+                                                    "80"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 98,
+                                                 "content": "If you add 15 and 8, and then subtract 4, what is the result?",
+                                                 "correctIndex": 0,
+                                                 "answers": [
+                                                    "19",
+                                                    "25",
+                                                    "11",
+                                                    "23"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 99,
+                                                 "content": "Write the numbers in order from largest to smallest: 63, 45, 52, 78.",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "78, 63, 52, 45",
+                                                    "45, 52, 63, 78",
+                                                    "63, 52, 45, 78",
+                                                    "78, 52, 63, 45"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 100,
+                                                 "content": "How many tens are there in the number '370'?",
+                                                 "correctIndex": 1,
+                                                 "answers": [
+                                                    "3",
+                                                    "7",
+                                                    "10",
+                                                    "0"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 101,
+                                                 "content": "Add: 56 + 25.",
+                                                 "correctIndex": 3,
+                                                 "answers": [
+                                                    "75",
+                                                    "71",
+                                                    "80",
+                                                    "81"
+                                                 ]
+                                              },
+                                              {
+                                                 "id": 102,
+                                                 "content": "Subtract: 123 - 59.",
+                                                 "correctIndex": 2,
+                                                 "answers": [
+                                                    "74",
+                                                    "74",
+                                                    "64",
+                                                    "84"
+                                                 ]
+                                              },
+                                              {
+                                                        "id": 103,
+                                                        "content": "Which number is one more than 63?",
+                                                        "correctIndex": 0,
+                                                        "answers": [
+                                                           "64",
+                                                           "65",
+                                                           "62",
+                                                           "63"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 104,
+                                                        "content": "If you have 18 apples and your friend gives you 7 more, how many apples do you have now?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "5 apples",
+                                                           "25 apples",
+                                                           "15 apples",
+                                                           "11 apples"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 105,
+                                                        "content": "What is the sum of 29 and 36?",
+                                                        "correctIndex": 2,
+                                                        "answers": [
+                                                           "55",
+                                                           "66",
+                                                           "65",
+                                                           "45"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 106,
+                                                        "content": "Count by 5s starting from 15. What is the 6th number in the sequence?",
+                                                        "correctIndex": 3,
+                                                        "answers": [
+                                                           "35",
+                                                           "400",
+                                                           "30",
+                                                           "40"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 107,
+                                                        "content": "If you have 40 cant in and 9 cent in coins, how much money do you have?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "85 cents",
+                                                           "49 cents",
+                                                           "43 cents",
+                                                           "73 cents"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 108,
+                                                        "content": "Write the numeral for the number word: 'fifty-seven'.",
+                                                        "correctIndex": 0,
+                                                        "answers": [
+                                                           "57",
+                                                           "75",
+                                                           "50",
+                                                           "7"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 109,
+                                                        "content": "What is the missing number in the pattern: 10, 20, ____, 40, 50?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "35",
+                                                           "30",
+                                                           "35",
+                                                           "45"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 110,
+                                                        "content": "Subtract: 42 - 19.",
+                                                        "correctIndex": 0,
+                                                        "answers": [
+                                                           "23",
+                                                           "28",
+                                                           "21",
+                                                           "33"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 111,
+                                                        "content": "Which of these numbers is an even number?",
+                                                        "correctIndex": 3,
+                                                        "answers": [
+                                                           "17",
+                                                           "25",
+                                                           "21",
+                                                           "14"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 112,
+                                                        "content": "What is the result of counting by 3s starting from 6?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "15, 18, 21, 24, 27, 30",
+                                                           "9, 12, 15, 18, 21, 24",
+                                                           "15, 18, 21, 24, 27",
+                                                           "9, 12, 5, 18, 21"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 113,
+                                                        "content": "Add: 27 + 14.",
+                                                        "correctIndex": 3,
+                                                        "answers": [
+                                                           "31",
+                                                           "1",
+                                                           "37",
+                                                           "41"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 114,
+                                                        "content": "What is the value of the digit '9' in the number '694'?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "9",
+                                                           "90",
+                                                           "900",
+                                                           "6,900"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 115,
+                                                        "content": "Which symbol should replace the question mark? 51 ? 65",
+                                                        "correctIndex": 0,
+                                                        "answers": [
+                                                           "<",
+                                                           ">",
+                                                           "=",
+                                                           "≥"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 116,
+                                                        "content": "Arrange these numbers from smallest to largest: 32, 25, 40, 18.",
+                                                        "correctIndex": 3,
+                                                        "answers": [
+                                                           "18, 25, 32, 40",
+                                                           "40, 32, 25, 18",
+                                                           "32, 40, 25, 18",
+                                                           "18, 25, 40, 32"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 117,
+                                                        "content": "How many sides does an octagon have?",
+                                                        "correctIndex": 0,
+                                                        "answers": [
+                                                           "8",
+                                                           "6",
+                                                           "10",
+                                                           "4"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 118,
+                                                        "content": "Count by 10s up to 50. What number comes after 50?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "0",
+                                                           "60",
+                                                           "55",
+                                                           "70"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 119,
+                                                        "content": "If you add 12 and 9, and then subtract 5, what is the result?",
+                                                        "correctIndex": 2,
+                                                        "answers": [
+                                                           "21",
+                                                           "15",
+                                                           "16",
+                                                           "26"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 120,
+                                                        "content": "Write the numbers in order from largest to smallest: 87, 61, 73, 94.",
+                                                        "correctIndex": 3,
+                                                        "answers": [
+                                                           "94, 87, 3, 61",
+                                                           "73, 61, 87, 94",
+                                                           "87, 73, 61, 94",
+                                                           "94, 87, 73, 61"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 121,
+                                                        "content": "How many tens are there in the number '540'?",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "5",
+                                                           "54",
+                                                           "0",
+                                                           "50"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 122,
+                                                        "content": "Add: 68 + 37.",
+                                                        "correctIndex": 2,
+                                                        "answers": [
+                                                           "05",
+                                                           "15",
+                                                           "105",
+                                                           "115"
+                                                        ]
+                                                     },
+                                                     {
+                                                        "id": 123,
+                                                        "content": "Subtract: 178 - 63.",
+                                                        "correctIndex": 1,
+                                                        "answers": [
+                                                           "11",
+                                                           "115",
+                                                           "105",
+                                                           "125"
+                                                        ]
+                                                     },
+                           
+                           {
+                                  "id": 124,
+                                  "content": "If you subtract 30 from 62, what is the result?",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "28",
+                                     "32",
+                                     "20",
+                                     "42"
+                                  ]
+                               },
+                               {
+                                  "id": 125,
+                                  "content": "Which number comes after 49 and before 51?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "50",
+                                     "45",
+                                     "48",
+                                     "52"
+                                  ]
+                               },
+                               {
+                                  "id": 126,
+                                  "content": "If you have 24 marbles and you give 9 to your friend, how many marbles do you have left?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "5 marbles",
+                                     "33 marbles",
+                                     "15 marbles",
+                                     "9 marbles"
+                                  ]
+                               },
+                               {
+                                  "id": 127,
+                                  "content": "What is the sum of the first 5 even numbers?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "18",
+                                     "22",
+                                     "20",
+                                     "30"
+                                  ]
+                               },
+                               {
+                                  "id": 128,
+                                  "content": "Write the number that comes after forty-nine.",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "90",
+                                     "50",
+                                     "60",
+                                     "51"
+                                  ]
+                               },
+                               {
+                                  "id": 129,
+                                  "content": "If you have 8 cookies and you want to share them equally among 4 friends, how many cookies will each friend get?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "1/2 of 1 cookies",
+                                     "32 cookies",
+                                     "2 cookies",
+                                     "4 cookies"
+                                  ]
+                               },
+                               {
+                                  "id": 130,
+                                  "content": "Subtract 7 from 15 and then add 10.",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "12",
+                                     "22",
+                                     "16",
+                                     "18"
+                                  ]
+                               },
+                               {
+                                  "id": 131,
+                                  "content": "Which of these numbers is a multiple of 5?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "25",
+                                     "18",
+                                     "32",
+                                     "41"
+                                  ]
+                               },
+                               {
+                                  "id": 132,
+                                  "content": "Count by 2s starting from 3. What is the 7th number in the sequence?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "15",
+                                     "14",
+                                     "17",
+                                     "16"
+                                  ]
+                               },
+                               {
+                                  "id": 133,
+                                  "content": "What number is halfway between 30 and 50?",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "35",
+                                     "40",
+                                     "45",
+                                     "25"
+                                  ]
+                               },
+                               {
+                                  "id": 134,
+                                  "content": "If a rectangle has 7 rows of squares and each row has 6 squares, how many squares are there in total?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "42 squares",
+                                     "13 squares",
+                                     "72 squares",
+                                     "36 squares"
+                                  ]
+                               },
+                               {
+                                  "id": 135,
+                                  "content": "Which symbol should replace the question mark? 68 ? 68",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     ";)",
+                                     ">",
+                                     "=",
+                                     "<"
+                                  ]
+                               },
+                               {
+                                  "id": 136,
+                                  "content": "Add: 56 + 39.",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "94",
+                                     "75",
+                                     "85",
+                                     "95"
+                                  ]
+                               },
+                               {
+                                  "id": 137,
+                                  "content": "If you multiply 8 by 3, what is the result?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "11",
+                                     "22",
+                                     "24",
+                                     "15"
+                                  ]
+                               },
+                               {
+                                  "id": 138,
+                                  "content": "Write the number word for the numeral: '63'.",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "sixty-tree",
+                                     "sixty-three",
+                                     "thirty-six",
+                                     "sixteen"
+                                  ]
+                               },
+                               {
+                                  "id": 139 ,
+                                  "content": "What is the next number in the sequence: 10, 20, 30, 40, ____?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "45",
+                                     "0",
+                                     "55",
+                                     "50"
+                                  ]
+                               },
+                               {
+                                  "id": 140,
+                                  "content": "Subtract: 86 - 47.",
+                                  "correctIndex": 1,
+                                  "answers": [
+                                     "29",
+                                     "39",
+                                     "41",
+                                     "34"
+                                  ]
+                               },
+                               {
+                                  "id": 141,
+                                  "content": "Count by 5s backwards from 35. What is the 4th number in the sequence?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "10",
+                                     "20",
+                                     "20",
+                                     "15"
+                                  ]
+                               },
+                               {
+                                  "id": 142,
+                                  "content": "Which of these numbers is a prime number?",
+                                  "correctIndex": 3,
+                                  "answers": [
+                                     "12",
+                                     "18",
+                                     "15",
+                                     "17"
+                                  ]
+                               },
+                               {
+                                  "id": 143,
+                                  "content": "If you have 15 pencils and 3 pencil cases, how many pencils would you put in each case to have an equal number?",
+                                  "correctIndex": 0,
+                                  "answers": [
+                                     "5 pencils",
+                                     "18 pencils",
+                                     "99 pencils",
+                                     "3 pencils"
+                                  ]
+                               },
+                               {
+                                  "id": 144,
+                                  "content": "What is the result of adding 25, subtracting 8, and then adding 13?",
+                                  "correctIndex": 2,
+                                  "answers": [
+                                     "35",
+                                     "32",
+                                     "30",
+                                     "45"
+                                  ]
+                               }
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+               ]
+           }
+    }
+
+]
