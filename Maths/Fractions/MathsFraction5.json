@@ -333,7 +333,7 @@
                    {
                      "id": 19,
                      "content": "Which fractions are between 1/2 and 3/4 on the number line? Select all that apply.",
-                     "correctIndices": [1, 2],
+                     "correctIndex": 2,
                      "answers": [
                        "1/4",
                        "5/7",
