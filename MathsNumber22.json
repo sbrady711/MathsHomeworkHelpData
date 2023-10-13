@@ -7,362 +7,78 @@
           "id": 0,
       "teaching": [
           
-          {
+         
+                {
                             "id": 0,
-                            "topicTitle": "Introduction to Counting 1-20",
-                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 20."
-                        },
-                        {
-                            "id": 1,
-                            "topicTitle": "One-to-One Correspondence",
-                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'Thirty-one' for the first group of apple, 'Twenty-two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
-                        },
-                        {
-                            "id": 2,
-                            "topicTitle": "Writing Numerals",
-                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 50. We will practice writing the numerals and matching them to the corresponding number of objects."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Counting Objects",
-                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 50 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Quantity and Number Sense",
-                            "topicContent": "Numbers represent quantities. We will learn to recognize the quantity represented by each numeral from 1 to 70. We will practice matching groups of objects to the corresponding numeral and comparing the quantity of objects in different groups."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Introduction to Counting",
-                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 100."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "One-to-One Correspondence",
-                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'one' for the first apple, 'two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Writing Numerals",
-                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 100. We will practice writing the numerals and matching them to the corresponding number of objects."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Counting Objects",
-                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 100 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Counting by 2s,5s and 10s",
-                            "topicContent": "We can count by skipping numbers. We will practice counting by 2s, 5s and 10s. This will help us count larger quantities more quickly and efficiently."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Odd and Even Numbers",
-                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 200."
-                  
-                },
-                {
-                            "id": 11,
                             "topicTitle": "Introduction to Counting",
                             "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 200."
                         },
-                        {
-                            "id": 12,
-                            "topicTitle": "One-to-One Correspondence",
-                            "topicContent": "One-to-one correspondence means matching each object in a group to a counting word. For example, when counting a group of apples, we say 'one' for the first apple, 'two' for the second apple, and so on. This helps us keep track of how many objects there are in the group."
+           
+                {
+                            "id": 1,
+                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
+                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 200."
                         },
-                        {
-                            "id": 13,
-                            "topicTitle": "Writing Numerals",
-                            "topicContent": "Numerals are symbols that represent numbers. In this lesson, we will learn to recognize and write numerals from 1 to 200. We will practice writing the numerals and matching them to the corresponding number of objects."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Counting Objects",
-                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 200 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Counting by 2s, 5s, and 10s",
-                            "topicContent": "We can count by skipping numbers. We will practice counting by 2s, 5s, and 10s. This will help us count larger quantities more quickly and efficiently."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Odd and Even Numbers",
-                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 200."
+                        
                     
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 200."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 50 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 50 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 50."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 100."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 100. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 200 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 200 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 100."
-                     
-                },
-                {
-                            "id": 27,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 200."
-                        },
-                        {
-                            "id": 28,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 200. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 200 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 200 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 200."
-                        },
                {
-                            "id": 32,
+                            "id": 2,
                             "topicTitle": "Introduction to Place Value",
                             "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10 blocks and expanded form."
                         },
                         {
-                            "id": 33,
+                            "id": 3,
                             "topicTitle": "Ones and Tens Place",
                             "topicContent": "In two-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different two-digit numbers and learn how to name them."
                         },
+             
+                        
                         {
-                            "id": 34,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different two-digit numbers using base-10 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 35,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit numbers in expanded form."
-                },
-                  {
-                            "id": 36,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10 blocks and expanded form."
-                        },
-                        {
-                            "id": 37,
-                            "topicTitle": "Ones and Tens Place",
-                            "topicContent": "In two-digit numbers up to 50, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different two-digit numbers up to 50 and learn how to name them."
-                        },
-                        {
-                            "id": 38,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different two-digit numbers up to 20 using base-10 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 39,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers up to 200 in expanded form."
-                },
-              {
-                            "id": 40,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in two-digit and three-digit numbers up to 200 and how to represent numbers using base-10 blocks and expanded form."
-                        },
-                        {
-                            "id": 41,
+                            "id": 4,
                             "topicTitle": "Ones, Tens, and Hundreds Place",
                             "topicContent": "In two-digit numbers up to 50, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens and sometimes the hundreds place in different two-digit and three-digit numbers up to 200 and learn how to name them."
                         },
-                        {
-                            "id": 42,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 200 using base-10 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 43,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit and three-digit numbers up to 50 in expanded form."
-                        },
-               {
-                            "id": 44,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in two-digit and three-digit numbers up to 100 and how to represent numbers using base-10 blocks and expanded form."
-                        },
-                        {
-                            "id": 45,
-                            "topicTitle": "Ones, Tens, and Hundreds Place",
-                            "topicContent": "In two-digit numbers up to 200, the ones place represents the value of the units, the tens place represents the value of the groups of ten, and the hundreds place represents the value of the groups of hundred. We will practice identifying the ones, tens, and hundreds place in different two-digit and three-digit numbers up to 200 and learn how to name them."
-                        },
-                        {
-                            "id": 46,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred. We will practice representing different two-digit and three-digit numbers up to 200 using base-10 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 47,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing two-digit and three-digit numbers up to 200 in expanded form."
-                  },
+                       
+                        
                 {
-                            "id": 48,
+                            "id": 5,
                             "topicTitle": "Introduction to Addition",
                             "topicContent": "Addition is the process of combining two or more numbers to find the total. We will learn the symbols and vocabulary associated with addition and practice adding numbers up to 200."
                         },
-                        {
-                            "id": 49,
-                            "topicTitle": "Adding Single-Digit Numbers",
-                            "topicContent": "We will practice adding Two-digit adn Three-digit numbers up to 200 using pictures, number lines, and mental math. We will also learn how to write addition sentences using the plus symbol (+) and the equal symbol (=)."
-                        },
-                        {
-                            "id": 50,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving addition. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
-                },
-              {
-                            "id": 51,
-                            "topicTitle": "Introduction to Addition",
-                            "topicContent": "Addition is the process of combining two or more numbers to find the total. We will learn the symbols and vocabulary associated with addition and practice adding numbers up to 200."
-                        },
-                        {
-                            "id": 52,
-                            "topicTitle": "Adding Single-Digit Numbers",
-                            "topicContent": "We will practice adding single-digit numbers up to 100 using pictures, number lines, and mental math. We will then move on to adding double-digit numbers up to 200 using a similar approach."
-                        },
-                        {
-                            "id": 53,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving addition. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
-                        },
+            
+                 
                  {
-                            "id": 54,
+                            "id": 6,
                             "topicTitle": "Introduction to Addition of Two-Digit Numbers without Regrouping",
                             "topicContent": "Addition of two-digit numbers without regrouping is the process of adding two-digit numbers where there is no need to regroup or carry over. We will learn the symbols and vocabulary associated with addition and practice adding two-digit numbers up to 200 without regrouping."
                         },
+                       
                         {
-                            "id": 55,
-                            "topicTitle": "Adding Two-Digit Numbers without Regrouping",
-                            "topicContent": "We will practice adding two-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, add the ones place and the tens place separately, and write the final answer."
-                        },
-                        {
-                            "id": 56,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving addition of two-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
-                        },
-              {
-                            "id": 57,
-                            "topicTitle": "Introduction to Addition with Regrouping",
-                            "topicContent": "Addition with regrouping, also known as carrying over, is the process of adding two-digit numbers where the sum of the ones place digits is greater than 100. We will learn the symbols and vocabulary associated with addition with regrouping and practice adding two-digit numbers up to 50 with regrouping."
-                        },
-                        {
-                            "id": 58,
+                            "id": 7,
                             "topicTitle": "Adding Two-Digit Numbers with Regrouping",
                             "topicContent": "We will practice adding two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, add the ones place and the tens place separately, and regroup the tens place if necessary. We will also practice checking our work by adding the numbers vertically and horizontally to make sure they match."
                         },
+                        
                         {
-                            "id": 59,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving addition of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer. We will also learn how to check our work by adding the numbers vertically and horizontally to make sure they match."
-                        },
-                        {
-                            "id": 60,
+                            "id": 8,
                             "topicTitle": "Introduction to Subtraction",
                             "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 50 apples and we eat 23, we are left with 27 apples. We use the minus sign (-) to show subtraction. So 50 - 23 = 27."
                         },
                         {
-                            "id": 61,
+                            "id": 9,
                             "topicTitle": "Subtracting Numbers from 1 to 100",
                             "topicContent": "Let's start with some simple subtraction problems. For example, 99 - 79 = 20. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 79 from 99, we start at 9 and count backwards 9 then we look at the tens: 90, 80, 70. So 99 - 79 = 20."
                         },
+                        
+                        
                         {
-                            "id": 62,
-                            "topicTitle": "Subtracting Numbers from 50 to 200",
-                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 80 from 112, we can start at 12 and count backwards from 80 - 2 first."
-                        },
-                        {
-                            "id": 63,
-                            "topicTitle": "Practice Problems",
-                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 74 - 23, 91 - 65, 107 - 46, 53 - 16, 201 - 2."
-                        },
-                        {
-                            "id": 64,
-                            "topicTitle": "Wrap-up",
-                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 200 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
-                        },
-                        {
-                        "id": 65,
+                        "id": 10,
                         "topicTitle": "Subtracting Numbers from 1 to 200",
                         "topicContent": "Subtracting 1 to 200 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
                         },
+                        
                         {
-                        "id": 66,
-                        "topicTitle": "Subtracting Numbers from 1 to 150",
-                        "topicContent": "Let's dive into subtracting 1 to 150. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
-                        },
-                        {
-                        "id": 67,
-                        "topicTitle": "Subtracting Numbers from 1 to 200",
-                        "topicContent": "Now explore subtracting within 1 to 200. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
-                        },
-                        {
-                        "id": 68,
-                        "topicTitle": "Subtraction Tips",
-                        "topicContent": "Great progress! Master subtracting 1 to 200 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
-                        },
-                        {
-                        "id": 69,
-                        "topicTitle": "Subtraction Word Problems",
-                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
-                        },
-                        {
-                        "id": 70,
+                        "id": 11,
                         "topicTitle": "Subtraction with Regrouping 1-200",
                         "topicContent": "Regrouping (borrowing) is vital for 1 to 200 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
                         }
@@ -995,6 +711,7 @@
                                  {
                                     "id": 55,
                                     "content": "24 + ? = 40",
+                                    "correctIndex": 1,
                                     "answers": [
                                        "24 + 19 = 40",
                                        "24 + 16 = 40",
