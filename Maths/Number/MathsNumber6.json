@@ -5,373 +5,88 @@
         "description": "Strand units: Counting and Numeration, Comparing and ordering, Place value and Operation (Addition, Subtraction, Multipliction).",
       "content": {
           "id": 0,
-      "teaching": [
-          {
-                            "id": 0,
-                            "topicTitle": "Place value 1-100,000",
-                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 10,000."
-                        },
-          {
-          "id": 1,
-          "topicTitle": "Applying Operations (+, -, x, ÷)",
-          "topicContent": "Applying math operations (+, -, x, ÷) involves solving problems and calculations. Mastering these fundamentals is essential for various mathematical tasks. Add, subtract, multiply, and divide numbers with accuracy to enhance your problem-solving skills."
-          },
-          {
-          "id": 2,
-          "topicTitle": "Front-End Estimation",
-          "topicContent": "Front-End Estimation quickly approximates addition and subtraction results. Focus on leftmost digits to gauge magnitudes. This technique aids mental calculations and ensures reasonable answers."
-          },
-          {
-          "id": 3,
-          "topicTitle": "Rounding",
-          "topicContent": "Rounding approximates numbers to specific place values. Simplify numbers while retaining their value. This technique aids mental math, estimation, and working with large numbers effectively."
-          },
-          {
-          "id": 4,
-          "topicTitle": "Clustering",
-          "topicContent": "Clustering groups numbers for streamlined calculations. Add or subtract in manageable chunks. This method improves mental math accuracy and efficiency."
-          },
-          {
-          "id": 5,
-          "topicTitle": "Applying Make 10 to All Operations (+, -, x, ÷)",
-          "topicContent": "'Make 10' is a versatile strategy for all four operations (+, -, x, ÷). Manipulate numbers to create 10-based pairs. Simplify calculations and enhance mental math across addition, subtraction, multiplication, and division."
-          },
-          {
-          "id": 6,
-          "topicTitle": "Division 1- 500",
-          "topicContent": "Now, let's progress to divinding numbers from 1 to 500. These division facts expand your mathematical capabilities. Remember, some of these facts might relate to halfing or combining smaller division facts. With consistent practice, you'll become adept at dividing within this broader range."
-          },
-          {
-          "id": 7,
-          "topicTitle": "Divison Facts ",
-          "topicContent": "Mastering Division facts is crucial for mathematical fluency. These facts are the foundation of more advanced math skills. Practice drills, flashcards, and online tools can help you memorize these facts efficiently. Once you're comfortable with Divison facts, solving complex problems becomes smoother."
-          },
-          {
-          "id": 8,
-          "topicTitle": "Divide a Two-Digit Number",
-          "topicContent": "Dividing a two-digit number by larger numbers is a fundamental skill. Start by mastering the Division table for that one-digit number. Then apply it to Division problems with larger factors."
-          },
-          {
-          "id": 9,
-          "topicTitle": "Divide a Three-Digit Number",
-          "topicContent": "Dividing a three-digit number requires a solid understanding of place value and Division techniques. Break down the problem into smaller steps, dividing each digit by the other number and then combining the results. With practice, you'll confidently tackle divison involving three-digit numbers."
-          },
-          {
-          "id": 10,
-          "topicTitle": "Dividing a Decimal",
-          "topicContent": "Dividing decimals involves aligning numbers, dividing as if whole, and placing the decimal correctly. It's crucial for accurate measurements and precise calculations."
-          },
-          {
-          "id": 11,
-          "topicTitle": "Divide a Three-Digit Number by a Two-Digit Number",
-          "topicContent": "Divide digits step by step, then sum partial products when dividing three-digit by two-digit numbers. This skill prepares you for working with larger numbers and advanced calculations."
-          },
-          {
-          "id": 12,
-          "topicTitle": "Dividing a Decimal by a Decimal",
-          "topicContent": "Dividing decimals like whole numbers, then adjust decimal points based on decimal places without using a calculator for convenience and accuracy when dividing decimals."
-          },
-          {
-          "id": 13,
-          "topicTitle": "Learn Division Algorithms",
-          "topicContent": "Master Division algorithms like standard long divison. divide digits, write partial products, and add them for solutions. Understand that division does not always make smaller."
-          },
-                        {
-                            "id": 14,
-                            "topicTitle": "Counting Objects",
-                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 100,000 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Counting by 10,000s, 20,000s, and 50,000s",
-                            "topicContent": "We can count by skipping numbers. We will practice counting by 10,000, 20,000s, and 50,000s. This will help us count larger quantities more quickly and efficiently."
-                        },
-                        {
-                        "id": 16,
-                        "topicTitle": "Learning to Use a Calculator",
-                        "topicContent": "Mastering calculator basics is key. Learn functions like +, -, ×, ÷. Explore advanced features including parentheses, exponents, roots, percentages. Practice for efficiency. Your calculator becomes a powerful tool for solving math and real-life problems."
-                        },
-                {
-                            "id": 17,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 100,000."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 100,000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 100,000 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 100,000 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 100,000."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 100,000."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 100,000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 100,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 100,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 100,000."
-                     
-                },
-                {
-                            "id": 27,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 100,000."
-                        },
-                        {
-                            "id": 28,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 100,000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 100,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 150,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 150,000."
-                        },
-               {
-                            "id": 32,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in three-digit numbers and how to represent numbers using base-1000 blocks and expanded form."
-                        },
-                        {
-                            "id": 33,
-                            "topicTitle": "Ones and Tens Place",
-                            "topicContent": "In six-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different six-digit numbers and learn how to name them."
-                        },
-                        {
-                            "id": 34,
-                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
-                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different five and six-digit numbers using base-1000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 35,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers in expanded form."
-                },
-                  {
-                            "id": 36,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10,000 blocks and expanded form."
-                        },
-                        {
-                            "id": 37,
-                            "topicTitle": "Ones and Tens Place",
-                            "topicContent": "In six-digit numbers up to 100,000, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different four-digit numbers up to 10,000 and learn how to name them."
-                        },
-                        {
-                            "id": 38,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10,000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different four-digit numbers up to 10,000 using base-10,000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 39,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing four-digit numbers up to 100,000 in expanded form."
-                },
-              {
-                            "id": 40,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in three-digit and four-digit numbers up to 100,000 and how to represent numbers using base-1000 blocks and expanded form."
-                        },
-                        {
-                            "id": 41,
-                            "topicTitle": "Hundreds, Thousands, and Ten thousands Place",
-                            "topicContent": "In six-digit numbers up to 100,000, the ones place represents the value of the tens, hundreds place represents the value of the groups of thousands, and the ten thousands place represents the value of the groups of thousands. We will practice identifying the hundreds, thousands and sometimes the ten thousands place in different five-digit and six-digit numbers up to 100,000 and learn how to name them."
-                        },
-                        {
-                            "id": 42,
-                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
-                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents tens, hundreds place represents the value of the groups of thousands. We will practice representing different five-digit and six-digit numbers up to 100,000 using base-100 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 43,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing five-digit and six-digit numbers up to 100,000 in expanded form."
-                        },
-               {
-                            "id": 44,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in five-digit and six-digit numbers up to 100,000 and how to represent numbers using base-1000 blocks and expanded form."
-                        },
-                        {
-                            "id": 45,
-                            "topicTitle": "Hundreds, Thousand and Ten Thousands Place",
-                            "topicContent": "In five and six-digit numbers up to 100,000, the ones place represents the value of the units, the tens place represents the value of the groups of ten,the hundreds place represents the value of the groups of hundred etc. We will practice identifying these values in different five-digit and six-digit numbers up to 100,000 and learn how to name them."
-                        },
-                        {
-                            "id": 46,
-                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
-                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred etc. We will practice representing different three-digit and four-digit numbers up to 100,000 using base-1000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 47,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing five and six-digit numbers up to 100,000 in expanded form."
-                  },
+          "teaching": [
               
               {
-              "id": 48,
-              "topicTitle": "Add and Subtract Whole Numbers and Decimals",
-              "topicContent": "Master adding and subtracting whole numbers and decimals (up to three decimal places). Do it manually by aligning numbers and managing decimal points, or use a calculator for convenience and accuracy. This skill is essential for practical calculations involving money, measurements, and more."
-              },
-         
-
-              {
-                  "id": 49,
-                  "topicTitle": "Division a decimal (up to three places) by a whole number, without and with a calculator",
-                  "topicContent": "We will practice dividing single-digit numbers up to 12 using pictures, number lines, and mental math. We will also learn how to write division sentences using the division symbol (÷) and the equal symbol (=)."
+                  "id": 0,
+                  "topicTitle": "Place Value in Decimals",
+                  "topicContent": "Dive into the significance of place value in decimals. Explore the role each digit plays and grasp the fundamentals of reading and interpreting decimal numbers.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d0b21a18e3cdcd/d148220507a681bf/1080.mp4"
               },
               {
-                  "id": 50,
-                  "topicTitle": "Word Problems Division(decimals)",
-                  "topicContent": "Word Problems in division involve real-life situations, challenging you to apply division to solve practical scenarios. They improve problem-solving skills by translating written information into mathematical equations, showcasing the applicability of division in various contexts."
+                  "id": 1,
+                  "topicTitle": "Apply opeartions and Estimate",
+                  "topicContent": "Estimate sums, differences, products and quotients of decimals.Add and subtract whole numbers and decimals (to three decimal places)",
+                  "video": "https://api-files.sproutvideo.com/file/7990d0b21a18e5c2f0/b84a6d44880467c2/1080.mp4"
+              },
+              
+              {
+                  "id": 2,
+                  "topicTitle": "The Coffee shop game",
+                  "topicContent": "Estimate and play this game wherever you are in the world.",
+                  "video": "https://api-files.sproutvideo.com/file/1190d0b21a18eac598/a3b4bdc0765bef89/1080.mp4"
               },
               {
-                  "id": 51,
-                  "topicTitle": "Long Division",
-                  "topicContent": "Long Division is a method for dividing multi-digit numbers. It breaks down division into steps, dividing digits and finding quotients while considering place values. Mastering long division simplifies complex calculations involving larger numbers and enhances mathematical proficiency."
+                  "id": 3,
+                  "topicTitle": "Dividing using fast quotients",
+                  "topicContent": "Discover efficient techniques for division, focusing on obtaining fast quotients. Explore streamlined methods that facilitate quick and accurate division in various numerical scenarios.",
+                  "video": "https://api-files.sproutvideo.com/file/4d90d0b21a1be4c4c4/dccdefc2fa6b66f1/1080.mp4"
+              },
+              
+              
+              {
+                  "id": 4,
+                  "topicTitle": "Dividing a Two-digit number by a Four-digit number",
+                  "topicContent": "Explore the step-by-step process to streamline your Division skills in this numerical scenario.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d0b21a1ae1cdcd/033671fa8c800782/1080.mp4"
+              },
+              
+              
+              
+              {
+                  "id": 5,
+                  "topicTitle": "Divide decimala",
+                  "topicContent": "Learn the ins and outs of dividing decimals. Gain a clear understanding of the rules and procedures to tackle decimal division confidently.",
+                  "video": "https://api-files.sproutvideo.com/file/7090d0b21a1ae3c3f9/f67ca8c865b55ff8/1080.mp4"
+              },
+              
+              {
+                  "id": 6,
+                  "topicTitle": "Multiply fractions by fractions",
+                  "topicContent": "Unlock the process of multiplying fractions by fractions. Delve into the steps and rules governing this mathematical operation to confidently navigate the world of fraction multiplication.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d0b21a1ae7cbcd/4ace5e6371c503ce/1080.mp4"
               },
               {
-                  "id": 52,
-                  "topicTitle": "Division Three-Digit Numbers",
-                  "topicContent": "We will practice dividing two-digit numbers up to 500 using pictures, number lines, and mental math. We will then move on to subtracting double-digit numbers up to 500 using a similar approach."
+                  "id": 7,
+                  "topicTitle": "Multiply fractions by Whole numbers",
+                  "topicContent": "Unlock the process of multiplying fractions by Whole numbers.",
+                  "video": "https://api-files.sproutvideo.com/file/a790d0b21a1ae8cb2e/8772e02b7b0a4858/1080.mp4"
               },
+              
               {
-                  "id": 53,
-                  "topicTitle": "Word Problems",
-                  "topicContent": "We will solve simple word problems involving division. We will learn how to read the problem carefully, identify the numbers and operation involved, and write a division sentence to find the answer."
+                  "id": 8,
+                  "topicTitle": "Divide a whole number by a Fraction",
+                  "topicContent": "Explore the methodology behind dividing a whole number by a fraction. Uncover the steps and principles involved in this mathematical operation, enhancing your understanding of division with mixed numbers.",
+                  "video": "https://api-files.sproutvideo.com/file/7090d0b21a1de5c2f9/c6765a555dcd4ab8/1080.mp4"
               },
+           
+              
               {
-                  "id": 54,
-                  "topicTitle": "Introduction to Division of Three-Digit Numbers without Regrouping",
-                  "topicContent": "Division of three-digit numbers without regrouping is the process of repeated subtracting of two-digit numbers where there is no need to regroup or borrow. We will learn the symbols and vocabulary associated with subtraction and practice subtracting three-digit numbers up to 500 and 200 without regrouping."
+                  "id": 8,
+                  "topicTitle": "Identify simple prime and composite numbers",
+                  "topicContent": "Learn the basics of distinguishing between prime and composite numbers. Explore the characteristics that define these numerical categories and develop the skills to identify them with ease.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d0b21a1de2c9cd/c1227cac94179bbb/1080.mp4"
               },
+              
+        
+              
               {
-                  "id": 55,
-                  "topicTitle": "Division Three-Digit Numbers without Regrouping",
-                  "topicContent": "We will practice dividing three-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, subtract the ones place and the tens place separately, and write the final answer."
-              },
-              {
-                  "id": 56,
-                  "topicTitle": "Word Problems",
-                  "topicContent": "We will solve simple word problems involving division of three-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write a subtraction sentence to find the answer."
-              },
-              {
-                  "id": 57,
-                  "topicTitle": "Introduction to Division with Regrouping",
-                  "topicContent": "Division with regrouping. We will learn the symbols and vocabulary associated with subtraction with regrouping and practice dividing three-digit numbers up to 500 with regrouping."
-              },
-              {
-                  "id": 58,
-                  "topicTitle": "Division Three-Digit Numbers with Regrouping",
-                  "topicContent": "We will practice dividing two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, subtract the ones place and the tens place separately. We will also practice checking our work by subtracting the numbers vertically and horizontally to make sure they match."
-              },
-              {
-                  "id": 59,
-                  "topicTitle": "Word Problems",
-                  "topicContent": "We will solve simple word problems involving division of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write a division sentence to find the answer. We will also learn how to check our work by dividing."
-              },
-                        {
-                            "id": 60,
-                            "topicTitle": "Introduction to Subtraction 100,000",
-                            "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 100,000 apples and Irish people eat 20,000, we are left with 70,000 apples. We use the minus sign (-) to show subtraction. So 100,000 - 20,000 = 70,000."
-                        },
-                        {
-                            "id": 61,
-                            "topicTitle": "Subtracting Numbers from 1 to 100,000",
-                            "topicContent": "Let's start with some simple subtraction problems. For example, 90,000 - 12,00 = 78,000. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 30,00 from 50,000, we start at 5 and count backwards 3000 numbers: 50,000, 40,00, 30,000.... So 50,000 - 30,000 = 20,000."
-                        },
-                        {
-                            "id": 62,
-                            "topicTitle": "Subtracting Numbers from 1000 to 100,000",
-                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 79,000 from 110,340, we can start at 340 and keep it then count numbers: 101,000, 91,000,... So 110,340 - 79,000 = 31,340."
-                        },
-                        {
-                            "id": 63,
-                            "topicTitle": "Practice Problems",
-                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 15,000 - 5,000, 100,014 - 39,700, 57,342 - 2960, 58,709 - 140 , 100,00 - 92."
-                        },
-                        {
-                            "id": 64,
-                            "topicTitle": "Wrap-up",
-                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 100,00 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
-                        },
-                        {
-                        "id": 65,
-                        "topicTitle": "Subtracting Numbers from 1 to 100,000",
-                        "topicContent": "Subtracting 1 to 100,000 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
-                        },
-                        {
-                        "id": 66,
-                        "topicTitle": "Subtracting Numbers from 1 to 100,000",
-                        "topicContent": "Let's dive into subtracting 1 to 100,000. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
-                        },
-                        {
-                        "id": 67,
-                        "topicTitle": "Subtracting Numbers from 1 to 150,000",
-                        "topicContent": "Now explore subtracting within 1 to 150,000. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
-                        },
-                        {
-                        "id": 68,
-                        "topicTitle": "Subtraction Tips",
-                        "topicContent": "Great progress! Master subtracting 1 to 150,000 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
-                        },
-                        {
-                        "id": 69,
-                        "topicTitle": "Subtraction Word Problems",
-                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
-                        },
-                        {
-                        "id": 70,
-                        "topicTitle": "Subtraction with Regrouping 1 - 150,000",
-                        "topicContent": "Regrouping (borrowing) is vital for 1 to 150,000 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
-                        },
-                        {
-                        "id": 71,
-                        "topicTitle": "Multiply and Divide with Calculator",
-                        "topicContent": "Utilize calculators for accurate multiplication and division of whole numbers and decimals. Enhance problem-solving and streamline calculations while understanding underlying concepts for comprehensive mastery."
-                        }
-                    ]
-                },
+                  "id": 10,
+                  "topicTitle": "Explore and identify simple square roots and exponentials",
+                  "topicContent": "Dive into the world of square roots and exponentials. Gain insights into identifying and understanding these fundamental mathematical concepts, unlocking their significance in numerical exploration.",
+                  "video": "https://api-files.sproutvideo.com/file/ac90d0b21a1de1c225/2b52b8fe90f3b79a/1080.mp4"
+              }
+          ]                },
       "test": {
           "id": 0,
           "image": "testSwift",
@@ -418,7 +133,7 @@
                 "id": 6,
                 "content": "Estimate the difference between 8,765 and 3,219 using front-end estimation.",
                 "correctIndex": 2,
-                "answers": ["5,100", "5,600", "5,500", "6,000"]
+                "answers": ["5,100", "5,700", "5,500", "6,000"]
               },
               {
                 "id": 7,
@@ -476,7 +191,7 @@
               },
               {
                 "id": 16,
-                "content": "Use the 'Multiply 10 -6 ' strategy to solve 9 x 6.",
+                "content": "Use the 'Multiply 10 x 6 ' strategy to solve 9 x 6.",
                 "correctIndex": 0,
                 "answers": ["54", "56", "52", "60"]
               },
@@ -490,13 +205,13 @@
                 "id": 18,
                 "content": "Round 3,874 to the nearest hundred.",
                 "correctIndex": 2,
-                "answers": ["1,900", "3,800", "4,000", "6,700"]
+                "answers": ["1,900", "3,800", "3,900", "6,700"]
               },
               {
                 "id": 19,
                 "content": "What is the value of the digit in the tens place of the number 4,379?",
                 "correctIndex": 1,
-                "answers": ["20", "70", "4", "900"]
+                "answers": ["20", "70", "4", "90"]
               },
              
               {
@@ -547,7 +262,7 @@
               {
                 "id": 27,
                 "content": "Simplify: 3/4 × 5/6.",
-                "correctIndex": 2,
+                "correctIndex": 3,
                 "answers": ["15/10", "8/9", "15/24", "5/8"]
               },
               {
@@ -625,7 +340,7 @@
               {
                 "id": 40,
                 "content": "Simplify: 2/5 + 3/10.",
-                "correctIndex": 0,
+                "correctIndex": 1,
                 "answers": ["4/5", "7/10", "1/3", "5/10"]
               },
               {
@@ -717,12 +432,12 @@
                 "id": 55,
                 "content": "The temperature was -10°C in the morning and rose by 15°C. What is the current temperature?",
                 "correctIndex": 3,
-                "answers": ["5°C", "15°C", "25°C", "5°C"]
+                "answers": ["-5°C", "15°C", "25°C", "5°C"]
               },
               {
                 "id": 56,
-                "content": "Which of the following fractions is the smallest?",
-                "correctIndex": 1,
+                "content": "Which of the following fractions is the smallest fraction value?",
+                "correctIndex": 0,
                 "answers": ["3/5", "2/3", "4/7", "5/8"]
               },
               {
@@ -759,7 +474,7 @@
                },
                {
                  "id": 62,
-                 "content": "The sum of of 7 is 63. What are the multiples?",
+                 "content": "The sum of of 7 is 63?",
                  "correctIndex": 1,
                  "answers": ["19", "70", "27", "79"]
                },
@@ -778,16 +493,16 @@
                },
                {
                  "id": 65,
-                 "content": "A recipe calls for 2/3 cup of sugar, and you want to make half of the recipe. How much sugar do you need?",
-                 "correctIndex": 1,
-                 "answers": ["1/6 cup", "1/3 cup", "1/2 cup", "2/3 cup"]
+                 "content": "A recipe calls for 2/4 cup of sugar, and you want to make half of the recipe. How much sugar do you need?",
+                 "correctIndex": 2,
+                 "answers": ["1/6 cup", "1/3 cup", "1/4 cup", "2/3 cup"]
                },
            
                {
                  "id": 66,
                  "content": "Which of the following numbers is a perfect square?",
-                 "correctIndex": 2,
-                 "answers": ["27", "49", "64", "81"]
+                 "correctIndex": 3,
+                 "answers": ["27", "48", "63", "81"]
                },
                {
                  "id": 67,
@@ -806,7 +521,7 @@
                  "id": 69,
                  "content": "If the average of five numbers is 20 and four of the numbers are 18, 22, 24, and 16, what is the fifth number?",
                  "correctIndex": 3,
-                 "answers": ["20", "18", "16", "20"]
+                 "answers": ["21", "18", "16", "20"]
                },
 
                {
@@ -828,7 +543,7 @@
                   "id": 72,
                   "content": "Simplify: 5/8 + (3/4 × 2/5).",
                   "correctIndex": 3,
-                  "answers": ["7/10", "29/40", "11/20", "37/40"]
+                  "answers": ["7/10", "29/40", "11/20", "31/40"]
                 },
             
                 {
@@ -855,8 +570,8 @@
             
                 {
                   "id": 76,
-                  "content": "If a pair of shoes originally costs $60  USD and is now on sale for 25% off, what is the sale price?",
-                  "correctIndex": 2,
+                  "content": "If a pair of shoes originally costs €60 and is now on sale for 25% off, what is the sale price?",
+                  "correctIndex": 3,
                   "answers": ["$15", "$41", "$40", "$45"]
                 },
          
@@ -870,7 +585,7 @@
                   "id": 78,
                   "content": "If the average of five numbers is 15 and three of the numbers are 12, 18, and 24, what is the sum of the remaining two numbers?",
                   "correctIndex": 3,
-                  "answers": ["25", "28", "32", "31"]
+                  "answers": ["25", "28", "32", "21"]
                 },
                 {
                   "id": 79,
@@ -998,7 +713,7 @@
           
                  {
                    "id": 91,
-                   "content": "Which of the following fractions is in simplest form?",
+                   "content": "Which of the following fractions is in it's simplest form?",
                    "correctIndex": 3,
                    "answers": [
                      "4/10",
@@ -1163,12 +878,12 @@
                   },
                   {
                     "id": 106,
-                    "content": "Which of the following numbers is both a perfect square and a prime number?",
+                    "content": "Which of the following numbers is a perfect square ?",
                     "correctIndex": 3,
                     "answers": [
-                      "9",
+                      "10",
                       "15",
-                      "25",
+                      "256",
                       "16"
                     ]
                   },
@@ -1205,626 +920,7 @@
                       "They are equal.",
                       "4/9"
                     ]
-                  },
-                
-                  {
-                    "id": 110,
-                    "content": "If you add up all the whole numbers from 1 to 10, what is the sum?",
-                    "correctIndex": 0,
-                    "answers": [
-                      "45",
-                      "55",
-                      "50",
-                      "60"
-                    ]
-                  },
-                  {
-                    "id": 111,
-                    "content": "What is the product of 3 and 9?",
-                    "correctIndex": 2,
-                    "answers": [
-                      "27",
-                      "18",
-                      "27",
-                      "-27"
-                    ]
-                  },
-                  {
-                    "id": 112,
-                    "content": "If a bookshelf has 5 shelves and each shelf can hold 8 books, how many books can the bookshelf hold in total?",
-                    "correctIndex": 0,
-                    "answers": [
-                      "40 books",
-                      "13 books",
-                      "45 books",
-                      "35 books"
-                    ]
-                  },
-                  {
-                    "id": 113,
-                    "content": "Which of the following fractions is in its simplest form?",
-                    "correctIndex": 3,
-                    "answers": [
-                      "4/10",
-                      "6/15",
-                      "8/20",
-                      "5/12"
-                    ]
-                  },
-                  {
-                    "id": 114,
-                    "content": "What is the sum of the first 8 prime numbers?",
-                    "correctIndex": 3,
-                    "answers": [
-                      "38",
-                      "41",
-                      "37",
-                      "77"
-                    ]
-                  },
-                  {
-                    "id": 115,
-                    "content": "If you subtract 0.75 from 1.5, what is the result?",
-                    "correctIndex": 0,
-                    "answers": [
-                      "0.75",
-                      "0.25",
-                      "0.5",
-                      "1.25"
-                    ]
-                  },
-                  {
-                    "id": 116,
-                    "content": "What is the largest prime number less than 30?",
-                    "correctIndex": 1,
-                    "answers": [
-                      "27",
-                      "29",
-                      "25",
-                      "23"
-                    ]
-                  },
-                  {
-                    "id": 117,
-                    "content": "If the perimeter of a square is 36 units, what is the length of one side?",
-                    "correctIndex": 3,
-                    "answers": [
-                      "19 units",
-                      "6 units",
-                      "12 units",
-                      "9 units"
-                    ]
-                  },
-                  {
-                     "id": 118,
-                     "content": "The product of two consecutive odd numbers is 143. What are the two numbers?",
-                     "correctIndex": 1,
-                     "answers": [
-                       "11 and 12",
-                       "11 and 13",
-                       "9 and 10",
-                       "13 and 14"
-                     ]
-                   },
-                   {
-                     "id": 119,
-                     "content": "If the perimeter of a rectangle is 26 units and its length is 7 units, what is its width?",
-                     "correctIndex": 2,
-                     "answers": [
-                       "5 units",
-                       "4 units",
-                       "6 units",
-                       "8 units"
-                     ]
-                   },
-                   {
-                     "id": 120,
-                     "content": "What is the value of 0.6 as a fraction in simplest form?",
-                     "correctIndex": 2,
-                     "answers": [
-                       "3/10",
-                       "6/10",
-                       "3/5",
-                       "6/5"
-                     ]
-                   },
-                   {
-                     "id": 121,
-                     "content": "If a car travels at a speed of 60 kilometers per hour, how far will it travel in 2.5 hours?",
-                     "correctIndex": 1,
-                     "answers": [
-                       "120 kilometers",
-                       "150 kilometers",
-                       "135 kilometers",
-                       "100 kilometers"
-                     ]
-                   },
-                   {
-                     "id": 122,
-                     "content": "What is the least common multiple of 3, 5, and 7?",
-                     "correctIndex": 3,
-                     "answers": [
-                       "21",
-                       "35",
-                       "15",
-                       "105"
-                     ]
-                   },
-                   {
-                     "id": 123,
-                     "content": "Simplify: (2/3) x (6/5)",
-                     "correctIndex": 2,
-                     "answers": [
-                       "4/15",
-                       "12/15",
-                       "4/5",
-                       "2/5"
-                     ]
-                   },
-                   {
-                     "id": 124,
-                     "content": "What is the square root of 144?",
-                     "correctIndex": 1,
-                     "answers": [
-                       "1",
-                       "12",
-                       "14",
-                       "10"
-                     ]
-                   },
-                   {
-                     "id": 125,
-                     "content": "If a shirt originally costs €20 and is now on sale for 30% off, what is the sale price?",
-                     "correctIndex": 3,
-                     "answers": [
-                       "€10",
-                       "€6",
-                       "€15",
-                       "€14"
-                     ]
-                   },
-                   {
-                     "id": 126,
-                     "content": "What is the sum of the first 10 positive even numbers?",
-                     "correctIndex": 1,
-                     "answers": [
-                       "55",
-                       "110",
-                       "50",
-                       "100"
-                     ]
-                   },
-
-                   {
-                     "id": 127,
-                     "content": "A bag contains 5 red marbles and 7 blue marbles. If one marble is drawn at random, what is the probability of drawing a red marble?",
-                     "correctIndex": 0,
-                     "answers": [
-                       "5/12",
-                       "6/12",
-                       "7/12",
-                       "12/5"
-                     ]
-                   },
-                   {
-                     "id": 128,
-                     "content": "If x = 3 and y = 5, what is the value of 2x + 3y?",
-                     "correctIndex": 1,
-                     "answers": [
-                       "13",
-                       "21",
-                       "19",
-                       "15"
-                     ]
-                   },
-                   {
-                     "id": 129,
-                     "content": "If the ratio of boys to girls in a class is 3:5 and there are 24 students in total, how many boys are in the class?",
-                     "correctIndex": 0,
-                     "answers": [
-                       "9 boys",
-                       "15 boys",
-                       "12 boys",
-                       "18 boys"
-                     ]
-                   },
-            
-                   {
-                       "id": 130,
-                       "content": "Which number is both a multiple of 3 and 5?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "16",
-                         "20",
-                         "30",
-                         "25"
-                       ]
-                     },
-                     {
-                       "id": 131,
-                       "content": "What is the next prime number after 17?",
-                       "correctIndex": 3,
-                       "answers": [
-                         "18",
-                         "16",
-                         "21",
-                         "19"
-                       ]
-                     },
-                     {
-                       "id": 132,
-                       "content": "If a triangle has two angles measuring 45 degrees each, what is the measure of the third angle?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "90 degrees",
-                         "45 degrees",
-                         "60 degrees",
-                         "30 degrees"
-                       ]
-                     },
-                     {
-                       "id": 133,
-                       "content": "If the area of a rectangle is 24 square units and its length is 6 units, what is its width?",
-                       "correctIndex": 1,
-                       "answers": [
-                         "36 units",
-                         "4 units",
-                         "12 units",
-                         "8 units"
-                       ]
-                     },
-                     {
-                       "id": 134,
-                       "content": "What is the result of (5 x 7) + 3?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "35",
-                         "56",
-                         "38",
-                         "26"
-                       ]
-                     },
-                     {
-                       "id": 135,
-                       "content": "Which fraction is equivalent to 3/4?",
-                       "correctIndex": 3,
-                       "answers": [
-                         "1/2",
-                         "2/3",
-                         "4/5",
-                         "6/8"
-                       ]
-                     },
-                
-                     {
-                       "id": 136,
-                       "content": "If a dozen cookies cost £6 GBP, how much do 3 cookies cost?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "£1",
-                         "£2",
-                         "£1.50",
-                         "£4"
-                       ]
-                     },
-                     {
-                       "id": 137,
-                       "content": "What is the perimeter of a square with a side length of 10 units?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "20 units",
-                         "41 units",
-                         "40 units",
-                         "100 units"
-                       ]
-                     },
-                     {
-                       "id": 138,
-                       "content": "If 25% of a number is 50, what is the number?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "25",
-                         "75",
-                         "200",
-                         "100"
-                       ]
-                     },
-                     {
-                       "id": 139,
-                       "content": "What is the product of 9 and 7?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "63",
-                         "16",
-                         "45",
-                         "72"
-                       ]
-                     },
-                     {
-                       "id": 140,
-                       "content": "If a pizza is divided into 8 equal slices and 3 slices are eaten, how many slices are left?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "2 slices",
-                         "3 slices",
-                         "5 slices",
-                         "6 slices"
-                       ]
-                     },
-                     {
-                       "id": 141,
-                       "content": "What is the value of 2/3 + 1/4?",
-                       "correctIndex": 1,
-                       "answers": [
-                         "5/6",
-                         "11/12",
-                         "7/12",
-                         "2/7"
-                       ]
-                     },
-                     {
-                       "id": 142,
-                       "content": "Which number is the smallest?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "0.75",
-                         "0.8",
-                         "0.85",
-                         "0.9"
-                       ]
-                     },
-               
-                     {
-                       "id": 143,
-                       "content": "What is 15% of 80?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "11",
-                         "15",
-                         "12",
-                         "25"
-                       ]
-                     },
-                     {
-                       "id": 144,
-                       "content": "If a rectangle has a length of 8 units and a width of 3 units, what is its area?",
-                       "correctIndex": 1,
-                       "answers": [
-                         "5 sq. units",
-                         "24 sq. units",
-                         "11 sq. units",
-                         "30 sq. units"
-                       ]
-                     },
-                     {
-                       "id": 145,
-                       "content": "What is the sum of the first 10 natural numbers?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "45",
-                         "54",
-                         "55",
-                         "50"
-                       ]
-                     },
-                     {
-                       "id": 146,
-                       "content": "Which number is a factor of both 25 and 35?",
-                       "correctIndex": 1,
-                       "answers": [
-                         "12",
-                         "5",
-                         "30",
-                         "42"
-                       ]
-                     },
-                     {
-                       "id": 147,
-                       "content": "If x + 5 = 12, what is the value of x?",
-                       "correctIndex": 2,
-                       "answers": [
-                         "6",
-                         "17",
-                         "7",
-                         "8"
-                       ]
-                     },
-                     
-                     {
-                        "id": 148,
-                        "content": "Simplify the expression: 2(3 + 5) - 4",
-                        "correctIndex": 2,
-                        "answers": [
-                          "22",
-                          "18",
-                          "12",
-                          "10"
-                        ]
-                      },
-                      {
-                        "id": 149,
-                        "content": "What is the least common multiple of 6 and 9?",
-                        "correctIndex": 1,
-                        "answers": [
-                          "14",
-                          "54",
-                          "63",
-                          "27"
-                        ]
-                      },
-                      {
-                        "id": 150,
-                        "content": "A bookshelf has 5 shelves. If each shelf holds 8 books, how many books can the bookshelf hold in total?",
-                        "correctIndex": 2,
-                        "answers": [
-                          "35 books",
-                          "45 books",
-                          "40 books",
-                          "50 books"
-                        ]
-                      },
-                      {
-                        "id": 151,
-                        "content": "What is the value of 4/7 as a decimal?",
-                        "correctIndex": 3,
-                        "answers": [
-                          "0.67",
-                          "0.64",
-                          "0.42",
-                          "0.57"
-                        ]
-                      },
-                      {
-                        "id": 152,
-                        "content": "If the perimeter of a rectangle is 26 units and its length is 8 units, what is its width?",
-                        "correctIndex": 0,
-                        "answers": [
-                          "5 units",
-                          "6 units",
-                          "8 units",
-                          "10 units"
-                        ]
-                      },
-                      {
-                        "id": 153,
-                        "content": "What is the next prime number after 29?",
-                        "correctIndex": 1,
-                        "answers": [
-                          "30",
-                          "31",
-                          "33",
-                          "37"
-                        ]
-                      },
-                      {
-                        "id": 154,
-                        "content": "Simplify: 3/5 + 1/10",
-                        "correctIndex": 1,
-                        "answers": [
-                          "4/15",
-                          "7/10",
-                          "2/5",
-                          "5/6"
-                        ]
-                      },
-                      {
-                        "id": 155,
-                        "content": "If a car travels 240 miles in 4 hours, what is its average speed in miles per hour?",
-                        "correctIndex": 3,
-                        "answers": [
-                          "70 mph",
-                          "40 mph",
-                          "80 mph",
-                          "60 mph"
-                        ]
-                      },
-        
-                      {
-                        "id": 156,
-                        "content": "What is 20% of 150?",
-                        "correctIndex": 1,
-                        "answers": [
-                          "3",
-                          "30",
-                          "15",
-                          "45"
-                        ]
-                      },
-                      {
-                        "id": 157,
-                        "content": "If x - 7 = 15, what is the value of x?",
-                        "correctIndex": 2,
-                        "answers": [
-                          "23",
-                          "9",
-                          "8",
-                          "22"
-                        ]
-                      },
-                      {
-                        "id": 158,
-                        "content": "Which number is both a multiple of 4 and 9?",
-                        "correctIndex": 2,
-                        "answers": [
-                          "24",
-                          "30",
-                          "36",
-                          "42"
-                        ]
-                      },
-                      {
-                        "id": 159,
-                        "content": "What is the area of a square with a side length of 9 units?",
-                        "correctIndex": 1,
-                        "answers": [
-                          "36 sq. units",
-                          "81 sq. units",
-                          "45 sq. units",
-                          "80 sq. units"
-                        ]
-                      },
-                      {
-                        "id": 160,
-                        "content": "If the average of three numbers is 20 and two of the numbers are 15 and 25, what is the third number?",
-                        "correctIndex": 0,
-                        "answers": [
-                          "20",
-                          "30",
-                          "25",
-                          "18"
-                        ]
-                      },
-                      {
-                        "id": 161,
-                        "content": "What is the product of the prime numbers 5 and 7?",
-                        "correctIndex": 2,
-                        "answers": [
-                          "10",
-                          "12",
-                          "35",
-                          "42"
-                        ]
-                      },
-                   
-                      {
-                        "id": 162,
-                        "content": "What is the result of 2/3 divided by 4?",
-                        "correctIndex": 0,
-                        "answers": [
-                          "1/6",
-                          "2/7",
-                          "1/3",
-                          "3/8"
-                        ]
-                      },
-                      {
-                        "id": 163,
-                        "content": "If a box contains 24 identical marbles, and 3/4 of them are blue, how many marbles are blue?",
-                        "correctIndex": 3,
-                        "answers": [
-                          "12",
-                          "15",
-                          "16",
-                          "18"
-                        ]
-                      },
-                      {
-                        "id": 164,
-                        "content": "What is the value of 2⁴ + 3²?",
-                        "correctIndex": 2,
-                        "answers": [
-                          "16",
-                          "13",
-                          "25",
-                          "10"
-                        ]
-                      },
-                      {
-                        "id": 165,
-                        "content": "The perimeter of a rectangle is 36 units. If the length is twice the width, what are the dimensions of the rectangle?",
-                        "correctIndex": 0,
-                        "answers": ["6 units by 12 units", "8 units by 16 units", "9 units by 18 units", "10 units by 20 units"]
-                      }
+                  }
                       
                      
               
