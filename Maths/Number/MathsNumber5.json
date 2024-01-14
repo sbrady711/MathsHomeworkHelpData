@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 4,
@@ -6,367 +7,63 @@
         "description": "Strand units: Counting and Numeration, Comparing and ordering, Place value and Operation (Addition, Subtraction, Multipliction).",
       "content": {
           "id": 0,
-      "teaching": [
-          {
-                            "id": 0,
-                            "topicTitle": "Place value 1-10,000",
-                            "topicContent": "Counting is the process of saying numbers in order. We use counting to know how many objects are in a group. In this lesson, we will learn to count from 1 to 10,000."
-                        },
-          {
-          "id": 1,
-          "topicTitle": "Applying Operations (+, -, x, ÷)",
-          "topicContent": "Applying math operations (+, -, x, ÷) involves solving problems and calculations. Mastering these fundamentals is essential for various mathematical tasks. Add, subtract, multiply, and divide numbers with accuracy to enhance your problem-solving skills."
-          },
-          {
-          "id": 2,
-          "topicTitle": "Front-End Estimation",
-          "topicContent": "Front-End Estimation quickly approximates addition and subtraction results. Focus on leftmost digits to gauge magnitudes. This technique aids mental calculations and ensures reasonable answers."
-          },
-          {
-          "id": 3,
-          "topicTitle": "Rounding",
-          "topicContent": "Rounding approximates numbers to specific place values. Simplify numbers while retaining their value. This technique aids mental math, estimation, and working with large numbers effectively."
-          },
-          {
-          "id": 4,
-          "topicTitle": "Clustering",
-          "topicContent": "Clustering groups numbers for streamlined calculations. Add or subtract in manageable chunks. This method improves mental math accuracy and efficiency."
-          },
-          {
-          "id": 5,
-          "topicTitle": "Applying Make 10 to All Operations (+, -, x, ÷)",
-          "topicContent": "'Make 10' is a versatile strategy for all four operations (+, -, x, ÷). Manipulate numbers to create 10-based pairs. Simplify calculations and enhance mental math across addition, subtraction, multiplication, and division."
-          },
-          {
-          "id": 6,
-          "topicTitle": "Multiplication 1- 500",
-          "topicContent": "Now, let's progress to multiplying numbers from 1 to 500. These multiplication facts expand your mathematical capabilities. Remember, some of these facts might relate to doubling or combining smaller multiplication facts. With consistent practice, you'll become adept at multiplying within this broader range."
-          },
-          {
-          "id": 7,
-          "topicTitle": "Multiplication Facts ",
-          "topicContent": "Mastering multiplication facts is crucial for mathematical fluency. These facts are the foundation of more advanced math skills. Practice drills, flashcards, and online tools can help you memorize these facts efficiently. Once you're comfortable with multiplication facts, solving complex problems becomes smoother."
-          },
-          {
-          "id": 8,
-          "topicTitle": "Multiply a Two-Digit Number",
-          "topicContent": "Multiplying a two-digit number by larger numbers is a fundamental skill. Start by mastering the multiplication table for that one-digit number. Then apply it to multiplication problems with larger factors. For instance, if you've mastered the 10 times table, multiplying any number by 9 becomes intuitive."
-          },
-          {
-          "id": 9,
-          "topicTitle": "Multiply a Three-Digit Number",
-          "topicContent": "Multiplying a three-digit number requires a solid understanding of place value and multiplication techniques. Break down the problem into smaller steps, multiplying each digit by the other number and then combining the results. With practice, you'll confidently tackle multiplication involving three-digit numbers."
-          },
-          {
-          "id": 10,
-          "topicTitle": "Multiplying a Decimal",
-          "topicContent": "Multiplying decimals involves aligning numbers, multiplying as if whole, and placing the decimal correctly. It's crucial for accurate measurements and precise calculations."
-          },
-          {
-          "id": 11,
-          "topicTitle": "Multiply a Three-Digit Number by a Two-Digit Number",
-          "topicContent": "Multiply digits step by step, then sum partial products when multiplying three-digit by two-digit numbers. This skill prepares you for working with larger numbers and advanced calculations."
-          },
-          {
-          "id": 12,
-          "topicTitle": "Multiply a Decimal by a Decimal",
-          "topicContent": "Multiply decimals like whole numbers, then adjust decimal points based on decimal places. Use a calculator for convenience and accuracy when multiplying decimals."
-          },
-          {
-          "id": 13,
-          "topicTitle": "Learn Multiplication Algorithms",
-          "topicContent": "Master multiplication algorithms like standard long multiplication. Multiply digits, write partial products, and add them for solutions. Algorithms streamline various multiplication scenarios, enhancing your calculation skills."
-          },
-                        {
-                            "id": 14,
-                            "topicTitle": "Counting Objects",
-                            "topicContent": "We can count objects by pointing to them and saying the counting words. We will practice counting objects from 1 to 10,000 and matching the number of objects to the correct numeral. We will also learn to count objects that are arranged in different patterns, such as in a line or a circle."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Counting by 1000s, 2000s, and 5000s",
-                            "topicContent": "We can count by skipping numbers. We will practice counting by 1000, 2000s, and 5000s. This will help us count larger quantities more quickly and efficiently."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Odd and Even Numbers",
-                            "topicContent": "Numbers can be classified as odd or even. We will learn to identify odd and even numbers and practice counting odd and even numbers from 1 to 10000."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10000."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 10,000 from greatest to least. We will use the same visual aids, such as number lines and ten frames, to help us order the numbers."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 10,000."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10,000."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10,000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 10,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 10,000."
-                     
-                },
-                {
-                            "id": 27,
-                            "topicTitle": "Introduction to Comparing and Ordering Numbers",
-                            "topicContent": "Comparing and ordering numbers means determining which numbers are greater than, less than, or equal to other numbers. In this lesson, we will learn to compare and order numbers from 1 to 10,000."
-                        },
-                        {
-                            "id": 28,
-                            "topicTitle": "Comparing Numbers with Symbols",
-                            "topicContent": "We use the symbols < (less than), > (greater than), and = (equal to) to compare numbers. We will learn how to use these symbols to compare numbers from 1 to 10,000. We will also practice using the symbols to compare sets of objects."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Ordering Numbers from Least to Greatest",
-                            "topicContent": "When we order numbers, we arrange them from least to greatest or from greatest to least. We will practice ordering numbers from 1 to 10,000 from least to greatest. We will also use visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Ordering Numbers from Greatest to Least",
-                            "topicContent": "We can also order numbers from greatest to least. We will practice ordering numbers from 1 to 15,000 from greatest to least. We will use the same visual aids, such as number lines and hundred charts, to help us order the numbers."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Comparing and Ordering Numbers with Objects",
-                            "topicContent": "We can use hands-on activities, such as counting and sorting objects, to practice comparing and ordering numbers. We will practice using these activities to compare and order numbers from 1 to 15,000."
-                        },
-               {
-                            "id": 32,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in three-digit numbers and how to represent numbers using base-1000 blocks and expanded form."
-                        },
-                        {
-                            "id": 33,
-                            "topicTitle": "Ones and Tens Place",
-                            "topicContent": "In four-digit numbers, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different four-digit numbers and learn how to name them."
-                        },
-                        {
-                            "id": 34,
-                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
-                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different four and three-digit numbers using base-1000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 35,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit numbers in expanded form."
-                },
-                  {
-                            "id": 36,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones and tens place in two-digit numbers and how to represent numbers using base-10,000 blocks and expanded form."
-                        },
-                        {
-                            "id": 37,
-                            "topicTitle": "Ones and Tens Place",
-                            "topicContent": "In four-digit numbers up to 10,000, the ones place represents the value of the units, while the tens place represents the value of the groups of ten. We will practice identifying the ones and tens place in different four-digit numbers up to 10,000 and learn how to name them."
-                        },
-                        {
-                            "id": 38,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10,000 blocks to represent numbers. Each block represents a unit or a group of ten. We will practice representing different four-digit numbers up to 10,000 using base-10,000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 39,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing four-digit numbers up to 10,000 in expanded form."
-                },
+          "teaching": [
+              
               {
-                            "id": 40,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens and sometimes the hundreds place in three-digit and four-digit numbers up to 500 and how to represent numbers using base-10 blocks and expanded form."
-                        },
-                        {
-                            "id": 41,
-                            "topicTitle": "Hundreds, Thousands, and Ten thousands Place",
-                            "topicContent": "In three-digit numbers up to 10,000, the ones place represents the value of the tens, hundreds place represents the value of the groups of thousands, and the ten thousands place represents the value of the groups of thousands. We will practice identifying the hundreds, thousands and sometimes the ten thousands place in different four-digit and three-digit numbers up to 10,000 and learn how to name them."
-                        },
-                        {
-                            "id": 42,
-                            "topicTitle": "Representing Numbers with Base-10 Blocks",
-                            "topicContent": "We can use base-10,000 blocks to represent numbers. Each block represents tens, hundreds place represents the value of the groups of thousands. We will practice representing different two-digit and three-digit numbers up to 500 using base-100 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 43,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three-digit and four-digit numbers up to 10,000 in expanded form."
-                        },
-               {
-                            "id": 44,
-                            "topicTitle": "Introduction to Place Value",
-                            "topicContent": "Place value is the value of a digit based on its position in a number. We will learn how to identify the ones, tens, and hundreds place in three-digit and four-digit numbers up to 10,000 and how to represent numbers using base-1000 blocks and expanded form."
-                        },
-                        {
-                            "id": 45,
-                            "topicTitle": "Hundreds, Thousand and Ten Thousands Place",
-                            "topicContent": "In three and four-digit numbers up to 10,000, the ones place represents the value of the units, the tens place represents the value of the groups of ten,the hundreds place represents the value of the groups of hundred etc. We will practice identifying these values in different three-digit and four-digit numbers up to 10,000 and learn how to name them."
-                        },
-                        {
-                            "id": 46,
-                            "topicTitle": "Representing Numbers with Base-1000 Blocks",
-                            "topicContent": "We can use base-1000 blocks to represent numbers. Each block represents a unit or a group of ten or a group of hundred etc. We will practice representing different three-digit and four-digit numbers up to 10,000 using base-1000 blocks and learn how to count them."
-                        },
-                        {
-                            "id": 47,
-                            "topicTitle": "Expanded Form",
-                            "topicContent": "We can also represent numbers using expanded form. This means breaking down a number into its individual digits and showing the value of each digit based on its position. We will practice writing three and four-digit numbers up to 10,000 in expanded form."
-                  },
-                {
-                            "id": 48,
-                            "topicTitle": "Add and subtract whole numbers and decimals (to three decimal places) without and with a calculator",
-                            "topicContent": ".."
-                        },
-                        {
-                            "id": 49,
-                            "topicTitle": "Multiply a decimal (up to three places) by a whole number, without and with a calculator",
-                            "topicContent": "We will practice multiplying single-digit numbers up to 12 using pictures, number lines, and mental math. We will also learn how to write multiplication sentences using the plus symbol (x) and the equal symbol (=)."
-                        },
-                        {
-                            "id": 50,
-                            "topicTitle": "Word Problems Multiplication(decimals)",
-                            "topicContent": "Word Problems in multiplication involve real-life situations, challenging you to apply multiplication to solve practical scenarios. They improve problem-solving skills by translating written information into mathematical equations, showcasing the applicability of multiplication in various contexts."
-                        },
-                        {
-                            "id": 51,
-                            "topicTitle": "Long Multiplication",
-                            "topicContent": "Long Multiplication is a method for multiplying multi-digit numbers. It breaks down multiplication into steps, multiplying digits and adding products while considering place values. Mastering long multiplication simplifies complex calculations involving larger numbers and enhances mathematical proficiency."
-                        },
-                        {
-                            "id": 52,
-                            "topicTitle": "Multiplication Three-Digit Numbers",
-                            "topicContent": "We will practice multiplying two-digit numbers up to 200 using pictures, number lines, and mental math. We will then move on to adding double-digit numbers up to 500 using a similar approach."
-                        },
-                        {
-                            "id": 53,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving multiplication. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer."
-                        },
-                 {
-                            "id": 54,
-                            "topicTitle": "Introduction to Multiplication of Three-Digit Numbers without Regrouping",
-                            "topicContent": "Multiplication of three-digit numbers without regrouping is the process of repeated adding of two-digit numbers where there is no need to regroup or carry over. We will learn the symbols and vocabulary associated with addition and practice adding three-digit numbers up to 500 and 200 without regrouping."
-                        },
-                        {
-                            "id": 55,
-                            "topicTitle": "Multiplication Three-Digit Numbers without Regrouping",
-                            "topicContent": "We will practice multiplying three-digit numbers without regrouping using different methods such as place value charts, number lines, and mental math. We will learn how to align the numbers, add the ones place and the tens place separately, and write the final answer."
-                        },
-                        {
-                            "id": 56,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving multiplication of three-digit numbers without regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an addition sentence to find the answer."
-                        },
+              "id": 0,
+              "topicTitle": "Place Value in Decimals",
+              "topicContent": "Uncover the basics of reading and interpreting decimal numbers, essential for mastering numerical precision beyond whole numbers.",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b21e1ae7c58f/c785ad8344a3b8df/1080.mp4"
+              },
               {
-                            "id": 57,
-                            "topicTitle": "Introduction to Multiplication with Regrouping",
-                            "topicContent": "Multiplication with regrouping. We will learn the symbols and vocabulary associated with addition with regrouping and practice multiplying three-digit numbers up to 500 with regrouping."
-                        },
-                        {
-                            "id": 58,
-                            "topicTitle": "Multiplication Three-Digit Numbers with Regrouping",
-                            "topicContent": "We will practice multiplying two-digit numbers with regrouping using different methods such as place value charts and number lines. We will learn how to align the numbers, add the ones place and the tens place separately. We will also practice checking our work by adding the numbers vertically and horizontally to make sure they match."
-                        },
-                        {
-                            "id": 59,
-                            "topicTitle": "Word Problems",
-                            "topicContent": "We will solve simple word problems involving multiplication of two-digit numbers with regrouping. We will learn how to read the problem carefully, identify the numbers and operation involved, and write an multiplication sentence to find the answer. We will also learn how to check our work by dividing."
-                        },
-                        {
-                            "id": 60,
-                            "topicTitle": "Introduction to Subtraction 10,000",
-                            "topicContent": "In subtraction, we start with a bigger number and take away a smaller number. For example, if we have 10,000 apples and we eat 200, we are left with 300 apples. We use the minus sign (-) to show subtraction. So 10,400 - 2000 = 8400."
-                        },
-                        {
-                            "id": 61,
-                            "topicTitle": "Subtracting Numbers from 1 to 10,000",
-                            "topicContent": "Let's start with some simple subtraction problems. For example, 9721 - 1200 = 8521. We can use objects or pictures to help us visualize the problem. Another strategy is counting backwards. For example, if we want to subtract 3000 from 5000, we start at 5 and count backwards 3000 numbers: 5000, 4000, 3000. So 5000 - 3000 = 2000."
-                        },
-                        {
-                            "id": 62,
-                            "topicTitle": "Subtracting Numbers from 1000 to 10,000",
-                            "topicContent": "Now let's move on to bigger numbers. We can still use the same strategies, but we might need to borrow or regroup. For example, if we want to subtract 8600 from 11,340, we can start at 600 and subtract 340 numbers: 11,000, 10,000,... So 11,340 - 8600 = 2740."
-                        },
-                        {
-                            "id": 63,
-                            "topicTitle": "Practice Problems",
-                            "topicContent": "Now it's time to practice what we've learned. Here are some subtraction problems to solve: 6700 - 53, 10,014 - 4600, 5742 - 2960, 47,700 - 111, 8000 - 68."
-                        },
-                        {
-                            "id": 64,
-                            "topicTitle": "Wrap-up",
-                            "topicContent": "Great job! You now know how to subtract numbers from 1 to 500 using different strategies. Keep practicing and you'll become a subtraction expert in no time!"
-                        },
-                        {
-                        "id": 65,
-                        "topicTitle": "Subtracting Numbers from 1 to 10,000",
-                        "topicContent": "Subtracting 1 to 10,000 involves understanding place value and borrowing. Start from the rightmost digit and borrow when necessary. Regular practice enhances your subtraction skills."
-                        },
-                        {
-                        "id": 66,
-                        "topicTitle": "Subtracting Numbers from 1 to 10,000",
-                        "topicContent": "Let's dive into subtracting 1 to 500. Break down larger calculations and use techniques like number lines. These methods simplify subtraction for larger numbers."
-                        },
-                        {
-                        "id": 67,
-                        "topicTitle": "Subtracting Numbers from 1 to 15,000",
-                        "topicContent": "Now explore subtracting within 1 to 15,000. Apply regrouping for larger numbers. Practice is essential for mastering subtraction in this extended range."
-                        },
-                        {
-                        "id": 68,
-                        "topicTitle": "Subtraction Tips",
-                        "topicContent": "Great progress! Master subtracting 1 to 15,000 using different strategies. Keep practicing for expertise. Embrace mental math, worksheets, and real-life applications for continuous improvement."
-                        },
-                        {
-                        "id": 69,
-                        "topicTitle": "Subtraction Word Problems",
-                        "topicContent": "Impressive! Solve word problems to apply subtraction practically. Read carefully, identify numbers, choose strategies, and break down complex problems. Your skills shine in various scenarios."
-                        },
-                        {
-                        "id": 70,
-                        "topicTitle": "Subtraction with Regrouping 1 - 15,000",
-                        "topicContent": "Regrouping (borrowing) is vital for 1 to 15,000 subtraction. Recognize borrowing situations, perform the borrowing process, and practice consistently. Mastering regrouping boosts confidence in subtraction."
-                        }
-                        
-                        
-                    ]
+              "id": 1,
+              "topicTitle": "Apply opeartions",
+              "topicContent": "Applying math operations (+, -, x, ÷) involves solving problems and calculations. Mastering these fundamentals is essential for various mathematical tasks. Add, subtract, multiply, and divide numbers with accuracy to enhance your problem-solving skills.",
+              "video": "https://api-files.sproutvideo.com/file/7090d0b21e1ae3c7f9/5a0ce9518937fd3e/1080.mp4"
+              },
+              
+              {
+              "id": 2,
+              "topicTitle": "Addition with positive and negative numbers",
+              "topicContent": "Explore the rules and techniques for adding positive and negative numbers. Master the essentials of accurate calculations with mixed signs.",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b21e1ae2c463/616540c8d46b6345/1080.mp4"
+              },
+              {
+                  "id": 3,
+                  "topicTitle": " Subtraction with Negative and positive numbers",
+                  "topicContent": "Learn to subtract with positive and negative numbers efficiently. Master the rules for accurate calculations with mixed signs.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d0b21e15ebcccd/41411b5b7e7901b2/1080.mp4"              },
+              
+              
+              
+          
+              {
+              "id": 4,
+              "topicTitle": "Multiply a Three-Digit Number by a Two-Digit Number",
+              "topicContent": "Multiply digits step by step, then sum partial products when multiplying three-digit by two-digit numbers. This skill prepares you for working with larger numbers and advanced calculations.",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b21e15eec25a/ce5397250be38d24/1080.mp4"
+              },
+              {
+              "id": 5,
+              "topicTitle": "Multiplying a Decimal",
+              "topicContent": "Multiplying decimals involves aligning numbers, multiplying as if whole, and placing the decimal correctly. It's crucial for accurate measurements and precise calculations. We will also Multiply decimals like whole numbers, then adjust decimal points based on decimal places.",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b21e15edc52e/048a13552a70dc51/1080.mp4"
+              },
+              
+          
+        
+      
+                    {
+                                "id": 6,
+                                "topicTitle": "Add and subtract whole numbers and decimals (to three decimal places) without and with a calculator",
+                                "topicContent": "Add and subtract whole numbers and decimals manually by aligning digits and carry-overs. Use calculators for quick, accurate results.",
+                                "video": "https://api-files.sproutvideo.com/file/7990d3b31818e2c5f0/72e90acb95f31b8d/1080.mp4"
+                                
+                            }
+                            
+                            
+                            
+                        ]  
                 },
            
            "test": {
@@ -470,12 +167,12 @@
                      {
                         "id": 8,
                         "content": "What is the value of the digit in the hundreds place in the number 6,725?",
-                        "correctIndex": 3,
+                        "correctIndex": 0,
                         "answers": [
-                           "7",
-                           "2",
-                           "5",
-                           "6"
+                           "700",
+                           "200",
+                           "500",
+                           "600"
                         ]
                      },
                     
@@ -496,7 +193,7 @@
                           "correctIndex": 2,
                           "answers": [
                              "15",
-                             "56",
+                             "55",
                              "56",
                              "64"
                           ]
@@ -528,10 +225,10 @@
                           "content": "What is the sum of the first 10 even numbers?",
                           "correctIndex": 3,
                           "answers": [
-                             "35",
-                             "45",
+                             "135",
+                             "145",
                              "50",
-                             "30"
+                             "110"
                           ]
                        },
                        {
@@ -684,7 +381,7 @@
                           "answers": [
                              "Subtraction",
                              "Division",
-                             "Multiplication",
+                             "Counting",
                              "Addition"
                           ]
                        },
@@ -723,7 +420,7 @@
                         },
                         {
                            "id": 31,
-                           "content": "What is the sum of the first 10?",
+                           "content": "What is the sum of the first 10 numbers?",
                            "correctIndex": 2,
                            "answers": [
                               "50",
@@ -988,13 +685,13 @@
                            },
                            {
                               "id": 55,
-                              "content": "If the perimeter of a square is 32 units, what is the length of one side of the square if the width is 6?",
+                              "content": "If the perimeter of a square is 24 units, what is the length of one side of the square if the width is 6?",
                               "correctIndex": 3,
                               "answers": [
-                                 "6 units",
+                                 "7 units",
                                  "8 units",
                                  "4 units",
-                                 "10 units"
+                                 "6 units"
                               ]
                            },
                            {
@@ -1081,7 +778,7 @@
                               "answers": [
                                  "5",
                                  "11",
-                                 "9",
+                                 "15",
                                  "12"
                               ]
                            },
@@ -1167,10 +864,10 @@
                                  "content": "If you add 4,732 and 2,869, what will be the sum?",
                                  "correctIndex": 0,
                                  "answers": [
-                                     "7601",
+                                     "7,601",
                                      "721",
-                                     "9361",
-                                     "8901"
+                                     "9,361",
+                                     "8,901"
                                  ]
                              },
                              {
@@ -1179,8 +876,8 @@
                                  "correctIndex": 2,
                                  "answers": [
                                      "124",
-                                     "1403",
-                                     "1404",
+                                     "1,403",
+                                     "1,404",
                                      "146"
                                  ]
                              },
@@ -1211,10 +908,10 @@
                                  "content": "Calculate 412 multiplied by 3.",
                                  "correctIndex": 1,
                                  "answers": [
-                                     "1246",
-                                     "1236",
-                                     "1214",
-                                     "1239"
+                                     "1,246",
+                                     "1,236",
+                                     "1,214",
+                                     "1,239"
                                  ]
                              },
                              {
@@ -1231,7 +928,7 @@
                              {
                                  "id": 77,
                                  "content": "Estimate the sum of 3,285 and 1,469 by rounding both numbers to the nearest thousand and then adding them.",
-                                 "correctIndex": 0,
+                                 "correctIndex": 3,
                                  "answers": [
                                      "5000",
                                      "6000",
@@ -1242,11 +939,11 @@
                              {
                                  "id": 78,
                                  "content": "Compare 5,632 and 4,789 using the symbols <, >, or =.",
-                                 "correctIndex": 2,
+                                 "correctIndex": 1,
                                  "answers": [
                                      "5632 < 4789",
                                      "5632 > 4789",
-                                     "5632 > 4789",
+                                     "5632 ? 4789",
                                      "5632 = 4789"
                                  ]
                              },
@@ -1451,7 +1148,7 @@
                                 {
                                     "id": 97,
                                     "content": "Divide 648 by 9.",
-                                    "correctIndex": 2,
+                                    "correctIndex": 3,
                                     "answers": [
                                         "71",
                                         "76",
@@ -1461,7 +1158,7 @@
                                 },
                                 {
                                     "id": 98,
-                                    "content": "Estimate the sum of 87 and 52 by rounding both numbers to the nearest ten and then multiplying them.",
+                                    "content": "Estimate the sum of 87 and 52 by rounding both numbers to the nearest ten and then multiplying them by 1.",
                                     "correctIndex": 1,
                                     "answers": [
                                         "40",
@@ -1615,7 +1312,7 @@
                                    },
                                    {
                                        "id": 112,
-                                       "content": "Find the least common multiple (LCM) of 6 and 9.",
+                                       "content": "Find the lowest common multiple (LCM) of 6 and 9.",
                                        "correctIndex": 0,
                                        "answers": [
                                            "18",
@@ -1670,13 +1367,13 @@
                                    },
                                    {
                                        "id": 117,
-                                       "content": "If the perimeter of a square is 36 units, what is the length of one side if the width is 3 ?",
+                                       "content": "If the perimeter of a square is 12 units, what is the length of one side if the width is 3 ?",
                                        "correctIndex": 3,
                                        "answers": [
                                            "6 units",
                                            "9 units",
                                            "2 units",
-                                           "15 units"
+                                           "3 units"
                                        ]
                                    },
                                    {
@@ -1686,7 +1383,7 @@
                                        "answers": [
                                            "85",
                                            "85.67",
-                                           "85",
+                                           "89",
                                            "91"
                                        ]
                                    },
@@ -1696,9 +1393,9 @@
                                        "correctIndex": 3,
                                        "answers": [
                                            "7°C",
-                                           "10°C",
+                                           "-10°C",
                                            "6°C",
-                                           "8°C"
+                                           "-8°C"
                                        ]
                                    },
                                    {
@@ -1729,7 +1426,7 @@
                                        "correctIndex": 1,
                                        "answers": [
                                            "Quotient: 7, Remainder: 4",
-                                           "Quotient: 7, Remainder: 5",
+                                           "Quotient: 7, Remainder: 8",
                                            "Quotient: 8, Remainder: 4",
                                            "Quotient: 8, Remainder: 5"
                                        ]
@@ -1826,7 +1523,7 @@
                                       {
                                           "id": 131,
                                           "content": "Round 8.764 to the nearest hundredth.",
-                                          "correctIndex": 3,
+                                          "correctIndex": 0,
                                           "answers": [
                                               "8.76",
                                               "8.77",
@@ -2045,19 +1742,9 @@
                                               "44, 46"
                                           ]
                                       },
+                                      
                                       {
                                           "id": 151,
-                                          "content": "Calculate the product of 1.5 wehn multiplied by the sum of 2.4 and 3.6.",
-                                          "correctIndex": 3,
-                                          "answers": [
-                                              "7.5",
-                                              "9.6",
-                                              "6.8",
-                                              "9"
-                                          ]
-                                      },
-                                      {
-                                          "id": 152,
                                           "content": "Which fraction is equal to the repeating decimal 0.333...?",
                                           "correctIndex": 1,
                                           "answers": [
@@ -2069,7 +1756,7 @@
                                       },
                                      
                                       {
-                                          "id": 153,
+                                          "id": 152,
                                           "content": "If the ratio of boys to girls in a class is 3:5 and there are 24 students in total, how many girls are there?",
                                           "correctIndex": 1,
                                           "answers": [
@@ -2078,19 +1765,7 @@
                                               "9 girls",
                                               "12 girls"
                                           ]
-                                      },
-                                      {
-                                          "id": 154,
-                                          "content": "What is the prime factorization of 48?",
-                                          "correctIndex": 2,
-                                          "answers": [
-                                              "2 × 3 × 4",
-                                              "2 × 24",
-                                              "2 × 2 × 2 × 2 × 3",
-                                              "2 × 2 × 12"
-                                          ]
                                       }
-                                           
                                          
                                          
                ]
