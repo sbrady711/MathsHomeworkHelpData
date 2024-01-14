@@ -1,0 +1,229 @@
+
+[
+    {
+        "id": 0,
+        "category": "Data",
+        "description": "Strand units: Representing and interpreting data",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Sorting by Color, Shape, and Size",
+                            "topicContent": "Introduce the concept of sorting and classification. How objects can be grouped based on different attributes. Reinforce vocabulary related to attributes such as color, shape, and size.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b61c19e2c3f9/220e2bdde408be19/1080.mp4"
+                        },
+                
+                
+                {
+                            "id": 1,
+                            "topicTitle": "Using Colored Blocks for Data Representation",
+                            "topicContent": "Data can be represented in different ways, but the information remains the same.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b61315e6c5c4/0539ad6c8d6bb01a/1080.mp4"
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Constructing Simple Pictograms",
+                            "topicContent": "Pictograms help us quickly understand data patterns.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b61316e1cccd/25d9030ef61fb686/1080.mp4"
+                        }
+                   
+                   
+                     
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Data knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "Which of the following is an example of sorting by color?",
+                 "correctIndex": 0,
+                 "answers": ["Arranging blocks based on their colors", "Counting the number of apples", "Grouping objects by size", "Identifying shapes"]
+               },
+          
+               {
+                 "id": 1,
+                 "content": "How can data be represented using pictures?",
+                 "correctIndex": 0,
+                 "answers": ["Creating pictorial models", "Writing sentences", "Using equations", "Drawing maps"]
+               },
+               {
+                 "id": 2,
+                 "content": "What does a symbol in a data representation stand for?",
+                 "correctIndex": 0,
+                 "answers": ["A real-world object or information", "A random shape", "A letter of the alphabet", "A math problem"]
+               },
+               {
+                 "id": 3,
+                 "content": "What is the purpose of using colored blocks for data representation?",
+                 "correctIndex": 0,
+                 "answers": ["To create visual displays of data", "To build a tower", "To practice counting", "To learn about different colors"]
+               },
+               {
+                 "id": 4,
+                 "content": "What is a pictogram?",
+                 "correctIndex": 3,
+                 "answers": [ "A type of puzzle", "A game with pictures", "A piece of art","A graphical representation of data"]
+               },
+               {
+                 "id": 5,
+                 "content": "How can you find out which lunch choice is the least popular using a pictogram?",
+                 "correctIndex": 1,
+                 "answers": ["Choosing your favorite", "Counting the symbols and comparing",  "Guessing", "Asking a friend"]
+               },
+               {
+                 "id": 6,
+                 "content": "If you have a table with four rows, how many categories of data can it represent?",
+                 "correctIndex": 2,
+                 "answers": ["Two categories", "Three categories", "Four categories", "Five categories"]
+               },
+         
+           
+               {
+                 "id": 7,
+                 "content": "What is the main purpose of a pictorial model?",
+                 "correctIndex": 0,
+                 "answers": ["To visually representation data", "To tell a story", "To play a game", "To practice drawing"]
+               },
+               {
+                 "id": 8,
+                 "content": "How can data representation help us understand information?",
+                 "correctIndex": 1,
+                 "answers": ["By using big words", "By showing patterns and relationships", "By making things complicated", "By hiding information" ]
+               },
+         
+               {
+                 "id": 9,
+                 "content": "What is the benefit of using different colors for data representation?",
+                 "correctIndex": 0,
+                 "answers": ["It makes the data easier to understand", "It makes the paper look pretty", "It confuses people", "It doesn't make a difference"]
+               },
+               {
+                 "id": 10,
+                 "content": "How can a pictogram help you quickly understand data?",
+                 "correctIndex": 3,
+                 "answers": [ "By making the data bigger", "By using fancy fonts", "By writing long explanations", "By showing the data using pictures that represent the data"]
+               },
+               {
+                 "id": 11,
+                 "content": "What can you learn from analyzing pictogram data?",
+                 "correctIndex": 1,
+                 "answers": [ "How to draw better","Which option is the most and least popular","How to count to 10", "How to make a sandwich"]
+               },
+               {
+                 "id": 12,
+                 "content": "How does adding more rows or columns affect data representation?",
+                 "correctIndex": 0,
+                 "answers": ["It allows for more categories and data", "It makes things confusing", "It makes the data disappear", "It doesn't change anything"]
+               },
+               {
+                 "id": 13,
+                 "content": "What is the goal of creating your own data representations?",
+                 "correctIndex": 2,
+                 "answers": ["To memorize everything", "To avoid learning", "To apply your learning and be creative", "To copy what others did" ]
+               },
+               {
+                 "id": 14,
+                 "content": "Which of the following is NOT an example of sorting?",
+                 "correctIndex": 0,
+                 "answers": ["Counting the number of pets", "Arranging books by size", "Grouping toys by type", "Organizing socks by color"]
+               },
+               {
+                 "id": 15,
+                 "content": "What does sorting mean?",
+                 "correctIndex": 0,
+                 "answers": ["Arranging things in groups based on a rule", "Drawing pictures", "Playing with toys", "Singing a song"]
+               },
+               {
+                 "id": 16,
+                 "content": "How can you sort blocks by size?",
+                 "correctIndex": 3,
+                 "answers": ["Counting the blocks", "Naming the blocks", "Hiding the blocks","Putting bigger blocks together and smaller blocks together"]
+               },
+               {
+                 "id": 17,
+                 "content": "What is an attribute?",
+                 "correctIndex": 0,
+                 "answers": ["A characteristic or quality of something", "A type of animal", "A game you play outside", "A type of food"]
+               },
+               {
+                 "id": 18,
+                 "content": "How can you represent lunch choices using a table?",
+                 "correctIndex": 2,
+                 "answers": [ "By drawing pictures of animals", "By counting fingers" ,"By putting fruits in rows and people in columns", "By making a sandwich"]
+               },
+               {
+                 "id": 19,
+                 "content": "What is a model?",
+                 "correctIndex": 0,
+                 "answers": ["A small copy of something", "A type of game", "A colorful picture", "A type of food"]
+               },
+               {
+                 "id": 20,
+                 "content": "Why do we use symbols to represent data?",
+                 "correctIndex": 1,
+                 "answers": ["To confuse people", "To show information in a simple way", "To make things complicated",  "To hide information"]
+               },
+               {
+                 "id": 21,
+                 "content": "What is the purpose of using colored blocks for data representation?",
+                 "correctIndex": 2,
+                 "answers": ["To build a tower", "To practice counting", "To create visual displays of data", "To learn about different colors"]
+               },
+               {
+                 "id": 22,
+                 "content": "What is a pictogram?",
+                 "correctIndex": 0,
+                 "answers": ["A graphical representation of data", "A type of puzzle", "A game with pictures", "A piece of art"]
+               },
+               
+               {
+                 "id": 23,
+                 "content": "What is data analysis?",
+                 "correctIndex": 2,
+                 "answers": [ "Playing games", "Drawing pictures","Studying and understanding data patterns", "Collecting data"]
+               },
+               
+               {
+                 "id": 24,
+                 "content": "Why is it important to label the axes of a pictogram?",
+                 "correctIndex": 0,
+                 "answers": ["To show what the symbols represent", "To make it look pretty", "To confuse people", "To practice drawing"]
+               },
+               {
+                 "id": 25,
+                 "content": "What can you learn from analyzing pictogram data?",
+                 "correctIndex": 1,
+                 "answers": ["How to count to 10","Which option is the most and least popular", "How to draw better", "How to make a sandwich"]
+               },
+           
+               {
+                 "id": 26,
+                 "content": "What does it mean to identify an object?",
+                 "correctIndex": 0,
+                 "answers": ["To point out or name an object", "To sort objects by size", "To count the objects", "To hide the objects"]
+               },
+               
+               {
+                 "id": 27,
+                 "content": "What does it mean for data to be organized?",
+                 "correctIndex": 1,
+                 "answers": ["To mix it up","To arrange it neatly and in order",  "To make it messy", "To hide it"]
+               },
+               {
+                 "id": 28,
+                 "content": "Which of the following is an example of data representation?",
+                 "correctIndex": 2,
+                 "answers": ["Eating lunch", "Drawing a picture", "Using symbols to show data", "Creating a table"]
+               }
+               
+          ]
+      }
+       
+    }
+
+]
