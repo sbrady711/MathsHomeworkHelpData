@@ -9,61 +9,27 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Lesson: Investigating the Pentagonal Prism",
-                            "topicContent": "Introduce the pentagonal prism as a 3-D shape with two pentagonal bases and rectangular sides. Explore and compare the number of faces, edges, and vertices of the pentagonal prism. Discuss real-world examples of pentagonal prisms and their applications."
+                            "topicTitle": "Lesson: Investigating the Hexagonal Prism",
+                            "topicContent": "Introduction to the hexagonal prism as a 3-D shape with two pentagonal bases and rectangular sides. Explore and also compare the number of faces, edges, and vertices of a pentagonal prism.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b21a1ce7c4f0/85af7a2b0af3a059/1080.mp4"
                         },
+                      
+                    
+                    
                         {
                             "id": 1,
-                            "topicTitle": "Lesson: Discovering the Hexagonal Prism",
-                            "topicContent": "Introduce the hexagonal prism as a 3-D shape with two hexagonal bases and rectangular sides.  Investigate the properties of hexagonal prisms, including the number of faces, edges, and vertices. Engage in hands-on activities to explore and construct hexagonal prisms."
-                        },
-                        {
-                            "id": 2,
-                            "topicTitle": "Lesson: Exploring the Triangular Pyramid",
-                            "topicContent": "Introduce the triangular pyramid as a 3-D   Investigate the properties of triangular pyramids, including the number of faces, edges, and vertices.  Compare triangular pyramids with other 3-D shapes."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Lesson: Investigating the Cone",
-                            "topicContent": "Introduce the cone as a 3-D shape with a circular base and a curved surface.Explore the properties of cones, including the number of faces, edges, and vertices."
-                        },
-                        {
-                            "id": 4,
                             "topicTitle": "Lesson: Discovering the Cylinder",
-                            "topicContent": "Introduce the cylinder as a 3-D shape with two parallel circular bases and a curved surface. Investigate the properties of cylinders, including the  Engage in activities that involve measuring and comparing cylinders."
+                            "topicContent": "Introduction to the cylinder as a 3-D shape with two parallel circular bases and a curved surface. Investigate the properties of cylinders, including the  Engage in activities that involve measuring and comparing cylinders.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b21a1ce7c78f/64c6231441aeb938/1080.mp4"
                     
                 },
                 {
-                            "id": 5,
+                            "id": 2,
                             "topicTitle": "Lesson: Constructing 3-D Shapes from Nets",
-                            "topicContent": "Discuss the concept of nets as 2-D patterns that can be folded to create 3-D shapes.Engage in activities that involve drawing nets for various 3-D shapes. Use nets to construct the corresponding 3-D shapes."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Lesson: Exploring and Measuring Angles in 3-D Shapes",
-                            "topicContent": "Extend the concept of angles to 3-D shapes.Identify and measure angles formed by the intersection of faces in 3-D shapes. Explore how angles in 3-D shapes relate to their properties."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Lesson: Applying Angles to 3-D Shape Design",
-                            "topicContent": "Discuss how angles play a role in the design and construction of 3-D objects.Engage in design activities that involve incorporating specific angles into 3-D shapes. Explore the relationship between angles, symmetry, and aesthetics."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Lesson: Exploring Angles in Rotation with 3-D Objects",
-                            "topicContent": "Extend the concept of angles in rotation to 3-D objects. Investigate angles formed by rotating 3-D objects around different axes. Engage in hands-on activities that involve rotating 3-D objects and measuring resulting angles."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Lesson: Exploring Symmetry in 3-D Shapes",
-                            "topicContent": "Introduce the concept of symmetry in 3-D shapes. Identify planes of symmetry in various 3-D shapes, including prisms and pyramids.Engage in hands-on activities to create 3-D shapes with specific planes of symmetry. Discuss the importance of symmetry in design, art, and architecture."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Lesson: Building 3-D Shapes Using Geometric Solids",
-                            "topicContent": "Introduce geometric solids as basic building blocks for constructing more complex 3-D shapes.      Explore how combinations of cubes, spheres, and other solids can be used to create various shapes.Engage in a collaborative project where students work together to build a larger 3-D structure using geometric solids.Reflect on the creativity and problem-solving skills required for building intricate 3-D shapes.."
-                  
-                }
+                            "topicContent": "Discuss the concept of nets as 2-D patterns that can be folded to create 3-D shapes.Engage in activities that involve drawing nets for various 3-D shapes. Use nets to construct the corresponding 3-D shapes.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b21a1ce6c75a/af2258ec20034499/1080.mp4"
+                        }
+              
                
                
                     ]
@@ -74,128 +40,108 @@
           "time": "30 minutes",
           "description": "Put your Strand of Shape knowledge to the test.",
           "questions": [
-              {
-                 "id": 0,
-                 "content": "What is the distinguishing feature of a pentagonal prism?",
-                 "correctIndex": 3,
-                 "answers": ["Triangular bases", "Circular bases", "Rectangular bases", "Pentagonal bases"]
-               },
+         
                {
-                 "id": 1,
+                 "id": 0,
                  "content": "How many bases does a hexagonal prism have?",
                  "correctIndex": 1,
                  "answers": ["One", "Two", "Three", "Four"]
                },
                {
-                 "id": 2,
+                 "id": 1,
                  "content": "What is the number of faces, edges, and vertices in a triangular pyramid?",
                  "correctIndex": 0,
                  "answers": ["Four faces, six edges, four vertices", "Five faces, eight edges, six vertices", "Three faces, five edges, three vertices", "Six faces, twelve edges, eight vertices"]
                },
                {
-                 "id": 3,
+                 "id": 2,
                  "content": "Which 3-D shape has one circular base and a curved surface?",
                  "correctIndex": 0,
                  "answers": ["Cone", "Cube", "Sphere", "Cylinder"]
                },
                {
-                 "id": 4,
+                 "id": 3,
                  "content": "How many parallel circular bases does a cylinder have?",
                  "correctIndex": 1,
                  "answers": ["One", "Two", "Three", "Four"]
                },
                {
-                 "id": 5,
+                 "id": 4,
                  "content": "What are nets in the context of 3-D shapes?",
                  "correctIndex": 1,
                  "answers": ["3-D objects with no angles", "2-D patterns that can be folded to create 3-D shapes", "3-D shapes with rotational symmetry", "3-D objects with irregular faces"]
                },
                {
-                 "id": 6,
+                 "id": 5,
                  "content": "Which activity involves identifying and measuring angles formed by the intersection of faces in 3-D shapes?",
                  "correctIndex": 2,
                  "answers": ["Drawing nets", "Constructing 3-D shapes", "Exploring and Measuring Angles in 3-D Shapes", "Creating planes of symmetry"]
                },
+           
                {
-                 "id": 7,
-                 "content": "How do angles play a role in 3-D shape design?",
-                 "correctIndex": 3,
-                 "answers": ["Angles are not relevant in 3-D design", "They help determine the length of edges", "They are used to count the number of faces", "Angles are incorporated into the design and construction of 3-D objects"]
-               },
-               {
-                 "id": 8,
-                 "content": "What is the purpose of exploring angles in rotation with 3-D objects?",
-                 "correctIndex": 1,
-                 "answers": ["To draw accurate shapes", "To investigate angles formed by rotating 3-D objects around different axes", "To measure the volume of the objects", "To calculate the surface area"]
-               },
-               {
-                 "id": 9,
+                 "id": 6,
                  "content": "What are planes of symmetry in 3-D shapes?",
                  "correctIndex": 0,
                  "answers": ["Imaginary planes that divide a shape into two identical halves", "Angled surfaces in 3-D shapes", "Curved edges of 3-D shapes", "Lines that connect opposite vertices"]
                },
                {
-                 "id": 10,
+                 "id": 7,
                  "content": "What are geometric solids?",
                  "correctIndex": 1,
                  "answers": ["2-D shapes with symmetry", "Basic building blocks for constructing 3-D shapes", "Shapes with irregular faces", "3-D shapes with curved surfaces"]
                },
                {
-                 "id": 11,
+                 "id": 8,
                  "content": "What is the distinguishing feature of a pentagonal prism?",
                  "correctIndex": 3,
                  "answers": ["Triangular bases", "Circular bases", "Rectangular bases", "Pentagonal bases"]
                },
                {
-                 "id": 12,
+                 "id": 9,
                  "content": "How many bases does a hexagonal prism have?",
                  "correctIndex": 1,
                  "answers": ["One", "Two", "Three", "Four"]
                },
                {
-                 "id": 13,
+                 "id": 10,
                  "content": "What is the number of faces, edges, and vertices in a triangular pyramid?",
                  "correctIndex": 0,
                  "answers": ["Four faces, six edges, four vertices", "Five faces, eight edges, six vertices", "Three faces, five edges, three vertices", "Six faces, twelve edges, eight vertices"]
                },
                {
-                 "id": 14,
+                 "id": 11,
                  "content": "Which 3-D shape has one circular base and a curved surface?",
                  "correctIndex": 0,
                  "answers": ["Cone", "Cube", "Sphere", "Cylinder"]
                },
                {
-                 "id": 15,
+                 "id": 12,
                  "content": "How many parallel circular bases does a cylinder have?",
                  "correctIndex": 1,
                  "answers": ["One", "Two", "Three", "Four"]
                },
+               
                {
-                 "id": 16,
+                 "id": 13,
                  "content": "What are nets in the context of 3-D shapes?",
                  "correctIndex": 1,
                  "answers": ["3-D objects with no angles", "2-D patterns that can be folded to create 3-D shapes", "3-D shapes with rotational symmetry", "3-D objects with irregular faces"]
                },
                {
-                 "id": 17,
+                 "id": 14,
                  "content": "Which activity involves identifying and measuring angles formed by the intersection of faces in 3-D shapes?",
                  "correctIndex": 2,
                  "answers": ["Drawing nets", "Constructing 3-D shapes", "Exploring and Measuring Angles in 3-D Shapes", "Creating planes of symmetry"]
                },
+   
                {
-                 "id": 18,
-                 "content": "How do angles play a role in 3-D shape design?",
-                 "correctIndex": 3,
-                 "answers": ["Angles are not relevant in 3-D design", "They help determine the length of edges", "They are used to count the number of faces", "Angles are incorporated into the design and construction of 3-D objects"]
-               },
-               {
-                 "id": 19,
+                 "id": 15,
                  "content": "What is the purpose of exploring angles in rotation with 3-D objects?",
                  "correctIndex": 1,
                  "answers": ["To draw accurate shapes", "To investigate angles formed by rotating 3-D objects around different axes", "To measure the volume of the objects", "To calculate the surface area"]
                },
                {
-                 "id": 20,
+                 "id": 16,
                  "content": "If a triangle has sides of lengths 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
                  "correctIndex": 2,
                  "answers": ["Equilateral", "Isosceles", "Right", "Scalene"]
