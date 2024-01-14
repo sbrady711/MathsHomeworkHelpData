@@ -10,257 +10,45 @@
           {
                             "id": 0,
                             "topicTitle": "Introduction to Metric Units: Exploring Meters and Centimeters",
-                            "topicContent": "Introduce the concept of metric units: meters (m) and centimeters (cm).Discuss when to use each unit and how they relate to everyday objects."
-                        },
+                            "topicContent": "Introduction to the concept of metric units: meters (m) and centimeters (cm).Discuss when to use each unit and how they relate to everyday objects. Convert between meters and centimeters using equivalence (e.g., 125 cm = 1 m 25 cm)",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b51f19e0c78f/5bfb9d29af2a7275/1080.mp4"                        },
+             
+                        
                         {
                             "id": 1,
-                            "topicTitle": "Estimating and Measuring Lengths: Using Meters and Centimeters",
-                            "topicContent": "Engage students in estimating the lengths of various objects using meters and centimeters.Provide measuring tools to check and compare estimates."
-                        },
+                            "topicTitle": "Comparing Weights: Identifying Objects Heavier and Lighter than 1 kg",
+                            "topicContent": "Provide objects of varying weights and categorize them as lighter or heavier.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b51f19e0c363/7d7dd89a8d4b2e27/1080.mp4"                        },
+                        
+                
                         {
                             "id": 2,
-                            "topicTitle": "Introduction to the Standard Unit of Length: The Metre",
-                            "topicContent": "Explore the concept of the metre as a standard unit of length. Understand terms like length, width, height, and nearly a metre."
-                        },
+                            "topicTitle": "Estimating and Measuring Capacity: Using l and ml.",
+                            "topicContent": "Engage in estimating and measuring the capacity of various common containers. Compare estimated capacities to actual measurements in liters and milliliters.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b51f19e2ce98/a5e2e5c37115bbec/1080.mp4"                        },
+                
+                        
                         {
                             "id": 3,
-                            "topicTitle": "Comparing Objects Using Standard Units: Longer, Shorter, or Equal",
-                            "topicContent": "Collect sets of objects and compare their lengths to a metre. Discuss and identify objects that are longer, shorter, or equal in length to a metre."
+                            "topicTitle": "Recording Time: Analog and Digital Formats and Timetables",
+                            "topicContent": "Record time in both analog and digital formats.Introduce simple timetables and discuss school, bus, train, and television schedules.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b51011e1c42e/e837f2abc87584e0/1440.mp4"
                         },
                         {
                             "id": 4,
-                            "topicTitle": "Measuring Heights: Applying Metric Units to Measure Heights",
-                            "topicContent": "Focus on measuring the heights of children using meters and centimeters.Practice accurate measurement techniques and record results."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Comparing Lengths: Ordering Objects by Length Using m and cm",
-                            "topicContent": "Provide a variety of objects and have students arrange them in order based on length.Encourage discussions on the relationships between different lengths."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Renaming Units: Converting Between m and cm",
-                            "topicContent": "Teach students to convert between meters and centimeters using equivalence (e.g., 125 cm = 1 m 25 cm).Provide practice exercises for unit conversion."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Practical Length Problems: Solving Addition and Subtraction with m and cm",
-                            "topicContent": "Present practical scenarios involving addition and subtraction of lengths.Ensure that the total lengths are suitable for easy verification by measuring."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Measuring Furniture: Applying Metric Units to Everyday Objects",
-                            "topicContent": "Introduce measuring furniture items (tables, chairs, etc.) using meters and centimeters. Discuss the importance of accuracy in measurement."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Real-Life Measurement Tasks: Measuring and Recording in m and cm",
-                            "topicContent": "Provide scenarios involving measuring lengths for practical purposes (e.g., room dimensions). Guide students in accurate measurement and recording."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Introducing Weight and Metric Units: Understanding kg and g",
-                            "topicContent": "Introduce the concept of weight and the metric units: kilograms (kg) and grams (g).Discuss the use of different units for measuring the weight of objects."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Estimating and Measuring Weight: Using kg and g for Everyday Objects",
-                            "topicContent": "Engage students in estimating and measuring the weight of various everyday objects.Compare estimated weights to actual measurements in kilograms and grams."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Comparing Weights: Identifying Objects Heavier and Lighter than 1 kg",
-                            "topicContent": "Provide objects of varying weights and help students categorize them as lighter or heavier than 1 kg. Encourage discussions about factors influencing an object's weight."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Size and Weight Relationship: Exploring Weight-Size Variability",
-                            "topicContent": "Present objects that challenge the assumption of a constant relationship between weight and size.Have students handle and compare objects to develop estimation skills."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Measuring Book Weights: Applying kg and g to Measure Book Mass",
-                            "topicContent": "Focus on measuring the weight of books using kilograms and grams.Discuss the importance of consistent units for accurate measurements."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Problem-Solving with Weight: Addition and Subtraction in kg and g",
-                            "topicContent": "Introduce practical problems involving addition and subtraction of weights in kilograms and grams.Ensure problem totals are suitable for easy verification by weighing."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Comparing Weight Changes: Observing Weight Changes Due to Addition and Subtraction",
-                            "topicContent": "Provide scenarios where students need to compare changes in weight after adding or removing objects. Promote critical thinking about weight transformations."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Estimation Techniques: Developing Skills to Estimate Weight",
-                            "topicContent": "Teach estimation techniques for assessing the weight of objects before measuring.Have students practice estimating and measuring different items."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Weight Conversion Challenges: Converting Between kg and g",
-                            "topicContent": "Present challenges requiring students to convert weights between kilograms and grams.Foster skill development in unit conversion through engaging tasks."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Real-Life Weight Scenarios: Applying Weight Measurement to Practical Situations",
-                            "topicContent": "Engage students in measuring weights for practical purposes, such as grocery shopping.Guide students in understanding the relevance of weight measurement in daily life.."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Introduction to Capacity and Metric Units: Exploring l and ml",
-                            "topicContent": "Introduce the concept of capacity and the metric units: liters (l) and milliliters (ml).Discuss the use of different units for measuring the capacity of containers."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Estimating and Measuring Capacity: Using l and ml for Common Containers",
-                            "topicContent": "Engage students in estimating and measuring the capacity of various common containers.Compare estimated capacities to actual measurements in liters and milliliters."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Comparing Container Capacities: Identifying Containers with Different Capacities",
-                            "topicContent": "Provide containers of varying capacities and help students compare and categorize them.Encourage discussions about how container shape and size affect capacity."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Measuring Containers: Using Litre, 250 ml, and 500 ml Measuring Instruments",
-                            "topicContent": "Focus on measuring the capacity of containers using liter, 250 ml, and 500 ml measuring instruments. Discuss which measuring instrument is suitable for different container sizes."
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Exploring Container Variety: Comparing Tall, Low, Wide, and Narrow Containers",
-                            "topicContent": "Present containers with varying dimensions and shapes (tall, low, wide, narrow).Have students compare and measure capacities of containers with different shapes."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Capacity Word Problems: Problem-Solving with Addition and Subtraction in l and ml",
-                            "topicContent": "Introduce practical problems involving addition and subtraction of capacities in liters and milliliters.Ensure problem scenarios can be easily verified through measurement."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Comparing Capacity Changes: Observing Capacity Changes Due to Addition and Subtraction:",
-                            "topicContent": "Provide scenarios where students compare changes in capacity after adding or removing liquids. Foster critical thinking about capacity transformations."
-                     
-                },
-                {
-                            "id": 27,
-                            "topicTitle": "Estimation Skills: Developing Skills to Estimate Capacity",
-                            "topicContent": "Teach estimation techniques for assessing the capacity of containers before measuring.Have students practice estimating and measuring different containers."
-                        },
-                        {
-                            "id": 28,
-                            "topicTitle": "Capacity Conversion Tasks: Converting Between l and ml",
-                            "topicContent": "Present challenges requiring students to convert capacities between liters and milliliters.  Enhance skill development in unit conversion through engaging activities."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Practical Applications of Capacity: Applying Capacity Measurement in Real Life",
-                            "topicContent": "Engage students in measuring capacities for practical purposes, such as pouring drinks. Help students understand the relevance of capacity measurement in everyday situations."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Exploring the Passage of Time: Daily, Weekly, Monthly, and Annual Events",
-                            "topicContent": "Discuss the concept of time passing and its different intervals: daily, weekly, monthly, and annually. Help students place various events in the sequence of time, from the shortest to the longest intervals."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Expanding Time Vocabulary: Developing Expressions of Time",
-                            "topicContent": "Introduce and reinforce vocabulary related to time: before/after, last year, yesterday, soon, etc. Engage students in discussions and activities using these expressions."
-                        },
-               {
-                            "id": 32,
-                            "topicTitle": "Reading Time in Five-Minute Intervals: Analog and Digital Clocks",
-                            "topicContent": "Teach students to read time on both analog and digital clocks in five-minute intervals.Provide exercises and clock visuals to practice reading various times."
-                        },
-                        {
-                            "id": 33,
-                            "topicTitle": "Constructing and Understanding Clock Faces: Mapping Time Intervals",
-                            "topicContent": "Have students create simple clock faces and understand intervals like -1 hour = 15 minutes = 3 5 minutes.Relate clock face intervals to practical examples of activities."
-                        },
-                        {
-                            "id": 34,
-                            "topicTitle": "Recording Time: Analog and Digital Formats and Timetables",
-                            "topicContent": "Teach students how to record time in both analog and digital formats.Introduce simple timetables and discuss school, bus, train, and television schedules."
-                        },
-                        {
-                            "id": 35,
                             "topicTitle": "Converting Minutes to Hours and Vice Versa: Understanding Time Equivalence",
-                            "topicContent": "Guide students in renaming minutes as hours and hours as minutes using five-minute intervals.Provide exercises that involve converting time units."
+                            "topicContent": "Renaming minutes as hours and hours as minutes using five-minute intervals.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b51012e4c525/6b9383816eeeb252/1080.mp4"
                 },
-                  {
-                            "id": 36,
-                            "topicTitle": "Understanding Dates and Weeks: Reading Dates from Calendars",
-                            "topicContent": "Teach students how to read dates from calendars and express weeks as days. Encourage students to collect and record significant personal and school-related dates."
-                        },
+                  
+                       
                         {
-                            "id": 37,
-                            "topicTitle": "Solving Time-Related Problems: Applying Time Knowledge in Practical Tasks",
-                            "topicContent": "Present practical problems that involve using the knowledge of time and dates.Ensure problems can be readily checked and solved using the skills acquired."
-                        },
-                        {
-                            "id": 38,
-                            "topicTitle": "Reflecting on Time's Concepts: Synthesizing Time Concepts and Skills",
-                            "topicContent": "Encourage students to reflect on their understanding of time's passage, clock reading, and date interpretation.Review and consolidate all learned concepts and skills related to measuring time."
-                        },
-                        {
-                            "id": 39,
-                            "topicTitle": "Putting It All Together: Review and Application of Time Concepts",
-                            "topicContent": "Review all concepts learned, including time vocabulary, clock reading, calendar interpretation, and days of the week.Engage in various interactive activities and scenarios to apply time-related skills and knowledge."
-                },
-              {
-                            "id": 40,
-                            "topicTitle": "Introducing Euro and Cents: Understanding Currency",
-                            "topicContent": "Explain the concepts of euro and cents as units of currency.Help students recognize the symbols for euro (€) and cents (c) and their meanings"
-                        },
-                        {
-                            "id": 41,
-                            "topicTitle": "Renaming Amounts: Converting Cents to Euro",
-                            "topicContent": "Teach students how to convert amounts between euro and cents. Guide them in recording amounts using symbols and the decimal point."
-                        },
-                        {
-                            "id": 42,
-                            "topicTitle": "Recording Money Amounts: Using the € Symbol and Decimal Point",
-                            "topicContent": "Demonstrate how to accurately record money amounts using the € symbol and the decimal point.Provide practice exercises to reinforce this skill."
-                        },
-                        {
-                            "id": 43,
-                            "topicTitle": "Adding Money: Solving One-Step Addition Problems",
-                            "topicContent": "Present simple one-step addition problems involving money.Guide students in solving these problems and recording the results."
-                        },
-               {
-                            "id": 44,
-                            "topicTitle": "Subtracting Money: Solving One-Step Subtraction Problems",
-                            "topicContent": "Introduce one-step subtraction problems related to money. Help students understand the process of subtracting money amounts."
-                        },
-                        {
-                            "id": 45,
-                            "topicTitle": "Applying Money Skills: Practical Problem-Solving with Money",
-                            "topicContent": "Provide real-life scenarios involving buying items and calculating change. Engage students in practical problem-solving tasks that require adding and subtracting money."
-                        },
-                        {
-                            "id": 46,
+                            "id": 5,
                             "topicTitle": "Comparing Money Amounts: Identifying Higher and Lower Costs",
-                            "topicContent": "Present scenarios with different-priced items and ask students to compare their costs.Teach them to identify higher and lower amounts."
-                        },
-                        {
-                            "id": 47,
-                            "topicTitle": "Shopping Scenarios: Calculating Total Costs and Change",
-                            "topicContent": "Create shopping scenarios where students need to calculate the total cost of items and determine the change.Emphasize the application of addition and subtraction skills in real-world contexts."
-                  },
-                {
-                            "id": 48,
-                            "topicTitle": "Word Problems with Money: Translating Scenarios into Math Equations",
-                            "topicContent": "Present word problems involving money and guide students in translating these scenarios into mathematical equations. Help them solve the equations to find the solution."
-                        },
-                        {
-                            "id": 49,
-                            "topicTitle": "Money Mastery: Synthesizing Money Concepts in Practical Situations",
-                            "topicContent": "Encourage students to reflect on their understanding of euro, cents, recording money amounts, and solving money-related problems.Review and consolidate all learned concepts and skills related to measuring money."
+                            "topicContent": "Present scenarios with different-priced items and ask students to compare their costs.Identify higher and lower amounts.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b51013e7c163/766a9560b79aba96/1080.mp4"
                         }
+                 
                     ]
                 },
       "test": {
@@ -465,7 +253,7 @@
                      "id": 32,
                      "content": "If a jug can hold 2 liters of water and you pour in 500 milliliters, how much more water can it hold?",
                      "correctIndex": 3,
-                     "answers": ["1.5 liters", "2.5 liters", "500 milliliters", "1500 milliliters"]
+                     "answers": ["1.6 liters", "2.5 liters", "500 milliliters", "1500 milliliters"]
                    },
                    {
                      "id": 33,
