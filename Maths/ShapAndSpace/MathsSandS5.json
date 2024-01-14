@@ -10,79 +10,32 @@
           {
                             "id": 0,
                             "topicTitle": "Lesson: Unveiling the Trapezium",
-                            "topicContent": "Introduce trapeziums as four-sided polygons with one pair of parallel sides.Discuss the properties of trapeziums, including angles and side lengths. Compare and contrast trapeziums with other quadrilaterals."
-                        },
-                        {
-                            "id": 1,
-                            "topicTitle": "Lesson: Exploring the Pentagon",
-                            "topicContent": "Introduce pentagons as five-sided polygons.   Discuss the properties of regular and irregular pentagons.Engage in activities that involve measuring and drawing pentagons."
-                        },
+                            "topicContent": "Introduction to trapeziums as four-sided polygons with one pair of parallel sides.Discuss the properties of trapeziums, including angles and side lengths. Compare and contrast trapeziums with other quadrilaterals.",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b21e14e2cf5a/27e2700af01372ae/1080.mp4"
+          },
+                   
                         {
                         "id": 2,
                         "topicTitle": "Lesson: Investigating the Trapezoid",
-                        "topicContent": "Introduce trapezoids as quadrilaterals with exactly one pair of parallel sides.Explore the properties of trapezoids, including angles and side lengths. Discuss real-world examples of trapezoids in architecture and design."
+                        "topicContent": "Introduce trapezoids as quadrilaterals with exactly one pair of parallel sides.Explore the properties of trapezoids, including angles and side lengths. Use this information to determine the perimeter.",
+                        "video": "https://api-files.sproutvideo.com/file/d390d0b21d1ee2c65a/1903269af9de0a7e/1080.mp4"
                     },
+               
+             
                     {
                         "id": 3,
-                        "topicTitle": "Lesson: Unveiling the Pentagon",
-                        "topicContent": "Introduce pentagons as five-sided polygons.  Investigate the properties of regular and irregular pentagons. Engage in hands-on activities to construct and explore pentagons"
-                    },
-                    {
-                        "id": 4,
-                        "topicTitle": "Lesson: Exploring the Rhombus",
-                        "topicContent": "Introduce rhombuses as quadrilaterals with all sides of equal length.Discuss the properties of rhombuses, including angles and diagonals. Explore the use of rhombuses in tessellations."
-                    },
-                    {
-                        "id": 5,
-                        "topicTitle": "Lesson: Investigating the Kite",
-                        "topicContent": "Introduce kites as quadrilaterals with two pairs of adjacent sides of equal length.  Explore the properties of kites, including angles and diagonals.Engage in activities that involve constructing and comparing kites"
-                    },
-                    {
-                        "id": 6,
                         "topicTitle": "Lesson: Discovering the Heptagon",
-                        "topicContent": "Introduce heptagons as seven-sided polygons. Discuss the properties of heptagons and their relation to other polygons.  Engage in hands-on activities that involve exploring and constructing heptagons."
+                        "topicContent": "Introduction to heptagons as seven-sided polygons. Discuss the properties of heptagons and their relation to other polygons.",
+                        "video": "https://api-files.sproutvideo.com/file/a790d0b21d1ee1c12e/fe01cc2b665dcf67/1080.mp4"
                         
                        },
+                     
                         {
-                            "id": 7,
-                            "topicTitle": "Lesson: Discovering the Rhombus",
-                            "topicContent": "Introduce rhombuses as quadrilaterals with all sides of equal length.  Discuss the properties of rhombuses, including angles and diagonals. Explore the relationship between rhombuses and other 2-D shapes."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Lesson: Investigating the Kite",
-                            "topicContent": "Introduce kites as quadrilaterals with two pairs of adjacent sides of equal length.  Discuss the properties of kites, including angles and diagonals.Engage in activities that involve constructing and comparing kites."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Lesson: Unraveling the Heptagon",
-                            "topicContent": "Introduce heptagons as seven-sided polygons.Discuss the properties of heptagons and their relation to other polygons.  Engage in hands-on activities that involve exploring and constructing heptagons."
-                    
-                },
-                {
-                            "id": 10,
-                            "topicTitle": "Lesson: Analyzing Triangle and Quadrilateral Properties",
-                            "topicContent": "Explore a variety of triangles and quadrilaterals in terms of angles and sides. Investigate how different properties of these shapes relate to their classification."
-                        },
-                        {
-                            "id": 11,
-                            "topicTitle": "Lesson: Classifying Shapes Using Lines of Symmetry",
-                            "topicContent": "Introduce the concept of lines of symmetry and their relevance to shape classification. Engage students in identifying and comparing lines of symmetry in various polygons."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Lesson: Problem-Solving with Tangram Shapes",
-                            "topicContent": "Use Tangram shapes to solve puzzles and problems related to shape composition. Encourage critical thinking and creativity in arranging Tangram pieces to form specified shapes."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Lesson: Exploring Angle Relationships",
-                            "topicContent": "Investigate angle relationships within polygons and other geometric shapes. Explore how angles within shapes can be related to each other in terms of measurement."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Lesson: Using Geometric Tools for Angle Measurement",
-                            "topicContent": "Introduce protractors and their use in measuring angles accurately. Engage in activities where students measure and compare angles in various polygons."
+                            "id": 4,
+                            "topicTitle": "Lesson: Classifying Shapes Regular and Irregular",
+                            "topicContent": "Introduction to the concept of lines of symmetry and their relevance to shape classification. Engage in identifying and comparing lines of symmetry in various polygons.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b21d1ee4cbcd/dc574d67311431d2/1080.mp4"
+                            
                         }
                
                     ]
@@ -123,7 +76,7 @@
                  "id": 4,
                  "content": "What makes a kite a special type of quadrilateral?",
                  "correctIndex": 2,
-                 "answers": ["All angles are right angles", "All sides are equal", "Two pairs of adjacent sides are equal", "It has four pairs of parallel sides"]
+                 "answers": ["All angles are right angles", "Three sides are equal", "Two pairs of adjacent sides are equal", "It has four pairs of sides"]
                },
                {
                  "id": 5,
@@ -137,83 +90,62 @@
                  "correctIndex": 1,
                  "answers": ["Identifying the number of sides", "Determining if a shape is symmetrical", "Counting the vertices", "Measuring the angles"]
                },
+            
                {
                  "id": 7,
-                 "content": "What type of shape is commonly used to solve puzzles and problems in Tangram?",
-                 "correctIndex": 3,
-                 "answers": ["Circle", "Triangle", "Square", "Polygon"]
-               },
-               {
-                 "id": 8,
-                 "content": "What are protractors used for in geometry?",
+                 "content": "What are protractors used for?",
                  "correctIndex": 1,
                  "answers": ["Drawing straight lines", "Measuring angles", "Constructing polygons", "Finding the area of shapes"]
                },
                {
-                 "id": 9,
+                 "id": 8,
                  "content": "In a trapezium, how many pairs of parallel sides are there?",
                  "correctIndex": 0,
                  "answers": ["One", "Two", "Three", "None"]
                },
                {
-                 "id": 10,
+                 "id": 9,
                  "content": "How many sides does a pentagon have?",
                  "correctIndex": 2,
                  "answers": ["Four", "Six", "Five", "Seven"]
                },
                {
-                 "id": 11,
+                 "id": 10,
                  "content": "What type of quadrilateral has exactly one pair of parallel sides?",
                  "correctIndex": 0,
                  "answers": ["Trapezoid", "Rectangle", "Rhombus", "Kite"]
                },
+           
                {
-                 "id": 12,
-                 "content": "What defines a rhombus?",
-                 "correctIndex": 3,
-                 "answers": ["Four right angles", "Four sides of equal length", "Two pairs of adjacent sides of equal length", "All sides of equal length"]
-               },
-               {
-                 "id": 13,
+                 "id": 11,
                  "content": "What makes a kite a special type of quadrilateral?",
                  "correctIndex": 2,
                  "answers": ["All angles are right angles", "All sides are equal", "Two pairs of adjacent sides are equal", "It has four pairs of parallel sides"]
                },
                {
-                 "id": 14,
+                 "id": 12,
                  "content": "How many sides does a heptagon have?",
                  "correctIndex": 0,
                  "answers": ["Seven", "Six", "Eight", "Five"]
                },
                {
-                 "id": 15,
+                 "id": 13,
                  "content": "What do lines of symmetry help with in shape classification?",
                  "correctIndex": 1,
                  "answers": ["Identifying the number of sides", "Determining if a shape is symmetrical", "Counting the vertices", "Measuring the angles"]
                },
+        
                {
-                 "id": 16,
-                 "content": "What type of shape is commonly used to solve puzzles and problems in Tangram?",
-                 "correctIndex": 3,
-                 "answers": ["Circle", "Triangle", "Square", "Polygon"]
-               },
-               {
-                 "id": 17,
+                 "id": 14,
                  "content": "What are protractors used for in geometry?",
                  "correctIndex": 1,
                  "answers": ["Drawing straight lines", "Measuring angles", "Constructing polygons", "Finding the area of shapes"]
                },
                {
-                 "id": 18,
+                 "id": 15,
                  "content": "In a trapezium, how many pairs of parallel sides are there?",
                  "correctIndex": 0,
                  "answers": ["One", "Two", "Three", "None"]
-               },
-               {
-                 "id": 19,
-                 "content": "What type of quadrilateral has two pairs of adjacent sides of equal length?",
-                 "correctIndex": 3,
-                 "answers": ["Square", "Rectangle", "Pentagon", "Kite"]
                }
               
               
