@@ -1,0 +1,458 @@
+
+[
+    {
+        "id": 0,
+        "category": "Measure",
+        "description": "Strand units: Length, Area, Weight,Capacity, Time, Money",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Length Measurement with Non-Standard Units",
+                            "topicContent": "Learn to estimate, compare, and measure length using non-standard units like lollipop sticks, pencils, spans, and strides.",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b61214e4c08f/64e31a756cd9edc1/1080.mp4"                        },
+                     
+                        {
+                            "id": 1,
+                            "topicTitle": "Introduction to the Standard Unit of Length: The Metre",
+                            "topicContent": "Explore the concept of the metre as a standard unit of length. Understand terms like length, width, height, and nearly a metre.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b61216e5c25a/7882af11d4fce579/1080.mp4"
+                        },
+                      
+              
+        
+        
+                        {
+                            "id": 2,
+                            "topicTitle": "Introduction to Weight Measurement with Non-Standard Units",
+                            "topicContent": "Explore weight measurement using terms like heavy, heavier, heaviest, light, lighter, and lightest. Learn to sort objects into heavy and light categories by hand and compare their weights.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b61210e1c05a/1ccd6a6333daa714/1080.mp4"
+                  
+                },
+              
+                        {
+                            "id": 3,
+                            "topicTitle": "Exploring Standard Units: Introduction to Kilogram",
+                            "topicContent": "Introduce the concept of the kilogram as a standard unit of weight.Discuss the need for standard units in weight measurement.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b61210efc9f9/2dd62dedc9dd3581/1080.mp4"
+                        },
+                  
+            
+           
+      
+                        {
+                            "id": 4,
+                            "topicTitle": "Introduction to Capacity Measurement and Non-Standard Units",
+                            "topicContent": "Begin to estimate and compare capacity using non-standard units.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b61212e6cecd/2cd7cb247c9c322c/1080.mp4"
+                        },
+             
+               
+                  
+              
+                     
+                        {
+                            "id": 5,
+                            "topicTitle": "Understanding Days and Months ",
+                            "topicContent": "Explore the concept of 'day before' and 'day after' specific days of the week.Engage in activities that involve determining the preceding and following days.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b6121ce9c02e/6379732447e69102/1080.mp4"
+                        },
+            
+                  
+                        {
+                            "id": 6,
+                            "topicTitle": "Reading Time on a 12-Hour Analogue Clock: Introduction",
+                            "topicContent": "Introduce the 12-hour analogue clock and its components.Learn about the clock face, the movement of hands, and how to read time in hours and half-hours.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b6121ce2ce8f/68abc6676b82d7b0/1080.mp4"
+                            
+                        },
+                      
+             
+                  
+               
+              {
+                            "id": 7,
+                            "topicTitle": "Introducing Euro Coins: Recognizing Coins Up to 50 Cents",
+                            "topicContent": "Introduce the euro coins in denominations up to 50 and 100 cents. Learn to recognize the different coins and their values.",
+                  "video": "https://api-files.sproutvideo.com/file/1190d0b71a1de2cd98/17c9d7da06ee52dd/1080.mp4"
+              }
+                   
+                 
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand of Measure knowledge to the test.",
+          "questions": [
+              {
+                  "id": 0,
+                  "content": "Which of the following is a non-standard unit used to measure length?",
+                  "correctIndex": 2,
+                  "answers": ["Millimeter", "Centimeter", "Lollipop stick", "Meter"]
+                },
+                {
+                  "id": 1,
+                  "content": "What is the standard unit of length in Ireland?",
+                  "correctIndex": 3,
+                  "answers": ["Inch", "Foot", "Yard", "Meter"]
+                },
+                {
+                  "id": 2,
+                  "content": "If an object is shorter than a meter, you can measure its length in...",
+                  "correctIndex": 1,
+                  "answers": ["Meters", "Centimeters", "Kilometers", "Millimeters"]
+                },
+                {
+                  "id": 3,
+                  "content": "What is the name of the standard unit for measuring weight?",
+                  "correctIndex": 1,
+                  "answers": ["Grans", "Kilogram", "Pounded", "Rocks"]
+                },
+                {
+                  "id": 4,
+                  "content": "Which unit is best for measuring the weight of a car?",
+                  "correctIndex": 1,
+                  "answers": ["Grams", "Kilograms", "Milligrams", "Pounds"]
+                },
+                {
+                  "id": 5,
+                  "content": "Which of the following is a unit of capacity?",
+                  "correctIndex": 0,
+                  "answers": ["Liter", "Millimeter", "Kilogram", "Meter"]
+                },
+                {
+                  "id": 6,
+                  "content": "Which unit is used to measure the capacity of a swimming pool?",
+                  "correctIndex": 0,
+                  "answers": ["Liters", "Milliliters", "Kilograms", "Grams"]
+                },
+                {
+                  "id": 7,
+                  "content": "What is the standard unit for measuring time?",
+                  "correctIndex": 2,
+                  "answers": ["Section", "Mine", "Hour", "Day"]
+                },
+                {
+                  "id": 8,
+                  "content": "How many hours are there in a day?",
+                  "correctIndex": 2,
+                  "answers": ["10", "20", "24", "30"]
+                },
+                {
+                  "id": 9,
+                  "content": "Which coin has the highest value?",
+                  "correctIndex": 3,
+                  "answers": ["1 cent", "5 cents", "10 cents", "50 cents"]
+                },
+                {
+                  "id": 10,
+                  "content": "If you have 3 coins worth 10 cents each, how much money do you have?",
+                  "correctIndex": 2,
+                  "answers": ["5 cents", "20 cents", "30 cents", "40 cents"]
+                },
+                {
+                  "id": 11,
+                  "content": "How much money is left if you buy a toy for 20 cents with a 50-cent coin?",
+                  "correctIndex": 1,
+                  "answers": ["10 cents", "30 cents", "40 cents", "50 cents"]
+                },
+                {
+                  "id": 12,
+                  "content": "How many days are there in a week?",
+                  "correctIndex": 1,
+                  "answers": ["3", "7", "10", "12"]
+                },
+                {
+                  "id": 13,
+                  "content": "If today is Monday, what day comes after it?",
+                  "correctIndex": 2,
+                  "answers": ["Saturday", "Wednesday", "Tuesday", "Thursday"]
+                },
+                {
+                  "id": 14,
+                  "content": "How many cents are there in 1 euro?",
+                  "correctIndex": 3,
+                  "answers": ["10", "50", "1000", "100"]
+                },
+                {
+                  "id": 15,
+                  "content": "Which coin can you use to pay for something that costs 75 cents?",
+                  "correctIndex": 3,
+                  "answers": ["10-cent coin", "20-cent coin", "50-cent coin", "1-euro coin"]
+                },
+                {
+                  "id": 16,
+                  "content": "If a book costs 30 cents and a pencil costs 20 cents, how much do they cost together?",
+                  "correctIndex": 0,
+                  "answers": ["50 cents", "10 cents", "60 cents", "40 cents"]
+                },
+                {
+                  "id": 17,
+                  "content": "Which is heavier: 200 grams or 2 kilograms?",
+                  "correctIndex": 1,
+                  "answers": ["200 grams", "2 kilograms", "They weigh the same", "Not enough information"]
+                },
+                {
+                  "id": 18,
+                  "content": "If it takes 30 minutes to walk to school and 45 minutes to walk back, how much time do you spend walking?",
+                  "correctIndex": 2,
+                  "answers": ["15 minutes", "60 minutes", "75 minutes", "90 minutes"]
+                },
+                {
+                  "id": 19,
+                  "content": "If a movie starts at 4:30 PM and lasts for 1 hour , when does it end?",
+                  "correctIndex": 0,
+                  "answers": ["5:30 PM", "6:15 PM", "4:15 PM", "6:45 PM"]
+                },
+                {
+                  "id": 20,
+                  "content": "Which of the following is the longest measurement?",
+                  "correctIndex": 2,
+                  "answers": ["1 centimeter", "10 millimeters", "5 centimeters", "150 millimeters"]
+                },
+                {
+                  "id": 21,
+                  "content": "If a book weighs 500 grams and a ball weighs 250 grams, which is heavier?",
+                  "correctIndex": 0,
+                  "answers": ["Book", "Ball", "They weigh the same", "Not enough information"]
+                },
+                {
+                  "id": 22,
+                  "content": "Which container would you use to hold the most water?",
+                  "correctIndex": 2,
+                  "answers": ["Teaspoon", "Egg-cup", "Cup", "Saucer"]
+                },
+                {
+                  "id": 23,
+                  "content": "What time is it when the big hand is on 12 and the little hand is on 6?",
+                  "correctIndex": 0,
+                  "answers": ["6:00 AM", "12:00 PM", "7:00 PM", "Not enough information"]
+                },
+                {
+                  "id": 24,
+                  "content": "If a movie starts at 3:15 PM and lasts for 1 hour and 30 minutes, when does it end?",
+                  "correctIndex": 0,
+                  "answers": ["4:45 PM", "4:45 AM", "2:45 PM", "5:15 PM"]
+                },
+                {
+                  "id": 25,
+                  "content": "Which coins would you use to pay for something that costs 70 cents?",
+                  "correctIndex": 2,
+                  "answers": ["1-euro coin", "50-cent coin", "50-cent coin and 20-cent coin", "1-euro coin and 30-cent coin"]
+                },
+                {
+                  "id": 26,
+                  "content": "How many days are there in July?",
+                  "correctIndex": 2,
+                  "answers": ["28", "30", "31", "29"]
+                },
+                {
+                  "id": 27,
+                  "content": "If you have 3 one-euro coins and 2 fifty-cent coins, how much money do you have?",
+                  "correctIndex": 0,
+                  "answers": ["4.00 euros", "2.50 euros", "3.50 euros", "5.00 euros"]
+                },
+                {
+                  "id": 28,
+                  "content": "Which of the following is lighter?",
+                  "correctIndex": 2,
+                  "answers": ["200 grams", "0.2 kilograms", "They weigh the same", "Not enough information"]
+                },
+                {
+                  "id": 29,
+                  "content": "If a bus leaves at 9:30 AM and arrives at 1:45 PM, how long is the journey?",
+                  "correctIndex": 2,
+                  "answers": ["2 hours", "4 hours", "4 hours and 15 minutes", "4 hours and 45 minutes"]
+                },
+                {
+                  "id": 30,
+                  "content": "Which of the following coins is worth the least?",
+                  "correctIndex": 0,
+                  "answers": ["1 cent", "5 cents", "10 cents", "50 cents"]
+                },
+                {
+                  "id": 31,
+                  "content": "How many months are there in a year?",
+                  "correctIndex": 2,
+                  "answers": ["6", "10", "12", "14"]
+                },
+                {
+                  "id": 32,
+                  "content": "Which of the following is a standard unit of length?",
+                  "correctIndex": 1,
+                  "answers": ["Lollipop stick", "Meter", "Pencil", "Span"]
+                },
+                {
+                  "id": 33,
+                  "content": "How much does a 1-euro coin and a 10-cent coin add up to?",
+                  "correctIndex": 1,
+                  "answers": ["1 euro", "1.10 euros", "1.20 euros", "1.30 euros"]
+                },
+                {
+                  "id": 34,
+                  "content": "If it takes 20 minutes to read a story and 15 minutes to draw a picture, how much time do you need for both activities?",
+                  "correctIndex": 1,
+                  "answers": ["25 minutes", "35 minutes", "45 minutes", "50 minutes"]
+                },
+                {
+                  "id": 35,
+                  "content": "How much is 5 cents more than 2 cents?",
+                  "correctIndex": 0,
+                  "answers": ["3 cents", "2 cents", "5 cents", "7 cents"]
+                },
+                {
+                  "id": 36,
+                  "content": "Which of the following units is used to measure capacity?",
+                  "correctIndex": 0,
+                  "answers": ["Liter", "Millimeter", "Kilogram", "Meter"]
+                },
+                {
+                  "id": 37,
+                  "content": "If a movie starts at 7:30 PM and lasts for 2 hours, when does it end?",
+                  "correctIndex": 0,
+                  "answers": ["9:30 PM", "9:00 PM", "10:30 PM", "8:00 PM"]
+                },
+                {
+                  "id": 38,
+                  "content": "Which coin would you use to pay for something that costs 30 cents?",
+                  "correctIndex": 2,
+                  "answers": ["1-euro coin", "20-cent coin", "50-cent coin", "5-cent coin"]
+                },
+                {
+                  "id": 39,
+                  "content": "What time is it when the big hand is on 6 and the little hand is on 12?",
+                  "correctIndex": 1,
+                  "answers": ["6:00 AM", "12:30 PM", "6:00 PM", "Not enough information"]
+                },
+                {
+                   "id": 40,
+                   "content": "Which of the following objects is likely to weigh the most?",
+                   "correctIndex": 2,
+                   "answers": ["Pencil", "Feather", "Book", "Eraser"]
+                 },
+                 {
+                   "id": 41,
+                   "content": "If you have a 50-cent coin and two 10-cent coins, how much money do you have?",
+                   "correctIndex": 1,
+                   "answers": ["40 cents", "70 cents", "30 cents", "80 cents"]
+                 },
+                 {
+                   "id": 42,
+                   "content": "Which of the following activities would likely take the longest time?",
+                   "correctIndex": 3,
+                   "answers": ["Drawing a quick picture", "Reading a short story", "Listening to a short song", "Watching a full-length movie"]
+                 },
+                 {
+                   "id": 43,
+                   "content": "If a tree trunk is too wide to measure using a ruler, what could you use?",
+                   "correctIndex": 0,
+                   "answers": ["Measuring tap", "Lollipop stick", "Pencil", "Spans"]
+                 },
+                 {
+                   "id": 44,
+                   "content": "If a calendar shows today's date as Tuesday, what will be the day after tomorrow?",
+                   "correctIndex": 2,
+                   "answers": ["Tuesday", "Wednesday", "Thursday", "Monday"]
+                 },
+                 {
+                   "id": 45,
+                   "content": "Which container holds the least amount of water?",
+                   "correctIndex": 0,
+                   "answers": ["Teaspoon", "Egg-cup", "Cup", "Saucer"]
+                 },
+                 {
+                   "id": 46,
+                   "content": "If a movie starts at 4:45 PM and lasts for 1 hour and 15 minutes, when does it end?",
+                   "correctIndex": 1,
+                   "answers": ["5:00 PM", "6:00 PM", "6:30 PM", "5:45 PM"]
+                 },
+                 {
+                   "id": 47,
+                   "content": "Which of the following objects is likely to weigh the least?",
+                   "correctIndex": 1,
+                   "answers": ["Apple", "Pencil", "Book", "Teddy bear"]
+                 },
+                 {
+                   "id": 48,
+                   "content": "If you need to measure a piece of string, which unit would you use?",
+                   "correctIndex": 3,
+                   "answers": ["Meter", "Kilogram", "Liter", "Centimeter"]
+                 },
+                 {
+                   "id": 49,
+                   "content": "Which coin would you use to pay for something that costs 25 cents?",
+                   "correctIndex": 1,
+                   "answers": ["25-cent coin", "50-cent coin", "1-euro coin", "10-cent coin"]
+                 },
+                 {
+                   "id": 50,
+                   "content": "If you have 4 one-euro coins and 2 twenty-cent coins, how much money do you have?",
+                   "correctIndex": 1,
+                   "answers": ["5.40 euros", "4.40 euros", "4.20 euros", "5.20 euros"]
+                 },
+                 {
+                   "id": 51,
+                   "content": "How many days are in a week?",
+                   "correctIndex": 2,
+                   "answers": ["5", "6", "7", "8"]
+                 },
+                 {
+                   "id": 52,
+                   "content": "What time is it when the big hand is on 12 and the little hand is on 4?",
+                   "correctIndex": 2,
+                   "answers": ["6:07 AM", "12:00 PM", "4:00 PM", "Not enough information"]
+                 },
+                 {
+                   "id": 53,
+                   "content": "If a container holds 3 liters of water, how many milliliters is that?",
+                   "correctIndex": 1,
+                   "answers": ["300 ml", "3000 ml", "30 ml", "3 ml"]
+                 },
+                 {
+                   "id": 54,
+                   "content": "If a journey takes 2 hours and 30 minutes, how many minutes is that in total?",
+                   "correctIndex": 2,
+                   "answers": ["1500 minutes", "180 minutes", "150 minutes", "120 minutes"]
+                 },
+                 {
+                   "id": 55,
+                   "content": "Which of the following is an example of a short activity?",
+                   "correctIndex": 0,
+                   "answers": ["Brushing your teeth", "Reading a chapter book", "Watching a long movie", "Baking cookies"]
+                 },
+                 {
+                   "id": 56,
+                   "content": "If a movie starts at 7:15 PM and lasts for 1 hour and 45 minutes, when does it end?",
+                   "correctIndex": 1,
+                   "answers": ["8:15 PM", "9:00 PM", "9:15 PM", "8:30 PM"]
+                 },
+                 {
+                   "id": 57,
+                   "content": "Which of the following is the smallest unit of measurement?",
+                   "correctIndex": 0,
+                   "answers": ["Millimeter", "Centimeter", "Meter", "Kilometer"]
+                 },
+                 {
+                   "id": 58,
+                   "content": "If you have 2 one-euro coins and 1 fifty-cent coin, how much money do you have?",
+                   "correctIndex": 3,
+                   "answers": ["2.52 euros", "2.10 euros", "2.20 euros", "2.50 euros"]
+                 },
+                 {
+                   "id": 59,
+                   "content": "Which of the following is the heaviest object?",
+                   "correctIndex": 1,
+                   "answers": ["Feather", "Large rock", "Leaf", "Pencil"]
+                 }
+                
+                
+              
+          ]
+      }
+       
+    }
+
+]
