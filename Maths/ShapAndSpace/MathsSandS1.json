@@ -1,0 +1,296 @@
+
+[
+    {
+        "id": 0,
+        "category": "Shape and Space",
+        "description": "Strand units: Spatial awareness, 2-D shapes, 3-D shapes, Symmetry and Angles",
+      "content": {
+          "id": 0,
+      "teaching": [
+       
+                   
+                        {
+                            "id": 0,
+                            "topicTitle": "Shapes: Square",
+                            "topicContent": "Introduce the square shape, its characteristics, and attributes.Describe squares using size, corners, and equal sides. Compare squares with other shapes. Identify squares in the classroom environment.",
+                            
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b71a1ee4c125/c00b5dd2ae7b70f6/1080.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Lesson: Discovering Rectangles",
+                            "topicContent": "Introduce rectangles and discuss their features.Describe rectangles with regard to size, corners, and length of sides. Compare rectangles with squares and other shapes.Identify rectangles in objects around the school.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b71a1ee5c35a/35da6b5370102330/1080.mp4"
+                },
+                {
+                            "id": 2,
+                            "topicTitle": "Lesson: Understanding Triangles",
+                            "topicContent": "Introduce triangles and their properties.Describe triangles using corners, sides, and shapes. Compare triangles with other shapes.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b71a1fe0cd98/33e197cb559c1778/1080.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Lesson: Exploring Circles",
+                            "topicContent": "Introduce circles and their attributes. Describe circles in terms of their roundness and lack of corners.Compare circles with other shapes.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b71a1fe2cecd/583ee6381e8cb835/1080.mp4"
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Lesson: Investigating Semicircles",
+                            "topicContent": "Introduce semicircles and their unique characteristics.Describe semicircles as half of a circle shape.Compare semicircles with full circles and other shapes.Identify semicircles in various objects.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b71a1fe6c3f0/ecf1f018be589327/1080.mp4"
+                        },
+                        {
+                            "id": 5,
+                            "topicTitle": "Lesson: Exploring Ovals",
+                            "topicContent": "Describe ovals in terms of their curved sides and lack of corners.Compare ovals with other shapes like circles and rectangles. Identify ovals in objects within the surroundings.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b71a1fe6cacd/afee62dc55f644f0/1080.mp4"
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Lesson: Investigating Diamonds (Rhombuses)",
+                            "topicContent": "Describe diamonds as 4-sided shapes with equal sides. Compare diamonds with squares and rectangles.Find examples of diamonds in various objects in the environment.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b71a1fe9c498/7d8cd0331cd13afd/1080.mp4"
+                        },
+                        
+                        
+                        
+                        
+                        {
+                            "id": 7,
+                            "topicTitle": "Lesson: Sorting and Naming Shapes",
+                            "topicContent": "Sort shapes into categories: 4-sided and not 4-sided, curved and not curved. Name the shapes while referring to size, sides, and corners. Compare and discuss different shapes' attributes.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b71a1fe8cb2e/721edcc76a2760d4/1080.mp4"                        },
+                       
+                {
+                            "id": 8,
+                            "topicTitle": "Lesson: Exploring Halves of Shapes",
+                            "topicContent": "Draw paper shapes in half and observe the resulting halves. Draw along the fold to create new shapes. Identify and discuss the concept of halves in everyday objects",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b71a18e4c725/a09206813c5771c5/1080.mp4"
+                        }
+                     
+                    
+                        
+                        
+                        
+               
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Strand of Shape knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "What word describes the space seperating two objects?",
+                "correctIndex": 2,
+                "answers": ["On", "Through", "Between", "Around"]
+              },
+              {
+                "id": 1,
+                "content": "Which of the following body positions is crouching?",
+                "correctIndex": 3,
+                "answers": ["Standing tall", "Stretching arms", "Jumping high", "Bending knees"]
+              },
+              {
+                "id": 2,
+                "content": "What do we call a shape with four equal sides and four corners?",
+                "correctIndex": 1,
+                "answers": ["Triangle", "Square", "Circle", "Rectangle"]
+              },
+              {
+                "id": 3,
+                "content": "A rectangle has how many pairs of parallel sides?",
+                "correctIndex": 1,
+                "answers": ["0", "2", "3", "4"]
+              },
+              {
+                "id": 4,
+                "content": "Which shape has three corners and three sides?",
+                "correctIndex": 0,
+                "answers": ["Triangle", "Circle", "Rectangle", "Square"]
+              },
+              {
+                "id": 5,
+                "content": "What shape is round and has no corners?",
+                "correctIndex": 2,
+                "answers": ["Triangle", "Rectangle", "Circle", "Square"]
+              },
+              {
+                "id": 6,
+                "content": "A semicircle is half of what shape?",
+                "correctIndex": 3,
+                "answers": ["Rectangle", "Triangle", "Square", "Circle"]
+              },
+              {
+                "id": 7,
+                "content": "Which shapes have 4 sides and are not all equal?",
+                "correctIndex": 1,
+                "answers": ["Circles", "Rectangles", "Triangles", "Squares"]
+              },
+              {
+                "id": 8,
+                "content": "How can you create new patterns with shapes?",
+                "correctIndex": 2,
+                "answers": ["By drawing lines", "By coloring", "By combining shapes", "By folding paper"]
+              },
+              {
+                "id": 9,
+                "content": "When two shapes are put together to make a new design, it is called...",
+                "correctIndex": 3,
+                "answers": ["Partitioning", "Symmetry", "Translation", "Combining"]
+              },
+              {
+                "id": 10,
+                "content": "If you fold a shape in half, what do you get?",
+                "correctIndex": 1,
+                "answers": ["A new shape", "A quarter", "A larger shape", "A smaller shape"]
+              },
+              {
+                "id": 11,
+                "content": "Where can you find shapes in your environment?",
+                "correctIndex": 2,
+                "answers": ["Only in schools", "Only in books", "Everywhere", "In the sky"]
+              },
+              {
+                "id": 12,
+                "content": "What shape has curved sides and no corners?",
+                "correctIndex": 2,
+                "answers": ["Triangle", "Rectangle", "Oval", "Square"]
+              },
+              {
+                "id": 13,
+                "content": "How many sides does a diamond (rhombus) have?",
+                "correctIndex": 0,
+                "answers": ["4", "3", "5", "6"]
+              },
+              {
+                "id": 14,
+                "content": "What do we call designs that repeat in a pattern?",
+                "correctIndex": 2,
+                "answers": ["Symbols", "Words", "Symmetry", "Numbers"]
+              },
+              {
+                "id": 15,
+                "content": "What shape has multiple points more then 4 and is not round or a quadrilateral(4 sided shape)?",
+                "correctIndex": 2,
+                "answers": ["Circle", "Triangle", "Star", "Square"]
+              },
+              {
+                "id": 16,
+                "content": "What is the name of the shape that looks like a half moon?",
+                "correctIndex": 1,
+                "answers": ["Triangle", "Crescent", "Circle", "Rectangle"]
+              },
+              {
+                "id": 17,
+                "content": "A heart shape has how many corners?",
+                "correctIndex": 2,
+                "answers": ["0", "1", "2", "3"]
+              },
+              {
+                "id": 18,
+                "content": "2-D Shapes: What shape has four sides and four corners?",
+                "correctIndex": 1,
+                "answers": ["Triangle", "Square", "Circle", "Oval"]
+              },
+              {
+                "id": 19,
+                "content": "What shape has three sides and three corners?",
+                "correctIndex": 0,
+                "answers": ["Triangle", "Square", "Circle", "Rectangle"]
+              },
+              {
+                "id": 20,
+                "content": "What shape has four sides and only one pair of parallel sides?",
+                "correctIndex": 3,
+                "answers": ["Triangle", "Square", "Trapezoid", "Rectangle"]
+              },
+              {
+                "id": 21,
+                "content": "What shape has six sides and six corners?",
+                "correctIndex": 0,
+                "answers": ["Hexagon", "Square", "Triangle", "Rectangle"]
+              },
+              {
+                "id": 22,
+                "content": "Which shape has more than four sides and no right angles?",
+                "correctIndex": 1,
+                "answers": ["Triangle", "Pentagon", "Circle", "Rectangle"]
+              },
+              {
+                "id": 23,
+                "content": "Which shape has five sides and five corners?",
+                "correctIndex": 1,
+                "answers": ["Triangle", "Pentagon", "Circle", "Rectangle"]
+              },
+              {
+                "id": 24,
+                "content": "What shape has four sides and one pair of opposite sides that are longer than the other?",
+                "correctIndex": 3,
+                "answers": ["Triangle", "Square", "Circle", "Rectangle"]
+              },
+              {
+                "id": 25,
+                "content": "What shape has four sides and no right angles?",
+                "correctIndex": 2,
+                "answers": ["Triangle", "Square", "Rhombus", "Rectangle"]
+              },
+              {
+                "id": 26,
+                "content": "3-D Shapes: What is the name of a three-dimensional shape with a circular base and one curved surface with a point?",
+                "correctIndex": 0,
+                "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
+              },
+              {
+                "id": 27,
+                "content": "What is the name of a three-dimensional shape with a square base and four triangular faces?",
+                "correctIndex": 1,
+                "answers": ["Cone", "Pyramid", "Sphere", "Cylinder"]
+              },
+              {
+                "id": 28,
+                "content": "Which of these three shapes has a curved surface? ",
+                "correctIndex": 1,
+                "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
+              },
+              {
+                "id": 29,
+                "content": "Which of these shapes has a circular base? ",
+                "correctIndex": 0,
+                "answers": ["Cylinder", "Octahedron", "Sphere", "Pyramid"]
+              },
+              {
+                "id": 30,
+                "content": "What is the name of a three-dimensional shape with six square faces?",
+                "correctIndex": 1,
+                "answers": ["Cone", "Cube", "Sphere", "Cylinder"]
+              },
+              {
+                "id": 31,
+                "content": "What is the name of a three-dimensional shape with two parallel circular bases and a curved surface?",
+                "correctIndex": 3,
+                "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
+              },
+              {
+                "id": 32,
+                "content": "What is the name of a three-dimensional shape with a rectangular base and four triangular faces?",
+                "correctIndex": 1,
+                "answers": ["Cone", "Pyramid", "Sphere", "Cylinder"]
+              },
+              {
+                "id": 33,
+                "content": "What is the name of a three-dimensional shape with a triangular base and three rectangular faces?",
+                "correctIndex": 1,
+                "answers": ["Cone", "Pyramid", "Sphere", "Cylinder"]
+              }
+              
+              
+          ]
+      }
+       
+    }
+
+]
