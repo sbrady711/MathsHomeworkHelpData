@@ -7,259 +7,49 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
+          
+           
+                        
+                {
                             "id": 0,
-                            "topicTitle": "Choosing the Right Measuring Instruments: Rulers and Metre Sticks",
-                            "topicContent": "Introduce various measuring instruments, such as rulers, metre sticks, and trundle wheels. Explain the appropriate use of each instrument for measuring shorter and longer objects or distances."
+                            "topicTitle": "Perimeter and Area of Regular Shapes: Investigating Patterns",
+                            "topicContent": "Focus on regular shapes like squares, rectangles, and triangles.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b21e1ce0c48f/1d8a31c9853f7452/1080.mp4"
                         },
+                        
+                      
                         {
                             "id": 1,
-                            "topicTitle": "Estimating and Measuring Objects Indoors: Using Metric Units",
-                            "topicContent": "Engage students in estimating and measuring a variety of objects indoors.Provide examples of objects like books, desks, and corridors to measure using suitable metric units (mm, cm, m)."
+                            "topicTitle": "Temperature",
+                            "topicContent": "Apply weight measurement skills to real-life scenarios.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b21e1ce6c4f9/d63d20c16d60ac47/1080.mp4"
                         },
-                        {
+                       
+               {
                             "id": 2,
-                            "topicTitle": "Exploring Outdoor Measurements: Distances and Playing Pitches",
-                            "topicContent": "Extend measurement skills to outdoor scenarios.Encourage students to estimate and measure distances for activities like throwing a ball, jumping, and running in a specified time frame."
-                        },
+                            "topicTitle": "Analog vs. Digital: Grasping Both Clock Formats",
+                            "topicContent": "Explore the differences between analog and digital clocks.",
+                   "video": "https://api-files.sproutvideo.com/file/4d90d0b21e1be4c0c4/af84124d382a9cff/1080.mp4"
+               },
+                    
+                    
+              
+      
                         {
                             "id": 3,
-                            "topicTitle": "Mastering Metric Units: Millimeters, Centimeters, Meters, Kilometers",
-                            "topicContent": "Dive deeper into metric units for measurement. Teach students the appropriate use of millimeters (mm), centimeters (cm), meters (m), and kilometers (km) for different measurement scenarios."
+                            "topicTitle": "Hourly vs. Daily Pay: Calculating Earnings",
+                            "topicContent": "Discuss the concepts of hourly and daily pay rates. Provide examples of calculating earnings based on different pay rates and time worked.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b21e1be7c7f0/7b73c00b12c1d623/1080.mp4"
                         },
+                    
+              
+                        
+                        
                         {
                             "id": 4,
-                            "topicTitle": "Measuring Irregular Shapes: Perimeter Exploration",
-                            "topicContent": "Introduce the concept of perimeter and its importance in measuring shapes.Challenge students to estimate and measure the perimeter of irregular shapes using suitable metric units."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Perimeter of Regular Shapes: Investigating Patterns",
-                            "topicContent": "Focus on regular shapes like squares, rectangles, and triangles.Guide students in exploring patterns in the perimeters of these shapes as their dimensions change."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Estimating and Measuring Outdoor Distances: Long and Short",
-                            "topicContent": "Encourage students to estimate and measure longer distances outdoors.Use trundle wheels and metre sticks to measure paths, driveways, and playing-pitch sidelines."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Hands-On Perimeter Activities: Building and Measuring",
-                            "topicContent": "Provide students with materials to create their own shapes. Guide them in measuring the perimeters of their creations using metric units."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Mathematical Walks: Outdoor Exploration and Measurement",
-                            "topicContent": "Organize mathematical walks where students measure distances along specific paths.They can calculate total distances and explore differences between indoor and outdoor measurements."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Solving Real-World Perimeter Challenges: Applying Skills",
-                            "topicContent": "Present real-world scenarios that involve calculating perimeters.Challenge students to solve problems related to fences, borders, and enclosing areas."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Choosing the Right Weighing Tools: Balances and Scales",
-                            "topicContent": "Introduce various weighing instruments, such as balance scales, kitchen scales, bathroom scales, and spring balances. Explain how to select the appropriate tool based on the nature of the object being weighed."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Estimating and Weighing Everyday Objects: Measuring in Grams",
-                            "topicContent": "Engage students in estimating and measuring the weight of everyday objects.Provide examples of objects like pencils and copybooks and teach students to measure them in grams."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Exploring Weight Measurement: From Grams to Kilograms",
-                            "topicContent": "Transition from measuring in grams to measuring in kilograms.Guide students in understanding when to use grams (smaller objects) and kilograms (larger objects)."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Measuring Weight of School Bags: Kilograms in Action",
-                            "topicContent": "Apply weight measurement skills to real-life scenarios.Have students measure the weight of their school bags using kilograms as the appropriate metric unit."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Estimating and Measuring Personal Weight: Using Bathroom Scales",
-                            "topicContent": "Discuss the concept of personal weight and its measurement.Introduce bathroom scales and guide students in estimating and measuring their own weight."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Weighing People and Everyday Items: Comparing Kilograms",
-                            "topicContent": "Help students understand the relationship between weight and units of measurement.Provide opportunities to measure both people and common items in kilograms."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Spring Balance Exploration: Measuring Weight with Precision",
-                            "topicContent": "Introduce the concept of a spring balance for weight measurement. Guide students in using spring balances to measure the weight of objects accurately."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Comparing Weight: Lighter and Heavier Objects",
-                            "topicContent": "Engage students in activities that involve comparing the weight of different objects.Encourage discussions about which objects are lighter or heavier."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Mathematical Investigations: Weight and Everyday Scenarios",
-                            "topicContent": "Pose mathematical problems related to weight and measurement.Have students solve problems involving the addition and subtraction of weights."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Solving Practical Weight Challenges: Applying Skills",
-                            "topicContent": "Present real-world scenarios that require students to apply their weight measurement skills. Challenge students to solve problems involving packaging, distribution, and balancing weights."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Exploring Capacity Measurement Tools: Graduated Jugs and Containers",
-                            "topicContent": "Introduce various tools for measuring capacity, such as graduated jugs, litre containers, and fractional litre containers.Discuss the importance of selecting the right tool for different measuring tasks."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Estimating and Measuring Small Volumes: Millilitres in Action",
-                            "topicContent": "Engage students in estimating and measuring small volumes using millilitres.Provide examples of objects like cups and small containers to measure in millilitres."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Transitioning to Larger Volumes: Introducing Litres",
-                            "topicContent": "Transition from measuring in millilitres to measuring in litres.Explain when and how to use litres for measuring larger volumes."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Measuring Watering Can Capacity: Applying Litres to Real-Life",
-                            "topicContent": "Apply capacity measurement skills to practical situations. Have students measure the capacity of a watering can using litres as the metric unit"
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Estimating and Measuring Different Containers: Comparing Volumes",
-                            "topicContent": "Engage students in activities that involve estimating and measuring the capacity of various containers.Encourage discussions about which containers hold more or less liquid"
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Practical Use of Fractional Litre Containers: Precise Measurements",
-                            "topicContent": "Introduce fractional litre containers for more precise capacity measurement.Guide students in measuring liquid volumes with greater accuracy."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Hands-On Exploration: Filling and Pouring with Precision",
-                            "topicContent": "Provide hands-on activities where students practice pouring liquids accurately into containers of different capacities.Emphasize the importance of control and precision in measurement"
-                     
-                },
-                {
-                            "id": 27,
-                            "topicTitle": "Comparing Volume in Real-Life Contexts: Applying Knowledge",
-                            "topicContent": "Present real-life scenarios where students need to compare volumes.Challenge students to determine which containers would be suitable for specific tasks."
-                        },
-                        {
-                            "id": 28,
-                            "topicTitle": "Mathematical Problem Solving: Capacity Challenges",
-                            "topicContent": "Pose mathematical problems related to capacity measurement.Have students solve problems involving addition, subtraction, and comparison of volumes."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Real-World Applications: Capacity in Everyday Life",
-                            "topicContent": "Present scenarios where students apply their capacity measurement skills to practical situations. Encourage critical thinking and decision-making based on capacity measurements."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Unraveling the 24-Hour Clock: Introduction and Basics",
-                            "topicContent": "Introduce the concept of the 24-hour clock and its significance in various contexts.Help students understand how the 24-hour clock works and its advantages over the 12-hour clock."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Understanding Timetables: Navigating Through Scheduled Events",
-                            "topicContent": "Introduce timetables and their importance in scheduling events.Provide students with examples of bus, train, and school timetables to practice reading and interpreting."
-                        },
-               {
-                            "id": 32,
-                            "topicTitle": "Analog vs. Digital: Grasping Both Clock Formats",
-                            "topicContent": "Explore the differences between analog and digital clocks.Have students practice reading and interpreting both analog and digital clocks"
-                        },
-                        {
-                            "id": 33,
-                            "topicTitle": "Converting Between 12-Hour and 24-Hour Formats: The Time Conversion Challenge",
-                            "topicContent": "Present scenarios involving times in both 12-hour and 24-hour formats.Guide students in converting between the two formats and recognizing patterns."
-                        },
-                        {
-                            "id": 34,
-                            "topicTitle": "Applying 24-Hour Clock to Different Contexts: Real-Life Examples",
-                            "topicContent": "Provide examples of various contexts where the 24-hour clock is used, such as airline schedules and international communications.Discuss how using the 24-hour clock can avoid confusion."
-                        },
-                        {
-                            "id": 35,
-                            "topicTitle": "Timetables and Travel: Planning Journeys Using 24-Hour Time",
-                            "topicContent": "Explore timetables for travel modes like buses, trains, ships, and flights.Have students plan hypothetical journeys using 24-hour time information."
-                },
-                  {
-                            "id": 36,
-                            "topicTitle": "Clock Math: Calculations with 24-Hour Time: Time Differences and Intervals",
-                            "topicContent": "Introduce calculations involving time differences and intervals using the 24-hour clock. Guide students in solving problems related to time zones and travel durations."
-                        },
-                        {
-                            "id": 37,
-                            "topicTitle": "24-Hour Clock in Everyday Life: Relating to Real-World Scenarios",
-                            "topicContent": "Discuss how the 24-hour clock is relevant in daily routines and activities.Encourage students to share instances when they've encountered the 24-hour clock."
-                        },
-                        {
-                            "id": 38,
-                            "topicTitle": "Reading and Analyzing Film and Theatre Timings: Fun with Entertainment Schedules",
-                            "topicContent": "Present film and theatre schedules in both 12-hour and 24-hour formats.Have students practice reading and comparing show timings."
-                        },
-                        {
-                            "id": 39,
-                            "topicTitle": "Mastering Time Conversion: From AM/PM to 24-Hour and Back",
-                            "topicContent": "Provide comprehensive practice in converting between 12-hour AM/PM format and the 24-hour clock.Challenge students with various conversion scenarios to reinforce their skills."
-                },
-              {
-                            "id": 40,
-                            "topicTitle": "Understanding Unitary Method: Finding Value for Money",
-                            "topicContent": "Introduce the concept of the unitary method to compare 'value for money'. Explain how the unitary method helps determine which option offers a better deal."
-                        },
-                        {
-                            "id": 41,
-                            "topicTitle": "Comparing Costs: Apples and Beyond",
-                            "topicContent": "Present scenarios involving the purchase of different quantities of items at varying prices. Guide students in comparing costs to identify the better deal using the unitary method."
-                        },
-                        {
-                            "id": 42,
-                            "topicTitle": "Hourly vs. Daily Pay: Calculating Earnings",
-                            "topicContent": "Discuss the concepts of hourly and daily pay rates. Provide examples of calculating earnings based on different pay rates and time worked."
-                        },
-                        {
-                            "id": 43,
-                            "topicTitle": "Calculating Shop Bills: Practice with Real-World Scenarios",
-                            "topicContent": "Present shopping scenarios with multiple items and prices. Guide students in calculating and comparing the total cost of shop bills."
-                        },
-               {
-                            "id": 44,
-                            "topicTitle": "Making Wise Choices: Unit Pricing and Consumer Decisions",
-                            "topicContent": "Introduce the concept of unit pricing and how it helps consumers make informed choices.Provide examples of unit pricing to illustrate how to find the best value."
-                        },
-                        {
-                            "id": 45,
-                            "topicTitle": "Adding Up: Totals of Complex Shop Bills: Advanced Shop Bill Calculations",
-                            "topicContent": "Present more complex shop bills with multiple items and varying quantities.Guide students in calculating the total cost using the unitary method."
-                        },
-                        {
-                            "id": 46,
-                            "topicTitle": "Grocery Shopping Adventures: Applying Value for Money Skills",
-                            "topicContent": "Present a virtual grocery shopping activity with different products and prices.Have students practice comparing value for money and making cost-effective choices."
-                        },
-                        {
-                            "id": 47,
-                            "topicTitle": "Comparing Services: Rates and Savings: Time for Math Adventures",
-                            "topicContent": "Explore scenarios involving services with hourly or daily rates, such as tutoring or gardening.Guide students in calculating the total cost and comparing value for money"
-                  },
-                {
-                            "id": 48,
-                            "topicTitle": "Bargain Hunting: Identifying Sale Savings Using Unit Pricing",
-                            "topicContent": "Present scenarios where products are on sale with reduced prices.Teach students to calculate the savings and compare sale prices using the unitary method."
-                        },
-                        {
-                            "id": 49,
                             "topicTitle": "Real-Life Financial Decisions: From Shopping to Earnings",
-                            "topicContent": "Integrate different aspects of money, such as comparing shopping options and calculating earnings.Encourage students to apply unitary method skills to real-life financial scenarios."
+                            "topicContent": "Integrate different aspects of money, such as comparing shopping options and calculating earnings.Encourage students to apply unitary method skills to real-life financial scenarios.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b21e1be0c4c4/4e5844d288670931/1080.mp4"
                         }
                     ]
                 },
@@ -291,8 +81,8 @@
                     {
                       "id": 3,
                       "content": "A watermelon weighs 6 kilograms and a pineapple weighs 1.5 kilograms. How much heavier is the watermelon?",
-                      "correctIndex": 0,
-                      "answers": ["4.5 kilograms", "45 kilograms", "450 grams", "2.5 kilograms"]
+                      "correctIndex": 2,
+                      "answers": ["4.4 kilograms", "45 kilograms", "4500 grams", "2.5 kilograms"]
                     },
                     {
                       "id": 4,
@@ -304,7 +94,7 @@
                       "id": 5,
                       "content": "A swimming pool can hold 100,000 liters of water and a bathtub can hold 150 liters of water. How much more water can the swimming pool hold?",
                       "correctIndex": 1,
-                      "answers": ["99,85 liters", "99,850 liters", "15,000 liters", "150,000 liters"]
+                      "answers": ["99,855 liters", "99,850 liters", "15,000 liters", "150,000 liters"]
                     },
                     {
                       "id": 6,
@@ -351,8 +141,8 @@
                     {
                       "id": 13,
                       "content": "If a movie starts at 7:30 PM and lasts for 2 hours and 45 minutes, at what time does the movie end?",
-                      "correctIndex": 1,
-                      "answers": ["10:10 PM", "10:15 AM", "10:45 PM", "10:00 PM"]
+                      "correctIndex": 0,
+                      "answers": ["10:15 PM", "10:15 AM", "10:45 PM", "10:00 PM"]
                     },
                     {
                       "id": 14,
@@ -375,8 +165,8 @@
                     },
                     {
                       "id": 17,
-                      "content": "You have €40 in coins: You spend 15 coins of €1 each and 10 coins of €2 each. How much money do you have left?",
-                      "correctIndex": 2,
+                      "content": "You have €40 in coins: You spend 16 coins of €1 each and 10 coins of €2 each. How much money do you have left?",
+                      "correctIndex": 3,
                       "answers": ["€6", "€10", "€5", "€4"]
                     },
                     {
@@ -389,7 +179,7 @@
                       "id": 19,
                       "content": "If a play starts at 2:15 PM and lasts for 1 hour and 50 minutes, at what time does the play end?",
                       "correctIndex": 1,
-                      "answers": ["4:07 PM", "4:05 AM", "3:45 PM", "3:30 PM"]
+                      "answers": ["4:07 PM", "4:05 PM", "3:45 PM", "3:30 PM"]
                     },
                     {
                       "id": 20,
@@ -412,8 +202,8 @@
                     {
                       "id": 23,
                       "content": "A box of books weighs 12 kilograms and a box of toys weighs 7.5 kilograms. How much heavier is the box of books?",
-                      "correctIndex": 0,
-                      "answers": ["4.5 kilograms", "45 kilograms", "4500 grams", "19.5 kilograms"]
+                      "correctIndex": 2,
+                      "answers": ["4.4 kilograms", "45 kilograms", "4500 grams", "19.5 kilograms"]
                     },
                     {
                       "id": 24,
@@ -430,7 +220,7 @@
                     {
                       "id": 26,
                       "content": "If a meeting starts at 11:30 AM and lasts for 2 hours and 15 minutes, at what time does the meeting end?",
-                      "correctIndex": 1,
+                      "correctIndex": 0,
                       "answers": ["1:45 PM", "1:45 AM", "12:45 PM", "12:15 PM"]
                     },
                     {
