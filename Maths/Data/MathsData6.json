@@ -8,57 +8,31 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
-                            "id": 0,
-                            "topicTitle": "Introduction to Pie Charts and Trend Graphs",
-                            "topicContent": "Introduce pie charts and trend graphs as advanced data representation methods.Explain their applications in representing data such as sales per month or rainfall per month.Discuss real-life examples and scenarios where pie charts and trend graphs are commonly used."
-                        },
+       
+             
                         {
-                            "id": 1,
-                            "topicTitle": "Creating and Interpreting Pie Charts",
-                            "topicContent": "Guide students in collecting data and creating accurate pie charts.Teach them to read and interpret pie charts, focusing on proportional representation.Provide examples related to demographics, preferences, or survey results."
+                            "id": 0,
+                            "topicTitle": "Constructing Trend Graphs",
+                            "topicContent": "Introduction to trend graphs and their use in representing trends over time.Discuss data sets such as height or weight in relation to age.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b21d1ce2c3f9/3f122f35f28600b7/1080.mp4"
                         },
+     
+                {
+                            "id": 1,
+                            "topicTitle": "Calculating and Comparing Averages",
+                            "topicContent": "Review the concept of averages and their significance.",
+                    "video": "https://api-files.sproutvideo.com/file/1190d0b21d1ce4c898/ee64eedefe5ef206/1080.mp4"                        },
+                       
+                        
                         {
                             "id": 2,
-                            "topicTitle": "Constructing Trend Graphs",
-                            "topicContent": "Introduce trend graphs and their use in representing trends over time.Discuss data sets such as height or weight in relation to age. Guide students in constructing trend graphs and understanding their significance."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Reading and Analyzing Trend Graphs",
-                            "topicContent": "Engage students in reading and analyzing trend graphs.Encourage discussions about the patterns and trends depicted in the graphs.Relate trend graph interpretation to real-world scenarios, such as population growth."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Compiling and Analyzing Complex Data Sets",
-                            "topicContent": "Teach students to compile and analyze complex data sets from various sources.Discuss the importance of data reliability and sources of error.Challenge students to analyze and draw conclusions from compiled data sets."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Calculating and Comparing Averages",
-                            "topicContent": "Review the concept of averages and their significance.Guide students in calculating averages from data sets. Encourage them to compare calculated averages with the most frequently occurring items in the data set."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Solving Practical Problems with Data Sets",
-                            "topicContent": "Present real-life scenarios involving data sets. Challenge students to solve problems using the data sets they've collected and analyzed. Focus on critical thinking and application of data analysis skills."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Probability and Simple Random Processes",
-                            "topicContent": "Introduce the concept of probability and its relevance in data analysis.Teach students to identify and list all possible outcomes of simple random processes. Engage them in discussions about rolling dice and selecting numbers randomly."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Calculating Probabilities",
-                            "topicContent": "Extend the understanding of probability to calculate the likelihood of different outcomes.Guide students in calculating probabilities for rolling two dice and calculating the total. Encourage them to explore different combinations and outcomes."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Applying Probability in Games and Scenarios",
-                            "topicContent": "Present games or scenarios where probability plays a role.Challenge students to calculate probabilities and make predictions.Encourage them to apply their knowledge of probability in real-life situations."
+                            "topicTitle": "Data Probability",
+                            "topicContent": "Extend the understanding of probability to calculate the likelihood of different outcomes.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b21d1ce8cb63/69dbf25e4ce19dad/1080.mp4" 
                         }
+                        
+                        
+                      
                     ]
                 },
       "test": {
@@ -69,7 +43,7 @@
           "questions": [
               {
                 "id": 0,
-                "content": "In a trend graph showing the population growth of a city over the past decade, the vertical axis represents the population, and the horizontal axis represents the years. What does the horizontal axis represent?",
+                "content": "In a trend graph showing the population growth of a city over the past decade, the y axis represents the population, and the x axis represents the years. What does the horizontal axis represent?",
                 "correctIndex": 1,
                 "answers": ["Number of years", "Years", "Population of the city", "Decades"]
               },
@@ -93,7 +67,7 @@
               },
               {
                 "id": 4,
-                "content": "A trend graph displays the change in the temperature of a city over a year. The vertical axis represents the temperature, and the horizontal axis represents the months. What does the vertical axis represent?",
+                "content": "A trend graph displays the change in the temperature of a city over a year. The y axis represents the temperature, and the x axis represents the months. What does the vertical axis represent?",
                 "correctIndex": 0,
                 "answers": ["Temperature", "Months", "Humidity", "Day of the week"]
               },
@@ -118,7 +92,7 @@
               {
                 "id": 8,
                 "content": "If you roll a fair number cube, what is the probability of rolling a prime number?",
-                "correctIndex": 1,
+                "correctIndex": 0,
                 "answers": ["1/2", "1/3", "1/6", "2/3"]
               },
               {
@@ -129,420 +103,397 @@
               },
               {
                 "id": 10,
-                "content": "A trend graph displays the change in the stock price of a company over a month. The vertical axis represents the stock price, and the horizontal axis represents the days. What does the horizontal axis represent?",
+                "content": "A trend graph displays the change in the stock price of a company over a month. The vertical axis represents the stock price, and the horizontal axis represents the days. What does the x axis represent?",
                 "correctIndex": 3,
                 "answers": ["Stock price", "Time of day", "Number of days", "Days"]
               },
               {
                 "id": 11,
-                "content": "If you roll two fair number dice, what is the probability of getting a sum greater than 9?",
-                "correctIndex": 0,
+                "content": "If you roll two fair six-sided dice, what is the probability of getting a sum greater than 9?",
+                "correctIndex": 1,
                 "answers": ["1/6", "5/36", "1/3", "1/4"]
               },
+
+            
               {
                 "id": 12,
-                "content": "A trend graph shows the fluctuation of ocean tides over 24 hours. What information does the graph convey?",
-                "correctIndex": 0,
-                "answers": ["Changes in tide levels over time", "Wave patterns on the ocean surface", "Temperature variations in the ocean", "Marine life activity"]
-              },
-              {
-                "id": 13,
                 "content": "You have a data set of test scores: 90, 88, 85, 90, and 84. What is the mode of the test scores?",
                 "correctIndex": 2,
                 "answers": ["85", "88", "90", "92"]
               },
               {
-                "id": 14,
+                "id": 13,
                 "content": "In a pie chart representing the distribution of hobbies, the 'Sports' sector covers 63°. What percentage of students enjoy sports as a hobby?",
                 "correctIndex": 3,
                 "answers": ["10%", "15%", "20%", "17.5%"]
               },
               {
-                "id": 15,
+                "id": 14,
                 "content": "You have a data set of the ages (in years) of students: 12, 13, 11, 14, and 12. What is the mean (average) age?",
                 "correctIndex": 2,
                 "answers": ["12", "13", "12.4", "13.4"]
               },
               {
-                "id": 16,
+                "id": 15,
                 "content": "A trend graph shows the monthly rainfall in a city over a year. What information does the graph convey?",
                 "correctIndex": 1,
                 "answers": ["Temperature variation in a month", "Average rainfall in a month", "Seasonal changes in the city's population", "Number of sunny days in a month"]
               },
               {
-                "id": 17,
+                "id": 16,
                 "content": "If you roll a fair number cube, what is the probability of rolling a number less than 5?",
                 "correctIndex": 2,
                 "answers": ["1/2", "1/3", "2/3", "1/4"]
               },
               {
-                "id": 18,
-                "content": "You have a data set of shoe sizes: 8, 9, 8, 7, and 9. What is the mode of the shoe sizes?",
+                "id": 17,
+                "content": "You have a data set of shoe sizes: 6, 9, 8, 7, and 9. What is the mode of the shoe sizes?",
                 "correctIndex": 1,
                 "answers": ["7", "9", "8", "8.5"]
               },
               {
-                "id": 19,
-                "content": "In a pie chart representing favorite colors, the 'Blue' sector covers 45°. What percentage of students chose blue as their favorite color?",
-                "correctIndex": 0,
-                "answers": ["12.5%", "15%", "18%", "20%"]
+                "id": 18,
+                "content": "In a pie chart representing favorite colors, the 'Blue' sector covers 60°. What percentage of students chose blue as their favorite color?",
+                "correctIndex": 3,
+                "answers": ["12.5%", "15%", "18%", "16.6%"]
               },
               {
-                  "id": 20,
-                  "content": "A pie chart represents the distribution of ice cream flavors among students. The 'Chocolate' sector covers 45%. What percentage of students chose Chocolate ice cream?",
+                  "id": 19,
+                  "content": "A pie chart represents the distribution of ice cream flavors among students. The 'Chocolate' sector covers 45 degrees. What percentage of students chose Chocolate ice cream?",
                   "correctIndex": 2,
-                  "answers": ["30%", "40%", "45%", "50%"]
+                  "answers": ["30%", "40%", "12.5%", "50%"]
                 },
                 {
-                  "id": 21,
+                  "id": 20,
                   "content": "You have a data set of ages: 12, 14, 13, 12, and 15. What is the median of the ages?",
                   "correctIndex": 1,
                   "answers": ["12", "13", "13.5", "14"]
                 },
                 {
-                  "id": 22,
-                  "content": "In a trend graph showing the number of books read by a student each month, the vertical axis represents the number of books, and the horizontal axis represents the months. What does the horizontal axis represent?",
+                  "id": 21,
+                  "content": "In a trend graph showing the number of books read by a student each month, the vertical axis represents the number of books, and the horizontal axis represents the months. What does the x axis represent?",
                   "correctIndex": 1,
                   "answers": ["Number of books", "Months", "Age of the student", "Time of day"]
                 },
                 {
-                  "id": 23,
-                  "content": "If you flip a coin and roll a fair number cube, how many equally likely outcomes are possible?",
-                  "correctIndex": 1,
-                  "answers": ["12", "6", "2", "18"]
+                  "id": 22,
+                  "content": "If you flip three coins and roll a fair number cube, how many equally likely outcomes are possible?",
+                  "correctIndex": 2,
+                  "answers": ["12", "6", "48", "38"]
                 },
                 {
-                  "id": 24,
+                  "id": 23,
                   "content": "You have a data set of test scores: 82, 88, 85, 90, and 84. What is the mean (average) of the test scores?",
                   "correctIndex": 2,
                   "answers": ["82", "85", "85.8", "88"]
                 },
+             
                 {
-                  "id": 25,
-                  "content": "A trend graph shows the change in the number of sunny days in a month over the course of a year. What information does the graph convey?",
-                  "correctIndex": 2,
-                  "answers": ["Temperature variation in a month", "Average rainfall in a month", "Monthly weather pattern changes", "Number of daylight hours in a month"]
-                },
-                {
-                  "id": 26,
+                  "id": 24,
                   "content": "If you roll a fair number cube, what is the probability of rolling an even number?",
                   "correctIndex": 0,
                   "answers": ["1/2", "1/3", "1/6", "2/3"]
                 },
                 {
-                  "id": 27,
+                  "id": 25,
                   "content": "You have a data set of the heights (in cm) of students: 142, 134, 150, 138, and 144. What is the range of the heights?",
                   "correctIndex": 2,
                   "answers": ["8", "6", "16", "12"]
                 },
                 {
-                  "id": 28,
+                  "id": 26,
                   "content": "In a pie chart representing favorite colors, the 'Blue' sector covers 36°. What percentage of students chose blue as their favorite color?",
                   "correctIndex": 0,
                   "answers": ["10%", "20%", "25%", "15%"]
                 },
                 {
-                  "id": 29,
+                  "id": 27,
                   "content": "You have a data set of favorite fruits: Apple, Banana, Orange, Apple, and Banana. What is the mode of the data?",
                   "correctIndex": 1,
                   "answers": ["Bannana", "Apple", "Orange", "None of the above"]
                 },
                 {
-                  "id": 30,
-                  "content": "A trend graph displays the number of hours spent studying per week over 10 weeks. The vertical axis represents the hours studied, and the horizontal axis represents the weeks. What does the vertical axis represent?",
+                  "id": 28,
+                  "content": "A trend graph displays the number of hours spent studying per week over 10 weeks. The vertical axis represents the hours studied, and the horizontal axis represents the weeks. What does the y axis represent?",
                   "correctIndex": 0,
                   "answers": ["Number of hours studied", "Weeks", "Age of the student", "Time of day"]
                 },
                 {
-                  "id": 31,
+                  "id": 29,
                   "content": "If you flip two coins and roll a fair number cube, how many equally likely outcomes are possible?",
                   "correctIndex": 2,
                   "answers": ["12", "8", "24", "16"]
                 },
                 {
-                  "id": 32,
+                  "id": 30,
                   "content": "A trend graph shows the growth of a plant's height over 6 months. What information can be derived from the graph?",
                   "correctIndex": 0,
                   "answers": ["Plant's height over time", "Plant's root structure", "Number of leaves on the plant", "Seasonal changes in the plant's color"]
                 },
                 {
-                  "id": 33,
+                  "id": 31,
                   "content": "You have a data set of test scores: 85, 88, 90, 84, and 92. What is the median of the test scores?",
                   "correctIndex": 1,
                   "answers": ["85", "88", "90", "89"]
                 },
                 {
-                  "id": 34,
-                  "content": "In a pie chart representing the distribution of pets owned by students, the 'Cats' sector covers 36°. What percentage of students own cats?",
-                  "correctIndex": 1,
-                  "answers": ["15%", "10%", "25%", "20%"]
+                  "id": 32,
+                  "content": "In a pie chart representing the distribution of pets owned by students, the 'Cats' sector covers 108°. What percentage of students own cats?",
+                  "correctIndex": 0,
+                  "answers": ["30%", "10%", "25%", "20%"]
                 },
                 {
-                  "id": 35,
+                  "id": 33,
                   "content": "You have a data set of the weights (in kg) of students: 38, 40, 42, 39, and 41. What is the mean (average) weight?",
                   "correctIndex": 1,
                   "answers": ["38", "40", "40.6", "42"]
                 },
+            
                 {
-                  "id": 36,
-                  "content": "A trend graph shows the change in the number of rainy days in a month over a year. What information does the graph convey?",
-                  "correctIndex": 2,
-                  "answers": ["Temperature variation in a month", "Average rainfall in a month", "Monthly weather pattern changes", "Number of sunny days in a month"]
-                },
-                {
-                  "id": 37,
+                  "id": 34,
                   "content": "If you flip a coin and roll a fair number cube, what is the probability of landing on a head and an even number?",
                   "correctIndex": 1,
                   "answers": ["1/6", "1/4", "1/3", "1/2"]
                 },
                 {
-                  "id": 38,
+                  "id": 35,
                   "content": "You have a data set of the heights (in cm) of students: 139, 122, 147, 170, and 110. What is the range of the heights?",
                   "correctIndex": 3,
                   "answers": ["6", "80", "40", "60"]
                 },
                 {
-                  "id": 39,
+                  "id": 36,
                   "content": "In a pie chart representing favorite hobbies, the 'Reading' sector covers 72°. What percentage of students enjoy reading as a hobby?",
                   "correctIndex": 3,
                   "answers": ["15%", "10%", "25%", "20%"]
                 },
                 {
-                   "id": 40,
-                   "content": "In a trend graph showing the sales of a product over the last six months, the vertical axis represents the sales revenue, and the horizontal axis represents the months. What does the vertical axis represent?",
+                   "id": 37,
+                   "content": "In a trend graph showing the sales of a product over the last six months, the vertical axis represents the sales revenue, and the horizontal axis represents the months. What does the y axis represent?",
                    "correctIndex": 0,
                    "answers": ["Sales revenue", "Months", "Number of products sold", "Days"]
                  },
                  {
-                   "id": 41,
+                   "id": 38,
                    "content": "You have a data set of test scores: 85, 90, 88, 92, and 84. What is the median test score?",
                    "correctIndex": 2,
                    "answers": ["85", "88", "90", "92"]
                  },
                  {
-                   "id": 42,
+                   "id": 39,
                    "content": "A pie chart represents the distribution of favorite ice cream flavors among students. The 'Chocolate' sector covers 40%. What percentage of students did not choose chocolate as their favorite flavor?",
                    "correctIndex": 2,
                    "answers": ["20%", "25%", "60%", "35%"]
                  },
                  {
-                   "id": 43,
+                   "id": 40,
                    "content": "You have a data set of ages: 12, 13, 12, 14, and 15. What is the mean (average) age?",
                    "correctIndex": 3,
                    "answers": ["12", "13", "14", "13.2"]
                  },
                  {
-                   "id": 44,
+                   "id": 41,
                    "content": "A trend graph displays the change in the stock price of a company over a year. What information can be derived from the graph?",
                    "correctIndex": 2,
                    "answers": ["The stock market's opening times", "The daily high and low prices", "The fluctuation in stock price over time", "The number of company employees"]
                  },
                  {
-                   "id": 45,
-                   "content": "If you flip two coins and roll a fair number cube, what is the probability of getting at least one head on the coin flips and rolling an even number?",
-                   "correctIndex": 1,
-                   "answers": ["1/4", "7/8", "3/4", "1/8"]
+                   "id": 42,
+                   "content": "If you flip two coins and roll two fair number cube, what is the probability of getting at least one head on the coin flips and rolling an even number?",
+                   "correctIndex": 2,
+                   "answers": ["1/4", "7/8", "3/16", "1/8"]
                  },
                  {
-                   "id": 46,
+                   "id": 43,
                    "content": "You have a data set of shoe sizes: 7, 8, 9, 8, and 7. What is the mode of the shoe sizes?",
-                   "correctIndex": 0,
-                   "answers": ["7", "8", "9", "7.5"]
+                   "correctIndex": 1,
+                   "answers": ["7 and 8", "9", "7.5", "6"]
                  },
+
                  {
-                   "id": 47,
+                   "id": 44,
                    "content": "A trend graph shows the average temperature in a city over a year. What information does the graph convey?",
                    "correctIndex": 1,
                    "answers": ["The highest temperature recorded in a year", "Temperature trends throughout the year", "Average rainfall in a year", "The length of each day in a year"]
                  },
                  {
-                   "id": 48,
+                   "id": 45,
                    "content": "If you roll a fair number cube, what is the probability of rolling a multiple of 3?",
                    "correctIndex": 0,
                    "answers": ["1/3", "1/6", "1/2", "2/3"]
                  },
                  {
-                   "id": 49,
+                   "id": 46,
                    "content": "You have a data set of test scores: 92, 90, 84, 88, and 85. What is the median test score?",
                    "correctIndex": 1,
                    "answers": ["85", "88", "90", "92"]
                  },
                  {
-                   "id": 50,
-                   "content": "In a trend graph representing the attendance at a concert over a week, the vertical axis represents the attendance, and the horizontal axis represents the days. What does the horizontal axis represent?",
+                   "id": 47,
+                   "content": "In a trend graph representing the attendance at a concert over a week, the vertical axis represents the attendance, and the horizontal axis represents the days. What does the x axis represent?",
                    "correctIndex": 2,
                    "answers": ["Attendance", "Concert venue", "Days", "Months"]
                  },
                  {
-                   "id": 51,
+                   "id": 48,
                    "content": "If you roll two fair number cubes, what is the probability of getting a sum less than 4?",
-                   "correctIndex": 3,
+                   "correctIndex": 1,
                    "answers": ["1/6", "1/18", "1/9", "1/12"]
                  },
                  {
-                   "id": 52,
+                   "id": 49,
                    "content": "A trend graph shows the number of books borrowed from a library over a year. What information does the graph convey?",
                    "correctIndex": 0,
                    "answers": ["Trends in book borrowing over the year", "The library's opening hours", "The number of books available in the library", "Average time spent reading each book"]
                  },
                  {
-                   "id": 53,
+                   "id": 50,
                    "content": "You have a data set of heights (in cm) of students: 140, 138, 142, 136, and 144. What is the range of the heights?",
                    "correctIndex": 2,
                    "answers": ["4", "6", "8", "10"]
                  },
                  {
-                   "id": 54,
-                   "content": "In a pie chart representing the distribution of favorite genres of music, the 'Pop' sector covers 36°. What percentage of students prefer pop music?",
+                   "id": 51,
+                   "content": "In a pie chart representing the distribution of favorite genres of music, the 'Pop' sector covers 320°. What percentage of students prefer pop music?",
                    "correctIndex": 1,
-                   "answers": ["15%", "10%", "20%", "25%"]
+                   "answers": ["95%", "89%", "70%", "25%"]
                  },
                  {
-                   "id": 55,
+                   "id": 52,
                    "content": "You have a data set of test scores: 88, 84, 90, 84, and 92. What is the mode of the test scores?",
                    "correctIndex": 2,
                    "answers": ["85", "88", "84", "92"]
                  },
                  {
-                   "id": 56,
+                   "id": 53,
                    "content": "A trend graph shows the fluctuation of stock prices for a company over a week. What information can be derived from the graph?",
                    "correctIndex": 0,
                    "answers": ["Changes in stock prices over the week", "The company's annual revenue", "The number of employees in the company", "The company's global reach"]
                  },
                  {
-                   "id": 57,
+                   "id": 54,
                    "content": "If you draw a card at random from a standard deck of playing cards, what is the probability of drawing a heart?",
                    "correctIndex": 2,
                    "answers": ["1/13", "3/13", "1/4", "1/2"]
                  },
                  {
-                   "id": 58,
+                   "id": 55,
                    "content": "You have a data set of ages: 12, 13, 14, 11, and 15. What is the mean (average) age?",
                    "correctIndex": 3,
-                   "answers": ["12", "13", "14", "13"]
+                   "answers": ["12", "11", "14", "13"]
+                 },
+           
+                 {
+                   "id": 56,
+                   "content": "A pie chart represents the distribution of students' favorite subjects. The 'Math' sector covers 144°. What percentage of students prefer Math?",
+                   "correctIndex": 3,
+                   "answers": ["10%", "35%", "38%", "40%"]
                  },
                  {
-                   "id": 59,
-                   "content": "A trend graph shows the change in the number of visitors to a museum over a year. What information does the graph convey?",
-                   "correctIndex": 1,
-                   "answers": ["The number of museum staff members", "Trends in museum visitation throughout the year", "The average time visitors spend in the museum", "The number of artworks in the museum"]
-                 },
-                 {
-                   "id": 60,
-                   "content": "A pie chart represents the distribution of students' favorite subjects. The 'Math' sector covers 36°. What percentage of students prefer Math?",
-                   "correctIndex": 0,
-                   "answers": ["10%", "15%", "18%", "20%"]
-                 },
-                 {
-                   "id": 61,
+                   "id": 57,
                    "content": "You have a data set of test scores: 85, 92, 88, 90, and 84. What is the median test score?",
                    "correctIndex": 1,
                    "answers": ["85", "88", "90", "92"]
                  },
                  {
-                   "id": 62,
-                   "content": "In a trend graph representing the population growth of a city over the past decade, the vertical axis represents the population, and the horizontal axis represents the years. What does the horizontal axis represent?",
+                   "id": 58,
+                   "content": "In a trend graph representing the population growth of a city over the past decade, the vertical axis represents the population, and the horizontal axis represents the years. What does the x axis represent?",
                    "correctIndex": 2,
                    "answers": ["Population", "City name", "Years", "Months"]
                  },
                  {
-                   "id": 63,
+                   "id": 59,
                    "content": "A trend graph displays the number of books read by a student over the months of a year. What information does the graph convey?",
                    "correctIndex": 1,
                    "answers": ["The total number of books in the library", "Reading habits over the months", "The length of each book", "The student's favorite book genre"]
                  },
                  {
-                   "id": 64,
+                   "id": 60,
                    "content": "If you roll a fair number cube, what is the probability of rolling an odd number?",
                    "correctIndex": 1,
                    "answers": ["1/6", "1/2", "2/3", "1/3"]
                  },
                  {
-                   "id": 65,
+                   "id": 61,
                    "content": "You have a data set of heights (in cm) of students: 142, 136, 144, 140, and 138. What is the range of the heights?",
                    "correctIndex": 2,
                    "answers": ["4", "6", "8", "10"]
                  },
                  {
-                   "id": 66,
-                   "content": "In a trend graph showing the temperature change throughout a day, the vertical axis represents the temperature, and the horizontal axis represents the hours. What does the vertical axis represent?",
+                   "id": 62,
+                   "content": "In a trend graph showing the temperature change throughout a day, the vertical axis represents the temperature, and the horizontal axis represents the hours. What does the y axis represent?",
                    "correctIndex": 0,
                    "answers": ["Temperature", "Hours", "Days", "Months"]
                  },
                  {
-                   "id": 67,
+                   "id": 63,
                    "content": "A trend graph represents the change in the number of cars passing through a toll booth over the hours of a day. What information does the graph convey?",
                    "correctIndex": 2,
                    "answers": ["The number of toll booths at the plaza", "The toll prices for different vehicles", "Traffic patterns throughout the day", "The distance between toll booths"]
                  },
                  {
-                   "id": 68,
-                   "content": "You have a data set of test scores: 88, 90, 92, 88, and 85. What is the mode of the test scores?",
-                   "correctIndex": 1,
-                   "answers": ["85", "88", "90", "92"]
+                   "id": 64,
+                   "content": "You have a data set of test scores: 98, 80, 102, 98, and 89. What is the mode of the test scores?",
+                   "correctIndex": 3,
+                   "answers": ["85", "88", "90", "98"]
                  },
                  {
-                   "id": 69,
+                   "id": 65,
                    "content": "If you draw a card at random from a standard deck of playing cards, what is the probability of drawing a red card?",
                    "correctIndex": 1,
                    "answers": ["1/13", "1/2", "1/4", "2/3"]
                  },
                  {
-                   "id": 70,
+                   "id": 66,
                    "content": "A trend graph displays the growth of a plant's height over a month. What information does the graph convey?",
                    "correctIndex": 0,
                    "answers": ["Plant height changes over the month", "Daily weather patterns", "The number of leaves on the plant", "The plant's preferred sunlight exposure"]
                  },
                  {
-                   "id": 71,
+                   "id": 67,
                    "content": "If you flip a fair coin and roll a fair number cube, what is the probability of getting tails on the coin flip and rolling an even number?",
                    "correctIndex": 0,
                    "answers": ["1/4", "1/3", "1/2", "2/3"]
                  },
                  {
-                   "id": 72,
+                   "id": 68,
                    "content": "A trend graph represents the attendance at a theme park over the hours of a day. What information does the graph convey?",
                    "correctIndex": 2,
                    "answers": ["The number of rides at the theme park", "The theme park's annual revenue", "Attendance patterns throughout the day", "The number of employees at the theme park"]
                  },
                  {
-                   "id": 73,
+                   "id": 69,
                    "content": "You have a data set of ages: 14, 12, 13, 12, and 15. What is the mean (average) age?",
                    "correctIndex": 3,
                    "answers": ["12", "13", "14", "13.2"]
                  },
                  {
-                   "id": 74,
-                   "content": "In a pie chart representing the distribution of students' hobbies, the 'Sports' sector covers 20%. What percentage of students did not  have sports as their hobby?",
-                   "correctIndex": 0,
-                   "answers": ["80%", "15%", "90%", "75%"]
+                   "id": 70,
+                   "content": "In a pie chart representing the distribution of students' hobbies, the 'Sports' sector covers 18 degrees. What percentage of students did not  have sports as their hobby?",
+                   "correctIndex": 3,
+                   "answers": ["80%", "15%", "90%", "5%"]
                  },
+            
                  {
-                   "id": 75,
-                   "content": "A trend graph shows the variation in temperature throughout a week. What information can be derived from the graph?",
-                   "correctIndex": 1,
-                   "answers": ["The number of days in a week", "Temperature changes over the week", "The amount of rainfall during the week", "The average humidity level during the week"]
-                 },
-                 {
-                   "id": 76,
+                   "id": 71,
                    "content": "You have a data set of test scores: 84, 85, 92, 88, and 90. What is the median test score?",
-                   "correctIndex": 2,
+                   "correctIndex":1,
                    "answers": ["85", "88", "90", "92"]
                  },
                  {
-                   "id": 77,
+                   "id": 72,
                    "content": "If you roll two fair number cubes, what is the probability of getting a sum of 7?",
                    "correctIndex": 0,
                    "answers": ["1/6", "1/12", "1/18", "1/36"]
                  },
                  {
-                   "id": 78,
+                   "id": 73,
                    "content": "A trend graph displays the change in the number of website visits over a month. What information does the graph convey?",
                    "correctIndex": 1,
                    "answers": ["The most popular websites", "Website traffic trends throughout the month", "The number of web developers", "The number of ads on websites"]
                  },
                  {
-                   "id": 79,
+                   "id": 74,
                    "content": "You have a data set of heights (in cm) of students: 132, 138, 140, 142, and 140. What is the mode of the heights?",
                    "correctIndex": 2,
                    "answers": ["132", "138", "140", "142"]
