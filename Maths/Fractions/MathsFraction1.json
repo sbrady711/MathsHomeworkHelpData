@@ -1,0 +1,284 @@
+
+[
+    {
+        "id": 0,
+        "category": "Number",
+        "description": "Strand units: Fractions",
+      "content": {
+          "id": 0,
+      "teaching": [
+      
+                        {
+                            "id": 0,
+                            "topicTitle": "Discovering Fractions",
+                            "topicContent": "Discover how to split a set of objects into two equal parts and Understand that quarters are smaller parts than halves.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b61316e9ce8f/5de2f17fb2b1a882/1080.mp4"
+                        },
+                      
+          
+             
+                {
+                            "id": 1,
+                            "topicTitle": "Dividing into Thirds",
+                            "topicContent": "Splitting Objects into Three Equal Parts. Learn about thirds, another fraction part and learn how to add fractions together.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b61317e4c025/58dcb4ad5e328a29/1080.mp4"
+                        },
+                   
+                    
+                        {
+                            "id": 2,
+                            "topicTitle": "Making Fractions of Numbers",
+                            "topicContent": "Creating Fractions of Whole Numbers. Learn how to make fractions of whole numbers.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b61317e6c463/e123a933b91d159d/1080.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Exploring Mixed Fractions",
+                            "topicContent": "Discovering Mixed Fractions. Understand mixed fractions (e.g., 1 and ½) combining whole numbers and learn how to compare fractions with different denominators.Understand which fraction is greater or smaller.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b61215e0c725/816cbe35e8110908/1080.mp4"
+                        }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description":  "Put your Fractions knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "What does 'equal sharing' mean?",
+                "correctIndex": 2,
+                "answers": [
+                  "Sharing with friends",
+                  "Sharing unequally",
+                  "Sharing objects equally among friends",
+                  "Sharing with family"
+                ]
+              },
+              {
+                "id": 1,
+                "content": "What does 'half' mean?",
+                "correctIndex": 3,
+                "answers": [
+                  "One-fourth of a whole",
+                  "Three-fourths of a whole",
+                  "One-third of a whole",
+                  "One of two equal parts"
+                ]
+              },
+              {
+                "id": 2,
+                "content": "If you have two halves, what do you have?",
+                "correctIndex": 0,
+                "answers": [
+                  "A whole",
+                  "Two wholes",
+                  "A quarter",
+                  "A third"
+                ]
+              },
+              {
+                "id": 3,
+                "content": "What is a 'quarter'?",
+                "correctIndex": 0,
+                "answers": [
+                  "A one part of four",
+                  "A larger part than a half",
+                  "A whole",
+                  "A third"
+                ]
+              },
+              {
+                "id": 4,
+                "content": "How can you split a set of objects into four equal parts?",
+                "correctIndex": 2,
+                "answers": [
+                  "By taking one-third each time",
+                  "By taking one-half each time",
+                  "By taking one-quarter each time",
+                  "By taking two-thirds each time"
+                ]
+              },
+              {
+                "id": 5,
+                "content": "What is the relationship between halves and quarters?",
+                "correctIndex": 2,
+                "answers": [
+                  "Halves are smaller than quarters",
+                  "Quarters are twice as big as halves",
+                  "Two quarters make a half",
+                  "Quarters and halves are the same"
+                ]
+              },
+              {
+                "id": 6,
+                "content": "What does 'mixing fractions' mean?",
+                "correctIndex": 1,
+                "answers": [
+                  "Keeping fractions separate",
+                  "Combining fraction values",
+                  "Dividing fractions",
+                  "Comparing fractions"
+                ]
+              },
+              
+              {
+                "id": 7,
+                "content": "What do you practice in 'Sharing and Dividing'?",
+                "correctIndex": 3,
+                "answers": [
+                  "Adding fractions",
+                  "Comparing fractions",
+                  "Multiplying fractions",
+                  "Dividing objects into equal parts beyond halves and quarters"
+                ]
+              },
+              {
+                "id": 8,
+                "content": "What does 'dividing into thirds' mean?",
+                "correctIndex": 2,
+                "answers": [
+                  "Dividing into halves",
+                  "Dividing into quarters",
+                  "Splitting objects into three equal parts",
+                  "Dividing into unequal parts"
+                ]
+              },
+              {
+                "id": 9,
+                "content": "How do you find one-third of a set of objects?",
+                "correctIndex": 3,
+                "answers": [
+                  "By taking all of them",
+                  "By taking two-thirds",
+                  "By taking one-fourth",
+                  "By taking one-third"
+                ]
+              },
+          
+              {
+                "id": 10,
+                "content": "What are 'mixed fractions'?",
+                "correctIndex": 3,
+                "answers": [
+                  "Fractions that are mixed up",
+                  "Fractions that are the same",
+                  "Fractions with big numerators",
+                  "Fractions combining whole numbers and parts"
+                ]
+              },
+              {
+                "id": 11,
+                "content": "What do you learn in 'Comparing Fractions'?",
+                "correctIndex": 2,
+                "answers": [
+                  "Adding fractions",
+                  "Dividing fractions",
+                  "How to compare fractions with different denominators",
+                  "Multiplying fractions"
+                ]
+              },
+              {
+                "id": 12,
+                "content": "How can you subtract fractions with the same denominators?",
+                "correctIndex": 0,
+                "answers": [
+                  "Subtract the numerators and keep the same denominator",
+                  "Subtract the denominators and keep the same numerator",
+                  "Add the numerators and keep the same denominator",
+                  "Add the denominators and keep the same numerator"
+                ]
+              },
+              {
+                "id": 13,
+                "content": "What are 'equivalent fractions'?",
+                "correctIndex": 1,
+                "answers": [
+                  "Fractions that are different",
+                  "Fractions that have the same value",
+                  "Fractions with big numerators",
+                  "Fractions with big denominators"
+                ]
+              },
+             
+               {
+                 "id": 14,
+                 "content": "When you split a set of objects into two equal parts, what do you find?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "One-third of the set",
+                   "Half of the set",
+                   "One-fourth of the set",
+                   "Three-fourths of the set"
+                 ]
+               },
+               
+               {
+                 "id": 15,
+                 "content": "What does 'quarters' mean?",
+                 "correctIndex": 0,
+                 "answers": [
+                   " 4 Smaller parts than 2 halves",
+                   "Larger parts than halves",
+                   "A whole",
+                   "Thirds"
+                 ]
+               },
+               {
+                 "id": 16,
+                 "content": "How do you find quarters of a set of objects?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "By taking one-third each time",
+                   "By taking one-half each time",
+                   "By taking one-quarter each time",
+                   "By taking two-thirds each time"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "What relationship do halves and quarters have?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Halves are smaller than quarters",
+                   "Quarters are twice as big as halves",
+                   "Two quarters equal one half",
+                   "Quarters and halves are the same"
+                 ]
+               },
+ 
+    
+               {
+                 "id": 18,
+                 "content": "What does 'dividing into thirds' mean?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Dividing into halves",
+                   "Dividing into quarters",
+                   "Splitting objects into three equal parts",
+                   "Dividing into unequal parts"
+                 ]
+               },
+
+
+                {
+                  "id": 19,
+                  "content": "When you combine two halves of an object, what do you get?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "A whole object",
+                    "Two quarters of the object",
+                    "One-third of the object",
+                    "A half object"
+                  ]
+    }
+              
+              
+              
+          ]
+      }
+       
+    }
+
+]
