@@ -9,55 +9,31 @@
           {
                             "id": 0,
                             "topicTitle": "Discovering Patterns on the Hundred Square",
-                            "topicContent": "Introduce the concept of patterns to students.Explore counting on the hundred square, starting from different numbers and adding the same value."
+                            "topicContent": "Introduce the concept of patterns to students.Explore counting on the hundred square, starting from different numbers and adding the same value.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b71818e5c425/e52eedbe6f2442b1/1080.mp4"
                         },
                         {
                             "id": 1,
                             "topicTitle": "Counting and Predicting Numbers: Adding by Fives",
-                            "topicContent": "Teach students to count on the hundred square by fives.Demonstrate patterns such as starting on 2 and counting by 5 to predict the next numbers."
+                            "topicContent": "Count patterns such as starting on 2 and counting by 5 to predict the next numbers.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b71818eccb63/93d65b555b6abb61/1080.mp4"
                         },
+                      
                         {
                             "id": 2,
-                            "topicTitle": "Exploring Odd and Even Number Patterns",
-                            "topicContent": "Extend pattern exploration to odd and even numbers on the hundred square.Engage students in discussing and identifying these patterns visually."
+                            "topicTitle": "Group Counting in Threes, Fours, and Sixes: Discovering Multiples",
+                            "topicContent": "Introduce group counting in multiples of threes, fours, and sixes.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b71819e3c42e/f07c6efa2864dafd/1080.mp4"
                         },
+          
+                      
                         {
                             "id": 3,
-                            "topicTitle": "Group Counting in Threes, Fours, and Sixes: Discovering Multiples",
-                            "topicContent": "Introduce group counting in multiples of threes, fours, and sixes.Encourage students to identify the results and discuss the patterns."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Patterns in Addition Facts: Making Tens",
-                            "topicContent": "Guide students to recognize patterns in addition facts.Show examples like 7 + 3 = 10, 12 + 8 = 20, emphasizing the pattern of making tens."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Using Frames to Represent Unknown Numbers: Introducing the Unknown",
-                            "topicContent": "Introduce the concept of using a frame to represent an unknown number in equations.Provide examples like 24 + 6 = ■ and 14 + ■ = 20 to demonstrate the presence of an unknown."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Solving Equations with Unknowns: Determining the Missing Value",
-                            "topicContent": "Engage students in solving equations with frames representing unknown values."
-                        },
-                        {
-                            "id": 7,
                             "topicTitle": "Adding to Find Unknowns: Using Equations with Frames",
-                            "topicContent": "Present equations with missing values and encourage students to solve for the unknown.Show equations like 2 + 4 + ■ = 12 and guide students to determine the value of the unknown."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Creating Pattern-Based Equations: Student-Generated Equations",
-                            "topicContent": "Have students create their own equations based on patterns and unknowns. Use manipulatives or drawings to represent the equations they create."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Algebraic Patterns and Equations Review: Summing It Up",
-                            "topicContent": "Review the concepts of patterns, predicting numbers, odd and even numbers, and using frames for unknowns.Engage students in various activities that reinforce these concepts and their connections to algebraic thinking."
-                            
-                        }                    ]
+                            "topicContent": "Solve for the unknown. 2 + 4 + ■ = 12. Determine the value of the unknown.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b71816e9c7f0/6933f7c481c3365e/1080.mp4"
+                        }
+]
                 },
            
            "test": {
@@ -116,7 +92,7 @@
                        "correctIndex": 2,
                        "answers": [
                          "Adding 2 each time",
-                         "Adding 3 each time",
+                         "Adding 1 each time",
                          "Adding 3 each time",
                          "Adding 4 each time"
                        ]
@@ -124,7 +100,7 @@
                      {
                        "id": 5,
                        "content": "Solve the equation: ■ + 8 = 24. What number should replace the frame?",
-                       "correctIndex": 3,
+                       "correctIndex": 2,
                        "answers": [
                          "10",
                          "14",
@@ -615,328 +591,7 @@
                            "35",
                            "20"
                          ]
-                       },
-                       {
-                         "id": 50,
-                         "content": "What do you notice about the difference between any two consecutive multiples of 3?",
-                         "correctIndex": 2,
-                         "answers": [
-                           "It's always 1.",
-                           "It's always 2.",
-                           "It equals another multiple of 3.",
-                           "It's always 5."
-                         ]
-                       },
-                       {
-                         "id": 51,
-                         "content": "Solve the equation: ■ + 4 = 10.",
-                         "correctIndex": 0,
-                         "answers": [
-                           "6",
-                           "7",
-                           "9",
-                           "14"
-                         ]
-                       },
-                       {
-                         "id": 52,
-                         "content": "How can counting patterns help you make predictions?",
-                         "correctIndex": 1,
-                         "answers": [
-                           "Counting patterns have no connection to predictions.",
-                           "Patterns help you figure out what comes next.",
-                           "Patterns can only be used in art.",
-                           "Predictions are never accurate."
-                         ]
-                       },
-                       {
-                         "id": 53,
-                         "content": "What is the result of adding an odd and an even number?",
-                         "correctIndex": 0,
-                         "answers": [
-                           "An odd number",
-                           "An even number",
-                           "A multiple of 2",
-                           "Another even or odd number"
-                         ]
-                       },
-                       {
-                         "id": 54,
-                         "content": "If you start at 10 and count in threes, what is the fourth number?",
-                         "correctIndex": 3,
-                         "answers": [
-                           "13",
-                           "15",
-                           "16",
-                           "22"
-                         ]
-                       },
-                 
-                       {
-                         "id": 55,
-                         "content": "If you subtract 5 from 18, what is the difference?",
-                         "correctIndex": 0,
-                         "answers": [
-                           "13",
-                           "14",
-                           "15",
-                           "20"
-                         ]
-                       },
-                       {
-                         "id": 56,
-                         "content": "What is the sum of the first three multiples of 4?",
-                         "correctIndex": 1,
-                         "answers": [
-                           "8",
-                           "24",
-                           "16",
-                           "20"
-                         ]
-                       },
-                       {
-                         "id": 57,
-                         "content": "In the equation: 6 + ■ = 18, what number should be in the frame?",
-                         "correctIndex": 1,
-                         "answers": [
-                           "9",
-                           "12",
-                           "14",
-                           "16"
-                         ]
-                       },
-                       {
-                         "id": 58,
-                         "content": "How do counting patterns relate to everyday situations?",
-                         "correctIndex": 0,
-                         "answers": [
-                           "Counting patterns help us predict outcomes and solve problems.",
-                           "Counting patterns are only useful in math class.",
-                           "Counting patterns have no connection to everyday life.",
-                           "Counting patterns are only useful in games."
-                         ]
-                       },
-                       {
-                          "id": 59,
-                          "content": "What comes after 34 when counting by fours?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "35",
-                            "38",
-                            "39",
-                            "40"
-                          ]
-                        },
-                        {
-                          "id": 60,
-                          "content": "Look at the pattern: 2, 4, 6, 8, ___. What is the missing number?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "9",
-                            "11",
-                            "12",
-                            "10"
-                          ]
-                        },
-                        {
-                          "id": 61,
-                          "content": "How can you use patterns to help you add?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "Patterns are not related to addition.",
-                            "By noticing how numbers increase in a regular way.",
-                            "Patterns only help with multiplication.",
-                            "Patterns can only be used in art."
-                          ]
-                        },
-                        {
-                          "id": 62,
-                          "content": "Complete the equation: 5 + ___ = 13.",
-                          "correctIndex": 0,
-                          "answers": [
-                            "8",
-                            "10",
-                            "12",
-                            "15"
-                          ]
-                        },
-                        {
-                          "id": 63,
-                          "content": "What comes after 17 when counting by threes?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "18",
-                            "20",
-                            "21",
-                            "23"
-                          ]
-                        },
-                        {
-                          "id": 64,
-                          "content": "If you start at 25 and count in fives, what is the fourth number?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "30",
-                            "35",
-                            "40",
-                            "45"
-                          ]
-                        },
-                        {
-                          "id": 65,
-                          "content": "What is the sum of the first four multiples of 6?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "12",
-                            "60",
-                            "24",
-                            "30"
-                          ]
-                        },
-                        {
-                          "id": 66,
-                          "content": "If you subtract 8 from 22, what is the difference?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "12",
-                            "14",
-                            "16",
-                            "18"
-                          ]
-                        },
-                        {
-                          "id": 67,
-                          "content": "What number can be added to 9 to make 17?",
-                          "correctIndex": 2,
-                          "answers": [
-                            "7",
-                            "10",
-                            "8",
-                            "15"
-                          ]
-                        },
-                        {
-                          "id": 68,
-                          "content": "What do you notice about the difference between any two consecutive multiples of 4?",
-                          "correctIndex": 0,
-                          "answers": [
-                            "It always equals another multiple of 4.",
-                            "It's always 6.",
-                            "It's always 8.",
-                            "It's always 10."
-                          ]
-                        },
-                        {
-                          "id": 69,
-                          "content": "What comes after 27 when counting by sixes?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "28",
-                            "30",
-                            "32",
-                            "33"
-                          ]
-                        },
-                        {
-                          "id": 70,
-                          "content": "Solve the equation: ■ + 7 = 16.",
-                          "correctIndex": 1,
-                          "answers": [
-                            "7",
-                            "9",
-                            "10",
-                            "12"
-                          ]
-                        },
-                        {
-                          "id": 71,
-                          "content": "What is the result of adding two even numbers?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "An odd number",
-                            "Another even number",
-                            "An odd or even number",
-                            "A prime number"
-                          ]
-                        },
-                        {
-                          "id": 72,
-                          "content": "What is the next odd number after 31?",
-                          "correctIndex": 2,
-                          "answers": [
-                            "32",
-                            "34",
-                            "33",
-                            "36"
-                          ]
-                        },
-                        {
-                          "id": 73,
-                          "content": "If you start at 12 and count in fours, what is the fourth number?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "16",
-                            "20",
-                            "24",
-                            "28"
-                          ]
-                        },
-                        {
-                          "id": 74,
-                          "content": "What is the sum of the first five multiples of 3?",
-                          "correctIndex": 1,
-                          "answers": [
-                            "9",
-                            "45",
-                            "18",
-                            "25"
-                          ]
-                        },
-                        {
-                          "id": 75,
-                          "content": "In the equation: 8 + ■ = 20, what number should be in the frame?",
-                          "correctIndex": 0,
-                          "answers": [
-                            "12",
-                            "15",
-                            "16",
-                            "18"
-                          ]
-                        },
-                        {
-                          "id": 76,
-                          "content": "How can algebraic patterns help you solve real-world problems?",
-                          "correctIndex": 0,
-                          "answers": [
-                            "By using patterns to make predictions and decisions.",
-                            "Algebraic patterns have no use in real life.",
-                            "Algebraic patterns are only for advanced math.",
-                            "Algebraic patterns are only useful for teachers."
-                          ]
-                        },
-                        {
-                          "id": 77,
-                          "content": "What number can you subtract from 19 to get 11?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "5",
-                            "6",
-                            "7",
-                            "8"
-                          ]
-                        },
-                        {
-                          "id": 78,
-                          "content": "If you start at 30 and count in fives, what is the sixth number?",
-                          "correctIndex": 3,
-                          "answers": [
-                            "32",
-                            "35",
-                            "40",
-                            "60"
-                          ]
-                        }
-                   
+                       }
                    
                    
                ]
