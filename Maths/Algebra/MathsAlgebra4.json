@@ -8,55 +8,31 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Exploring and Recognizing Number Patterns: Up to 9999",
-                            "topicContent": "Introduce students to number patterns within the range of 0 to 9999.Engage them in identifying and recording patterns in various number sequences."
+                            "topicTitle": "Exploring and Recognizing Number Patterns",
+                            "topicContent": "Introduction to identifying and recording patterns in various number sequences.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b51114e5c6c4/bc0ede4a873c44bd/1080.mp4"
+                            
                         },
-                        {
-                            "id": 1,
-                            "topicTitle": "Extending and Describing Complex Sequences: Beyond Basic Patterns",
-                            "topicContent": "Build on previous knowledge to explore more complex sequences.Guide students to extend and describe sequences that go beyond simple patterns."
-                        },
-                        {
+                  
+                  {
+                      "id": 1,
+                      "topicTitle": "Exploring and Discussing Solutions for Open Number Sentences: Inequalities Exploration",
+                      "topicContent": "Introduction to solutions for expressions like 3 + ■ < 7 or 5 + ■ > 8.",
+                      "video": "https://api-files.sproutvideo.com/file/d390d0b51114e7c25a/eaa45e05081e1539/1080.mp4"                  },
+                       
+                {
                             "id": 2,
-                            "topicTitle": "Using Patterns to Enhance Number Facts Memorization: Advanced Pattern Strategies",
-                            "topicContent": "Show how patterns can aid in memorizing more advanced number facts.Engage students in creating patterns on the hundred square to reinforce memorization."
+                            "topicTitle": "Algebra Multiplication",
+                            "topicContent": "Apply knowledge to various mathematical situations.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b51114e4cb98/f13b74144f8cb9b6/1080.mp4"
                         },
+                     
+                 
                         {
                             "id": 3,
-                            "topicTitle": "Translating Complex Number Sentences into Word Problems: Frames and Applications",
-                            "topicContent": "Teach students to translate addition, subtraction, multiplication, or division number sentences with frames into word problems. Provide examples where the frame is not in the initial position."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Translating Real-Life Scenarios into Number Sentences: Word Problems to Equations",
-                            "topicContent": "Guide students in translating one-step word problems into number sentences.Offer scenarios like Rita arranging toy cars in rows and help them create related number sentences."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Solving One-Step Number Sentences: Practical Applications",
-                            "topicContent": "Lead students through the process of solving one-step number sentences.Encourage them to apply their knowledge to various mathematical situations."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Exploring and Discussing Solutions for Open Number Sentences: Inequalities Exploration",
-                            "topicContent": "Introduce open number sentences involving inequalities.Engage students in discussing and recording solutions for expressions like 3 + ■ < 7 or 5 + ■ > 8."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Reviewing Complex Patterns and Sequences: Mastery and Application",
-                            "topicContent": "Summarize the concepts of exploring patterns and sequences, and their role in problem-solving.Provide opportunities for students to apply these concepts to real-world scenarios."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Applying Algebraic Patterns in Daily Life: Pattern Recognition in Real-World Situations",
-                            "topicContent": "Connect algebraic patterns to practical situations in students' daily lives. Present scenarios where recognizing patterns helps in understanding and solving problems."
-                        },
-                        {
-                            "id": 9,
                             "topicTitle": "Challenging Problem-Solving: Advanced Pattern-Based Challenges",
-                            "topicContent": "Present more complex problems that require the use of advanced pattern-based strategies.       Encourage students to use patterns as tools to tackle challenging mathematical tasks."
-                            
+                            "topicContent": "Complex problems that require the use of advanced pattern-based strategies. Use patterns as tools to tackle challenging mathematical tasks.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d0b51114eacc25/cdbfe69290541469/1080.mp4"
                         }                    ]
                 },
            
@@ -108,7 +84,7 @@
                    },
                    {
                      "id": 5,
-                     "content": "Translate the equation: 24 ÷ 8 = ___ into a word problem.",
+                     "content": "Translate the equation: 24 ÷ 8 = ___ .",
                      "correctIndex": 0,
                      "answers": [
                        "Twenty-four divided by eight equals a missing number.",
@@ -205,7 +181,7 @@
                    },
                    {
                      "id": 17,
-                     "content": "Translate the equation: 5 × 7 = ___ into a word problem.",
+                     "content": "Translate the equation: 5 × 7 = ___ directly.",
                      "correctIndex": 3,
                      "answers": [
                        "Five multiplied by seventeen equals a missing number.",
@@ -273,7 +249,7 @@
                    },
                    {
                      "id": 25,
-                     "content": "Translate the equation: 63 ÷ 9 = ___ into a word problem.",
+                     "content": "Translate the equation: 63 ÷ 9 = ___ as written.",
                      "correctIndex": 0,
                      "answers": [
                        "Sixty-three divided by nine equals a missing number.",
@@ -286,7 +262,7 @@
                      "id": 26,
                      "content": "In the equation: 8 × ___ = 56, what number should be in the blank?",
                      "correctIndex": 2,
-                     "answers": ["6", "8", "7", "7"]
+                     "answers": ["6", "8", "7", "70"]
                    },
                    {
                      "id": 27,
@@ -297,7 +273,7 @@
                    {
                      "id": 28,
                      "content": "How can open number sentences involving inequalities be useful in problem-solving?",
-                     "correctIndex": 1,
+                     "correctIndex": 0,
                      "answers": [
                        "By providing a range of possible solutions and helping to analyze different cases.",
                        "Open number sentences are not useful in problem-solving.",
@@ -312,7 +288,7 @@
                      "answers": [
                        "Thirty-five divided by four equals a missing number.",
                        "There are thirty-ten books, and each shelf can hold five books. How many shelves are needed?",
-                       "There are thirty-five candies, and they are divided equally among five friends. How many candies does each friend get?",
+                       "There are thirty-five apples, and they are divided equally among five friends. How many apples does each friend get?",
                        "Six divided by thirty-five equals a missing number."
                      ]
                    },
@@ -440,10 +416,10 @@
                     {
                       "id": 46,
                       "content": "Translate the sentence: 48 + 17 = ___ into a word problem.",
-                      "correctIndex": 2,
+                      "correctIndex": 1,
                       "answers": [
                         "Forty-eight added to seventeen equals a six.",
-                        "There are forty-ten candies, and seventeen more are added. How many in total?",
+                        "There are forty-eight footballs, and seventeen more are added. How many in total?",
                         "There are forty-eight apples, and they are divided equally among seventeen students. How many apples does each student get?",
                         "Seventeen added to forty-eight equals three."
                       ]
@@ -471,433 +447,19 @@
                         "By simplifying real-life problems."
                       ]
                     },
+           
                     {
                       "id": 50,
-                      "content": "Translate the equation: ___ - 17 = 25 into a word problem.",
-                      "correctIndex": 3,
-                      "answers": [
-                        "A missing number minus seven equals twenty-five.",
-                        "There are twenty-four coins, and seventeen are removed. How many coins are left?",
-                        "Seventeen minus twenty-four equals a missing number.",
-                        "There are twenty-five students, and they each receive seventeen sweets. How many sweets in total?"
-                      ]
-                    },
-                    {
-                      "id": 51,
                       "content": "What is the missing number in the sequence: 63, 56, ___, 42, 35?",
                       "correctIndex": 2,
                       "answers": ["48", "52", "49", "46"]
                     },
                     {
-                      "id": 52,
+                      "id": 51,
                       "content": "Solve the equation: 84 ÷ ___ = 7.",
                       "correctIndex": 2,
                       "answers": ["11", "10", "12", "14"]
-                    },
-                    {
-                      "id": 53,
-                      "content": "How can advanced pattern-based strategies be used in everyday problem-solving?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By recognizing patterns and applying them to solve various types of problems.",
-                        "Advanced patterns are only used in specialized fields.",
-                        "By making everyday problems more complicated.",
-                        "By avoiding patterns in problem-solving."
-                      ]
-                    },
-                    {
-                      "id": 54,
-                      "content": "What is the pattern in the sequence: 28, 35, 42, 49, ___?",
-                      "correctIndex": 3,
-                      "answers": ["52", "63", "54", "56"]
-                    },
-                    {
-                      "id": 55,
-                      "content": "Translate the equation: 63 - ___ = 35 into a word problem.",
-                      "correctIndex": 1,
-                      "answers": [
-                        "Sixty-two minus a missing number equals thirty-five.",
-                        "There are sixty-three apples, and some are removed. How many apples are left?",
-                        "Thirty-four minus sixty-three equals a missing number.",
-                        "There are sixty-three students, and they each receive thirty-one pencils. How many pencils in total?"
-                      ]
-                    },
-                    {
-                      "id": 56,
-                      "content": "What comes next in the sequence: 3, 6, 12, 24, ___?",
-                      "correctIndex": 3,
-                      "answers": ["47", "36", "30", "48"]
-                    },
-                    {
-                      "id": 57,
-                      "content": "Solve the equation: 21 × ___ = 63.",
-                      "correctIndex": 0,
-                      "answers": ["3", "2", "4", "5"]
-                    },
-                    {
-                      "id": 58,
-                      "content": "How can recognizing and describing complex sequences enhance problem-solving skills?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By understanding the underlying patterns and applying them to solve more challenging problems.",
-                        "Complex sequences have no impact on problem-solving skills.",
-                        "By making problem-solving more confusing.",
-                        "By avoiding complex sequences in problem-solving."
-                      ]
-                    },
-                    {
-                      "id": 59,
-                      "content": "Translate the sentence: 25 × 4 = ___ into a word problem.",
-                      "correctIndex": 2,
-                      "answers": [
-                        "Twenty-five times five equals a missing number.",
-                        "There are twenty-two books, and each book costs four dollars. How much do all the books cost?",
-                        "There are twenty-five students, and each receives four pencils. How many pencils are in total?",
-                        "Four times twenty-five equals a missing three."
-                      ]
-                    },
-                    {
-                      "id": 60,
-                      "content": "What is the pattern in the sequence: 9, 18, 27, 36, ___?",
-                      "correctIndex": 0,
-                      "answers": ["45", "54", "38", "44"]
-                    },
-                    
-                    {
-                      "id": 61,
-                      "content": "What is the missing number in the sequence: 16, 25, ___, 49, 64? think about a square.",
-                      "correctIndex": 2,
-                      "answers": ["33", "42", "36", "52"]
-                    },
-                    {
-                      "id": 62,
-                      "content": "Translate the equation: ___ + 28 = 67 into a word problem.",
-                      "correctIndex": 0,
-                      "answers": [
-                        "A missing number added to twenty-eight equals sixty-seven.",
-                        "There are twenty-six coins, and sixty-seven more are added. How many coins in total?",
-                        "Twenty-eight added to sixty-two equals a missing number.",
-                        "There are sixty-nine books, and each book costs twenty-eight dollars. How much do all the books cost?"
-                      ]
-                    },
-                    {
-                      "id": 63,
-                      "content": "What is the pattern in the sequence: 7, 14, 28, 56, ___?",
-                      "correctIndex": 3,
-                      "answers": ["111", "84", "42", "112"]
-                    },
-                    {
-                      "id": 64,
-                      "content": "Solve the equation: 72 ÷ ___ = 8.",
-                      "correctIndex": 1,
-                      "answers": ["6", "9", "7", "10"]
-                    },
-                    {
-                      "id": 65,
-                      "content": "How can translating complex number sentences into word problems enhance problem-solving skills?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By understanding real-life scenarios and applying mathematical operations to solve problems.",
-                        "Complex number sentences are not useful in problem-solving.",
-                        "By making problem-solving more confusing.",
-                        "By avoiding complex number sentences in problem-solving."
-                      ]
-                    },
-                    {
-                      "id": 66,
-                      "content": "What is the pattern in the sequence: 2, 6, 12, 20, ___?",
-                      "correctIndex": 3,
-                      "answers": ["40", "28", "22", "30"]
-                    },
-                    {
-                      "id": 67,
-                      "content": "Translate the sentence: ___ ÷ 9 = 7 into a word problem.",
-                      "correctIndex": 2,
-                      "answers": [
-                        "A missing number take away by nine equals seven.",
-                        "There are seven cookies, and they are divided into nine equal groups. How many cookies are eaten?",
-                        "Nine divided by a missing number equals seven.",
-                        "There are seven students, and they each receive nine pencils. How many pencils are blue ?"
-                      ]
-                    },
-                    {
-                      "id": 68,
-                      "content": "What comes next in the sequence: 5, 10, 20, 40, ___?",
-                      "correctIndex": 1,
-                      "answers": ["70", "80", "50", "60"]
-                    },
-                    {
-                      "id": 69,
-                      "content": "How can advanced pattern-based strategies be applied to tackle challenging mathematical tasks?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By breaking down complex problems into familiar patterns and using pattern-based strategies.",
-                        "Advanced patterns are only used in simple problems.",
-                        "By making challenging problems more complicated.",
-                        "By avoiding patterns in challenging mathematical tasks."
-                      ]
-                    },
-                    {
-                      "id": 70,
-                      "content": "Translate the equation: 84 ÷ 6 = ___ into a word problem.",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Eighty-four divided by sseven equals a missing number.",
-                        "There are eighty-four apples, and they are multiplied into six equal groups. How many apples are in each group?",
-                        "Six divided by eighty-four equals a missing number.",
-                        "Eighty-three cookies are shared equally among six friends. How many cookies does each friend get?"
-                      ]
-                    },
-                    {
-                      "id": 71,
-                      "content": "What is the pattern in the sequence: 11, 22, 44, 88, ___?",
-                      "correctIndex": 2,
-                      "answers": ["170", "152", "176", "172"]
-                    },
-                    {
-                      "id": 72,
-                      "content": "Solve the equation: ___ - 9 = 27.",
-                      "correctIndex": 1,
-                      "answers": ["33", "36", "45", "18"]
-                    },
-                    {
-                      "id": 73,
-                      "content": "How can recognizing and using patterns enhance understanding in real-world situations?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By identifying trends and making informed decisions based on patterns.",
-                        "Patterns have no impact on understanding real-world situations.",
-                        "By making real-world situations more confusing.",
-                        "By avoiding patterns in real-world scenarios."
-                      ]
-                    },
-                    {
-                      "id": 74,
-                      "content": "What is the missing number in the sequence: 39, 49, ___, 69, 79?",
-                      "correctIndex": 2,
-                      "answers": ["50", "33", "59", "69"]
-                    },
-                    {
-                      "id": 75,
-                      "content": "Translate the sentence: 6 × ___ = 42 into a word problem.",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Six times a missing number equals forty-two.",
-                        "There are three bags, and each bag contains forty-two marbles. How many marbles in total?",
-                        "Forty-two is add  six equal groups. How many are in each group?",
-                        "Six times forty-two equals five."
-                      ]
-                    },
-                    {
-                      "id": 76,
-                      "content": "What comes next in the sequence: 18, 36, 54, 72, ___?",
-                      "correctIndex": 3,
-                      "answers": ["91", "88", "96", "90"]
-                    },
-                    {
-                      "id": 77,
-                      "content": "Solve the equation: 105 ÷ ___ = 7.",
-                      "correctIndex": 0,
-                      "answers": ["15", "8", "7", "10"]
-                    },
-                    {
-                      "id": 78,
-                      "content": "How can translating real-life scenarios into number sentences enhance problem-solving skills?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "By representing real-world situations as mathematical equations and finding solutions.",
-                        "Translating scenarios into number sentences is not helpful for problem-solving.",
-                        "By making problem-solving more confusing.",
-                        "By avoiding real-life scenarios in problem-solving."
-                      ]
-                    },
-                    {
-                      "id": 79,
-                      "content": "What is the pattern in the sequence: 13, 19, 25, 31, ___?",
-                      "correctIndex": 3,
-                      "answers": ["33", "43", "39", "37"]
-                    },
-                    {
-                      "id":80,
-                      "content": "Translate the equation: 14 - ___ = 6 into a word problem.",
-                      "correctIndex": 1,
-                      "answers": [
-                        "Fourteen added by a missing number equals six.",
-                        "There are fourteen apples, and six are taken away. How many apples are left?",
-                        "Six is divided from fourteen to get a missing number.",
-                        "There are fourteen books, and six are added. How many books in total?"
-                      ]
-                    },
-                    {
-                       "id": 81,
-                       "content": "What is the pattern in the sequence: 6, 12, 18, 24, ___?",
-                       "correctIndex": 1,
-                       "answers": ["20", "30", "28", "24"]
-                     },
-                     {
-                       "id": 82,
-                       "content": "Translate the sentence: 5 × 7 = ___ into a word problem.",
-                       "correctIndex": 1,
-                       "answers": [
-                         "Five divided by seven equals a missing number.",
-                         "There are five rows, and each row has seven seats. How many seats in total?",
-                         "Seven minus a missing number equals five.",
-                         "Five is divided into seventeen equal groups. How many are in each group?"
-                       ]
-                     },
-                     {
-                       "id": 83,
-                       "content": "What comes next in the sequence: 50, 40, 30, 20, ___?",
-                       "correctIndex": 0,
-                       "answers": ["10", "11", "5", "9"]
-                     },
-                     {
-                       "id": 84,
-                       "content": "Solve the equation: 144 ÷ ___ = 12.",
-                       "correctIndex": 1,
-                       "answers": ["8", "12", "10", "6"]
-                     },
-                     {
-                       "id": 85,
-                       "content": "How can exploring and recognizing number patterns enhance problem-solving skills?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "By identifying trends and making informed decisions based on patterns.",
-                         "Number patterns are not helpful in problem-solving.",
-                         "By making problem-solving more confusing.",
-                         "By avoiding number patterns in problem-solving."
-                       ]
-                     },
-                     {
-                       "id": 86,
-                       "content": "What is the pattern in the sequence: 3, 9, 27, 81, ___?",
-                       "correctIndex": 3,
-                       "answers": ["241", "189", "201", "243"]
-                     },
-                     {
-                       "id": 87,
-                       "content": "Translate the equation: ___ - 18 = 25 into a word problem.",
-                       "correctIndex": 2,
-                       "answers": [
-                         "A missing number plus eighteen equals twenty-five.",
-                         "There are twenty-five marbles, and eighteen are added. How many marbles in total?",
-                         "Twenty-four is increased by eighteen to get a missing number.",
-                         "There are twenty-two books, and eighteen are borrowed. How many books are left?"
-                       ]
-                     },
-                     {
-                       "id": 88,
-                       "content": "What is the missing number in the sequence: 72, 64, ___, 48, 40?",
-                       "correctIndex": 2,
-                       "answers": ["54", "53", "56", "32"]
-                     },
-                     {
-                       "id": 89,
-                       "content": "How can translating complex number sentences into word problems with frames enhance problem-solving skills?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "By understanding real-life scenarios and applying mathematical operations to solve problems.",
-                         "Complex number sentences with frames are not helpful in problem-solving.",
-                         "By making problem-solving more confusing.",
-                         "By avoiding complex number sentences in problem-solving."
-                       ]
-                     },
-                     {
-                       "id": 90,
-                       "content": "Translate the sentence: 16 ÷ ___ = 2 into a word problem.",
-                       "correctIndex": 2,
-                       "answers": [
-                         "Sixteen is plus by two to get a missing number.",
-                         "There are sixteen pencils, and they are shared equally among three friends. How many pencils does each friend get?",
-                         "A missing number divided by sixteen equals two.",
-                         "There are one group, and each group has sixteen students. How many students in total?"
-                       ]
-                     },
-                     {
-                       "id": 91,
-                       "content": "What is the pattern in the sequence: 10, 16, 22, 28, ___?",
-                       "correctIndex": 0,
-                       "answers": ["34", "32", "36", "32"]
-                     },
-                     {
-                       "id": 92,
-                       "content": "Solve the equation: 81 ÷ 9 = ___.",
-                       "correctIndex": 1,
-                       "answers": ["2", "9", "8", "10"]
-                     },
-                     {
-                       "id": 93,
-                       "content": "How can using patterns to enhance number facts memorization contribute to problem-solving skills?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "By recognizing familiar patterns and applying them to solve mathematical problems.",
-                         "Patterns have no impact on number facts memorization.",
-                         "By making problem-solving more confusing.",
-                         "By avoiding number facts memorization in problem-solving."
-                       ]
-                     },
-                     {
-                       "id": 94,
-                       "content": "Translate the equation: 25 × ___ = 100 into a word problem.",
-                       "correctIndex": 0,
-                       "answers": [
-                         "Twenty-five times a missing number equals one hundred.",
-                         "There are twenty-six boxes, and each box contains one hundred chocolates. How many chocolates in total?",
-                         "One hundred is divided into twenty-ten equal groups. How many are in each group?",
-                         "There are twenty-five tables, and each table has one hundred dollars. How much money for the house?"
-                       ]
-                     },
-                     {
-                       "id": 95,
-                       "content": "What is the pattern in the sequence: 7, 14, 28, 56, ___?",
-                       "correctIndex": 3,
-                       "answers": ["110", "98", "108", "112"]
-                     },
-                     {
-                       "id": 96,
-                       "content": "Translate the sentence: 9 × 8 = ___ into a word problem.",
-                       "correctIndex": 1,
-                       "answers": [
-                         "Ten times eight equals a missing number.",
-                         "There are nine bags, and each bag contains eight marbles. How many marbles in total?",
-                         "Eighteen times a missing number equals nine.",
-                         "Nine is divided into seven equal groups. How many are in each group?"
-                       ]
-                     },
-                     {
-                       "id": 97,
-                       "content": "What comes next in the sequence: 64, 49, 36, 25, ___?",
-                       "correctIndex": 1,
-                       "answers": ["12", "16", "20", "10"]
-                     },
-                     {
-                       "id": 98,
-                       "content": "Solve the equation: ___ × 6 = 54.",
-                       "correctIndex": 0,
-                       "answers": ["9", "8", "7", "6"]
-                     },
-                     {
-                       "id": 99,
-                       "content": "How can applying algebraic patterns in daily life enhance problem-solving skills?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "By recognizing patterns in real-world situations and using them to solve problems.",
-                         "Algebraic patterns are not useful for problem-solving.",
-                         "By making problem-solving more confusing.",
-                         "By avoiding algebraic patterns in problem-solving."
-                       ]
-                     },
-                     {
-                       "id": 100,
-                       "content": "Translate the sentence: ___ ÷ 4 = 15 into a word problem.",
-                       "correctIndex": 2,
-                       "answers": [
-                         "A missing number multiplied by four equals fifteen.",
-                         "There are five candies, and they are shared equally among four friends. How many candies does each friend get?",
-                         "Fifteen is divided into four equal groups. How many are in each group?",
-                         "There are six groups, and each group has fifteen students. How many students in total?"
-                       ]
-                     }
+                    }
                    
                    
                    
