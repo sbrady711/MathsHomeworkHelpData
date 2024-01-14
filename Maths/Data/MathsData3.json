@@ -1,5 +1,6 @@
 
 
+
 [
     {
         "id": 2,
@@ -8,57 +9,26 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
+      
+                        {
                             "id": 0,
-                            "topicTitle": "Collecting and Recording Data",
-                            "topicContent": "Teach students how to collect data from their environment.Show them how to organize data in a tabular format. Discuss the importance of accurately recording data to ensure meaningful representation."
-                        },
+                            "topicTitle": "Creating Block Graphs and Bar Charts",
+                            "topicContent": "Introduction to block graphs and bar charts as visual representations of data.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b51c1ee4cc98/4ccdd7a2c714c6cd/1080.mp4"                        },
+                 
+          
                         {
                             "id": 1,
-                            "topicTitle": "Representing Data with Pictograms",
-                            "topicContent": "Introduce pictograms as a way to represent collected data.Provide students with a data set (e.g., favorite colors) and guide them in creating a pictogram.Discuss the importance of choosing appropriate symbols and scales."
+                            "topicTitle": "Ordering Events by Likelihood",
+                            "topicContent": "Introduction to the concepts of likelihood and uncertainty. Simple events (e.g., school closure, sun shining).",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b51c1ee7c3c4/13e691ad5e178c6e/1080.mp4"
                         },
+                    
                         {
                             "id": 2,
-                            "topicTitle": "Creating Block Graphs and Bar Charts", "topicContent": "Introduce block graphs and bar charts as visual representations of data.Teach students how to use simple scales to represent data on these graphs.Guide them in creating block graphs and bar charts for different data sets."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Strengths and Limitations of Different Formats",
-                            "topicContent": "Discuss the strengths and limitations of using pictograms, block graphs, and bar charts.Engage students in a critical thinking discussion about when each format is most suitable. Encourage them to choose the best format based on the data they want to represent."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Using Computer Applications for Data",
-                            "topicContent": "Introduce the use of computer applications for organizing and representing data.If available, provide students with basic tools to input data and create graphs on a computer. Highlight the benefits of using technology for data handling."
-
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Reading and Interpreting Various Graphs",
-                            "topicContent": "Present tables, pictograms, block graphs, and bar charts to the students.Teach them how to read and interpret each type of representation. Provide various data sets and have students analyze and draw conclusions from the graphs."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Ordering Events by Likelihood",
-                            "topicContent": "Introduce the concepts of likelihood and uncertainty.Present students with simple events (e.g., school closure, sun shining) and have them order these events from least likely to most likely.Encourage discussions about why they ranked the events as they did."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Understanding Random Processes",
-                            "topicContent": "Introduce the concept of random processes.Have students perform coin tosses and record the outcomes. Guide them in drawing cubes from a bag with different colors and discussing the results."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Exploring Vocabulary of Uncertainty",
-                            "topicContent": "Teach students vocabulary related to uncertainty and chance (possible, impossible, might, certain, not sure). Present scenarios and have students use the vocabulary to describe the likelihood of each event."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Solving Problems with Data Sets",
-                            "topicContent": "Present practical problems that involve data sets.Challenge students to use the data they've collected and represented to solve these problems.Encourage critical thinking and application of data interpretation skills."
-                        }
+                            "topicTitle": "Supporting learning with Data Sets",
+                            "topicContent": "Practical problems that involve data sets.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b51c1ee7cf98/bc31cb22b9391d00/1080.mp4"                        }
                     ]
                 },
       "test": {
@@ -94,7 +64,7 @@
           
                {
                  "id": 4,
-                 "content": "You have data about the number of students in each class level. Which type of graph should you use to represent this data?",
+                 "content": "You have data about the number of students in each class level. Which type of graph should you use to represent this data in blocks?",
                  "correctIndex": 3,
                  "answers": ["Line Graph", "Pictogram", "Bar Chart", "Block Graph"]
                },
@@ -175,7 +145,7 @@
                  "id": 17,
                  "content": "You have a bag with 8 blue marbles, 4 green marbles, and 3 yellow marbles. What is the probability of picking a marble that is not green?",
                  "correctIndex": 3,
-                 "answers": ["4/15", "7/15", "11/15", "11/15"]
+                 "answers": ["4/15", "7/15", "12/15", "11/15"]
                },
                {
                  "id": 18,
@@ -288,7 +258,7 @@
                {
                  "id": 36,
                  "content": "If you have a spinner divided into 4 equal sections and 1 section is red, what is the probability of landing on red?",
-                 "correctIndex": 2,
+                 "correctIndex": 1,
                  "answers": ["1/2", "1/4", "1/8", "1/3"]
                },
                {
