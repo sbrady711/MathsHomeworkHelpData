@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 0,
@@ -10,66 +11,37 @@
           {
                             "id": 0,
                             "topicTitle": "Lesson: Exploring Hexagons",
-                            "topicContent": "Introduce hexagons as shapes with six sides and angles. Describe the attributes of hexagons and how they differ from triangles and rectangles."
-                        },
+                            "topicContent": "Introduction to hexagons as shapes with six sides and angles. Describe the attributes of hexagons and how they differ from triangles and rectangles.",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b51115e5c52e/bf17230f998b1501/1080.mp4"                        },
+                    
                         {
                             "id": 1,
-                            "topicTitle": "Lesson: Unraveling Irregular Shapes",
-                            "topicContent": "Introduce irregular shapes that don't have equal sides or angles.Discuss how irregular shapes can vary in their attributes. Identify and compare irregular shapes in the environment, like clouds and leaves.."
+                            "topicTitle": "Lesson: Discovering Pentagons",
+                            "topicContent": "Introduction to pentagons as shapes with five sides and five angles.Discuss real-world examples of pentagons. Explore the symmetry and attributes of pentagons.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b51115eac8c4/e6aa21fee06ddeab/1080.mp4"
                         },
                         {
                             "id": 2,
-                            "topicTitle": "Lesson: Discovering Pentagons",
-                            "topicContent": "Introduce pentagons as shapes with five sides and five angles.Discuss real-world examples of pentagons, such as home plate in baseball. Explore the symmetry and attributes of pentagons."
+                            "topicTitle": "Lesson: Investigating Octagons",
+                            "topicContent": "Introduction to octagons as shapes with eight sides and angles.Discuss where octagons are commonly found, like stop signs.Compare octagons with other polygons in terms of sides and angles.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d0b51115ebc4cd/fab32c65a2421dab/1080.mp4"
                         },
+             
+                        
                         {
                             "id": 3,
-                            "topicTitle": "Lesson: Investigating Octagons",
-                            "topicContent": "Introduce octagons as shapes with eight sides and angles.Discuss where octagons are commonly found, like stop signs.Compare octagons with other polygons in terms of sides and angles."
+                            "topicTitle": "Lesson: Tessellating Tiles Design",
+                            "topicContent": "Introduction to tessellations, where shapes fit together without gaps or overlaps.Discuss the use of tessellations in art and architecture.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b51114e2c1c4/72b0748cbae96006/1080.mp4"
                         },
+                       
                         {
                             "id": 4,
-                            "topicTitle": "Lesson: Marveling at Circles and Semicircles",
-                            "topicContent": "Explore circles as round shapes with curved edges and no corners.Discuss how a semicircle is half of a circle and its unique attributes.Identify examples of circles and semicircles in everyday objects."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "sson: Exploring Ovals and Ellipses",
-                            "topicContent": "Introduce ovals as elongated round shapes with curved edges.Discuss the difference between ovals and circles. Explore how ellipses are stretched circles and their use in design."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Lesson: Creating Shape Collages",
-                            "topicContent": "Provide students with various 2-D shapes, including those not mentioned earlier. Have them create shape collages using a variety of shapes and sizes.Encourage creative arrangement and discussion of shapes' attributes."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Lesson: Tessellating Tiles Design",
-                            "topicContent": "Introduce tessellations, where shapes fit together without gaps or overlaps. Provide students with shape templates and have them design tessellating patterns. Discuss the use of tessellations in art and architecture."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Lesson: Shape Art Walk",
-                            "topicContent": "Take students on an art walk around the school or community.Identify and discuss different 2-D   Encourage students to observe how shapes contribute to the overall design."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Lesson: Shape Quiz",
-                            "topicContent": "Create bingo cards with various 2-D shapes.Call out attributes of shapes, and students mark the corresponding shape on their cards.Reinforce shape recognition and properties through a fun game."
-                        },
-                        {
-                            "id": 10,
                             "topicTitle": "Lesson: Exploring Lines of Symmetry",
-                            "topicContent": "Discuss lines of symmetry in shapes, including those mentioned earlier.Engage students in hands-on activities to fold shapes and identify lines of symmetry. Have students draw and label lines of symmetry in various shapes."
+                            "topicContent": "Discuss lines of symmetry in shapes, including those mentioned earlier. Draw and label lines of symmetry in various shapes.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b51114e1c6f0/d97b0d67911c6df0/1080.mp4"
                   
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Lesson: Shape Comparison and Analysis",
-                            "topicContent": "Provide students with a set of shapes, including those mentioned earlier. Have them compare and analyze the properties of different shapes. Encourage discussions on which shapes have more sides, angles, or symmetry."
-                        }
-                    ]
+                }                    ]
                 },
       "test": {
           "id": 0,
@@ -163,7 +135,7 @@
                },
                {
                  "id": 14,
-                 "content": "What shape is described as round with curved edges and no corners?",
+                 "content": "What shape is described as a quadrilateral?",
                  "correctIndex": 0,
                  "answers": ["Circle", "Rectangle", "Triangle", "Hexagon"]
                },
@@ -177,7 +149,7 @@
                  "id": 16,
                  "content": "What term is used for shapes that have the same shape and size?",
                  "correctIndex": 0,
-                 "answers": ["Congruent", "Similar", "Symmetrical", "Regular"]
+                 "answers": ["Congruent", "Similar", "Symmetrical", "Right angle"]
                },
                {
                  "id": 17,
@@ -189,7 +161,7 @@
                  "id": 18,
                  "content": "What term is used to describe a stretched circle?",
                  "correctIndex": 1,
-                 "answers": ["Oval", "Ellipse", "Triangle", "Hexagon"]
+                 "answers": ["Sphere", "Ellipse", "Triangle", "Hexagon"]
                },
                {
                  "id": 19,
