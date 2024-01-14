@@ -1,5 +1,7 @@
 
 
+
+
 [
     {
         "id": 1,
@@ -8,58 +10,20 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
+        
+                        {
                             "id": 0,
-                            "topicTitle": "Sorting Objects by Multiple Criteria",
-                            "topicContent": "Introduce the concept of sorting objects using multiple criteria.Engage students in sorting objects based on two or three attributes, such as color, size, and shape. Foster discussions on how different attributes can be used to group objects."
+                            "topicTitle": "Creating a Two-Criteria Classification",
+                            "topicContent": "Extend sorting activities to involve two criteria. Classify objects based on attributes like shape and color. Create categories and placing objects in the appropriate groups.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b71817e2c9c4/bcc8b175bcc545f1/1080.mp4"
                         },
                         {
                             "id": 1,
-                            "topicTitle": "Creating a Two-Criteria Classification",
-                            "topicContent": "Extend sorting activities to involve two criteria.Encourage students to classify objects based on attributes like shape and color. Guide them in creating categories and placing objects in the appropriate groups."
-                        },
-                        {
-                            "id": 2,
                             "topicTitle": "Representing Data with Simple Tables",
-                            "topicContent": "Introduce the idea of representing data using tables. Show examples of simple tables, like a chart of cars passing by the school during a specific time.Help students read and interpret the information presented in the table."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Reading and Interpreting Pictograms",
-                            "topicContent": "Introduce pictograms as a way to display data visually.  Present a weather chart that records different weather conditions over a period.Guide students in reading and interpreting the pictogram, identifying the most and least common weather conditions."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Creating Pictograms",
-                            "topicContent": "Transition to creating pictograms. Provide students with data related to a specific topic, such as favorite fruits. Instruct them to create their own pictograms using symbols or images to represent the data."
-
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Introduction to Block Graphs",
-                            "topicContent": "Introduce the concept of block graphs as another visual representation of data. Show examples of simple block graphs with colored squares. Explain that each square represents a certain quantity or value."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Creating a Simple Block Graph",
-                            "topicContent": "Guide students in creating a simple block graph.Provide them with data, such as the favorite colors of the class.Instruct them to fix colored squares to a large sheet of paper to represent the data."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Advancing to Grid Paper for Block Graphs",
-                            "topicContent": "Progress to drawing block graphs on grid paper.Provide grid paper to students. Instruct them to draw the block graph using squares on the grid to represent the data."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Lesson 9: Comparing Pictograms and Block Graphs",
-                            "topicContent": "Engage students in a comparison between pictograms and block graphs. Discuss the advantages and limitations of each type of representation.Have them analyze different data sets and decide which representation works better."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Applying Data Representation Skills",
-                            "topicContent": "Review key concepts of data sorting and representation.Present students with scenarios involving real-world data.Challenge them to choose the appropriate representation (pictogram or block graph) and create it accurately.Encourage critical thinking in selecting the best way to display data."
+                            "topicContent": "Introduction to the idea of representing data using tables.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b7191fe6c38f/d67f1f8f077a617c/1080.mp4"
                         }
+                      
                     ]
                 },
       "test": {
@@ -72,7 +36,7 @@
               {
                   "id": 0,
                   "content": "If you have 5 red blocks and 3 blue blocks, how many blocks do you have in total?",
-                  "correctIndex": 3,
+                  "correctIndex": 2,
                   "answers": ["3", "5", "8", "6"]
                 },
                 {
@@ -102,13 +66,13 @@
                 {
                   "id": 5,
                   "content": "There are 8 ducks and 6 chickens on a farm. How many ducks are there?",
-                  "correctIndex": 1,
+                  "correctIndex": 0,
                   "answers": ["14", "8", "6", "12"]
                 },
                 {
                   "id": 6,
                   "content": "In a jar, there are 5 blue marbles and 3 red marbles if there are 11 marbles, How many white marbles are there? ",
-                  "correctIndex": 3,
+                  "correctIndex": 2,
                   "answers": ["8", "5", "3", "4"]
                 },
                 {
@@ -125,8 +89,8 @@
                 },
                 {
                   "id": 9,
-                  "content": "If there are 6 sunny days and 2 rainy days this week, how many days are there in total?",
-                  "correctIndex": 2,
+                  "content": "If there are 6 sunny days and 1 rainy days this week, how many days are there in total?",
+                  "correctIndex": 3,
                   "answers": ["1", "6", "8", "7"]
                 },
                 {
@@ -161,7 +125,7 @@
                 },
                 {
                   "id": 15,
-                  "content": "If you have 4 round balls and 3 square balls, how many balls do you have in total?",
+                  "content": "If you have 4 round balls and 3 oval balls, how many balls do you have in total?",
                   "correctIndex": 3,
                   "answers": ["6", "4", "3", "7"]
                 },
@@ -185,14 +149,14 @@
                 },
                 {
                   "id": 19,
-                  "content": "There are 5 sunny days and 3 cloudy days this week. How many days are there in total?",
+                  "content": "There are 5 sunny days and 3 cloudy days. How many days are there in total?",
                   "correctIndex": 0,
                   "answers": ["8", "5", "3", "6"]
                 },
                 {
                   "id": 20,
-                  "content": "If you roll a dice, what is the maximum number you can get?",
-                  "correctIndex": 0,
+                  "content": "If you roll a dice, what is the highest number you can get?",
+                  "correctIndex": 1,
                   "answers": ["4", "6", "3", "5"]
                 },
                 {
@@ -290,26 +254,8 @@
                   "content": "You have a spinner with 4 sections: 2 red, 1 blue, and 1 green. What is the probability of it not landing on green?",
                   "correctIndex": 0,
                   "answers": ["1/4", "1/2", "3/4", "1/3"]
-                },
-                {
-                  "id": 37,
-                  "content": "If you flip three coins, what is the probability of getting heads on at least two coins?",
-                  "correctIndex": 1,
-                  "answers": ["1/8", "3/8", "1/4", "1/6"]
-                },
-                {
-                  "id": 38,
-                  "content": "You have a bag with 6 red marbles and 4 blue marbles. What is the probability of picking a red marble?",
-                  "correctIndex": 2,
-                  "answers": ["9/10", "1/2", "3/5", "2/5"]
-                },
-                {
-                  "id": 39,
-                  "content": "There are 4 star stickers, 3 heart stickers, and 5 circle stickers. What is the probability of picking a heart sticker?",
-                  "correctIndex": 3,
-                  "answers": ["3/12", "1/3", "3/12", "1/4"]
                 }
-                
+               
               
               
               
