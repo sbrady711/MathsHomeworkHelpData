@@ -6,109 +6,28 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
+          
+                        {
                             "id": 0,
-                            "topicTitle": "Reviewing Equal Sharing",
-                            "topicContent": " Revisiting Equal Sharing.Recall how to share objects equally between friends."
+                            "topicTitle": "Comparing More Fractions",
+                            "topicContent": "Compare halves, thirds, and quarters. Understand the relationships between different fractions.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b7191ee0c3c4/d51868c491d5decb/1080.mp4"
                         },
+                        
                         {
                             "id": 1,
-                            "topicTitle": "Discovering More Halves",
-                            "topicContent": "Explore fractions beyond halves.Discover thirds as another fraction part."
+                            "topicTitle": "Understanding half",
+                            "topicContent": " Understand how to find half.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b7191de3c55a/d42436a51c9f5370/1080.mp4"
                         },
                         {
                             "id": 2,
-                            "topicTitle": "Comparing More Fractions",
-                            "topicContent": "Compare halves, thirds, and quarters. Understand the relationships between different fractions."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Fraction Patterns",
-                            "topicContent": "Recognizing Fraction Patterns. Identify patterns in fractions."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Fraction Puzzles",
-                            "topicContent": "Solving Fraction Puzzles Challenge. Solve more complex fraction puzzles."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Practical Fractions",
-                            "topicContent": "Applying Fractions in Real Life. Apply fractions to real-life situations."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Adding Mixed Fractions:",
-                            "topicContent": "Adding Mixed Fractions. Understand how to add mixed fractions."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Equivalent Fractions Exploration",
-                            "topicContent": "Deepening Equivalent Fractions Understanding. Explore equivalent fractions in more detail."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Fraction Art",
-                            "topicContent": "Creating Fraction Artwork. Create art using fractions."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Adding Fractions",
-                            "topicContent": "Learn and review how to add fractions together."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Subtracting Mixed Fractions",
-                            "topicContent": "Subtracting Mixed Fractions,Learn how to subtract mixed fractions."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Comparing Complex Fractions",
-                            "topicContent": "Comparing Fractions with Different Denominators. Deepen understanding of comparing fractions."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Fraction Stories",
-                            "topicContent": "Create word problems involving fractions.Write and solve fraction-related story problems."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Fraction Measures",
-                            "topicContent": "Understand how fractions can be used in measurements. Learn how fractions represent parts of a whole measurement."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Fraction Quotients",
-                            "topicContent": "Dividing Whole Numbers by Fractions. Learn how to divide whole numbers by fractions."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Fraction Challenges",
-                            "topicContent": "Tackle more complex fraction challenges. Apply multiple fraction concepts to solve intricate problems."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Fraction Equations",
-                            "topicContent": "Writing Fraction Equations. Express fraction relationships as equations."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Fraction Subtraction",
-                            "topicContent": "Learn how to subtract fractions with the same denominators."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Fraction Exploration Continues:",
-                            "topicContent": "Explore additional fraction applications and scenarios."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Fraction Euros",
-                            "topicContent": "Introduce the concept of fractions using euros as currency.Learn how to represent fractions of euros using both coins and notes."
+                            "topicTitle": "Fractions of numbers",
+                            "topicContent": "Understand fraction strategies and the concept of parts of a number.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b71917ecc18f/976d249ed4b9ef4a/1080.mp4"
                         }
+                
+                    
                     ]
                 },
       "test": {
@@ -276,7 +195,7 @@
                  },
                  {
                    "id": 14,
-                   "content": "If you have a bag of sweets and 5 out of 10 candies are green, what fraction of the candies are green?",
+                   "content": "If you have a bag of sweets and 5 out of 10  are green, what fraction of the sweets are green?",
                    "correctIndex": 1,
                    "answers": [
                      "1/3",
@@ -364,13 +283,13 @@
                   },
                   {
                     "id": 22,
-                    "content": "If you have a group of crayons and 2 out of 8 crayons are red, what fraction of the crayons are red?",
-                    "correctIndex": 2,
+                    "content": "If you have a group of crayons and 2 out of 8 crayons are red, what fraction of the crayons are not red?",
+                    "correctIndex": 3,
                     "answers": [
                       "1/3",
                       "1/2",
                       "1/4",
-                      "2/5"
+                      "3/4"
                     ]
                   },
                   {
@@ -436,7 +355,7 @@
                       "1/3",
                       "1/5",
                       "1/4",
-                      "2/10"
+                      "3/10"
                     ]
                   },
                   {
@@ -496,11 +415,11 @@
                   },
                   {
                     "id": 34,
-                    "content": "If you have a group of balloons and 4 out of 16 balloons are red, what fraction of the balloons are red?",
-                    "correctIndex": 2,
+                    "content": "If you have a group of balloons and 4 out of 16 balloons are red, what fraction of the balloons are not red?",
+                    "correctIndex": 1,
                     "answers": [
                       "1/3",
-                      "1/2",
+                      "3/4",
                       "1/4",
                       "1/6"
                     ]
@@ -606,10 +525,10 @@
                     },
                     {
                       "id": 44,
-                      "content": "If you have a group of buttons and 4 out of 10 buttons are shiny, what fraction of the buttons are shiny?",
-                      "correctIndex": 3,
+                      "content": "If you have a group of buttons and 4 out of 10 buttons are shiny, what fraction of the buttons are not shiny?",
+                      "correctIndex": 0,
                       "answers": [
-                        "4/5",
+                        "3/5",
                         "1/2",
                         "1/4",
                         "2/5"
@@ -689,7 +608,7 @@
                         "1/3",
                         "1/2",
                         "2/5",
-                        "3/6"
+                        "4/6"
                       ]
                     },
                     {
@@ -708,7 +627,7 @@
                       "content": "What fraction of a rectangle is shaded if 6 out of 24 equal parts are shaded?",
                       "correctIndex": 1,
                       "answers": [
-                        "6/24",
+                        "5/24",
                         "1/4",
                         "1/5",
                         "1/6"
@@ -777,7 +696,7 @@
                         "1/3",
                         "1/2",
                         "2/5",
-                        "3/6"
+                        "2/6"
                       ]
                     },
                     
@@ -844,7 +763,7 @@
                          "1/3",
                          "1/2",
                          "2/5",
-                         "4/8"
+                         "5/8"
                        ]
                      },
                      {
@@ -929,7 +848,7 @@
                        "content": "Which of the following fractions is equivalent to 14/28?",
                        "correctIndex": 0,
                        "answers": [
-                         "1/2",
+                         "1/3",
                          "1/6",
                          "2/5",
                          "7/14"
@@ -957,229 +876,9 @@
                          "8/13"
                        ]
                      },
-                     {
-                       "id": 76,
-                       "content": "If you have a collection of seashells and 5 out of 20 seashells are shiny, what fraction of the seashells are shiny?",
-                       "correctIndex": 0,
-                       "answers": [
-                         "1/4",
-                         "1/5",
-                         "1/8",
-                         "1/10"
-                       ]
-                     },
-                  
-                  {
-                      "id": 77,
-                      "content": "If you have a group of cupcakes and 3 out of 12 cupcakes are chocolate, what fraction of the cupcakes are chocolate?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "1/3",
-                        "1/6",
-                        "1/4",
-                        "1/6"
-                      ]
-                    },
+                     
                     {
-                      "id": 78,
-                      "content": "Which fraction is smaller: 7/11 or 6/11?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "7/11",
-                        "6/11",
-                        "1/2",
-                        "3/11"
-                      ]
-                    },
-                    {
-                      "id": 79,
-                      "content": "What fraction of a rectangle is shaded if 3 out of 24 equal parts are shaded?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "1/3",
-                        "1/4",
-                        "1/8",
-                        "1/12"
-                      ]
-                    },
-                    {
-                      "id": 80,
-                      "content": "If you have a group of teddy bears and 4 out of 16 teddy bears are brown, what fraction of the teddy bears are brown?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "1/3",
-                        "1/4",
-                        "1/8",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 81,
-                      "content": "Which of the following fractions is equivalent to 24/48?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "1/32",
-                        "1/2",
-                        "2/5",
-                        "3/6"
-                      ]
-                    },
-                    {
-                      "id": 82,
-                      "content": "If you have a group of marbles and 6 out of 18 marbles are blue, what fraction of the marbles are blue?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "1/3",
-                        "3/3",
-                        "1/4",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 83,
-                      "content": "What fraction of a rectangle is shaded if 8 out of 40 equal parts are shaded?",
-                      "correctIndex": 3,
-                      "answers": [
-                        "1/3",
-                        "1/4",
-                        "1/8",
-                        "1/5"
-                      ]
-                    },
-                    {
-                      "id": 84,
-                      "content": "If you have a collection of buttons and 3 out of 15 buttons are shiny, what fraction of the buttons are shiny?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "2/5",
-                        "1/5",
-                        "1/4",
-                        "1/3"
-                      ]
-                    },
-                    {
-                      "id": 85,
-                      "content": "Which fraction is larger: 10/14 or 9/14?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "10/14",
-                        "9/14",
-                        "1/2",
-                        "4/14"
-                      ]
-                    },
-                    {
-                      "id": 86,
-                      "content": "If you have a group of balloons and 3 out of 12 balloons are red, what fraction of the balloons are red?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "2/4",
-                        "1/5",
-                        "1/4",
-                        "1/5"
-                      ]
-                    },
-                    {
-                      "id": 87,
-                      "content": "What fraction of a rectangle is shaded if 4 out of 16 equal parts are shaded?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "1/8",
-                        "1/5",
-                        "1/4",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 88,
-                      "content": "If you have a group of pencils and 5 out of 20 pencils are blue, what fraction of the pencils are blue?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "1/4",
-                        "1/5",
-                        "1/8",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 89,
-                      "content": "Which of the following fractions is equivalent to 18/36?",
-                      "correctIndex": 3,
-                      "answers": [
-                        "3/2",
-                        "2/2",
-                        "3/6",
-                        "6/12"
-                      ]
-                    },
-                    {
-                      "id": 90,
-                      "content": "If you have a group of apples and 2 out of 10 apples are green, what fraction of the apples are green?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "1/5",
-                        "1/4",
-                        "1/10",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 91,
-                      "content": "What fraction of a rectangle is shaded if 7 out of 28 equal parts are shaded?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "2/4",
-                        "1/5",
-                        "7/28",
-                        "1/7"
-                      ]
-                    },
-                    {
-                      "id": 92,
-                      "content": "If you have a collection of seashells and 6 out of 24 seashells are shiny, what fraction of the seashells are shiny?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "3/4",
-                        "6/24",
-                        "1/8",
-                        "1/6"
-                      ]
-                    },
-                    {
-                      "id": 93,
-                      "content": "Which fraction is smaller: 11/17 or 10/17?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "11/17",
-                        "10/17",
-                        "1/2",
-                        "5/17"
-                      ]
-                    },
-                    {
-                      "id": 94,
-                      "content": "If you have a group of cupcakes and 2 out of 8 cupcakes are vanilla, what fraction of the cupcakes are vanilla?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "1/3",
-                        "1/4",
-                        "1/8",
-                        "1/5"
-                      ]
-                    },
-                    {
-                      "id": 95,
-                      "content": "What fraction of a rectangle is shaded if 9 out of 36 equal parts are shaded?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "1/4",
-                        "1/5",
-                        "1/8",
-                        "1/9"
-                      ]
-                    },
-                    {
-                      "id": 96,
+                      "id": 76,
                       "content": "If you have a group of marbles and 7 out of 28 marbles are green, what fraction of the marbles are green?",
                       "correctIndex": 2,
                       "answers": [
