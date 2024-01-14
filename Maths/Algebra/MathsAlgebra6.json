@@ -6,85 +6,29 @@
       "content": {
           "id": 0,
           "teaching": [
+        
               {
                   "id": 0,
-                  "topicTitle": "Exploring Number Line: Positive and Negative Numbers",
-                  "topicContent": "Introduce the number line and identify positive and negative numbers on it.Discuss contexts where positive and negative numbers arise, such as weather, climate, and scores."
+                  "topicTitle": "Adding Contextual Positive and Negative Numbers: Golfer's Score Example",
+                  "topicContent": " Add numbers like a golfer's score over multiple rounds to determine their overall performance.",
+                  "video": "https://api-files.sproutvideo.com/file/7990d0b21d1fe1c6f0/7def6aa8b3564d9e/1080.mp4"
               },
+            
               {
                   "id": 1,
-                  "topicTitle": "Adding Positive and Negative Numbers: Walking the Number Line",
-                  "topicContent": "Teach students how to add simple positive and negative numbers on the number line.Engage them in activities that involve walking the number line and counting on."
-              },
-              {
-                  "id": 2,
-                  "topicTitle": "Adding Contextual Positive and Negative Numbers: Golfer's Score Example",
-                  "topicContent": "Provide real-life scenarios involving positive and negative numbers. Have students add numbers like a golfer's score over multiple rounds to determine their overall performance."
-              },
-              {
-                  "id": 3,
-                  "topicTitle": "Interpreting and Marking Positive and Negative Numbers: Personal Number",
-                  "topicContent": "Guide students to identify and mark positive and negative numbers on personal and class number lines.Encourage them to engage in discussions about these numbers."
-              },
-              {
-                  "id": 4,
                   "topicTitle": "Understanding Properties of Brackets and Priority of Operations: Introduction",
-                  "topicContent": "Introduce the concept of brackets and their significance in expressions.Discuss the priority of multiplication and division over addition and subtraction."
-                  
-              },
-              {
-                  "id": 5,
-                  "topicTitle": "Exploring Expressions with Brackets: Importance of Position",
-                  "topicContent": "Help students identify the positions of brackets and their impact on expressions.Engage them in discussions and calculations to understand how positions matter."
-              },
-              {
-                  "id": 6,
-                  "topicTitle": "Analyzing Expressions without Brackets: Alternative Combinations",
-                  "topicContent": "Discuss expressions without brackets and explore different combinations.Examine the significance of starting operations at various points."
-              },
-              {
-                  "id": 7,
-                  "topicTitle": "Establishing Value of Brackets: Priority of Operations",
-                  "topicContent": "Teach students the value of brackets and their role in prioritizing operations.Explore these properties and rules using various examples and calculations."
-              },
-              {
-                  "id": 8,
-                  "topicTitle": "Recognizing and Recording Verbal Number Patterns: Sequences",
-                  "topicContent": "Help students identify and discuss rules for simple verbal number sequences.Practice recognizing patterns like increasing by a constant value or decreasing by division."
-              },
-              {
-                  "id": 9,
-                  "topicTitle": "Recording Symbolic Number Pattern Rules: Deduction and Patterns",
-                  "topicContent": "Teach students how to deduce and record symbolic rules for number patterns.Discuss patterns like consecutive numbers, ratios, and more complex relationships."
+                  "topicContent": "Introduction to the concept of brackets and their significance in expressions. Discuss the priority of multiplication and division over addition and subtraction.",
+                  "video": "https://api-files.sproutvideo.com/file/a790d0b21d1fe1c02e/91652d109618e5bb/1080.mp4"
                   
               },
               
-              {
-                  "id": 10,
-                  "topicTitle": "Applying Calculator to Solve Number Patterns: Missing Numerals",
-                  "topicContent": "Introduce using calculators for algebraic exercises.Guide students to find missing numerals and operators in equations."
-              },
-              {
-                  "id": 11,
-                  "topicTitle": "Exploring Complex Number Patterns: Advanced Sequences",
-                  "topicContent": "Challenge students with more complex number patterns that involve multiplication and division. Encourage them to recognize patterns and establish relationships.."
-              },
-              {
-                  "id": 12,
-                  "topicTitle": "Analyzing Patterns in Word Problems: Translating into Equations",
-                  "topicContent": "Provide word problems related to patterns and sequences. Help students translate these problems into algebraic equations for solution."
-              },
-              {
-                  "id": 13,
-                  "topicTitle": "Applying Algebraic Rules to Real-World Scenarios: Practical Applications",
-                  "topicContent": "Connect algebraic rules to practical situations like measurements, growth rates, or financial calculations.Have students apply their understanding to solve real-world problems."
-              },
-              {
-                  "id": 14,
-                  "topicTitle": "Summarizing Algebraic Concepts: Review and Application",
-                  "topicContent": "Summarize the concepts learned, including positive and negative numbers, patterns, brackets, and rules.Provide opportunities for students to review and apply their understanding in diverse scenarios."
-                  
-              }
+                {
+                            "id": 2,
+                            "topicTitle": "Exploring Square and Rectangular Numbers: Visualizing Geometric Patterns",
+                            "topicContent": "Understanding and illustrating square and rectangular numbers.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b21d1fe0c063/be74e133ac0ee7de/1080.mp4"
+                        }
+             
               
           ]
                 },
@@ -253,7 +197,7 @@
                {
                  "id": 25,
                  "content": "Which of the following is a triangular number?",
-                 "correctIndex": 1,
+                 "correctIndex": 3,
                  "answers": ["8", "12", "18", "28"]
                },
                {
@@ -276,79 +220,69 @@
                  "correctIndex": 3,
                  "answers": ["18", "14", "20", "16"]
                },
-               {
-                 "id": 29,
-                 "content": "What is the difference between the 9th and 7th Fibonacci numbers?",
-                 "correctIndex": 3,
-                 "answers": ["5", "8", "10", "13"]
-               },
-               {
-                 "id": 30,
-                 "content": "What is the sum of the squares of the first three prime numbers?",
-                 "correctIndex": 3,
-                 "answers": ["18", "25", "30", "38"]
-               },
+         
+             
                
                {
-                   "id": 31,
+                   "id": 29,
                    "content": "What is the product of the first four odd numbers?",
                    "correctIndex": 1,
                    "answers": ["8", "105", "24", "30"]
                  },
                  {
-                   "id": 32,
+                   "id": 30,
                    "content": "Simplify: -3 × (-5) × 2 × (-4).",
                    "correctIndex": 2,
                    "answers": ["60", "-60", "120", "-120"]
                  },
                
                  {
-                   "id": 33,
+                   "id": 31,
                    "content": "Which of the following numbers is a prime?",
                    "correctIndex": 3,
                    "answers": ["18", "24", "27", "29"]
                  },
                  {
-                   "id": 34,
+                   "id": 32,
                    "content": "If a number is divisible by both 5 and 6, what is the smallest number it can be?",
                    "correctIndex": 0,
                    "answers": ["30", "60", "120", "90"]
                  },
              
                  {
-                   "id": 35,
+                   "id": 33,
                    "content": "Which of the following numbers is a perfect cube?",
                    "correctIndex": 2,
                    "answers": ["64", "100", "27", "49"]
                  },
                  {
-                   "id": 36,
+                   "id": 34,
                    "content": "What is the next term in the sequence: 2, 5, 10, 17, ...?",
                    "correctIndex": 1,
                    "answers": ["25", "26", "29", "34"]
                  },
                 
                  {
-                   "id": 37,
+                   "id": 35,
                    "content": "What is the 7th prime number?",
                    "correctIndex": 1,
                    "answers": ["15", "17", "19", "21"]
                  },
                  {
-                   "id": 38,
+                   "id": 36,
                    "content": "Which of the following is a square number?",
                    "correctIndex": 3,
-                   "answers": ["16", "21", "30", "36"]
+                   "answers": ["10", "21", "30", "36"]
                  },
                  {
-                   "id": 39,
+                   "id": 37,
                    "content": "What is the missing number in the sequence: 3, 9, 27, ___, 243?",
                    "correctIndex": 2,
                    "answers": ["45", "8", "81", "90"]
                  },
              
                  {
-                   "id": 40,
+                   "id": 38,
                    "content": "What is the sum of the first 5 perfect squares?",
                    "correctIndex": 2,
                    "answers": ["30", "40", "55", "65"]
@@ -356,190 +290,158 @@
                
             
                  {
-                   "id": 41,
+                   "id": 39,
                    "content": "Which of the following is a prime factor of 56?",
                    "correctIndex": 0,
                    "answers": ["2", "3", "4", "5"]
                  },
                  {
-                   "id": 42,
+                   "id": 40,
                    "content": "Simplify: 7 × (6 - 3) + 9 ÷ 3.",
                    "correctIndex": 1,
                    "answers": ["21", "24", "18", "22"]
                  },
                
                  {
-                   "id": 43,
+                   "id": 41,
                    "content": "What is the sum of the first 7 prime numbers?",
                    "correctIndex": 0,
                    "answers": ["58", "60", "62", "64"]
                  },
                  {
-                   "id": 44,
+                   "id": 42,
                    "content": "Which of the following numbers is both a perfect square and a perfect cube?",
                    "correctIndex": 2,
                    "answers": ["25", "30", "64", "81"]
                  },
                  
                  {
-                    "id": 45,
+                    "id": 43,
                     "content": "Simplify: (-8) × 3 - (-4) ÷ 2.",
                     "correctIndex": 0,
                     "answers": ["-22", "-24", "-18", "-12"]
                   },
+                 
+                 
+                 
+                 
                   {
-                    "id": 46,
+                    "id": 44,
                     "content": "What is the sum of the first 10 positive even numbers?",
                     "correctIndex": 1,
                     "answers": ["100", "110", "120", "130"]
                   },
             
-                  {
-                    "id": 47,
-                    "content": "What is the 5th triangular number?",
-                    "correctIndex": 0,
-                    "answers": ["15", "20", "25", "30"]
-                  },
-                  {
-                    "id": 48,
-                    "content": "Which of the following numbers is both a prime and a square?",
-                    "correctIndex": 2,
-                    "answers": ["11", "15", "25", "29"]
-                  },
            
         
                   {
-                    "id": 49,
+                    "id": 45,
                     "content": "What is the next term in the sequence: 1, 4, 9, 16, ...?",
                     "correctIndex": 1,
                     "answers": ["23", "25", "29", "36"]
                   },
-                  {
-                    "id": 50,
-                    "content": "What is the 8th Fibonacci number?",
-                    "correctIndex": 2,
-                    "answers": ["13", "18", "21", "34"]
-                  },
-               
+                  
               
                   {
-                    "id": 51,
+                    "id": 46,
                     "content": "What is the 10th prime number?",
                     "correctIndex": 1,
                     "answers": ["23", "29", "31", "37"]
                   },
                 
                   {
-                    "id": 52,
+                    "id": 47,
                     "content": "Which of the following numbers is divisible by both 3 and 4?",
                     "correctIndex": 2,
                     "answers": ["15", "20", "24", "27"]
                   },
-                  {
-                    "id": 53,
-                    "content": "Evaluate: 6 ÷ (2 + 1) × 4.",
-                    "correctIndex": 1,
-                    "answers": ["2", "8", "12", "16"]
-                  },
+               
                
               
                   {
-                    "id": 54,
+                    "id": 48,
                     "content": "What is the next term in the sequence: 2, 6, 12, 20, ...?",
                     "correctIndex": 3,
                     "answers": ["28", "32", "40", "30"]
                   },
               
                   {
-                      "id": 55,
+                      "id": 49,
                       "content": "What is the least common multiple of 6 and 8?",
                       "correctIndex": 2,
                       "answers": ["12", "16", "24", "48"]
                     },
            
                     {
-                      "id": 56,
+                      "id": 50,
                       "content": "What is the 7th term in the arithmetic sequence: 5, 9, 13, 17, ...?",
                       "correctIndex": 2,
                       "answers": ["21", "25", "29", "33"]
                     },
                
                     {
-                      "id": 57,
+                      "id": 51,
                       "content": "Evaluate: (6 + 4) × (8 - 3).",
                       "correctIndex": 2,
                       "answers": ["35", "42", "50", "56"]
                     },
                 
                     {
-                      "id": 58,
+                      "id": 52,
                       "content": "What is the 4th term in the geometric sequence: 2, 6, 18, 54, ...?",
-                      "correctIndex": 2,
+                      "correctIndex": 3,
                       "answers": ["6", "18", "54", "162"]
                     },
                     {
-                      "id": 59,
+                      "id": 53,
                       "content": "Which of the following numbers is a factor of both 24 and 36?",
                       "correctIndex": 1,
                       "answers": ["8", "12", "16", "20"]
                     },
                   
                     {
-                      "id": 60,
+                      "id": 54,
                       "content": "What is the value of (4 × 5) + (6 × 2) - (3 × 3)?",
                       "correctIndex": 3,
                       "answers": ["7", "15", "24", "23"]
                     },
                     {
-                      "id": 61,
+                      "id": 55,
                       "content": "Which of the following numbers is both a square and a cube?",
                       "correctIndex": 2,
                       "answers": ["8", "16", "64", "128"]
                     },
                     
                     {
-                      "id": 62,
+                      "id": 56,
                       "content": "Which of the following numbers is a prime number?",
                       "correctIndex": 0,
                       "answers": ["11", "20", "25", "36"]
                     },
                    
                     {
-                      "id": 63,
-                      "content": "What is the 10th term in the Fibonacci sequence: 1, 1, 2, 3, 5, ...?",
-                      "correctIndex": 3,
-                      "answers": ["21", "35", "55", "34"]
-                    },
-                 
-                
-                    {
-                      "id": 64,
+                      "id": 57,
                       "content": "What is the 7th term in the arithmetic sequence: -2, 1, 4, 7, ...?",
                       "correctIndex": 0,
                       "answers": ["16", "19", "22", "25"]
                     },
                     {
-                      "id": 65,
+                      "id": 58,
                       "content": "What is the sum of the first 10 perfect squares?",
                       "correctIndex": 2,
                       "answers": ["190", "285", "385", "490"]
                     },
                   
+            
                     {
-                      "id": 66,
-                      "content": "What is the 5th term in the geometric sequence: 3, -6, 12, -24, ...?",
-                      "correctIndex": 1,
-                      "answers": ["-48", "48", "-96", "96"]
-                    },
-                    {
-                      "id": 67,
+                      "id": 59,
                       "content": "Which of the following numbers is a multiple of both 5 and 7?",
                       "correctIndex": 3,
                       "answers": ["15", "21", "28", "35"]
                     },
                    
                     {
-                      "id":68,
+                      "id":60,
                       "content": "What is the sum of the first 15 odd numbers?",
                       "correctIndex": 2,
                       "answers": ["105", "195", "225", "285"]
@@ -547,34 +449,22 @@
                    
                     
                     {
-                      "id": 69,
+                      "id": 61,
                       "content": "What is the 9th term in the arithmetic sequence: 2, 5, 8, 11, ...?",
                       "correctIndex": 3,
                       "answers": ["22", "25", "28", "26"]
                     },
                    
                     {
-                      "id": 70,
+                      "id": 62,
                       "content": "Which of the following numbers is a multiple of both 3 and 5?",
                       "correctIndex": 1,
                       "answers": ["10", "15", "21", "28"]
                     },
-                    {
-                      "id": 71,
-                      "content": "What is the 6th term in the geometric sequence: 2, -6, 18, -54, ...?",
-                      "correctIndex": 3,
-                      "answers": ["162", "-162", "486", "-486"]
-                    },
-                  
-                    {
-                      "id": 72,
-                      "content": "What is the 8th term in the Fibonacci sequence: 0, 1, 1, 2, 3, ...?",
-                      "correctIndex": 0,
-                      "answers": ["13", "20", "21", "34"]
-                    },
+                   
                     
                     {
-                      "id": 73,
+                      "id": 63,
                       "content": "What is the sum of the first 12 even numbers?",
                       "correctIndex": 1,
                       "answers": ["66", "156", "288", "402"]
