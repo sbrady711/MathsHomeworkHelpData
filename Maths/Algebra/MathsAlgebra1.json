@@ -1,0 +1,539 @@
+
+[
+    {
+        "id": 0,
+        "category": "Algebra",
+        "description": "Strand units: Extending and using patterns",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Exploring Number Patterns: Odd and Even Numbers",
+                            "topicContent": "Introduction of the concept of patterns in numbers. Identify and count odd and even numbers using the hundred square.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b61c1be6c0f0/100083056474bfaa/1080.mp4"
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Counting in Twos: Visualizing Number Sequences",
+                            "topicContent": "Engage in counting in twos on the hundred square.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b61c1ae3c4f0/57c0577cee65b07b/1080.mp4"
+                        },
+                    
+                     
+                {
+                            "id": 2,
+                            "topicTitle": "Patterns 1-100",
+                            "topicContent": "Discuss the effect of adding 10 to different numbers.Explore the one hundred square and counting patterns.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b61c1ae1c58f/08f66542db407ace/1080.mp4"
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Introduction to Frames for Unknown Numbers: Visualizing Missing Values",
+                            "topicContent": "Introduction of the concept of using a frame to represent an unknown number. Examples like 3 + 5 = ■ and 2 + ■ = 6 to show the presence of the unknown.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b61c1ae5c563/3a90e2150a22d559/1080.mp4"                        }
+      ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description":  "Put your Strand of Algebra knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "Which number is even? ",
+                "correctIndex": 1,
+                "answers": [
+                  "3",
+                  "4",
+                  "9",
+                  "7",
+                  "11"
+                ]
+              },
+              {
+                "id": 1,
+                "content": "Count in twos from 2 to 12. Which number comes after 6?",
+                "correctIndex": 2,
+                "answers": [
+                  "4",
+                  "6",
+                  "8",
+                  "10"
+                ]
+              },
+              {
+                "id": 2,
+                "content": "Build a set of numbers in twos starting . What is the amount of 4 sets of two?",
+                "correctIndex": 2,
+                "answers": [
+                  "3",
+                  "4",
+                  "8",
+                  "6"
+                ]
+              },
+              {
+                "id": 3,
+                "content": "Color odd numbers red and even numbers blue on the hundred square. What color is 14?",
+                "correctIndex": 1,
+                "answers": [
+                  "Red",
+                  "Blue",
+                  "Purple",
+                  "Green"
+                ]
+              },
+              {
+                "id": 4,
+                "content": "What pattern do you notice in these addition facts: 4 + 6, 3 + 7, 2 + 8?",
+                "correctIndex": 0,
+                "answers": [
+                  "They all add up to 10.",
+                  "They are all odd numbers.",
+                  "They are all even numbers.",
+                  "They have the same result."
+                ]
+              },
+              {
+                "id": 5,
+                "content": "What is the result when you add 10 to 15?",
+                "correctIndex": 2,
+                "answers": [
+                  "5",
+                  "10",
+                  "25",
+                  "35"
+                ]
+              },
+              {
+                "id": 6,
+                "content": "What does the 'a' represent in the equation 8 + a = 15?",
+                "correctIndex": 1,
+                "answers": [
+                  "5",
+                  "7",
+                  "10",
+                  "15"
+                ]
+              },
+              {
+                "id": 7,
+                "content": "Solve the equation ■ + 3 = 9. What value should be in the frame?",
+                "correctIndex": 0,
+                "answers": [
+                  "6",
+                  "7",
+                  "8",
+                  "9"
+                ]
+              },
+              {
+                "id": 8,
+                "content": "Create an equation using a frame for 15. For example, ■ + 2 = 10.",
+                "correctIndex": 3,
+                "answers": [
+                  "5 + ■ = 12",
+                  "■ + 4 = 9",
+                  "7 + ■ = 11",
+                  "6 + ■ = 15"
+                ]
+              },
+            
+              
+              {
+                 "id": 9,
+                 "content": "Which of the following sets of numbers are even? Choose all that apply.",
+                 "correctIndex": 1,
+                 "answers": [
+                   "2, 5, 8",
+                   "4, 6, 10",
+                   "1, 3, 7",
+                   "9, 12, 15"
+                 ]
+               },
+               {
+                 "id": 10,
+                 "content": "Count in twos from 2 to 14. Which number comes before 14?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "8",
+                   "10",
+                   "12",
+                   "14"
+                 ]
+               },
+               {
+                 "id": 11,
+                 "content": "Build a set of numbers in twos starting from 2. What is the fifth number in the set?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "6",
+                   "7",
+                   "12",
+                   "10"
+                 ]
+               },
+               {
+                   "id": 12,
+                   "content": "Color odd numbers yellow and even numbers green on the hundred square. What color is 21?",
+                   "correctIndex": 0,
+                   "answers": [
+                       "Yellow",
+                       "Green", "Blue", "Orange"
+                   ]
+               },
+               {
+                 "id": 13,
+                 "content": "What pattern do you notice in these addition facts: 5 + 5, 7 + 3, 6 + 4?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "They all add up to 10.",
+                   "They are all odd numbers.",
+                   "They are all even numbers.",
+                   "They have the same result."
+                 ]
+               },
+               {
+                 "id": 14,
+                 "content": "What is the result when you add 10 to 18?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "10",
+                   "18",
+                   "28",
+                   "38"
+                 ]
+               },
+               {
+                 "id": 15,
+                 "content": "What does the frame ■ represent in the equation 7 + ■ = 14?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "7",
+                   "9",
+                   "14",
+                   "21"
+                 ]
+               },
+               {
+                 "id": 16,
+                 "content": "Solve the equation ■ + 2 = 10. What value should be in the frame?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "6",
+                   "8",
+                   "10",
+                   "12"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "Create an equation using a frame for 14. For example, ■ + 3 = 14.",
+                 "correctIndex": 2,
+                 "answers": [
+                   "5 + ■ = 15",
+                   "■ + 4 = 10",
+                   "8 + ■ = 14",
+                   "6 + ■ = 18"
+                 ]
+               },
+          
+               {
+                 "id": 18,
+                 "content": "Which of the following numbers is even?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "3",
+                   "6",
+                   "9",
+                   "11"
+                 ]
+               },
+               {
+                 "id": 19,
+                 "content": "Count in twos from 10 to 30. What number comes after 22?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "20",
+                   "24",
+                   "26",
+                   "28"
+                 ]
+               },
+               {
+                 "id": 20,
+                 "content": "Build a set of numbers in twos. What is five sets of two total?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "10",
+                   "6",
+                   "18",
+                   "8"
+                 ]
+               },
+               {
+                 "id": 21,
+                 "content": "Color odd numbers blue and even numbers red on the number line. What color is 17?",
+                 "correctIndex": 3,
+                 "answers": [
+                  
+                   "Red", "Purple",
+                   "Yellow",
+                 "Blue"                 ]
+               },
+               {
+                 "id": 22,
+                 "content": "What pattern do you notice in these addition facts: 4 + 7, 8 + 3, 4 + 7?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "They all add up to 10.",
+                   "They are all odd numbers.",
+                   "They all add up to 11.",
+                   "The second number is always 2 less than 10."
+                 ]
+               },
+               {
+                 "id": 23,
+                 "content": "What is the result when you add 10 to 31?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "10",
+                   "31",
+                   "41",
+                   "40"
+                 ]
+               },
+               {
+                 "id": 24,
+                 "content": "What does the frame ■ represent in the equation 9 + ■ = 18?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "9",
+                   "18",
+                   "27",
+                   "36"
+                 ]
+               },
+               {
+                 "id":25,
+                 "content": "Solve the equation ■ + 3 = 14. What value should be in the frame?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "9",
+                   "10",
+                   "11",
+                   "12"
+                 ]
+               },
+               {
+                 "id": 26,
+                 "content": "Create an equation using a frame for 17. For example, ■ + 5 = 15.",
+                 "correctIndex": 0,
+                 "answers": [
+                   "7 + ■ = 17",
+                   "■ + 4 = 13",
+                   "11 + ■ = 21",
+                   "6 + ■ = 16"
+                 ]
+               },
+         
+               {
+                  "id": 27,
+                  "content": "Look at this pattern: 4, 7, 10, ___. What number comes next?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "12",
+                    "13",
+                    "14",
+                    "16"
+                  ]
+                },
+                {
+                  "id": 28,
+                  "content": "Count in threes: 3, 6, 9, ___. What number comes after 9?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "12",
+                    "15",
+                    "18",
+                    "21"
+                  ]
+                },
+                {
+                  "id": 29,
+                  "content": "If we start counting from 0 and add 4 each time, which number will be fifth?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "12",
+                    "14",
+                    "16",
+                    "20"
+                  ]
+                },
+                {
+                  "id":30,
+                  "content": "On the hundred square, circle all the odd numbers. How many circles are there?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "50",
+                    "40",
+                    "30",
+                    "20"
+                  ]
+                },
+                {
+                  "id": 31,
+                  "content": "What do you notice about the numbers when we add 9?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "They become even.",
+                    "They become smaller.",
+                    "The ones place goes down by 1 each time.",
+                    "They become bigger."
+                  ]
+                },
+                {
+                  "id": 32,
+                  "content": "Solve the equation: ■ + 8 = 15. What number should go in the frame?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "5",
+                    "6",
+                    "11",
+                    "7"
+                  ]
+                },
+                {
+                  "id":33,
+                  "content": " 12 + ■ = 20.",
+                  "correctIndex": 1,
+                  "answers": [
+                    "10",
+                    "8",
+                    "6",
+                    "4"
+                  ]
+           },
+                {
+                  "id": 34,
+                  "content": "How is algebra helpful in solving problems?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "It's not helpful.",
+                    "It's helpful for adults only.",
+                    "It helps us find the missing numbers and solve tricky equations.",
+                    "It helps us memorize 2s."
+                  ]
+                },
+                {
+                  "id": 35,
+                  "content": "Explain the difference between odd and even numbers to a friend.",
+                  "correctIndex": 3,
+                  "answers": [
+                    "Odd numbers are smaller than even numbers.",
+                    "Odd numbers end in 0 or 5.",
+                    "Even numbers can be divided by 3.",
+                    "Odd numbers can't be divided into equal groups."
+                  ]
+                },
+                {
+                   "id": 36,
+                   "content": "Look at this pattern: 2, 4, 6, 8, ___. What number comes next?",
+                   "correctIndex": 3,
+                   "answers": [
+                     "9",
+                     "12",
+                     "11",
+                     "10"
+                   ]
+                 },
+                 {
+                   "id": 37,
+                   "content": "Count in fives: 5, 10, 15, ___. What number comes after 15?",
+                   "correctIndex": 0,
+                   "answers": [
+                     "20",
+                     "25",
+                     "30",
+                     "35"
+                   ]
+                 },
+                 {
+                   "id": 38,
+                   "content": "If we start counting from 1 and add 7 each time, which number will be sixth?",
+                   "correctIndex": 2,
+                   "answers": [
+                     "37",
+                     "39",
+                     "43",
+                     "45"
+                   ]
+                 },
+                 {
+                   "id": 39,
+                   "content": "On the hundred square, circle all the even numbers. How many circles are there?",
+                   "correctIndex": 0,
+                   "answers": [
+                     "50",
+                     "40",
+                     "30",
+                     "20"
+                   ]
+                 },
+           
+                 {
+                   "id": 40,
+                   "content": "Solve the equation: ■ + 6 = 13. What number should go in the frame?",
+                   "correctIndex": 1,
+                   "answers": [
+                     "6",
+                     "7",
+                     "8",
+                     "9"
+                   ]
+                 },
+                 {
+                   "id": 41,
+                   "content": "18 + ■ = 25.",
+                   "correctIndex": 3,
+                   "answers": [
+                     "3",
+                     "4",
+                     "5",
+                     "7"
+                   ]
+                 },
+               
+                 {
+                   "id": 42,
+                   "content": "Why is it important to use frames for unknown values in equations?",
+                   "correctIndex": 2,
+                   "answers": [
+                     "It makes the equation look better.",
+                     "It's not important.",
+                     "It helps us see the missing number and solve the equation.",
+                     "It's faster to write."
+                   ]
+                 },
+                 {
+                   "id": 43,
+                   "content": "Can you find a pattern in the times tables? Explain to a friend.",
+                   "correctIndex": 3,
+                   "answers": [
+                     "There is no pattern in times tables.",
+                     "All times tables are the same.",
+                     "Only the 1s times table has a pattern.",
+                     "Each times table has a pattern where the numbers increase by the same amount each time."
+                   ]
+                 }
+                
+               
+              
+          ]
+      }
+       
+    }
+
+]
