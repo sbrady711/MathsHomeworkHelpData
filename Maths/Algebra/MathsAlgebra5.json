@@ -6,84 +6,36 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
+        
+                        {
                             "id": 0,
-                            "topicTitle": "Recognizing Positive and Negative Numbers: Contextual Insights",
-                            "topicContent": "Engage students in analyzing real-world contexts involving positive and negative numbers. Discuss examples such as money, temperatures, and scores to distinguish values above and below zero."
+                            "topicTitle": "Interpreting Number Signs: Positive and Negative Terminology",
+                            "topicContent": "Practice recording positive and negative numbers using + and - signs.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b21f14ecc18f/b6708d72b3067061/1080.mp4"
+                            
                         },
+                     
                         {
                             "id": 1,
-                            "topicTitle": "Interpreting Number Signs: Positive and Negative Terminology",
-                            "topicContent": "Teach students to refer to positive and negative numbers as 'positive seven' and 'negative three.'   Practice recording positive and negative numbers using + and - signs."
+                            "topicTitle": "Exploring Properties of Brackets and BOMDAS: Priority of Operations",
+                            "topicContent": "Introduction to BOMDAS and its importance in mathematical expressions.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0b21f15ebc65a/986f792d1ba2919f/1080.mp4"
                         },
+                  
+                
                         {
                             "id": 2,
-                            "topicTitle": "Drawing and Interpreting Thermometers: Representing Temperatures",
-                            "topicContent": "Guide students to draw and label thermometers.Have them mark in temperatures and analyze weather forecasts to interpret and discuss temperature variations."
+                            "topicTitle": "Exploring Prime and Composite Numbers: Definition and Identification",
+                            "topicContent": "Define prime numbers as numbers with exactly two divisors. Investigate the relationship between prime and composite numbers and their connections with odd and even numbers.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b21f15e9c3f9/3241c34a29cf0c82/1080.mp4"
                         },
                         {
                             "id": 3,
-                            "topicTitle": "Exploring Properties of Brackets: Priority of Operations",
-                            "topicContent": "Introduce brackets and their importance in mathematical expressions.Engage students in identifying, discussing, and calculating expressions with brackets in various positions."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Understanding Priority of Operations: Brackets and Their Impact",
-                            "topicContent": "Teach students about the priority of operations in expressions with brackets.             Explore cases where changing the positions of brackets affect the result."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Discovering Relationships in Number Patterns: Analyzing Simple Sequences",
-                            "topicContent": "Have students identify and discuss rules for simple number sequences.Provide examples of sequences that increase or decrease by a constant value."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Exploring Prime and Composite Numbers: Definition and Identification",
-                            "topicContent": "Define prime numbers as numbers with exactly two divisors. Guide students to identify simple prime numbers through trial and error and record them."
-                        },
-                        {
-                            "id": 7,
                             "topicTitle": "Using the Sieve of Eratosthenes: Identifying Prime Numbers",
-                            "topicContent": "Introduce the Sieve of Eratosthenes method to identify prime numbers.Help students use this method to discover and record prime numbers."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Understanding Composite Numbers: Defining and Identifying",
-                            "topicContent": "Define composite numbers as those with more than two divisors. Help students identify and record composite numbers using number facts and calculators."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Exploring Relationships between Prime and Composite Numbers: Odd and Even",
-                            "topicContent": "Investigate the relationship between prime and composite numbers and their connections with odd and even numbers."
-                            
-                        },
-                        {
-                                    "id": 10,
-                                    "topicTitle": "Exploring Square and Rectangular Numbers: Visualizing Geometric Patterns",
-                                    "topicContent": "Provide students with tools like geoboards and squared paper to construct diagrams illustrating square and rectangular numbers."
-                                },
-                                {
-                                    "id": 11,
-                                    "topicTitle": "Comparing Square and Rectangular Numbers: Analyzing Patterns",
-                                    "topicContent": "Engage students in comparing and recording various square and rectangular numbers.     Discuss the properties of these numbers and their significance."
-                                },
-                                {
-                                    "id": 12,
-                                    "topicTitle": "Applying Number Patterns in Real Life: Patterns in Practical Scenarios",
-                                    "topicContent": "Connect number patterns to real-life situations and problem-solving.Have students identify patterns in scenarios such as shopping discounts or growth rates."
-                                },
-                                {
-                                    "id": 13,
-                                    "topicTitle": "Solving Expressions with Multiple Operations: Applying Rules and Priorities",
-                                    "topicContent": "Guide students in solving expressions with multiple operations, considering brackets and priority rules.Encourage critical thinking about the sequence of operations."
-                                },
-                                {
-                                    "id": 14,
-                                    "topicTitle": "Reviewing Algebraic Concepts: Integrating Patterns, Operations, and Numbers:",
-                                    "topicContent": "Summarize the concepts learned, including positive and negative numbers, brackets, patterns, and number types.Provide opportunities for students to review and apply their understanding in diverse scenarios."
-                                    
-                                }
+                            "topicContent": "Introduction to the Sieve of Eratosthenes method to identify prime numbers.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b21f15efc5f9/7e52bf46013cd252/1080.mp4"                        }
+                        
+                    
                                 
                         
                         
@@ -198,7 +150,7 @@
                 {
                   "id": 15,
                   "content": "Calculate the product of -4 and -9.",
-                  "correctIndex": 2,
+                  "correctIndex": 1,
                   "answers": ["-36", "36", "-13", "13"]
                 },
                 {
@@ -211,14 +163,14 @@
                 {
                   "id": 17,
                   "content": "In the sequence 3, 6, 9, 12, ..., which numbers are prime?",
-                  "correctIndex": 0,
+                  "correctIndex": 1,
                   "answers": ["None of them", "3", "6", "12"]
                 },
                 {
                   "id": 18,
                   "content": "What is the difference between the smallest and largest prime numbers between 40 and 50?",
-                  "correctIndex": 1,
-                  "answers": ["8", "10", "5", "12"]
+                  "correctIndex": 3,
+                  "answers": ["8", "10", "5", "6"]
                 },
                 {
                   "id": 19,
@@ -237,8 +189,8 @@
                 {
                   "id": 21,
                   "content": "What is the sum of all the even numbers between 15 and 25?",
-                  "correctIndex": 1,
-                  "answers": ["180", "100", "130", "210"]
+                  "correctIndex": 2,
+                  "answers": ["180", "100", "76", "210"]
                 },
              
                 {
@@ -274,8 +226,8 @@
                 {
                   "id": 26,
                   "content": "Evaluate the expression: 24 ÷ 4 + (7 - 3).",
-                  "correctIndex": 0,
-                  "answers": ["10", "8", "6", "12"]
+                  "correctIndex": 2,
+                  "answers": ["11", "8", "10", "12"]
                 },
                 {
                   "id": 27,
@@ -330,7 +282,7 @@
         
                 {
                   "id": 35,
-                  "content": "What is the sum of all the odd numbers between 20 and 30?",
+                  "content": "What is the sum of all the odd numbers between 20 and 30 excluding 20 and 30?",
                   "correctIndex": 2,
                   "answers": ["200", "210", "125", "230"]
                 },
@@ -449,8 +401,8 @@
                 {
                    "id": 54,
                    "content": "Find the missing number in the pattern: 7, 14, 21, ____, 35.",
-                   "correctIndex": 0,
-                   "answers": ["28", "30", "24", "42"]
+                   "correctIndex": 2,
+                   "answers": ["27", "30", "28", "42"]
                  },
                  {
                    "id": 55,
@@ -488,167 +440,7 @@
                    "content": "Simplify: 25 - (12 + 8) + 3.",
                    "correctIndex": 2,
                    "answers": ["12", "22", "2", "38"]
-                 },
-                 {
-                   "id": 61,
-                   "content": "What is the 8th triangular number?",
-                   "correctIndex": 1,
-                   "answers": ["28", "36", "45", "56"]
-                 },
-                 {
-                   "id": 62,
-                   "content": "Which of the following numbers is not a factor of 48?",
-                   "correctIndex": 2,
-                   "answers": ["6", "12", "7", "16"]
-                 },
-                 {
-                   "id": 63,
-                   "content": "If you divide an odd number by 2, is the result odd or even?",
-                   "correctIndex": 1,
-                   "answers": ["Odd", "Even", "It depends", "Neither"]
-                 },
-                 {
-                   "id": 64,
-                   "content": "What is the difference between the 11th square number and the 10th square number?",
-                   "correctIndex": 3,
-                   "answers": ["110", "121", "99", "21"]
-                 },
-              
-                 {
-                   "id": 65,
-                   "content": "What is the next term in the sequence: 1, 4, 9, 16, ...?",
-                   "correctIndex": 2,
-                   "answers": ["20", "24", "25", "28"]
-                 },
-                 {
-               
-                   "id": 66,
-                   "content": "How many prime numbers are there between 80 and 90?",
-                   "correctIndex": 1,
-                   "answers": ["2", "1", "4", "5"]
-                 },
-                 {
-                   "id": 67,
-                   "content": "What is the product of the first three square numbers?",
-                   "correctIndex": 2,
-                   "answers": ["18", "12", "36", "24"]
-                 },
-                 {
-                   "id": 68,
-                   "content": "Which of the following numbers is a multiple of both 4 and 5?",
-                   "correctIndex": 0,
-                   "answers": ["20", "15", "24", "30"]
-                 },
-              
-                 {
-                   "id": 71,
-                   "content": "What is the sum of the first ten odd numbers?",
-                   "correctIndex": 2,
-                   "answers": ["60", "50", "100", "45"]
-                 },
-              
-              {
-                "id": 72,
-                "content": "What is the next term in the pattern: 2, 6, 12, 20, ____?",
-                "correctIndex": 0,
-                "answers": ["30", "24", "25", "32"]
-              },
-              {
-                "id": 73,
-                "content": "Find the sum of the first 8 prime numbers.",
-                "correctIndex": 1,
-                "answers": ["99", "77", "88", "105"]
-              },
-              {
-                "id": 74,
-                "content": "Which of the following is a square number?",
-                "correctIndex": 2,
-                "answers": ["11", "18", "25", "32"]
-              },
-            
-              {
-                "id": 75,
-                "content": "Which of the following is a prime number?",
-                "correctIndex": 0,
-                "answers": ["7", "14", "21", "28"]
-              },
-              {
-                "id": 76,
-                "content": "What is the value of (-3) × (-5)?",
-                "correctIndex": 1,
-                "answers": ["-8", "15", "8", "-15"]
-              },
-              {
-                "id": 77,
-                "content": "How many factors does the number 36 have?",
-                "correctIndex": 3,
-                "answers": ["4", "5", "8", "9"]
-              },
-              {
-                "id": 78,
-                "content": "What is the 7th triangular number?",
-                "correctIndex": 0,
-                "answers": ["28", "36", "45", "55"]
-              },
-            
-              {
-                "id": 79,
-                "content": "What is the difference between the 10th and 9th prime numbers?",
-                "correctIndex": 3,
-                "answers": ["3", "4", "5", "6"]
-              },
-         
-              {
-                "id": 80,
-                "content": "What is the sum of the first five cube numbers?",
-                "correctIndex": 0,
-                "answers": ["225", "140", "125", "150"]
-              },
-              {
-                "id": 81,
-                "content": "Which of the following expressions is equivalent to 4 × (6 + 2)?",
-                "correctIndex": 3,
-                "answers": ["16 + 4", "7 × 5", "28 ÷ 2", "32 x 4"]
-              },
-              {
-                "id": 82,
-                "content": "What is the 9th square number?",
-                "correctIndex": 2,
-                "answers": ["49", "56", "81", "64"]
-              },
-              {
-                "id": 83,
-                "content": "Evaluate: (-9) × 4 - (-15) ÷ 3.",
-                "correctIndex": 3,
-                "answers": ["-39", "39", "-27", "-31"]
-              },
-              {
-                "id": 84,
-                "content": "What is the sum of the first twelve odd numbers?",
-                "correctIndex": 2,
-                "answers": ["120", "132", "144", "156"]
-              },
-              {
-                "id": 85,
-                "content": "Which of the following is a multiple of both 3 and 5?",
-                "correctIndex": 0,
-                "answers": ["15", "8", "18", "27"]
-              },
-              {
-                "id": 86,
-                "content": "Evaluate: 6 × (9 - 5) + 12.",
-                "correctIndex": 0,
-                "answers": ["36", "26", "48", "18"]
-              },
-              {
-                "id": 87,
-                "content": "What is the next term in the sequence: 2, 8, 18, 32, ...?",
-                "correctIndex": 3,
-                "answers": ["42", "48", "56", "50"]
-              }
-              
-              
-              
+                 }
               
           ]
       }
