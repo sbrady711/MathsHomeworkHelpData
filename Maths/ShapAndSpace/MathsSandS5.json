@@ -9,15 +9,15 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Lesson: Unveiling the Trapezium",
-                            "topicContent": "Introduction to trapeziums as four-sided polygons with one pair of parallel sides.Discuss the properties of trapeziums, including angles and side lengths. Compare and contrast trapeziums with other quadrilaterals.",
+                            "topicTitle": "Unveiling the Trapezium",
+                            "topicContent": "Introduction to trapeziums as four-sided polygons with one pair of parallel sides. Discuss the properties of trapeziums, including angles and side lengths. Compare and contrast trapeziums with other quadrilaterals.",
               "video": "https://api-files.sproutvideo.com/file/d390d0b21e14e2cf5a/27e2700af01372ae/1080.mp4"
           },
                    
                         {
                         "id": 2,
-                        "topicTitle": "Lesson: Investigating the Trapezoid",
-                        "topicContent": "Introduce trapezoids as quadrilaterals with exactly one pair of parallel sides.Explore the properties of trapezoids, including angles and side lengths. Use this information to determine the perimeter.",
+                        "topicTitle": "Investigating the Trapezoid",
+                        "topicContent": "Introduction trapezoids as quadrilaterals with exactly one pair of parallel sides. Explore the properties of trapezoids, including angles and side lengths. Use this information to determine the perimeter.",
                         "video": "https://api-files.sproutvideo.com/file/d390d0b21d1ee2c65a/1903269af9de0a7e/1080.mp4"
                     },
                
