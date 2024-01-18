@@ -10,43 +10,43 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Lesson: Discovering Spheres",
-                            "topicContent": "Introduction to spheres as round, ball-like shapes.Compare spheres with other 3-D shapes like cubes and cylinders.Discuss where spheres can be found in the environment. Explore creating prints using the surface of spheres.",
+                            "topicTitle": "Discovering Spheres",
+                            "topicContent": "Introduction to spheres as round, ball-like shapes. Compare spheres with other 3-D shapes like cubes and cylinders. Discuss where spheres can be found in the environment. Explore creating prints using the surface of spheres.",
               "video": "https://api-files.sproutvideo.com/file/4d90d0b4191ce2c0c4/0b58c55daed239c5/1080.mp4"                        },
                         {
                             "id": 1,
-                            "topicTitle": "Lesson: Unveiling Cones",
-                            "topicContent": "Introduction to cones and describe their attributes. Compare cones with other 3-D shapes like cylinders and spheres.Discuss where cones can be found in the environment. Investigate making prints with cone surfaces.",
+                            "topicTitle": "Unveiling Cones",
+                            "topicContent": "Introduction to cones and describe their attributes. Compare cones with other 3-D shapes like cylinders and spheres. Discuss where cones can be found in the environment. Investigate making prints with cone surfaces.",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b4191ce3c5f0/adafcfd288621e8d/1080.mp4"                        },
                         {
                             "id": 2,
-                            "topicTitle": "Lesson: Exploring Pyramids",
-                            "topicContent": "Introduction to pyramids as 3-D shapes with triangular sides meeting at a point.Discuss the different types of pyramids, like triangular and square-based.Compare pyramids with other 3-D shapes like cubes and cylinders. Identify and create pyramid shapes in the environment.",
+                            "topicTitle": "Exploring Pyramids",
+                            "topicContent": "Introduction to pyramids as 3-D shapes with triangular sides meeting at a point.Discuss the different types of pyramids, like triangular and square-based. Compare pyramids with other 3-D shapes like cubes and cylinders. Identify and create pyramid shapes in the environment.",
                             "video": "https://api-files.sproutvideo.com/file/0690d0b4191ce1c48f/31096449d7d98eed/1080.mp4"                        },
                         {
                             "id": 3,
-                            "topicTitle": "Lesson: Exploring Cuboids",
-                            "topicContent": "Introduction to cuboids as rectangular box-like shapes.Describe the attributes of cuboids: length, width, and height.Compare cuboids with other 3-D shapes like cubes and cylinders.Investigate the use of cuboids in the environment, like packaging and buildings.",
+                            "topicTitle": "Exploring Cuboids",
+                            "topicContent": "Introduction to cuboids as rectangular box-like shapes.Describe the attributes of cuboids: length, width, and height.Compare cuboids with other 3-D shapes like cubes and cylinders. Investigate the use of cuboids in the environment, like packaging and buildings.",
                             "video": "https://api-files.sproutvideo.com/file/1190d0b4191ce6c898/c6375c9a1d248c03/1080.mp4"                        },
                         {
                         
                         "id": 4,
-                          "topicTitle": "Lesson: Understanding Cubes",
+                          "topicTitle": "Understanding Cubes",
                           "topicContent": "Introduction to cubes as three-dimensional, six-sided geometric figures with equal sides and angles. Explore cube's characteristics and how they differ from other 3-D shapes. Discuss practical applications of cubes in various fields.",
                           "video": "https://api-files.sproutvideo.com/file/7990d0b4191ce4c2f0/1062e23f39852b87/1080.mp4"                        },
                         
                         
                         {
                             "id": 5,
-                            "topicTitle": "Lesson: Discovering Cylinders",
-                            "topicContent": "Introduction to  cylinders as shapes with circular bases and curved sides. Describe the attributes of cylinders: base, height, and curved surface.Compare cylinders with other 3-D shapes like cones and spheres. Discuss where cylinders can be found in the environment, like cans and pipes.",
+                            "topicTitle": "Discovering Cylinders",
+                            "topicContent": "Introduction to cylinders as shapes with circular bases and curved sides. Describe the attributes of cylinders: base, height, and curved surface. Compare cylinders with other 3-D shapes like cones and spheres. Discuss where cylinders can be found in the environment, like cans and pipes.",
                             "video": "https://api-files.sproutvideo.com/file/ea90d0b4191ce4c563/5394b21738ea3ba7/1080.mp4"                        },
                     
             
                       
                         {
                             "id": 6,
-                            "topicTitle": "Lesson: Sorting and Classifying Shapes",
+                            "topicTitle": "Sorting and Classifying Shapes",
                             "topicContent": "Sort and classify the shapes based on attributes. Discuss the criteria used for sorting.",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b4191ceaccf0/bb689ce0c6e58157/1080.mp4"                        },
                         
@@ -56,14 +56,14 @@
                         
                         {
                             "id": 7,
-                            "topicTitle": "Lesson: Quartering Shapes",
+                            "topicTitle": "Quartering Shapes",
                             "topicContent": "Explore dividing shapes into quarters.Discuss the relationship between halves and quarters. Cut shapes into equal quarters and discuss the resulting parts",
                             "video": "https://api-files.sproutvideo.com/file/ea90d0b4191ceacb63/c27e6875fed71626/1080.mp4"
                         },
               
                 {
                             "id": 8,
-                            "topicTitle": "Lesson: Investigating Angles",
+                            "topicTitle": "Investigating Angles",
                             "topicContent": "Explore angles in the environment, like door handles and wheels. Make full, half, and quarter turns in the yard or hall. Discuss angles as corners, measure right angles, and relate them to turns.",
                             "video": "https://api-files.sproutvideo.com/file/d390d0b4191de3c65a/31e98bc5dc2dbc47/1080.mp4"
                         }
