@@ -10,7 +10,7 @@
           {
                             "id": 0,
                             "topicTitle": "Introduction to Length Measurement with Non-Standard Units",
-                            "topicContent": "Learn to estimate, compare, and measure length using non-standard units like lollipop sticks, pencils, spans, and strides.",
+                            "topicContent": "Learn to estimate, compare, and measure length using non-standard units.",
               "video": "https://api-files.sproutvideo.com/file/0690d0b61214e4c08f/64e31a756cd9edc1/1080.mp4"                        },
                      
                         {
@@ -34,7 +34,7 @@
                         {
                             "id": 3,
                             "topicTitle": "Exploring Standard Units: Introduction to Kilogram",
-                            "topicContent": "Introduce the concept of the kilogram as a standard unit of weight.Discuss the need for standard units in weight measurement.",
+                            "topicContent": "Introduction to the concept of the kilogram as a standard unit of weight. Discuss the need for standard units in weight measurement.",
                             "video": "https://api-files.sproutvideo.com/file/7090d0b61210efc9f9/2dd62dedc9dd3581/1080.mp4"
                         },
                   
@@ -55,15 +55,15 @@
                         {
                             "id": 5,
                             "topicTitle": "Understanding Days and Months ",
-                            "topicContent": "Explore the concept of 'day before' and 'day after' specific days of the week.Engage in activities that involve determining the preceding and following days.",
+                            "topicContent": "Explore the concept of 'day before' and 'day after' specific days of the week. Engage in activities that involve determining the preceding and following days.",
                             "video": "https://api-files.sproutvideo.com/file/a790d0b6121ce9c02e/6379732447e69102/1080.mp4"
                         },
             
                   
                         {
                             "id": 6,
-                            "topicTitle": "Reading Time on a 12-Hour Analogue Clock: Introduction",
-                            "topicContent": "Introduce the 12-hour analogue clock and its components.Learn about the clock face, the movement of hands, and how to read time in hours and half-hours.",
+                            "topicTitle": "Reading Time on a 12-Hour Analogue Clock",
+                            "topicContent": "Introduction to the 12-hour analogue clock and its components. Learn about the clock face, the movement of hands, and how to read time in hours and half-hours.",
                             "video": "https://api-files.sproutvideo.com/file/0690d0b6121ce2ce8f/68abc6676b82d7b0/1080.mp4"
                             
                         },
@@ -73,8 +73,8 @@
                
               {
                             "id": 7,
-                            "topicTitle": "Introducing Euro Coins: Recognizing Coins Up to 50 Cents",
-                            "topicContent": "Introduce the euro coins in denominations up to 50 and 100 cents. Learn to recognize the different coins and their values.",
+                            "topicTitle": "Recognizing Coins Up to 50 Cents",
+                            "topicContent": "Let's observe the euro coins in denominations up to 50 and 100 cents. Learn to recognize the different coins and their values.",
                   "video": "https://api-files.sproutvideo.com/file/1190d0b71a1de2cd98/17c9d7da06ee52dd/1080.mp4"
               }
                    
