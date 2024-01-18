@@ -2,7 +2,7 @@
 [
     {
         "id": 3,
-        "category": "Number",
+        "category": "Fraction",
         "description": "Strand units: Fractions",
       "content": {
           "id": 0,
@@ -10,14 +10,14 @@
           {
               "id": 0,
               "topicTitle": "Fraction Percentages and decimals",
-              "topicContent": "Apply fractions to represent decimals. Learn how fractions to create others portions types of a whole number.",
+              "topicContent": "Apply fractions to represent decimals. Learn how to create others portions types of a whole number.",
               "video": "https://api-files.sproutvideo.com/file/ea90d0b21f1ceacb63/3aa65e79654504a3/1080.mp4"
           },
       
                 {
                             "id": 1,
                             "topicTitle": "Fraction Multiplication and Whole Numbers",
-                            "topicContent": "Explore how to multiply fractions by whole numbers.Apply multiplication strategies to fraction operations.",
+                            "topicContent": "Explore how to multiply fractions by whole numbers. Apply multiplication strategies to fraction operations.",
                     "video": "https://api-files.sproutvideo.com/file/a790d0b21f1de1c02e/2df92ab08ae91086/1080.mp4"                        },
                         
                         {
@@ -30,7 +30,7 @@
                  {
                      "id": 3,
                      "topicTitle": "Fraction Percentages",
-                     "topicContent": "Explore how fractions relate to percentages.Learn to convert fractions to percentages.",
+                     "topicContent": "Explore how fractions relate to percentages. Learn to convert fractions to percentages.",
                      "video": "https://api-files.sproutvideo.com/file/4490d0b21f1de4cacd/de5e4d9c51a2a344/1080.mp4"
                  }
                     ]
