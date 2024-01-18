@@ -2,7 +2,7 @@
 [
     {
         "id": 4,
-        "category": "Number",
+        "category": "Fractions",
         "description": "Strand units: Fractions",
       "content": {
           "id": 0,
@@ -11,7 +11,7 @@
                         {
                             "id": 0,
                             "topicTitle": "Exploring Equivalence (Denominators 2–12)",
-                            "topicContent": "Explore, compare, and record equivalence of fractions with denominators 2–12.Use concrete materials, folding, and charts to demonstrate equivalency.",
+                            "topicContent": "Explore, compare, and record equivalence of fractions with denominators 2–12. Use concrete materials, folding, and charts to demonstrate equivalency.",
                             "video": "https://api-files.sproutvideo.com/file/a790d0b21e1de4c42e/e7778df6d69e3550/1080.mp4"
                         },
                         
@@ -25,7 +25,7 @@
                         {
                             "id": 2,
                             "topicTitle": "Fraction Addition and Subtraction",
-                            "topicContent": "Add and subtract simple fractions and mixed numbers.Utilize equivalent fractions to simplify calculations.",
+                            "topicContent": "Add and subtract simple fractions and mixed numbers. Utilize equivalent fractions to simplify calculations.",
                             "video": "https://api-files.sproutvideo.com/file/ac90d0b21e1debcc25/f10b4de2279d3900/1080.mp4"
                         },
                
