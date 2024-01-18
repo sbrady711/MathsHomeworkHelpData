@@ -2,7 +2,7 @@
 [
     {
         "id": 0,
-        "category": "Number",
+        "category": "Fraction",
         "description": "Strand units: Fractions",
       "content": {
           "id": 0,
@@ -11,7 +11,7 @@
                         {
                             "id": 0,
                             "topicTitle": "Discovering Fractions",
-                            "topicContent": "Discover how to split a set of objects into two equal parts and Understand that quarters are smaller parts than halves.",
+                            "topicContent": "Discover how to split a set of objects into two equal parts and understand that quarters are smaller parts than halves.",
                             "video": "https://api-files.sproutvideo.com/file/0690d0b61316e9ce8f/5de2f17fb2b1a882/1080.mp4"
                         },
                       
@@ -34,7 +34,7 @@
                         {
                             "id": 3,
                             "topicTitle": "Exploring Mixed Fractions",
-                            "topicContent": "Discovering Mixed Fractions. Understand mixed fractions (e.g., 1 and ½) combining whole numbers and learn how to compare fractions with different denominators.Understand which fraction is greater or smaller.",
+                            "topicContent": "Discovering Mixed Fractions. Understand mixed fractions (e.g., 1 and ½) combining whole numbers and learn how to compare fractions with different denominators. Understand which fraction is greater or smaller.",
                             "video": "https://api-files.sproutvideo.com/file/ac90d0b61215e0c725/816cbe35e8110908/1080.mp4"
                         }
                     ]
