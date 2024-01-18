@@ -42,13 +42,13 @@
                         {
                             "id": 5,
                             "topicTitle": "Long multiplication",
-                            "topicContent": "Lets Master long multiplication.",
+                            "topicContent": "Let's Master long multiplication.",
                             "video": "https://api-files.sproutvideo.com/file/1190d0b51115e7c998/70cfce2c9d71d953/1080.mp4"
                         },
                         {
                             "id": 6,
                             "topicTitle": "Subtracting Numbers",
-                            "topicContent": "If we want to subtract 300 from 500, we start at 5 and count backwards 300 numbers: 500, 400, 300. So 500 - 300 = 200. Let's go",
+                            "topicContent": "If we want to subtract 300 from 500, we start at 5 and count backwards 3 numbers: 500, 400, 300. So 500 - 300 = 200. Let's go",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b51115e5c3f0/f3e5f02e5da2a37c/1080.mp4"
                             
                         }
