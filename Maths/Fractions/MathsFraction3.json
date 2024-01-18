@@ -2,7 +2,7 @@
 [
     {
         "id": 2,
-        "category": "Number",
+        "category": "Fraction",
         "description": "Strand units: Fractions",
       "content": {
           "id": 0,
@@ -11,7 +11,7 @@
                         {
                             "id": 0,
                             "topicTitle": "Equivalent fractions",
-                            "topicContent": "Deepen understanding of comparing fractions.Learn strategies to compare fractions with different denominators.",
+                            "topicContent": "Deepen understanding of comparing fractions. Learn strategies to compare fractions with different denominators.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b51c1ee3c7c4/85952b5e7bce3032/1080.mp4"
                         },
                        
@@ -26,14 +26,14 @@
                         {
                             "id": 2,
                             "topicTitle": "Mixed Fractions",
-                            "topicContent": "Mixed Fractions,Learn how mixed fractions are made.",
+                            "topicContent": "Mixed Fractions, Learn how mixed fractions are made.",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b51f1ae4c3f0/f619247d4081953c/1080.mp4"
                         },
                         
                         {
                             "id": 3,
                             "topicTitle": "Addition in Fractions",
-                            "topicContent": "Adding Fractions,Learn how to add mixed fractions.",
+                            "topicContent": "Adding Fractions, Learn how to add mixed fractions.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b51f1aebc8c4/0a0ba6d5c91cc79e/1080.mp4"
                   
                 },
@@ -42,7 +42,7 @@
                         {
                             "id": 3,
                             "topicTitle": "Subtracting Mixed Fractions ",
-                            "topicContent": "Subtracting Mixed Fractions or Mixed numbers,Learn how to subtract mixed fractions.",
+                            "topicContent": "Subtracting Mixed Fractions or Mixed numbers, Learn how to subtract mixed fractions.",
                             "video": "https://api-files.sproutvideo.com/file/ea90d0b51f1aeaca63/125abacf3d7f8e5e/1080.mp4"
                   
                 },
