@@ -9,7 +9,7 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Lesson: Investigating the Hexagonal Prism",
+                            "topicTitle": "Investigating the Hexagonal Prism",
                             "topicContent": "Introduction to the hexagonal prism as a 3-D shape with two pentagonal bases and rectangular sides. Explore and also compare the number of faces, edges, and vertices of a pentagonal prism.",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b21a1ce7c4f0/85af7a2b0af3a059/1080.mp4"
                         },
@@ -18,15 +18,15 @@
                     
                         {
                             "id": 1,
-                            "topicTitle": "Lesson: Discovering the Cylinder",
-                            "topicContent": "Introduction to the cylinder as a 3-D shape with two parallel circular bases and a curved surface. Investigate the properties of cylinders, including the  Engage in activities that involve measuring and comparing cylinders.",
+                            "topicTitle": "Discovering the Cylinder",
+                            "topicContent": "Introduction to the cylinder as a 3-D shape with two parallel circular bases and a curved surface. Investigate the properties of cylinders, including the engage in activities that involve measuring and comparing cylinders.",
                             "video": "https://api-files.sproutvideo.com/file/0690d0b21a1ce7c78f/64c6231441aeb938/1080.mp4"
                     
                 },
                 {
                             "id": 2,
-                            "topicTitle": "Lesson: Constructing 3-D Shapes from Nets",
-                            "topicContent": "Discuss the concept of nets as 2-D patterns that can be folded to create 3-D shapes.Engage in activities that involve drawing nets for various 3-D shapes. Use nets to construct the corresponding 3-D shapes.",
+                            "topicTitle": "Constructing 3-D Shapes from Nets",
+                            "topicContent": "Discuss the concept of nets as 2-D patterns that can be folded to create 3-D shapes. Engage in activities that involve drawing nets for various 3-D shapes. Use nets to construct the corresponding 3-D shapes.",
                             "video": "https://api-files.sproutvideo.com/file/d390d0b21a1ce6c75a/af2258ec20034499/1080.mp4"
                         }
               
