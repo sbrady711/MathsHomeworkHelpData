@@ -28,12 +28,12 @@
                         {
                             "id": 2,
                             "topicTitle": "Identifying Possible Outcomes of Random Processes",
-                            "topicContent": "Introduction to the concept of possible outcomes in random processes.Engage in discussions and list all possible outcomes of rolling a die, tossing two coins, and drawing cubes from a bag.",
+                            "topicContent": "Introduction to the concept of possible outcomes in random processes. Engage in discussions and list all possible outcomes of rolling a dice, tossing two coins, and drawing cubes from a bag.",
                             "video": "https://api-files.sproutvideo.com/file/ea90d0b21e1de6c763/020d03191e1f73c3/1080.mp4"                        },
                         {
                             "id": 3,
                             "topicTitle": "Applying Probability in Real-Life Situations",
-                            "topicContent": "Present scenarios where probability plays a role, such as games of chance.Calculate probabilities based on the number of possible outcomes.",
+                            "topicContent": "Present scenarios where probability plays a role, such as games of chance. Calculate probabilities based on the number of possible outcomes.",
                             "video": "https://api-files.sproutvideo.com/file/a790d0b21e1de7c72e/98d5c0e0a2318738/1080.mp4"
                         }
                     ]
