@@ -28,7 +28,7 @@
                 {
                             "id": 2,
                             "topicTitle": "Using real data",
-                            "topicContent": "Introduction to the use of real data and hiw we read and represent it.",
+                            "topicContent": "Introduction to the use of real data and how we read and represent it.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b51117e6c6c4/d918485d06c63e7d/1440.mp4"
                         },
                 
@@ -47,7 +47,7 @@
                         {
                             "id": 4,
                             "topicTitle": " Identify and record outcomes of simple random processes",
-                            "topicContent": "Introduction to various random processes, such as coin tossing, die rolling, and drawing cubes from a bag.",
+                            "topicContent": "Introduction to various random processes, such as coin tossing, dice rolling, and drawing cubes from a bag.",
                             "video": "https://api-files.sproutvideo.com/file/ac90d0b21f1ce5c225/471f4051406d7e58/1080.mp4"
                         }
                         
