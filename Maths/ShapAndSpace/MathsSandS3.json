@@ -10,34 +10,34 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Lesson: Exploring Hexagons",
+                            "topicTitle": "Exploring Hexagons",
                             "topicContent": "Introduction to hexagons as shapes with six sides and angles. Describe the attributes of hexagons and how they differ from triangles and rectangles.",
               "video": "https://api-files.sproutvideo.com/file/a790d0b51115e5c52e/bf17230f998b1501/1080.mp4"                        },
                     
                         {
                             "id": 1,
-                            "topicTitle": "Lesson: Discovering Pentagons",
-                            "topicContent": "Introduction to pentagons as shapes with five sides and five angles.Discuss real-world examples of pentagons. Explore the symmetry and attributes of pentagons.",
+                            "topicTitle": "Discovering Pentagons",
+                            "topicContent": "Introduction to pentagons as shapes with five sides and five angles. Discuss real-world examples of pentagons. Explore the symmetry and attributes of pentagons.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b51115eac8c4/e6aa21fee06ddeab/1080.mp4"
                         },
                         {
                             "id": 2,
-                            "topicTitle": "Lesson: Investigating Octagons",
-                            "topicContent": "Introduction to octagons as shapes with eight sides and angles.Discuss where octagons are commonly found, like stop signs.Compare octagons with other polygons in terms of sides and angles.",
+                            "topicTitle": "Investigating Octagons",
+                            "topicContent": "Introduction to octagons as shapes with eight sides and angles. Discuss where octagons are commonly found, like stop signs. Compare octagons with other polygons in terms of sides and angles.",
                             "video": "https://api-files.sproutvideo.com/file/4490d0b51115ebc4cd/fab32c65a2421dab/1080.mp4"
                         },
              
                         
                         {
                             "id": 3,
-                            "topicTitle": "Lesson: Tessellating Tiles Design",
-                            "topicContent": "Introduction to tessellations, where shapes fit together without gaps or overlaps.Discuss the use of tessellations in art and architecture.",
+                            "topicTitle": "Tessellating Tiles Design",
+                            "topicContent": "Introduction to tessellations, where shapes fit together without gaps or overlaps. Discuss the use of tessellations in art and architecture.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b51114e2c1c4/72b0748cbae96006/1080.mp4"
                         },
                        
                         {
                             "id": 4,
-                            "topicTitle": "Lesson: Exploring Lines of Symmetry",
+                            "topicTitle": "Exploring Lines of Symmetry",
                             "topicContent": "Discuss lines of symmetry in shapes, including those mentioned earlier. Draw and label lines of symmetry in various shapes.",
                             "video": "https://api-files.sproutvideo.com/file/7990d0b51114e1c6f0/d97b0d67911c6df0/1080.mp4"
                   
