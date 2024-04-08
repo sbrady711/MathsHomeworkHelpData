@@ -605,18 +605,8 @@
                     "0.8",
                     "8/7"
                   ]
-                },
-                {
-                  "id": 49,
-                  "content": "A train travels 180 miles in 2 1/2 hours. What is its average speed in miles per hour?",
-                  "correctIndex": 0,
-                  "answers": [
-                    "72 mph",
-                    "64 mph",
-                    "80 mph",
-                    "60 mph"
-                  ]
                 }
+              
         
               
           ]
