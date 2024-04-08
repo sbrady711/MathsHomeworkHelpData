@@ -446,20 +446,8 @@
                         "By making real-life situations more confusing.",
                         "By simplifying real-life problems."
                       ]
-                    },
-           
-                    {
-                      "id": 50,
-                      "content": "What is the missing number in the sequence: 63, 56, ___, 42, 35?",
-                      "correctIndex": 2,
-                      "answers": ["48", "52", "49", "46"]
-                    },
-                    {
-                      "id": 51,
-                      "content": "Solve the equation: 84 ÷ ___ = 7.",
-                      "correctIndex": 2,
-                      "answers": ["11", "10", "12", "14"]
                     }
+           
                    
                    
                    
