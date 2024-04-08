@@ -362,67 +362,8 @@
                    "content": "What is the smallest multiple of both 7 and 8?",
                    "correctIndex": 1,
                    "answers": ["49", "56", "64", "72"]
-                 },
-                 {
-                   "id": 50,
-                   "content": "Divide 568 by 4 using the long division method.",
-                   "correctIndex": 2,
-                   "answers": ["890", "852", "142", "904"]
-                 },
-                 {
-                   "id": 51,
-                   "content": "What is the sum of  16 x 7?",
-                   "correctIndex": 0,
-                   "answers": ["112", "135", "142", "149"]
-                 },
-                 {
-                   "id": 52,
-                   "content": "Divide 630 by 9 using the division with regrouping method.",
-                   "correctIndex": 3,
-                   "answers": ["41", "528", "52", "70"]
-                 },
-                 {
-                   "id": 53,
-                   "content": "What is the next number in the pattern: 17, 26, 35, 44, ____?",
-                   "correctIndex": 2,
-                   "answers": ["51", "60", "53", "50"]
-                 },
-                 {
-                   "id": 54,
-                   "content": "Find the quotient of 480 ÷ 6.",
-                   "correctIndex": 1,
-                   "answers": ["81", "80", "79", "93"]
-                 },
-                 {
-                   "id": 55,
-                   "content": "Write the number 3,218 using expanded form.",
-                   "correctIndex": 1,
-                   "answers": ["3000 + 200 + 18", "3000 + 200 + 10 + 8", "300 + 2000 + 18", "300 + 2000 + 10 + 8"]
-                 },
-                 {
-                   "id": 56,
-                   "content": "Which of the following numbers is a multiple of both 3 and 11?",
-                   "correctIndex": 0,
-                   "answers": ["132", "17", "15", "22"]
-                 },
-                 {
-                   "id": 57,
-                   "content": "Divide 560 by 8 using the long division method.",
-                   "correctIndex": 2,
-                   "answers": ["20", "65", "70", "784"]
-                 },
-                 {
-                   "id": 58,
-                   "content": "What is 900 - 87 ?",
-                   "correctIndex": 2,
-                   "answers": ["885", "979", "813", "927"]
-                 },
-                 {
-                   "id": 59,
-                   "content": "Divide 8,765 by 5.",
-                   "correctIndex": 3,
-                   "answers": ["813", "770", "148", "1,753"]
-                 }               
+                 }
+                        
                    
                    
           ]
