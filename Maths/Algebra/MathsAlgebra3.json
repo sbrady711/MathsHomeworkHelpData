@@ -381,85 +381,8 @@
                     "36",
                     "30"
                   ]
-                },
-                {
-                  "id": 40,
-                  "content": "What comes after 72 when counting by eights?",
-                  "correctIndex": 1,
-                  "answers": [
-                    "73",
-                    "80",
-                    "79",
-                    "88"
-                  ]
-                },
-           
-                {
-                  "id": 41,
-                  "content": "What is the pattern in the multiplication tables for the number 6?",
-                  "correctIndex": 0,
-                  "answers": [
-                    "Adding 6",
-                    "Doubling",
-                    "Adding 7",
-                    "Multiplying by 4"
-                  ]
-                },
-                {
-                  "id": 42,
-                  "content": "What comes next in the sequence: 60, 70, 80, 90, ___?",
-                  "correctIndex": 3,
-                  "answers": [
-                    "95",
-                    "110",
-                    "85",
-                    "100"
-                  ]
-                },
-                {
-                  "id": 43,
-                  "content": "How can patterns help you memorize multiplication facts?",
-                  "correctIndex": 1,
-                  "answers": [
-                    "By memorizing random facts",
-                    "By recognizing patterns in multiplication tables",
-                    "Patterns are unrelated to multiplication.",
-                    "By counting in twos"
-                  ]
-                },
-                {
-                  "id": 44,
-                  "content": "Translate the sentence: 8 × 7 = ■ into a word problem.",
-                  "correctIndex": 0,
-                  "answers": [
-                    "There are eight bags, and each bag has seven apples. How many apples are there in total?",
-                    "Eight multiplied by ten equals a missing number.",
-                    "Seven bags each have six apples. How many apples in total?",
-                    "Seven bags have a total of five  apples."
-                  ]
-                },
-                {
-                  "id": 45,
-                  "content": "In the equation: 6 × ■ = 42, what number should be in the frame?",
-                  "correctIndex": 1,
-                  "answers": [
-                    "5",
-                    "7",
-                    "9",
-                    "10"
-                  ]
-                },
-                {
-                  "id": 46,
-                  "content": "Solve the equation: 144 ÷ ■ = 12.",
-                  "correctIndex": 0,
-                  "answers": [
-                    "12",
-                    "8",
-                    "10",
-                    "18"
-                  ]
                 }
+           
           ]
       }
        
