@@ -438,37 +438,8 @@
                       "content": "Which of the following numbers is a multiple of both 5 and 7?",
                       "correctIndex": 3,
                       "answers": ["15", "21", "28", "35"]
-                    },
-                   
-                    {
-                      "id":60,
-                      "content": "What is the sum of the first 15 odd numbers?",
-                      "correctIndex": 2,
-                      "answers": ["105", "195", "225", "285"]
-                    },
-                   
-                    
-                    {
-                      "id": 61,
-                      "content": "What is the 9th term in the arithmetic sequence: 2, 5, 8, 11, ...?",
-                      "correctIndex": 3,
-                      "answers": ["22", "25", "28", "26"]
-                    },
-                   
-                    {
-                      "id": 62,
-                      "content": "Which of the following numbers is a multiple of both 3 and 5?",
-                      "correctIndex": 1,
-                      "answers": ["10", "15", "21", "28"]
-                    },
-                   
-                    
-                    {
-                      "id": 63,
-                      "content": "What is the sum of the first 12 even numbers?",
-                      "correctIndex": 1,
-                      "answers": ["66", "156", "288", "402"]
                     }
+             
                
           ]
       }
