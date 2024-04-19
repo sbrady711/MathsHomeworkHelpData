@@ -65,7 +65,7 @@
               },
               {
                 "id": 2,
-                "content": "Build a set of numbers in twos starting . What is the amount of 4 sets of two?",
+                "content": "What is the amount of 4 sets of two?",
                 "correctIndex": 2,
                 "answers": [
                   "3",
