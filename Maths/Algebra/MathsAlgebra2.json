@@ -66,13 +66,13 @@
                      },
                      {
                        "id": 2,
-                       "content": "If we start counting from 3 and add 6 each time, which number will be fifth?",
+                       "content": "If we start counting from 3, the first numnber and add 6 each time, which number will be the second number?",
                        "correctIndex": 0,
                        "answers": [
-                         "33",
-                         "39",
-                         "42",
-                         "48"
+                         "9",
+                         "3",
+                         "4",
+                         "8"
                        ]
                      },
                      {
