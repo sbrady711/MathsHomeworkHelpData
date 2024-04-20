@@ -51,7 +51,7 @@
                  "id": 1,
                  "content": "What is another number bond for 45 + 15?",
                  "correctIndex": 0,
-                 "answers": ["30 + 30", "40 + 15", "45 + 30", "40 + 10"]
+                 "answers": ["30 + 30", "40 + 14", "45 + 30", "40 + 10"]
                },
                {
                  "id": 2,
@@ -159,21 +159,21 @@
                
                {
                   "id": 15,
-                  "content": "Complete the pattern: 3, 8, 13, ___, 23. What number should be in the blank?",
+                  "content": "Complete the pattern: 7, 12, 17, ___, 27. What number should be in the blank?",
                   "correctIndex": 2,
-                  "answers": ["15", "17", "18", "20"]
+                  "answers": ["15", "17", "22", "20"]
                 },
                 {
                   "id": 16,
                   "content": "What is the number bond for 45 + 15?",
-                  "correctIndex": 0,
-                  "answers": ["30 + 30", "41 + 15", "45 + 30", "90 + 10"]
+                  "correctIndex": 2,
+                  "answers": ["31 + 30", "41 + 15", "38 + 22", "90 + 10"]
                 },
                 {
                   "id": 17,
-                  "content": "What comes after 24 when counting by fours?",
+                  "content": "What comes after 26 when counting by fours?",
                   "correctIndex": 3,
-                  "answers": ["25", "27", "29", "28"]
+                  "answers": ["35", "37", "29", "30"]
                 },
                 {
                   "id": 18,
@@ -198,7 +198,7 @@
                   "correctIndex": 1,
                   "answers": [
                     "Eighteen minus ntene equals nine.",
-                    "There are eighteen flowers, and seven are picked. How many flowers are left?",
+                    "There are eighteen cakes, and seven are eaten. How many are left?",
                     "Nine subtracted from eighteen equals a missing number.",
                     "There are eighteen books, and nine are read. How many books are left?"
                   ]
@@ -234,9 +234,9 @@
                 },
                 {
                   "id": 25,
-                  "content": "What comes after 67 when counting by threes?",
+                  "content": "What comes after 67 when counting by tens?",
                   "correctIndex": 0,
-                  "answers": ["70", "71", "72", "75"]
+                  "answers": ["77", "71", "72", "75"]
                 },
                 {
                   "id": 26,
