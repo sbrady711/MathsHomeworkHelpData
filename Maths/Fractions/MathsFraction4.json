@@ -10,7 +10,7 @@
           {
               "id": 0,
               "topicTitle": "Fraction Percentages and decimals",
-              "topicContent": "Apply fractions to represent decimals. Learn how to create others portions types of a whole number.",
+              "topicContent": "Apply fractions to represent decimals. Learn how to create other portion types of a whole number.",
               "video": "https://api-files.sproutvideo.com/file/ea90d0b21f1ceacb63/3aa65e79654504a3/1080.mp4"
           },
       
@@ -374,8 +374,8 @@
                      },
                      {
                        "id": 30,
-                       "content": "What is the result of adding 2/3 and 5/6 in its simplest form?",
-                       "correctIndex": 1,
+                       "content": "What is the result of adding 3/3 and 5/6 in its simplest form?",
+                       "correctIndex": 0,
                        "answers": [
                          "11/6",
                          "3/2",
@@ -389,7 +389,7 @@
                        "correctIndex": 2,
                        "answers": [
                          "28/36",
-                         "28/34",
+                         "28/35",
                          "8/10",
                          "4/7"
                        ]
