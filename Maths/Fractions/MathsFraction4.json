@@ -133,7 +133,7 @@
                     {
                       "id": 8,
                       "content": "What fraction is greater: 11/13 or 9/10?",
-                      "correctIndex": 0,
+                      "correctIndex": 1,
                       "answers": [
                         "11/13",
                         "9/10",
