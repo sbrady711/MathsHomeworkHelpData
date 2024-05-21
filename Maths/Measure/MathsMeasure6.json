@@ -57,13 +57,13 @@
            
               
               {
-                  "id": 7,
+                  "id": 6,
                   "topicTitle": "Understanding Exchange Rates: Currency Conversion Insights",
                   "topicContent": "Introduction to the concept of exchange rates and their importance. Discuss how different currencies can be converted to euros and vice versa.",
                   "video": "https://api-files.sproutvideo.com/file/4490d0b21b11eec8cd/3fe2640fcc6bbaa3/1080.mp4"              },
               
               {
-                  "id": 6,
+                  "id": 7,
                   "topicTitle": "Exploring VAT and Price Adjustments: Taxes and Additions",
                   "topicContent": "Discuss the concept of Value Added Tax (VAT) and its impact on prices. Help students understand how VAT is added to the original price of goods and services.",
                   "video": "https://api-files.sproutvideo.com/file/ea90d0b21a19e7c663/37b72654e067bb8a/1080.mp4"
@@ -134,102 +134,102 @@
                 "answers": ["1.5 kilograms", "150 kilograms", "0.15 kilograms", "15 kilograms"]
               },
               {
-                "id": 9,
+                "id": 8,
                 "content": "A rectangular swimming pool is 12 meters long and 5 meters wide. What is its area?",
                 "correctIndex": 3,
                 "answers": ["40 square meters", "17 square meters", "42 square meters", "60 square meters"]
               },
               {
-                "id": 10,
+                "id": 9,
                 "content": "You are measuring the weight of a textbook using a kitchen scale. The textbook weighs 950 grams. What is the weight of the textbook in kilograms?",
                 "correctIndex": 0,
                 "answers": ["0.95 kilograms", "9500 grams", "95 kilograms", "9.5 kilograms"]
               },
           
               {
-                "id": 11,
+                "id": 10,
                 "content": "You are converting €75 to US dollars using an exchange rate of 1 euro = 1.20 US dollars. How many US dollars do you get?",
                 "correctIndex": 0,
                 "answers": ["$90", "$75", "$150", "$60"]
               },
               {
-                "id": 12,
+                "id": 11,
                 "content": "You want to buy a pair of shoes that costs €49.95. If there is a 15% discount, how much will you pay after the discount?",
                 "correctIndex": 1,
                 "answers": ["€42.49", "€42.46", "€57.44", "€8.99"]
               },
               {
-                "id": 13,
+                "id": 12,
                 "content": "You have a rectangular garden that measures 5 meters in length and 3 meters in width. If you want to put a fence around the garden, how much fencing do you need?",
                 "correctIndex": 2,
                 "answers": ["15 meters", "8 meters", "16 meters", "10 meters"]
               },
               {
-                "id": 14,
+                "id": 13,
                 "content": "A bottle of shampoo contains 500 milliliters. If you use 75 milliliters of shampoo each time you wash your hair, how many uses can you get from one bottle?",
                 "correctIndex": 0,
                 "answers": ["6.67 uses", "12 uses", "4 uses", "8.33 uses"]
               },
           
               {
-                "id": 15,
+                "id": 14,
                 "content": "If a car travels at an average speed of 60 kilometers per hour, how far will it travel in 5 hours?",
                 "correctIndex": 1,
                 "answers": ["310 kilometers", "300 kilometers", "12 kilometers", "600 kilometers"]
               },
               {
-                "id": 16,
+                "id": 15,
                 "content": "You are planning a trip to a country with a time zone that is 4 hours ahead of your current time zone. If it's 9:00 AM in your time zone, what time will it be in the destination country?",
                 "correctIndex": 2,
                 "answers": ["1:00 AM", "5:00 AM", "1:00 PM", "12:00 PM"]
               },
             
               {
-                "id": 17,
+                "id": 16,
                 "content": "You want to measure the length of a paper clip. Which of the following measurement tools would be most appropriate?",
                 "correctIndex": 0,
                 "answers": ["Ruler with millimeter markings", "Kitchen scale", "Graduated cylinder", "Stopwatch"]
               },
               {
-                "id": 18,
+                "id": 17,
                 "content": "If a rectangle has a length of 15 centimeters and a width of 8 centimeters, what is its area in square centimeters?",
                 "correctIndex": 3,
                 "answers": ["1200 square centimeters", "23 square centimeters", "56 square centimeters", "120 square centimeters"]
               },
               {
-                "id": 19,
+                "id": 18,
                 "content": "You have a map with a scale of 1:25000 meteres. If a river on the map is shown as 50 centimeters, what is its actual length in meters?",
                 "correctIndex": 0,
                 "answers": ["125,000 meters", "20 meters", "5000 meters", "25 meters"]
               },
            
               {
-                "id": 20,
+                "id": 19,
                 "content": "If a train travels a distance of 480 kilometers in 6 hours, what is its average speed in kilometers per hour?",
                 "correctIndex": 2,
                 "answers": ["85 kilometers per hour", "40 kilometers per hour", "80 kilometers per hour", "81 kilometers per hour"]
               },
               {
-                "id": 21,
+                "id": 20,
                 "content": "You have a bag of potatoes weighing 4.75 kilograms and a bag of onions weighing 1.2 kilograms. What is the total weight of the vegetables?",
                 "correctIndex": 1,
                 "answers": ["5.94 kilograms", "5.95 kilograms", "5.15 kilograms", "6.2 kilograms"]
               },
               {
-                "id": 22,
+                "id": 21,
                 "content": "A container holds 750 milliliters of juice. How many liters of juice does it hold?",
                 "correctIndex": 3,
                 "answers": ["0.7 liters", "75 liters", "7.5 liters", "0.75 liters"]
               },
               {
-                "id": 23,
+                "id": 22,
                 "content": "You have €1200 and want to exchange it for Japanese yen at an exchange rate of 1 euro = 130 yen. How many yen will you get?",
                 "correctIndex": 0,
                 "answers": ["156,000 yen", "130 yen", "12,000 yen", "1,560 yen"]
               },
           
               {
-                "id": 24,
+                "id": 23,
                 "content": "You want to buy a book that costs €25. If there is a 20% discount, how much will you pay after the discount?",
                 "correctIndex": 1,
                 "answers": ["€2", "€20", "€30", "€50"]
@@ -239,13 +239,13 @@
               
               
               {
-                "id": 25,
+                "id": 24,
                 "content": "A journey took 2.5 hours to complete at an average speed of 80 kilometers per hour. What was the distance traveled?",
                 "correctIndex": 2,
                 "answers": ["300 kilometers", "160 kilometers", "200 kilometers", "320 kilometers"]
               },
               {
-                "id": 26,
+                "id": 25,
                 "content": "You have a rectangular pool that measures 6 meters in length, 4 meters in width, and 1.5 meters in depth. What is the volume of the pool in cubic meters?",
                 "correctIndex": 0,
                 "answers": ["36 cubic meters", "15 cubic meters", "10.5 cubic meters", "24 cubic meters"]
@@ -264,130 +264,130 @@
                 "answers": ["50 liters", "0.5 liters", "5 liters", "500 liters"]
               },
               {
-                "id": 29,
+                "id": 28,
                 "content": "You have a triangular garden with a base of 10 meters and a height of 8 meters. What is its area in square meters?",
                 "correctIndex": 1,
                 "answers": ["45 square meters", "40 square meters", "20 square meters", "30 square meters"]
               },
               {
-                "id": 30,
+                "id": 29,
                 "content": "You are converting 3.5 hours to minutes. How many minutes is this?",
                 "correctIndex": 0,
                 "answers": ["210 minutes", "35 minutes", "105 minutes", "350 minutes"]
               },
               {
-                "id": 31,
+                "id": 30,
                 "content": "You want to convert 1500 milligrams to grams. How many grams is this?",
                 "correctIndex": 1,
                 "answers": ["1.5 kilograms", "1.5 grams", "150 grams", "0.15 grams"]
               },
               {
-                "id": 32,
+                "id": 31,
                 "content": "If a product costs £80 and the sales tax rate is 7%, what is the total cost after tax?",
                 "correctIndex": 2,
                 "answers": ["£85.20", "£73.60", "£85.60", "£76.00"]
               },
               {
-                "id": 33,
+                "id": 32,
                 "content": "You are traveling to a country with a currency exchange rate of 1 US dollar = 0.85 euros. If you have $250, how many euros will you get?",
                 "correctIndex": 0,
                 "answers": ["212.50 euros", "147.50 euros", "300 euros", "212 euros"]
               },
            
               {
-                "id": 34,
+                "id": 33,
                 "content": "A journey took 4 hours to complete at an average speed of 60 miles per hour. What was the distance traveled?",
                 "correctIndex": 1,
                 "answers": ["250 miles", "240 miles", "160 miles", "120 miles"]
               },
               {
-                 "id": 35,
+                 "id": 34,
                  "content": "You have a rectangular garden with a length of 8 meters and a width of 5 meters. What is its perimeter in meters?",
                  "correctIndex": 3,
                  "answers": ["24 meters", "40 meters", "13 meters", "26 meters"]
                },
                {
-                 "id": 36,
+                 "id": 35,
                  "content": "If a car travels at a speed of 100 kilometers per hour, how far will it travel in 4 hours?",
                  "correctIndex": 0,
                  "answers": ["400 kilometers", "250 kilometers", "104 kilometers", "160 kilometers"]
                },
                {
-                 "id": 37,
+                 "id": 36,
                  "content": "A rectangular prism has dimensions 6 cm by 3 cm by 9 cm. What is its volume in cubic centimeters?",
                  "correctIndex": 2,
                  "answers": ["160 cubic centimeters", "54 cubic centimeters", "162 cubic centimeters", "27 cubic centimeters"]
                },
                {
-                 "id":  38,
+                 "id":  37,
                  "content": "You want to convert 2.5 meters to centimeters. How many centimeters is this?",
                  "correctIndex": 1,
                  "answers": ["25 centimeters", "250 centimeters", "2.05 centimeters", "20.5 centimeters"]
                },
                {
-                 "id": 39,
+                 "id": 38,
                  "content": "You buy a jacket that costs $60. If the sales tax rate is 8%, how much will you pay after tax?",
                  "correctIndex": 1,
                  "answers": ["$64.70", "$64.80", "$67.20", "$58.00"]
                },
              
                {
-                 "id": 40,
+                 "id": 39,
                  "content": "If you travel from a time zone that is 5 hours behind Greenwich Mean Time (GMT), how many hours will you need to adjust your watch?",
                  "correctIndex": 2,
                  "answers": ["2 hours", "2 hours", "5 hour", "10 hours"]
                },
                {
-                 "id": 41,
+                 "id": 40,
                  "content": "A bottle contains 750 milliliters of water. How many liters of water does it contain?",
                  "correctIndex": 2,
                  "answers": ["0.70 liters", "75 liters", "0.75 liters", "7500 liters"]
                },
                {
-                 "id": 42,
+                 "id": 41,
                  "content": "You have €500 and want to exchange it for British pounds at an exchange rate of 1 euro = 0.90 pounds. How many pounds will you get?",
                  "correctIndex": 1,
                  "answers": ["451 pounds", "450 pounds", "400 pounds", "550 pounds"]
                },
                {
-                 "id": 43,
+                 "id": 42,
                  "content": "A swimming pool has a width of 10 meters, a length of 20 meters, and a depth of 2.5 meters. What is its volume in cubic meters?",
                  "correctIndex": 0,
                  "answers": ["500 cubic meters", "50 cubic meters", "2500 cubic meters", "100 cubic meters"]
                },
                {
-                 "id": 44,
+                 "id": 43,
                  "content": "If a bookshelf is 1.2 meters long and can hold 15 books, how much space (in centimeters) does each book occupy on average?",
                  "correctIndex": 1,
                  "answers": ["12 centimeters", "8 centimeters", "18 centimeters", "10 centimeters"]
                },
                {
-                 "id": 45,
+                 "id": 44,
                  "content": "You are converting 8000 grams to kilograms. How many kilograms is this?",
                  "correctIndex": 3,
                  "answers": ["800 kilograms", "0.8 kilograms", "80 kilograms", "8 kilograms"]
                },
                {
-                 "id": 46,
+                 "id": 45,
                  "content": "A store offers a 15% discount on a toy that costs $25. How much will the toy cost after the discount?",
                  "correctIndex": 0,
                  "answers": ["$21.25", "$27.50", "$18.75", "$23.75"]
                },
           
                {
-                 "id": 47,
+                 "id": 46,
                  "content": "If a marathon runner completes a race in 2 hours and 45 minutes, how many minutes did it take?",
                  "correctIndex": 2,
                  "answers": ["160 minutes", "185 minutes", "165 minutes", "245 minutes"]
                },
                {
-                 "id": 48,
+                 "id": 47,
                  "content": "You are converting 5 days to hours. How many hours is this?",
                  "correctIndex": 0,
                  "answers": ["120 hours", "24 hours", "60 hours", "30 hours"]
                },
                {
-                 "id": 49,
+                 "id": 48,
                  "content": "A package weighs 3.5 kg. If you buy 4 packages, what is the total weight in ounces of a package? (1kg pound = 35 ounces)",
                  "correctIndex": 1,
                  "answers": ["224 ounces", "122.5 ounces", "140 ounces", "72 ounces"]
