@@ -211,10 +211,10 @@
                   "content": "How does understanding prime numbers help in cryptography?",
                   "correctIndex": 0,
                   "answers": [
-                    "Prime numbers are used for secure encryption.",
-                    "Prime numbers have no relevance in cryptography.",
-                    "Prime numbers are only used in historical documents.",
-                    "Prime numbers are used for decorative purposes."
+                    "Did you know, prime numbers are used for secure encryption.",
+                    "Did you know, prime numbers have no relevance in cryptography.",
+                    "Did you know, prime numbers are only used in historical documents.",
+                    "Did you know, prime numbers are used for decorative purposes."
                   ]
                 },
                 {
@@ -363,14 +363,14 @@
                 {
                   "id": 48,
                   "content": "Which of the following expressions is equivalent to 4 × (5 + 3)?",
-                  "correctIndex": 0,
-                  "answers": ["8 × 4", "9 × 3", "12 × 2", "10 × 4"]
+                  "correctIndex": 1,
+                  "answers": ["9 × 4", "8 × 4", "12 × 2", "10 × 4"]
                 },
                 {
                   "id": 49,
                   "content": "What is the sum of all the even numbers between 50 and 70?",
-                  "correctIndex": 0,
-                  "answers": ["600", "660", "580", "620"]
+                  "correctIndex": 2,
+                  "answers": ["600", "660", "610", "620"]
                 }
              
               
