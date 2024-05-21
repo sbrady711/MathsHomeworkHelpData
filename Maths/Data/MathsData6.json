@@ -50,12 +50,12 @@
               {
                 "id": 1,
                 "content": "You have a data set of ages: 12, 14, 11, 12, and 15. What is the mode of the ages?",
-                "correctIndex": 0,
+                "correctIndex": 1,
                 "answers": ["11", "12", "14", "15"]
               },
               {
                 "id": 2,
-                "content": "A pie chart represents the distribution of favorite subjects among students. The 'Math' sector covers 36 degrees. What percentage of students chose Math as their favorite subject?",
+                "content": "A pie chart represents the distribution of favourite subjects among students. The 'Math' sector covers 36 degrees. What percentage of students chose Math as their favorite subject?",
                 "correctIndex": 1,
                 "answers": ["25%", "10%", "36%", "40%"]
               },
@@ -110,7 +110,7 @@
               {
                 "id": 11,
                 "content": "If you roll two fair six-sided dice, what is the probability of getting a sum greater than 9?",
-                "correctIndex": 1,
+                "correctIndex": 0,
                 "answers": ["1/6", "5/36", "1/3", "1/4"]
               },
 
@@ -159,7 +159,7 @@
               },
               {
                   "id": 19,
-                  "content": "A pie chart represents the distribution of ice cream flavors among students. The 'Chocolate' sector covers 45 degrees. What percentage of students chose Chocolate ice cream?",
+                  "content": "A pie chart represents the distribution of ice cream flavours among students. The 'Chocolate' sector covers 45 degrees. What percentage of students chose Chocolate ice cream?",
                   "correctIndex": 2,
                   "answers": ["30%", "40%", "12.5%", "50%"]
                 },
@@ -202,13 +202,13 @@
                 },
                 {
                   "id": 26,
-                  "content": "In a pie chart representing favorite colors, the 'Blue' sector covers 36°. What percentage of students chose blue as their favorite color?",
-                  "correctIndex": 0,
-                  "answers": ["10%", "20%", "25%", "15%"]
+                  "content": "In a pie chart representing favorite colors, the 'Blue' sector covers 36°. What percentage of students did not chose blue as their favorite color?",
+                  "correctIndex": 2,
+                  "answers": ["10%", "20%", "90%", "15%"]
                 },
                 {
                   "id": 27,
-                  "content": "You have a data set of favorite fruits: Apple, Banana, Orange, Apple, and Banana. What is the mode of the data?",
+                  "content": "You have a data set of favorite fruits: Apple, Banana, Orange, Apple, and Grapes. What is the mode of the data?",
                   "correctIndex": 1,
                   "answers": ["Bannana", "Apple", "Orange", "None of the above"]
                 },
@@ -220,9 +220,9 @@
                 },
                 {
                   "id": 29,
-                  "content": "If you flip two coins and roll a fair number cube, how many equally likely outcomes are possible?",
+                  "content": "If you flip two coins and roll three fair number cube, how many equally likely outcomes are possible?",
                   "correctIndex": 2,
-                  "answers": ["12", "8", "24", "16"]
+                  "answers": ["712", "668", "864", "1600"]
                 },
                 {
                   "id": 30,
@@ -263,9 +263,9 @@
                 },
                 {
                   "id": 36,
-                  "content": "In a pie chart representing favorite hobbies, the 'Reading' sector covers 72°. What percentage of students enjoy reading as a hobby?",
+                  "content": "In a pie chart representing favorite hobbies, the 'Reading' sector covers 72°. What percentage of students did not choose reading as a hobby?",
                   "correctIndex": 3,
-                  "answers": ["15%", "10%", "25%", "20%"]
+                  "answers": ["15%", "20%", "25%", "80%"]
                 },
                 {
                    "id": 37,
@@ -276,12 +276,12 @@
                  {
                    "id": 38,
                    "content": "You have a data set of test scores: 85, 90, 88, 92, and 84. What is the median test score?",
-                   "correctIndex": 2,
+                   "correctIndex": 1,
                    "answers": ["85", "88", "90", "92"]
                  },
                  {
                    "id": 39,
-                   "content": "A pie chart represents the distribution of favorite ice cream flavors among students. The 'Chocolate' sector covers 40%. What percentage of students did not choose chocolate as their favorite flavor?",
+                   "content": "A pie chart represents the distribution of favourite ice cream flavors among students. The 'Chocolate' sector covers 40%. What percentage of students did not choose chocolate as their favorite flavor?",
                    "correctIndex": 2,
                    "answers": ["20%", "25%", "60%", "35%"]
                  },
@@ -306,7 +306,7 @@
                  {
                    "id": 43,
                    "content": "You have a data set of shoe sizes: 7, 8, 9, 8, and 7. What is the mode of the shoe sizes?",
-                   "correctIndex": 1,
+                   "correctIndex": 0,
                    "answers": ["7 and 8", "9", "7.5", "6"]
                  },
 
@@ -324,9 +324,9 @@
                  },
                  {
                    "id": 46,
-                   "content": "You have a data set of test scores: 92, 90, 84, 88, and 85. What is the median test score?",
+                   "content": "You have a data set of test scores: 92, 90, 84, 87, and 85. What is the median test score?",
                    "correctIndex": 1,
-                   "answers": ["85", "88", "90", "92"]
+                   "answers": ["85", "87", "90", "92"]
                  },
                  {
                    "id": 47,
@@ -337,7 +337,7 @@
                  {
                    "id": 48,
                    "content": "If you roll two fair number cubes, what is the probability of getting a sum less than 4?",
-                   "correctIndex": 1,
+                   "correctIndex": 3,
                    "answers": ["1/6", "1/18", "1/9", "1/12"]
                  },
                  {
