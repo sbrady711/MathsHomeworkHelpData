@@ -76,7 +76,7 @@
               },
               {
                 "id": 3,
-                "content": "Color odd numbers red and even numbers blue on the hundred square. What color is 14?",
+                "content": "Colour odd numbers red and even numbers blue on the hundred square. What color is 14?",
                 "correctIndex": 1,
                 "answers": [
                   "Red",
@@ -109,7 +109,7 @@
               },
               {
                 "id": 6,
-                "content": "What does the 'a' represent in the equation 8 + a = 15?",
+                "content": "What does the '?' represent in the equation 8 + ? = 15?",
                 "correctIndex": 1,
                 "answers": [
                   "5",
@@ -177,7 +177,7 @@
                },
                {
                    "id": 12,
-                   "content": "Color odd numbers yellow and even numbers green on the hundred square. What color is 21?",
+                   "content": "Colour odd numbers yellow and even numbers green on the hundred square. What color is 21?",
                    "correctIndex": 0,
                    "answers": [
                        "Yellow",
@@ -275,7 +275,7 @@
                },
                {
                  "id": 21,
-                 "content": "Color odd numbers blue and even numbers red on the number line. What color is 17?",
+                 "content": "Colour odd numbers blue and even numbers red on the number line. What colour is 17?",
                  "correctIndex": 3,
                  "answers": [
                   
