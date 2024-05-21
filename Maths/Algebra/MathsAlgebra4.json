@@ -87,7 +87,7 @@
                      "content": "Translate the equation: 24 ÷ 8 = ___ .",
                      "correctIndex": 0,
                      "answers": [
-                       "Twenty-four divided by eight equals a missing number.",
+                       "Twenty-four divided by eight equals three.",
                        "There are twenty-five candies, and each child gets eight candies. How many children are there?",
                        "Nine divided by twenty-four equals a missing number.",
                        "There are twenty-six pencils, and they are divided into eight equal groups. How many pencils are in each group?"
@@ -184,10 +184,10 @@
                      "content": "Translate the equation: 5 × 7 = ___ directly.",
                      "correctIndex": 3,
                      "answers": [
-                       "Five multiplied by seventeen equals a missing number.",
+                       "Five multiplied by seventeen equals 35.",
                        "There are six baskets, and each basket contains seven apples. How many apples in total?",
                        "There are ten students, and each student has seven books. How many books in total?",
-                       "Seven multiplied by five equals a missing number."
+                       "Seven multiplied by five equals thirty-five."
                      ]
                    },
                    {
@@ -382,8 +382,8 @@
                     {
                       "id": 42,
                       "content": "Extend the sequence: 12, 18, 24, 30, ___.",
-                      "correctIndex": 0,
-                      "answers": ["36", "42", "48", "54"]
+                      "correctIndex": 1,
+                      "answers": ["42", "36", "48", "54"]
                     },
                     {
                       "id": 43,
