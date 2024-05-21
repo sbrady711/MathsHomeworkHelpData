@@ -40,9 +40,9 @@
           "questions": [
               {
                  "id": 0,
-                 "content": "Which of the following is an example of sorting by color?",
+                 "content": "Which of the following is an example of sorting by colour?",
                  "correctIndex": 0,
-                 "answers": ["Arranging blocks based on their colors", "Counting the number of apples", "Grouping objects by size", "Identifying shapes"]
+                 "answers": ["Arranging blocks based on their colours", "Counting the number of apples", "Grouping objects by size", "Identifying shapes"]
                },
           
                {
@@ -59,9 +59,9 @@
                },
                {
                  "id": 3,
-                 "content": "What is the purpose of using colored blocks for data representation?",
+                 "content": "What is the purpose of using coloured blocks for data representation?",
                  "correctIndex": 0,
-                 "answers": ["To create visual displays of data", "To build a tower", "To practice counting", "To learn about different colors"]
+                 "answers": ["To create visual displays of data", "To build a tower", "To practice counting", "To learn about different colours"]
                },
                {
                  "id": 4,
@@ -87,7 +87,7 @@
                  "id": 7,
                  "content": "What is the main purpose of a pictorial model?",
                  "correctIndex": 0,
-                 "answers": ["To visually representation data", "To tell a story", "To play a game", "To practice drawing"]
+                 "answers": ["To visually represent data", "To tell a story", "To play a game", "To practice drawing"]
                },
                {
                  "id": 8,
@@ -98,7 +98,7 @@
          
                {
                  "id": 9,
-                 "content": "What is the benefit of using different colors for data representation?",
+                 "content": "What is the benefit of using different colours for data representation?",
                  "correctIndex": 0,
                  "answers": ["It makes the data easier to understand", "It makes the paper look pretty", "It confuses people", "It doesn't make a difference"]
                },
@@ -118,7 +118,7 @@
                  "id": 12,
                  "content": "How does adding more rows or columns affect data representation?",
                  "correctIndex": 0,
-                 "answers": ["It allows for more categories and data", "It makes things confusing", "It makes the data disappear", "It doesn't change anything"]
+                 "answers": ["It just allows for more categories and data", "It makes things confusing", "It makes the data disappear", "It doesn't change anything"]
                },
                {
                  "id": 13,
@@ -160,7 +160,7 @@
                  "id": 19,
                  "content": "What is a model?",
                  "correctIndex": 0,
-                 "answers": ["A small copy of something", "A type of game", "A colorful picture", "A type of food"]
+                 "answers": ["A small copy of something", "A type of game", "A colourful picture", "A type of food"]
                },
                {
                  "id": 20,
@@ -172,7 +172,7 @@
                  "id": 21,
                  "content": "What is the purpose of using coloured blocks for data representation?",
                  "correctIndex": 2,
-                 "answers": ["To build a tower", "To practice counting", "To create visual displays of data", "To learn about different colors"]
+                 "answers": ["To build a tower", "To practice counting", "To create visual displays of data", "To learn about different colours"]
                },
                {
                  "id": 22,
@@ -201,21 +201,16 @@
                  "answers": ["How to count to 10","Which option is the most and least popular", "How to draw better", "How to make a sandwich"]
                },
            
-               {
-                 "id": 26,
-                 "content": "What does it mean to identify an object?",
-                 "correctIndex": 0,
-                 "answers": ["To point out or name an object", "To sort objects by size", "To count the objects", "To hide the objects"]
-               },
+         
                
                {
-                 "id": 27,
+                 "id": 26,
                  "content": "What does it mean for data to be organized?",
                  "correctIndex": 1,
                  "answers": ["To mix it up","To arrange it neatly and in order",  "To make it messy", "To hide it"]
                },
                {
-                 "id": 28,
+                 "id": 27,
                  "content": "Which of the following is an example of data representation?",
                  "correctIndex": 2,
                  "answers": ["Eating lunch", "Drawing a picture", "Using symbols to show data", "Creating a table"]
