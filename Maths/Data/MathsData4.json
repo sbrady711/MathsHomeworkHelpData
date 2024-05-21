@@ -5,7 +5,7 @@
 [
     {
         "id": 3,
-        "category": "Data",
+        "category": "Data and chance",
         "description": "Strand units: Representing and interpreting data, Chance",
       "content": {
           "id": 0,
@@ -21,7 +21,7 @@
                         {
                             "id": 1,
                             "topicTitle": "Data Probability",
-                            "topicContent": "Dive into the concept of probability in data.",
+                            "topicContent": "Dive into the concept of probability in data and chance.",
                             "video": "https://api-files.sproutvideo.com/file/ac90d0b51117e3c625/bcd6f9703d1ee7df/1080.mp4"
                         },
                
