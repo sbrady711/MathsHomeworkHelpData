@@ -149,7 +149,7 @@
                },
                {
                  "id": 18,
-                 "content": "You surveyed your classmates about their favorite ice cream flavors. 15 students like chocolate, 12 like vanilla, and 8 like strawberry. What is the total number of students surveyed?",
+                 "content": "You surveyed your classmates about their favorite ice cream flavours. 15 students like chocolate, 12 like vanilla, and 8 like strawberry. What is the total number of students surveyed?",
                  "correctIndex": 0,
                  "answers": ["35", "27", "45", "22"]
                },
@@ -192,7 +192,7 @@
                {
                  "id": 25,
                  "content": "If you toss a coin and roll a number cube, how many possible outcomes have the coin showing heads and the number cube showing an odd number?",
-                 "correctIndex": 2,
+                 "correctIndex": 0,
                  "answers": ["3", "4", "6", "5"]
                },
                {
@@ -216,8 +216,8 @@
                {
                  "id": 29,
                  "content": "You flipped a coin four times and got tails each time. What is the probability of getting heads on the next flip?",
-                 "correctIndex": 0,
-                 "answers": ["1/2", "1/3", "1/4", "1/5"]
+                 "correctIndex": 2,
+                 "answers": ["1/4", "1/3", "1/2", "1/5"]
                },
                {
                  "id": 30,
@@ -251,7 +251,7 @@
                },
                {
                  "id": 35,
-                 "content": "You toss a coin three times. How many possible outcomes have at least two heads?",
+                 "content": "In three coin tosses, how many possible outcomes result in getting at least two heads?",
                  "correctIndex": 0,
                  "answers": ["4", "3", "2", "5"]
                },
