@@ -2,7 +2,7 @@
 [
     {
         "id": 0,
-        "category": "Measure",
+        "category": "Measures",
         "description": "Strand units: Length, Area, Weight,Capacity, Time, Money",
       "content": {
           "id": 0,
