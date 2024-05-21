@@ -167,7 +167,7 @@
                 },
                 {
                   "id": 22,
-                  "content": "If you flip a coin, what is the probability of it landing on heads?",
+                  "content": "If you flip a coin, what is the chance of it landing on heads?",
                   "correctIndex": 2,
                   "answers": ["3/2", "1/4", "1/2", "1/6"]
                 },
@@ -181,7 +181,7 @@
                   "id": 24,
                   "content": "If you have 5 green cards and 5 yellow cards, what is the probability of picking a green card?",
                   "correctIndex": 1,
-                  "answers": ["1/10", "1/2", "5/10", "2/5"]
+                  "answers": ["1/10", "1/2", "5/100", "2/5"]
                 },
                 {
                   "id": 25,
