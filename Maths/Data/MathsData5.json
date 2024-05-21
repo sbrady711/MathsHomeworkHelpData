@@ -90,7 +90,7 @@
               {
                 "id": 7,
                 "content": "If you roll two dice and flip a coin, how many equally likely outcomes are possible?",
-                "correctIndex": 0,
+                "correctIndex": 1,
                 "answers": ["12", "72", "2", "36"]
               },
               {
@@ -114,7 +114,7 @@
              
               {
                 "id": 11,
-                "content": "You have a pie chart that represents the favorite ice cream flavors. If the 'Chocolate' sector covers 45°, what percentage of students chose chocolate?",
+                "content": "You have a pie chart that represents the favourite ice cream flavours. If the 'Chocolate' sector covers 45°, what percentage of students chose chocolate?",
                 "correctIndex": 2,
                 "answers": ["30%", "20%", "12.5%", "45%"]
               },
@@ -132,8 +132,8 @@
               },
               {
                 "id": 14,
-                "content": "You have a data set of favorite colors: red, blue, green, red, and yellow. What is the median of the data?",
-                "correctIndex": 1,
+                "content": "You have a data set of favorite colors: red, blue, green, red, and yellow. What is the mode of the data?",
+                "correctIndex": 0,
                 "answers": ["red", "blue", "green", "yellow"]
               },
               {
@@ -146,7 +146,7 @@
                 "id": 16,
                 "content": "A spinner is divided into 10 equal sections. Four sections are labeled 'Yes.' What is the probability of landing on 'Yes'?",
                 "correctIndex": 0,
-                "answers": ["2/5", "4/10", "3/8", "1/4"]
+                "answers": ["2/5", "6/10", "3/8", "1/4"]
               },
               {
                 "id": 17,
@@ -219,7 +219,7 @@
                {
                  "id": 28,
                  "content": "You have a data set of test scores: 85, 92, 78, 95, and 88. What is the median of the data?",
-                 "correctIndex": 2,
+                 "correctIndex": 3,
                  "answers": ["85", "92", "87.6", "88"]
                },
                {
@@ -245,7 +245,7 @@
                  "id": 32,
                  "content": "A class of 28 students voted for their favorite subject. 8 students chose Math, 10 chose Science, and the rest chose History. What percentage of students chose History?",
                  "correctIndex": 2,
-                 "answers": ["20%", "30%", "35%", "40%"]
+                 "answers": ["20%", "30%", "35.7%", "40%"]
                },
                {
                  "id": 33,
@@ -261,7 +261,7 @@
                },
                {
                  "id": 35,
-                 "content": "You have a data set of favorite ice cream flavors: Vanilla, Chocolate, Strawberry, and Vanilla. What is the mode of the data?",
+                 "content": "You have a data set of favourite ice cream flavours: Vanilla, Chocolate, Strawberry, and Vanilla. What is the mode of the data?",
                  "correctIndex": 0,
                  "answers": ["Vanilla", "Chocolate", "Strawberry", "None of the above"]
                },
