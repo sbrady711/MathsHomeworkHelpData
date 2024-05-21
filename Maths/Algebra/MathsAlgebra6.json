@@ -163,7 +163,7 @@
                {
                  "id": 20,
                  "content": "Simplify: 2 × (-3) × (-4) × 5.",
-                 "correctIndex": 0,
+                 "correctIndex": 1,
                  "answers": ["-120", "120", "-60", "60"]
                },
              
@@ -171,7 +171,7 @@
                  "id": 21,
                  "content": "Which of the following is a perfect square?",
                  "correctIndex": 1,
-                 "answers": ["27", "36", "49", "50"]
+                 "answers": ["27", "36", "48", "50"]
                },
                {
                  "id": 22,
@@ -190,15 +190,15 @@
             
                {
                  "id": 24,
-                 "content": "What is the 8th Fibonacci number?",
+                 "content": "What is the 8th Fibonacci number? * Note research the Fibonacci method",
                  "correctIndex": 1,
                  "answers": ["13", "21", "34", "55"]
                },
                {
                  "id": 25,
-                 "content": "Which of the following is a triangular number?",
-                 "correctIndex": 3,
-                 "answers": ["8", "12", "18", "28"]
+                 "content": "Which of the following is a square number?",
+                 "correctIndex": 2,
+                 "answers": ["8", "12", "9", "28"]
                },
                {
                  "id": 26,
@@ -232,7 +232,7 @@
                  {
                    "id": 30,
                    "content": "Simplify: -3 × (-5) × 2 × (-4).",
-                   "correctIndex": 2,
+                   "correctIndex": 3,
                    "answers": ["60", "-60", "120", "-120"]
                  },
                
@@ -251,9 +251,9 @@
              
                  {
                    "id": 33,
-                   "content": "Which of the following numbers is a perfect cube?",
+                   "content": "Which of the following numbers is a perfect cube root(not square root)?",
                    "correctIndex": 2,
-                   "answers": ["64", "100", "27", "49"]
+                   "answers": ["63", "100", "27", "49"]
                  },
                  {
                    "id": 34,
@@ -283,7 +283,7 @@
              
                  {
                    "id": 38,
-                   "content": "What is the sum of the first 5 perfect squares?",
+                   "content": "What is the sum of the first 5 perfect squares numbers?",
                    "correctIndex": 2,
                    "answers": ["30", "40", "55", "65"]
                  },
@@ -388,7 +388,7 @@
                 
                     {
                       "id": 52,
-                      "content": "What is the 4th term in the geometric sequence: 2, 6, 18, 54, ...?",
+                      "content": "What is the 5th term in the geometric sequence: 2, 6, 18, 54, ...?",
                       "correctIndex": 3,
                       "answers": ["6", "18", "54", "162"]
                     },
