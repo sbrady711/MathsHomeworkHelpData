@@ -9,15 +9,15 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": "Sorting by Color, Shape, and Size",
-                            "topicContent": "Introduce the concept of sorting and classification. How objects can be grouped based on different attributes. Reinforce vocabulary related to attributes such as color, shape, and size.",
+                            "topicTitle": "Sorting by Colour, Shape, and Size",
+                            "topicContent": "Introduce the concept of sorting and classification. How objects can be grouped based on different attributes. Reinforce vocabulary related to attributes such as colour, shape, and size.",
                             "video": "https://api-files.sproutvideo.com/file/7090d0b61c19e2c3f9/220e2bdde408be19/1080.mp4"
                         },
                 
                 
                 {
                             "id": 1,
-                            "topicTitle": "Using Colored Blocks for Data Representation",
+                            "topicTitle": "Using Coloured Blocks for Data Representation",
                             "topicContent": "Data can be represented in different ways, but the information remains the same.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b61315e6c5c4/0539ad6c8d6bb01a/1080.mp4"
                         },
