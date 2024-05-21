@@ -5,7 +5,7 @@
 [
     {
         "id": 1,
-        "category": "Data",
+        "category": "Data and chance",
         "description": "Strand units: Representing and interpreting data",
       "content": {
           "id": 0,
@@ -14,7 +14,7 @@
                         {
                             "id": 0,
                             "topicTitle": "Creating a Two-Criteria Classification",
-                            "topicContent": "Extend sorting activities to involve two criteria. Classify objects based on attributes like shape and color. Create categories and placing objects in the appropriate groups.",
+                            "topicContent": "Extend sorting activities to involve two criteria. Classify objects based on attributes like shape and colour. Create categories and placing objects in the appropriate groups.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d0b71817e2c9c4/bcc8b175bcc545f1/1080.mp4"
                         },
                         {
