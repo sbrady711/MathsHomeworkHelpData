@@ -63,7 +63,7 @@
                  "id": 0,
                  "content": "You collected data about the favorite fruits of students. If 20 students chose apples, 15 chose bananas, and 10 chose oranges, how many students were surveyed?",
                  "correctIndex": 1,
-                 "answers": ["44", "45", "35", "25", "50"]
+                 "answers": ["44", "45", "35", "50"]
                },
                {
                  "id": 1,
@@ -171,7 +171,7 @@
                  "id": 18,
                  "content": "If you roll a number dice and toss a coin, how many equally likely outcomes are possible?",
                  "correctIndex": 3,
-                 "answers": ["7", "12", "6", "12"]
+                 "answers": ["7", "10", "6", "12"]
                },
                {
                  "id": 19,
@@ -181,7 +181,7 @@
                },
                {
                  "id": 20,
-                 "content": "You conducted a survey about students' favorite seasons. If 25 students chose summer, 15 chose fall, 20 chose winter, and 10 chose spring, what is the total number of students surveyed?",
+                 "content": "You conducted a survey about students' favorite seasons. If 25 students chose Summer, 15 chose Autumn, 20 chose Winter, and 10 chose Spring, what is the total number of students surveyed?",
                  "correctIndex": 2,
                  "answers": ["60", "50", "70", "80"]
                },
@@ -235,9 +235,9 @@
                },
                {
                  "id": 29,
-                 "content": "You flipped a coin and rolled a number cube. How many equally likely outcomes are possible?",
-                 "correctIndex": 0,
-                 "answers": ["12", "18", "6", "36"]
+                 "content": "You flipped two coins and rolled a number cube. How many equally likely outcomes are possible?",
+                 "correctIndex": 2,
+                 "answers": ["12", "18", "24", "36"]
                },
                {
                  "id": 30,
@@ -247,9 +247,9 @@
                },
                {
                  "id": 31,
-                 "content": "If you flip two coin and toss a fair number cube, what is the total number of equally likely outcomes?",
+                 "content": "If you flip two coins and toss two fair number cube, what is the total number of equally likely outcomes?",
                  "correctIndex": 3,
-                 "answers": ["12", "6", "36", "24"]
+                 "answers": ["12", "6", "136", "144"]
                },
                {
                  "id": 32,
