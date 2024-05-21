@@ -67,12 +67,12 @@
                      {
                        "id": 2,
                        "content": "If we start counting from 3, the first numnber and add 6 each time, which number will be the second number?",
-                       "correctIndex": 0,
+                       "correctIndex": 3,
                        "answers": [
                          "9",
                          "3",
                          "4",
-                         "8"
+                         "15"
                        ]
                      },
                      {
@@ -319,7 +319,7 @@
                        },
                        {
                          "id": 25,
-                         "content": "Can you create an equation with a frame for an unknown value using subtraction?",
+                         "content": "What equation has a frame for an unknown value using subtraction?",
                          "correctIndex": 3,
                          "answers": [
                            "No, equations can only have known values.",
