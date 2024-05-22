@@ -302,7 +302,7 @@
                       "id": 39,
                       "content": "A box of apples weighs 8 kilograms and a box of oranges weighs 5.75 kilograms. How much heavier is the box of apples?",
                       "correctIndex": 0,
-                      "answers": ["2.25 kilograms", "2250 grams", "8.75 kilograms", "12.75 kilograms"]
+                      "answers": ["2.25 kilograms", "22500 grams", "8.75 kilograms", "12.75 kilograms"]
                     },
                     {
                       "id": 40,
@@ -318,9 +318,9 @@
                     },
                     {
                       "id": 42,
-                      "content": "You have a bag of marbles that weighs 250 grams and a bag of sweets that weighs 0.3 kilograms. How much heavier is the bag of sweets?",
+                      "content": "You have a bag of marbles that weighs 150 grams and a bag of sweets that weighs 0.3 kilograms. How much heavier is the bag of sweets?",
                       "correctIndex": 2,
-                      "answers": ["150 grams", "500 grams", "50 grams", "700 grams"]
+                      "answers": ["150 grams", "500 grams", "150 grams", "700 grams"]
                     },
          
                     {
@@ -338,7 +338,7 @@
                     },
                     {
                       "id": 45,
-                      "content": "A triangle has a base of 12 centimeters and a height of 8 centimeters. What is its area?",
+                      "content": "A triangle has a base of 12 centimeters and a height of 8 centimeters. What is its area?(Area= 1/2 × Base × Height)",
                       "correctIndex": 0,
                       "answers": ["48 square centimeters", "6 square centimeters", "16 square centimeters", "24 square centimeters"]
                     },
