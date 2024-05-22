@@ -131,7 +131,7 @@
               },
               {
                 "id": 6,
-                "content": "Estimate the difference between 8,765 and 3,219 using front-end estimation.",
+                "content": "Estimate the difference between 8,765 and 3,219 using front-end estimation rounding.",
                 "correctIndex": 2,
                 "answers": ["5,100", "5,700", "5,500", "6,000"]
               },
@@ -234,9 +234,9 @@
               },
               {
                 "id": 23,
-                "content": "What is the value of 5 x 3?",
+                "content": "What is the value of 5 x 30?",
                 "correctIndex": 1,
-                "answers": ["25", "15", "125", "75"]
+                "answers": ["25", "150", "125", "75"]
               },
               {
                 "id": 24,
@@ -263,7 +263,7 @@
                 "id": 27,
                 "content": "Simplify: 3/4 × 5/6.",
                 "correctIndex": 3,
-                "answers": ["15/10", "8/9", "15/24", "5/8"]
+                "answers": ["15/10", "8/9", "15/23", "5/8"]
               },
               {
                 "id": 28,
@@ -331,12 +331,13 @@
                 "correctIndex": 0,
                 "answers": ["8", "10", "6", "12"]
               },
-              {
-                "id": 39,
-                "content": "If the ratio of boys to girls in a class is 3:4 and there are 27 students in total, how many girls are there?",
-                "correctIndex": 3,
-                "answers": ["9", "12", "18", "15"]
-              },
+            {  "id": 39,
+  "content": "If the ratio of boys to girls in a class is 3:4 and there are 24 students in total, how many girls are there?",
+  "correctIndex": 3,
+  "answers": ["6", "8", "12", "16"]
+},
+
+
               {
                 "id": 40,
                 "content": "Simplify: 2/5 + 3/10.",
@@ -365,7 +366,7 @@
                 "id": 44,
                 "content": "What is the product of 7 and 0.25?",
                 "correctIndex": 3,
-                "answers": ["1.75", "2.1", "1.5", "1.75"]
+                "answers": ["1.758", "2.1", "1.5", "1.75"]
               },
               {
                 "id": 45,
