@@ -151,7 +151,7 @@
                  "id": 14,
                  "content": "Which of the following coin combinations is equivalent to 50 cents?",
                  "correctIndex": 0,
-                 "answers": ["Two 20-cent coins and one 10-cent coin", "One 50-cent coin and two 5-cent coins", "One 1-euro coin", "Five 10-cent coins"]
+                 "answers": ["Two 20-cent coins and one 10-cent coin", "One 50-cent coin and two 5-cent coins", "One 1-euro coin", "Five 10-cent coins and 1c"]
                },
                {
                  "id": 15,
@@ -179,7 +179,7 @@
                },
                {
                  "id": 19,
-                 "content": "Which of the following activities would take the least amount of time: Reading a short story, Watching a 2-hour movie, Taking a 30-minute nap, Playing a 1-hour game?",
+                 "content": "Which of the following activities would take the least amount of time: Reading a short story for 45 minutes, Watching a 2-hour movie, Taking a 30-minute nap, Playing a 1-hour game?",
                  "correctIndex": 2,
                  "answers": ["Reading a short story", "Watching a 2-hour movie", "Taking a 30-minute nap", "Playing a 1-hour game"]
                },
