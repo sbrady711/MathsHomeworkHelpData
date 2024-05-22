@@ -104,19 +104,19 @@
                },
                {
                  "id": 10,
-                 "content": "What is the number of faces, edges, and vertices in a triangular pyramid?",
-                 "correctIndex": 0,
-                 "answers": ["Four faces, six edges, four vertices", "Five faces, eight edges, six vertices", "Three faces, five edges, three vertices", "Six faces, twelve edges, eight vertices"]
+                 "content": "What is the number of faces, edges, and vertices in a hexagonal pyramid?",
+                 "correctIndex": 4,
+                 "answers": ["Four faces, six edges, four vertices", "Five faces, eight edges, six vertices", "Three faces, five edges, three vertices", "Seven faces, twelve edges, seven vertices"]
                },
                {
                  "id": 11,
-                 "content": "Which 3-D shape has one circular base and a curved surface?",
-                 "correctIndex": 0,
+                 "content": "Which 3-D shape has one curved surface?",
+                 "correctIndex": 2,
                  "answers": ["Cone", "Cube", "Sphere", "Cylinder"]
                },
                {
                  "id": 12,
-                 "content": "How many parallel circular bases does a cylinder have?",
+                 "content": "How many parallel square bases does a cuboid have?",
                  "correctIndex": 1,
                  "answers": ["One", "Two", "Three", "Four"]
                },
@@ -144,7 +144,7 @@
                  "id": 16,
                  "content": "If a triangle has sides of lengths 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
                  "correctIndex": 2,
-                 "answers": ["Equilateral", "Isosceles", "Right", "Scalene"]
+                 "answers": ["Equilateral", "Isosceles", "Right-angle", "Scalene"]
                }
               
           ]
