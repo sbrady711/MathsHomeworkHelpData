@@ -42,7 +42,7 @@
               },
               {
                 "id": 1,
-                "content": "What is the name for 3-D shapes with polygonal base and triangular sides meeting at a vertex?",
+                "content": "What is the name for 3-D shapes with polygonal base and triangular sides meeting at a vertex/apex?",
                 "correctIndex": 2,
                 "answers": ["Cuboids", "Spheres", "Pyramids", "Cylinders"]
               },
@@ -62,7 +62,7 @@
                 "id": 4,
                 "content": "What is the relationship between a cube and a cuboid?",
                 "correctIndex": 1,
-                "answers": ["They are the same shape", "A cube and cuboid have the same amount ogf vertices and faces", "A cuboid is a special type of cube", "They have no relationship"]
+                "answers": ["They are the same shape", "A cube and cuboid have the same amount of vertices and faces", "A cuboid is a special type of cube", "They have no relationship"]
               },
           
               {
@@ -76,7 +76,7 @@
                 "id": 6,
                 "content": "How can 3-D shapes be sorted?",
                 "correctIndex": 0,
-                "answers": ["Based on shared attributes like faces and vertices", "By color and size", "Randomly", "By weight and texture"]
+                "answers": ["Based on shared attributes like faces and vertices", "By colour and size", "Randomly", "By weight and texture"]
               },
               {
                 "id": 7,
@@ -86,9 +86,9 @@
               },
               {
                 "id": 8,
-                "content": "What type of 3-D shape has triangular bases and rectangular sides?",
+                "content": "What type of 3-D shape has Hexagonal bases and rectangular sides?",
                 "correctIndex": 0,
-                "answers": ["Triangular prism", "Cylinder", "Pyramid", "Cube"]
+                "answers": ["Hexagonal prism", "Cylinder", "Pyramid", "Cube"]
               },
               {
                 "id": 9,
@@ -98,15 +98,15 @@
               },
               {
                 "id": 10,
-                "content": "What term describes 3-D shapes with perfectly round surfaces and no corners or edges?",
-                "correctIndex": 2,
+                "content": "What term describes 3-D shapes with polygon bases and rectangular faces?",
+                "correctIndex": 1,
                 "answers": ["Cylinders", "Prisms", "Spheres", "Pyramids"]
               },
               {
                 "id": 11,
-                "content": "What type of 3-D shape has circular bases and curved sides?",
-                "correctIndex": 0,
-                "answers": ["Cylinder", "Cuboid", "Sphere", "Pyramid"]
+                "content": "What type of 3-D shape has a circular base and curved side",
+                "correctIndex": 2,
+                "answers": ["Cylinder", "Cuboid", "Cone", "Pyramid"]
               },
               {
                 "id": 12,
