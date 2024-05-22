@@ -144,7 +144,7 @@
               },
               {
                 "id": 10,
-                "content": "If you fold a shape in half, what do you get?",
+                "content": "If you fold a shape thatbhas been halved in half again, what do you get?",
                 "correctIndex": 1,
                 "answers": ["A new shape", "A quarter", "A larger shape", "A smaller shape"]
               },
@@ -170,7 +170,7 @@
                 "id": 14,
                 "content": "What do we call designs that repeat in a pattern?",
                 "correctIndex": 2,
-                "answers": ["Symbols", "Words", "Symmetry", "Numbers"]
+                "answers": ["Symbols", "Words", "Tessalation", "Numbers"]
               },
               {
                 "id": 15,
@@ -204,7 +204,7 @@
               },
               {
                 "id": 20,
-                "content": "What shape has four sides and only one pair of parallel sides?",
+                "content": "What shape has four sides that are not all equal in length?",
                 "correctIndex": 3,
                 "answers": ["Triangle", "Square", "Trapezoid", "Rectangle"]
               },
@@ -252,7 +252,7 @@
               },
               {
                 "id": 28,
-                "content": "Which of these three shapes has a curved surface? ",
+                "content": "Which of these three shapes has one whole curved surface? ",
                 "correctIndex": 1,
                 "answers": ["Cone", "Sphere", "Pyramid", "Cylinder"]
               },
@@ -280,12 +280,12 @@
                 "correctIndex": 1,
                 "answers": ["Cone", "Pyramid", "Sphere", "Cylinder"]
               },
-              {
-                "id": 33,
-                "content": "What is the name of a three-dimensional shape with a triangular base and three rectangular faces?",
-                "correctIndex": 1,
-                "answers": ["Cone", "Pyramid", "Sphere", "Cylinder"]
-              }
+             {  "id": 33,
+  "content": "What is the name of a three-dimensional shape with two triangular bases and three rectangular faces?",
+  "correctIndex": 1,
+  "answers": ["Cone", "Triangular Prism", "Sphere", "Cylinder"]
+}
+
               
               
           ]
