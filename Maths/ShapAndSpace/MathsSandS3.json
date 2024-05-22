@@ -136,7 +136,7 @@
                {
                  "id": 14,
                  "content": "What shape is described as a quadrilateral?",
-                 "correctIndex": 0,
+                 "correctIndex": 1,
                  "answers": ["Circle", "Rectangle", "Triangle", "Hexagon"]
                },
                {
