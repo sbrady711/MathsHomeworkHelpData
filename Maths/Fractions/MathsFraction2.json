@@ -74,7 +74,7 @@
                  },
                  {
                    "id": 3,
-                   "content": "What fraction of a day is represented by the time from morning to noon?",
+                   "content": "What fraction of a day is represented by the time from morning(12:00 am) to noon?",
                    "correctIndex": 1,
                    "answers": [
                      "1/3",
@@ -102,7 +102,7 @@
                      "2/3",
                      "1/3",
                      "1/4",
-                     "1/5"
+                     "2/5"
                    ]
                  },
                  {
@@ -118,7 +118,7 @@
                  },
                  {
                    "id": 7,
-                   "content": "Which fraction represents a larger part of a whole: 3/4 or 2/3?",
+                   "content": "Which fraction is the largest: 3/4 or 2/3?",
                    "correctIndex": 3,
                    "answers": [
                      "1/4",
@@ -239,7 +239,7 @@
                  },
                  {
                    "id": 18,
-                   "content": "If you have a group of flowers and 1 out of 5 flowers is yellow, what fraction of the flowers is yellow?",
+                   "content": "If you have a group of flowers and 1 out of 5 flowers is yellow, what fraction of the flowers are yellow?",
                    "correctIndex": 0,
                    "answers": [
                      "1/5",
@@ -583,7 +583,7 @@
                       "content": "What fraction of a rectangle is shaded if 9 out of 27 equal parts are shaded?",
                       "correctIndex": 1,
                       "answers": [
-                        "9/27",
+                        "09/27",
                         "1/3",
                         "1/4",
                         "1/5"
