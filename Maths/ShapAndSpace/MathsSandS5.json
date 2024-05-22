@@ -70,7 +70,7 @@
                  "id": 3,
                  "content": "What defines a rhombus?",
                  "correctIndex": 3,
-                 "answers": ["Four right angles", "Four sides of equal length", "Two pairs of adjacent sides of equal length", "All sides of equal length"]
+                 "answers": ["Four right angles", "Four sides of equal length", "Two pairs of adjacent sides of equal length", "All sides of equal length with different angles"]
                },
                {
                  "id": 4,
@@ -124,8 +124,8 @@
                },
                {
                  "id": 12,
-                 "content": "How many sides does a heptagon have?",
-                 "correctIndex": 0,
+                 "content": "How many sides does a octagon have?",
+                 "correctIndex": 2,
                  "answers": ["Seven", "Six", "Eight", "Five"]
                },
                {
@@ -133,20 +133,8 @@
                  "content": "What do lines of symmetry help with in shape classification?",
                  "correctIndex": 1,
                  "answers": ["Identifying the number of sides", "Determining if a shape is symmetrical", "Counting the vertices", "Measuring the angles"]
-               },
-        
-               {
-                 "id": 14,
-                 "content": "What are protractors used for in geometry?",
-                 "correctIndex": 1,
-                 "answers": ["Drawing straight lines", "Measuring angles", "Constructing polygons", "Finding the area of shapes"]
-               },
-               {
-                 "id": 15,
-                 "content": "In a trapezium, how many pairs of parallel sides are there?",
-                 "correctIndex": 0,
-                 "answers": ["One", "Two", "Three", "None"]
                }
+        
               
               
               
