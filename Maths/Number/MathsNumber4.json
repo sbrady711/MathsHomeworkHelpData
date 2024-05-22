@@ -65,7 +65,7 @@
               {
                  "id": 0,
                  "content": "What is the value of the digit in the tens place in the number 763?",
-                 "correctIndex": 1,
+                 "correctIndex": 3,
                  "answers": ["7", "6", "3", "60"]
                },
                {
