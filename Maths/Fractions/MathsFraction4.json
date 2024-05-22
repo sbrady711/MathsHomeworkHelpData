@@ -89,7 +89,7 @@
                     {
                       "id": 4,
                       "content": "Which fraction is smaller: 7/10 or 6/9?",
-                      "correctIndex": 1,
+                      "correctIndex": 0,
                       "answers": [
                         "6/9",
                         "7/10",
@@ -353,7 +353,7 @@
                      {
                        "id": 28,
                        "content": "What fraction is smaller: 13/15 or 11/13?",
-                       "correctIndex": 1,
+                       "correctIndex": 0,
                        "answers": [
                          "11/13",
                          "13/15",
@@ -419,7 +419,7 @@
                      {
                        "id": 34,
                        "content": "Which fraction is smaller: 23/30 or 19/25?",
-                       "correctIndex": 1,
+                       "correctIndex": 0,
                        "answers": [
                          "19/25",
                          "23/30",
@@ -562,7 +562,7 @@
                       {
                         "id": 47,
                         "content": "What fraction is smaller: 27/30 or 22/25?",
-                        "correctIndex": 0,
+                        "correctIndex": 1,
                         "answers": [
                           "27/30",
                           "22/25",
