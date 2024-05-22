@@ -72,7 +72,7 @@
                    {
                      "id": 2,
                      "content": "Arrange the following fractions in ascending order: 3/4, 5/8, 1/2, 2/3.",
-                     "correctIndex": 2,
+                     "correctIndex": 0,
                      "answers": [
                        "1/2, 5/8, 2/3, 3/4",
                        "3/4, 2/3, 1/2, 5/8",
@@ -258,7 +258,7 @@
                    },
                    {
                      "id": 19,
-                     "content": "Which fractions are between 1/2 and 3/4 on the number line? Select all that apply.",
+                     "content": "Which fraction is between 1/2 and 3/4 on the number line?",
                      "correctIndex": 2,
                      "answers": [
                        "1/4",
@@ -298,7 +298,7 @@
                      "correctIndex": 1,
                      "answers": [
                        "2/5, 3/7, 5/12, 4/9",
-                       "3/7, 2/5, 5/12, 4/9",
+                       "2/5, 5/12, 3/7, 4/9",
                        "5/12, 4/9, 2/5, 3/7",
                        "3/7, 5/12, 2/5, 4/9"
                      ]
@@ -309,7 +309,7 @@
                      "correctIndex": 3,
                      "answers": [
                        "5/3",
-                       "17/5",
+                       "5/17",
                        "3 5/2",
                        "17/5"
                      ]
@@ -394,7 +394,7 @@
                    {
                      "id": 31,
                      "content": "Which fraction is greater: 7/8 or 5/6?",
-                     "correctIndex": 1,
+                     "correctIndex": 0,
                      "answers": [
                        "7/8",
                        "5/6",
@@ -521,7 +521,7 @@
                         "4/7, 3/5, 5/9, 7/12",
                         "3/5, 4/7, 5/9, 7/12",
                         "7/12, 5/9, 4/7, 3/5",
-                        "5/9, 4/7, 3/5, 7/12"
+                        "5/9, 4/7, 7/12, 3/5"
                       ]
                     },
                     {
@@ -672,7 +672,7 @@
                       "content": "Arrange the fractions from least to greatest: 6/11, 3/7, 4/9, 5/8.",
                       "correctIndex": 0,
                       "answers": [
-                        "3/7, 4/9, 5/8, 6/11",
+                        "3/7, 4/9, 6/11, 5/8",
                         "4/9, 3/7, 5/8, 6/11",
                         "6/11, 5/8, 4/9, 3/7",
                         "5/8, 4/9, 3/7, 6/11"
