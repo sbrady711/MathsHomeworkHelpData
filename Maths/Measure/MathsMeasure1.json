@@ -210,7 +210,7 @@
                 {
                   "id": 20,
                   "content": "Which of the following is the longest measurement?",
-                  "correctIndex": 2,
+                  "correctIndex": 3,
                   "answers": ["1 centimeter", "10 millimeters", "5 centimeters", "150 millimeters"]
                 },
                 {
@@ -259,7 +259,7 @@
                   "id": 28,
                   "content": "Which of the following is lighter?",
                   "correctIndex": 2,
-                  "answers": ["200 grams", "0.2 kilograms", "They weigh the same", "Not enough information"]
+                  "answers": ["200 grams", "0.2 kilograms", "They all weigh the same", "Not enough information"]
                 },
                 {
                   "id": 29,
