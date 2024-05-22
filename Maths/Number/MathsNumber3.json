@@ -577,7 +577,7 @@
                                       {
                                          "id": 46,
                                          "content": "What is the sum of the first 4 multiples of 3?",
-                                         "correctIndex": 2,
+                                         "correctIndex": 3,
                                          "answers": [
                                             "15",
                                             "20",
