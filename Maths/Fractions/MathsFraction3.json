@@ -164,7 +164,7 @@
                      {
                        "id": 9,
                        "content": "Which fraction is smaller: 7/15 or 6/14?",
-                       "correctIndex": 0,
+                       "correctIndex": 1,
                        "answers": [
                          "7/15",
                          "6/14",
@@ -466,7 +466,7 @@
                            "5/40",
                            "8/4",
                            "2/10",
-                           "4/20"
+                           "40/20"
                          ]
                        },
                        {
@@ -550,7 +550,7 @@
                        {
                          "id": 44,
                          "content": "Which fraction is greater: 7/10 or 6/9?",
-                         "correctIndex": 1,
+                         "correctIndex": 0,
                          "answers": [
                            "7/10",
                            "6/9",
@@ -594,7 +594,7 @@
                        {
                          "id": 48,
                          "content": "What fraction is smaller: 9/13 or 7/12?",
-                         "correctIndex": 0,
+                         "correctIndex": 1,
                          "answers": [
                            "9/13",
                            "7/12",
