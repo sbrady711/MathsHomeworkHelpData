@@ -72,9 +72,9 @@
                },
                {
                  "id": 2,
-                 "content": "If a container holds 750 milliliters of juice and another container holds 0.75 liters of juice, which container can hold more juice?",
-                 "correctIndex": 1,
-                 "answers": ["The container with 750 milliliters", "both hold the same amount", "The container with 1 liter", "The container with 0.5 liters"]
+                 "content": "If a container holds 7500 milliliters of juice and another container holds 0.75 liters of juice, which container can hold more juice?",
+                 "correctIndex": 0,
+                 "answers": ["The container with 7500 milliliters", "both hold the same amount", "The container with 1 liter", "The container with 0.75 liters"]
                },
                {
                  "id": 3,
@@ -132,21 +132,21 @@
                 },
                 {
                   "id": 12,
-                  "content": "If a book weighs 800 grams and a toy weighs 250 grams, how much do they weigh together?",
-                  "correctIndex": 2,
-                  "answers": ["550 grams", "650 grams", "1050 grams", "105 grams"]
+                  "content": "If a book weighs 800 grams and a toy weighs 150 grams, how much do they weigh together?",
+                  "correctIndex": 0,
+                  "answers": ["950 grams", "650 grams", "1050 grams", "105 grams"]
                 },
                 {
                   "id": 13,
-                  "content": "If it takes 20 minutes to walk to school and 15 minutes to walk back home, how long does the round trip take?",
+                  "content": "If it takes 20 minutes to walk to school and 25 minutes to walk back home, how long does the round trip take?",
                   "correctIndex": 3,
-                  "answers": ["50 minutes", "5 minutes", "30 minutes", "35 minutes"]
+                  "answers": ["50 minutes", "5 minutes", "40 minutes", "45 minutes"]
                 },
                 {
                   "id": 14,
-                  "content": "Which of the following is heavier: a bag of apples that weighs 1 kilogram or a bag of oranges that weighs 800 grams?",
-                  "correctIndex": 0,
-                  "answers": ["A bag of apples (1 kilogram)", "A bag of oranges (800 grams)", "They weigh the same", "Cannot be determined"]
+                  "content": "Which of the following is heavier: a bag of apples that weighs 1 kilogram or a bag of oranges that weighs 1800 grams?",
+                  "correctIndex": 1,
+                  "answers": ["A bag of apples (1 kilogram)", "A bag of oranges (1800 grams)", "They weigh the same", "Cannot be determined"]
                 },
                 {
                   "id": 15,
