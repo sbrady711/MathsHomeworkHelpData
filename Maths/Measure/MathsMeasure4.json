@@ -119,11 +119,11 @@
                 "id": 8,
                 "content": "If a movie starts at 4:30 PM and lasts for 1 hour and 45 minutes, at what time does the movie end?",
                 "correctIndex": 2,
-                "answers": ["5:15 PM", "6:10 PM", "6:15 AM", "5:45 PM"]
+                "answers": ["5:15 PM", "6:10 PM", "6:15 PM", "5:45 PM"]
               },
               {
                 "id": 9,
-                "content": "You have €15 in coins: 5 coins of €2 each and 3 coins of €1 each. How much worth of   50 cents do you have?",
+                "content": "You have €15 in coins: 5 coins of €2 each and 3 coins of €1 each. How much worth of 50 cents do you have?",
                 "correctIndex": 1,
                 "answers": ["€1", "€2", "€3", "€4"]
               },
@@ -253,7 +253,7 @@
                   "id": 30,
                   "content": "You have a pencil that is 18 centimeters long and another pencil that is 14 centimeters long. How much longer is the first pencil?",
                   "correctIndex": 2,
-                  "answers": ["40 centimeters", "32 centimeters", "400 millimeters", "32 millimeters"]
+                  "answers": ["40 centimeters", "32 centimeters", "40 millimeters", "32 millimeters"]
                 },
                 {
                   "id": 31,
@@ -275,9 +275,9 @@
                 },
                 {
                   "id": 34,
-                  "content": "You buy a toy for €12.50 and a book for €8.70. How much money have you spent in total?",
-                  "correctIndex": 2,
-                  "answers": ["€1.25", "€21.20", "€21.20", "€21.15"]
+                  "content": "You buy a toy for €12.50 and a book for €10.70. How much money have you spent in total?",
+                  "correctIndex": 1,
+                  "answers": ["€1.25", "€23.20", "€21.20", "€21.15"]
                 },
                 {
                   "id": 35,
@@ -323,7 +323,7 @@
                 },
                 {
                   "id": 42,
-                  "content": "A triangle has a base of 12 centimeters and a height of 10 centimeters. What is its area?",
+                  "content": "A triangle has a base of 12 centimeters and a height of 10 centimeters. What is its area?(Area= 1/2 × Base × Height)",
                   "correctIndex": 3,
                   "answers": ["80 square centimeters", "48 square centimeters", "40 square centimeters", "60 square centimeters"]
                 },
