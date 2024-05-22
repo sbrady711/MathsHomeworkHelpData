@@ -427,7 +427,7 @@
                 },
                 {
                     "id": 29,
-                    "content": "What is the place value of the digit '7' in the number 376?",
+                    "content": "What is the place value of the digit '7' in the number 76?",
                     "correctIndex": 0,
                     "answers": [
                         "70",
@@ -453,14 +453,14 @@
                     "correctIndex": 1,
                     "answers": [
                         "Breaking down numbers",
-                        "Carrying over extra units to the next place value",
+                        "Carrying over extra units to the next place value (ten)",
                         "Combining numbers",
                         "Subtracting numbers"
                     ]
                 },
                 {
                     "id": 32,
-                    "content": "What is the value of the tens digit in the number 578?",
+                    "content": "What is the value of the tens digit in the number 78?",
                     "correctIndex": 2,
                     "answers": [
                         "7",
@@ -515,13 +515,13 @@
                 },
                 {
                     "id": 37,
-                    "content": "What is the result of 545 - 128?",
+                    "content": "What is the result of 45 - 28?",
                     "correctIndex": 2,
                     "answers": [
-                        "317",
-                        "429",
-                        "417",
-                        "429"
+                        "37",
+                        "49",
+                        "17",
+                        "42"
                     ]
                 },
                 
