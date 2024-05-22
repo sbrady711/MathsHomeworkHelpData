@@ -200,7 +200,7 @@
                 "id": 18,
                 "content": "You have a map with a scale of 1:25000 meteres. If a river on the map is shown as 50 centimeters, what is its actual length in meters?",
                 "correctIndex": 0,
-                "answers": ["125,000 meters", "20 meters", "5000 meters", "25 meters"]
+                "answers": ["12,500 meters", "20 meters", "5000 meters", "25 meters"]
               },
            
               {
@@ -265,7 +265,7 @@
               },
               {
                 "id": 28,
-                "content": "You have a triangular garden with a base of 10 meters and a height of 8 meters. What is its area in square meters?",
+                "content": "You have a triangular garden with a base of 10 meters and a height of 8 meters. What is its area in square meters?(Area = 1/2 x Base x height)",
                 "correctIndex": 1,
                 "answers": ["45 square meters", "40 square meters", "20 square meters", "30 square meters"]
               },
